@@ -14,7 +14,6 @@
 
 ### DaMichel's AeroRadial (DAR)
 ![](https://img.shields.io/github/v/release/zer0Kerbal/AeroRadial?include_prereleases?style=plastic)
-![](https://img.shields.io/github/workflow/status/zer0Kerbal/AeroRadial/KSP-AVC?style=plastic)
 ![](https://github.com/zer0Kerbal/Komplexity/actions/workflows/AVC-VersionFileValidator.yml/badge.svg?branch=main "https://github.com/zer0Kerbal/Komplexity/actions/workflows/AVC-VersionFileValidator.yml" )
 ![](https://img.shields.io/github/repo-size/zer0Kerbal/AeroRadial?style=plastic)
 ![](https://img.shields.io/github/directory-file-count/zer0Kerbal/AeroRadial/)
@@ -27,20 +26,18 @@
 ***  
 ### ODFCr (ODFC)
 ![](https://img.shields.io/github/v/release/zer0Kerbal/ODFCr?include_prereleases?style=plastic)
-![](https://img.shields.io/github/workflow/status/zer0Kerbal/ODFCr/KSP-AVC?style=plastic)
 ![](https://github.com/zer0Kerbal/Komplexity/actions/workflows/AVC-VersionFileValidator.yml/badge.svg?branch=main "https://github.com/zer0Kerbal/Komplexity/actions/workflows/AVC-VersionFileValidator.yml" )
 ![](https://img.shields.io/github/repo-size/zer0Kerbal/ODFCr?style=plastic)
-![](https://img.shields.io/github/directory-file-count/zer0Kerbal/ODFCr?style=plastic)
+![](https://img.shields.io/github/directory-file-count/zer0Kerbal/Biomatic?style=plastic)
 ![](https://img.shields.io/github/downloads/zer0Kerbal/ODFCr/total?style=plastic)
 ![](http://img.shields.io/github/labels/zer0Kerbal/ODFCr/help-wanted?style=plastic)
 ![](https://img.shields.io/github/contributors/zer0kerbal/ODFCr?style=plastic)
-![](https://img.shields.io/github/release-date/zer0kerbal/ODFCr?style=plastic)
-![](https://img.shields.io/github/release-date-pre/zer0kerbal/ODFCr?style=plastic)
+![release](https://img.shields.io/github/release-date/zer0kerbal/ODFCr?style=plastic)
+![prerelease](https://img.shields.io/github/release-date-pre/zer0kerbal/ODFCr?style=plastic)
 *** 
 
 ### Biomatic (BIO)
 ![](https://img.shields.io/github/v/release/zer0Kerbal/Biomatic?include_prereleases?style=plastic)
-![](https://img.shields.io/github/workflow/status/zer0Kerbal/Biomatic/KSP-AVC?style=plastic)
 ![](https://github.com/zer0Kerbal/Komplexity/actions/workflows/AVC-VersionFileValidator.yml/badge.svg?branch=main "https://github.com/zer0Kerbal/Komplexity/actions/workflows/AVC-VersionFileValidator.yml" )
 ![](https://img.shields.io/github/repo-size/zer0Kerbal/Biomatic?style=plastic)
 ![](https://img.shields.io/github/directory-file-count/zer0Kerbal/Biomatic?style=plastic)
