@@ -11,6 +11,12 @@
 ***  
 
 ![GitHub Sponsors](https://img.shields.io/github/sponsors/zer0Kerbal?color=purple&label=Github%20Sponsors&style=social)  
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zer0Kerbal)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zer0Kerbal&show_icons=true&theme=radical)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zer0Kerbal&repo=AeroRadial)](https://github.com/zer0Kerbal/AeroRadial) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zer0Kerbal&repo=Fuselage)](https://github.com/zer0Kerbal/Fuselage) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zer0Kerbal&repo=SphericalTanks)](https://github.com/zer0Kerbal/SphericalTanks) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zer0Kerbal&repo=Cargobays&show_owner=true)](https://github.com/zer0Kerbal/CargoBays)  
+
+
 
 ### DaMichel's AeroRadial (DAR)
 ![](https://img.shields.io/github/v/release/zer0Kerbal/AeroRadial?include_prereleases?style=plastic)
