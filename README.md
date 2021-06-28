@@ -13,10 +13,18 @@
 ![GitHub Sponsors](https://img.shields.io/github/sponsors/zer0Kerbal?color=purple&label=Github%20Sponsors&style=social)  
 ***  
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zer0Kerbal)](https://github.com/anuraghazra/github-readme-stats)
+<!--- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zer0Kerbal)](https://github.com/anuraghazra/github-readme-stats) -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zer0Kerbal&show_icons=true&theme=radical)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zer0Kerbal&repo=AeroRadial)](https://github.com/zer0Kerbal/AeroRadial) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zer0Kerbal&repo=Fuselage)](https://github.com/zer0Kerbal/Fuselage) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zer0Kerbal&repo=SphericalTanks)](https://github.com/zer0Kerbal/SphericalTanks) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zer0Kerbal&repo=Cargobays&show_owner=true)](https://github.com/zer0Kerbal/CargoBays)  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zer0Kerbal&repo=AeroRadial)](https://github.com/zer0Kerbal/AeroRadial) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zer0Kerbal&repo=Fuselage)](https://github.com/zer0Kerbal/Fuselage) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zer0Kerbal&repo=SphericalTanks)](https://github.com/zer0Kerbal/SphericalTanks) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zer0Kerbal&repo=Cargobays)](https://github.com/zer0Kerbal/CargoBays)  
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zer0Kerbal&repo=SimpleConstruction)](https://github.com/zer0Kerbal/SimpleConstruction)  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zer0Kerbal&repo=SimpleLife)](https://github.com/zer0Kerbal/SimpleLife)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zer0Kerbal&repo=Pteron)](https://github.com/zer0Kerbal/Pteron)  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zer0Kerbal&repo=Dreamer)](https://github.com/zer0Kerbal/Dreamer)  
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zer0Kerbal&repo=SimpleCargo)](https://github.com/zer0Kerbal/SimpleCargo) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zer0Kerbal&repo=Whimchaser)](https://github.com/zer0Kerbal/WhimChaser)  
+
+
 
 
 
