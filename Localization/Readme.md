@@ -13,7 +13,7 @@
 [![Norsk][NO]][NO] [Norsk][NO]  
 [![Polski][PO]][PO] [Polski][PO]  
 [![Русский][RU]][RU] [Русский][RU]  
-[![Svenska][SW][SW]][SW] [Svenska][SW]  
+[![Svenska][SW]][SW] [Svenska][SW]  
 [![国语][TW]][TW] [国语][TW]  
 [![ʻŌlelo Pākē][HA]][HA] [ʻŌlelo Pākē][HA]  
 
