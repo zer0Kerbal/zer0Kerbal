@@ -9,13 +9,13 @@
 - 📫 How to reach me: forums or mod discussions.
 - ⚡ Fun fact: I have no sense of humor. :P
 ***  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zer0kerbal&layout=compact&hide_border=true&bg_color=ffffff&langs_count=10">
+
   
 
 ***  
 
 <!--- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zer0Kerbal)](https://github.com/anuraghazra/github-readme-stats) -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zer0Kerbal&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zer0Kerbal&show_icons=true&theme=radical) <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zer0kerbal&layout=compact&hide_border=true&bg_color=ffffff&langs_count=10">  
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zer0Kerbal&repo=AeroRadial)](https://github.com/zer0Kerbal/AeroRadial) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zer0Kerbal&repo=Fuselage)](https://github.com/zer0Kerbal/Fuselage) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zer0Kerbal&repo=SphericalTanks)](https://github.com/zer0Kerbal/SphericalTanks) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zer0Kerbal&repo=Cargobays)](https://github.com/zer0Kerbal/CargoBays)  
 
