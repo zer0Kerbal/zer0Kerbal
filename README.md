@@ -9,7 +9,7 @@
 - 📫 How to reach me: forums or mod discussions.
 - ⚡ Fun fact: I have no sense of humor. :P
 ***  
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zer0kerbal&layout=compact&hide_border=true&bg_color=ffffff&langs_count=10">
 ![GitHub Sponsors](https://img.shields.io/github/sponsors/zer0Kerbal?color=purple&label=Github%20Sponsors&style=social)  
 ***  
 
@@ -22,23 +22,12 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zer0Kerbal&repo=Pteron)](https://github.com/zer0Kerbal/Pteron)  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zer0Kerbal&repo=Dreamer)](https://github.com/zer0Kerbal/Dreamer)  
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zer0Kerbal&repo=SimpleCargo)](https://github.com/zer0Kerbal/SimpleCargo) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zer0Kerbal&repo=Whimchaser)](https://github.com/zer0Kerbal/WhimChaser)   
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zer0Kerbal&repo=SimpleCargoSolutions)](https://github.com/zer0Kerbal/SimpleCargoSolutions) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zer0Kerbal&repo=Whimchaser)](https://github.com/zer0Kerbal/WhimChaser)   
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zer0Kerbal&repo=MKII-L)](https://github.com/zer0Kerbal/MKII-L) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zer0Kerbal&repo=MK2Y)](https://github.com/zer0Kerbal/MK2Y)
 
 
 
-
-### DaMichel's AeroRadial (DAR)
-![](https://img.shields.io/github/v/release/zer0Kerbal/AeroRadial?include_prereleases?style=plastic)
-![](https://github.com/zer0Kerbal/Komplexity/actions/workflows/AVC-VersionFileValidator.yml/badge.svg?branch=main "https://github.com/zer0Kerbal/Komplexity/actions/workflows/AVC-VersionFileValidator.yml" )
-![](https://img.shields.io/github/repo-size/zer0Kerbal/AeroRadial?style=plastic)
-![](https://img.shields.io/github/directory-file-count/zer0Kerbal/AeroRadial/)
-![](https://img.shields.io/github/downloads/zer0Kerbal/AeroRadial/total)
-![](http://img.shields.io/github/labels/zer0Kerbal/AeroRadial/help-wanted/)
-![](https://img.shields.io/github/contributors/zer0kerbal/AeroRadial?style=plastic)
-![](https://img.shields.io/github/release-date/zer0kerbal/AeroRadial?style=plastic)
-![](https://img.shields.io/github/release-date-pre/zer0kerbal/AeroRadial?style=plastic)
 
 ***  
 ### ODFCr (ODFC)
@@ -64,7 +53,7 @@
 ![](https://img.shields.io/github/release-date/zer0kerbal/Biomatic?style=plastic)
 ![](https://img.shields.io/github/release-date-pre/zer0kerbal/Biomatic?style=plastic)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zer0kerbal&layout=compact&hide_border=true&bg_color=ffffff&langs_count=10">
+
 
 <!--
 **zer0Kerbal/zer0Kerbal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
