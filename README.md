@@ -55,9 +55,9 @@
 ![](https://img.shields.io/github/release-date-pre/zer0kerbal/Biomatic?style=plastic)
 
 ### JackOLantern
-[![.github/workflows/greetings.yml](https://github.com/zer0Kerbal/JackOLantern/actions/workflows/greetings.yml/badge.svg)](https://github.com/zer0Kerbal/JackOLantern/actions/workflows/greetings.yml)
+[![.github/workflows/greetings.yml](https://github.com/zer0Kerbal/JackOLantern/actions/workflows/greetings.yml/badge.svg)](https://github.com/zer0Kerbal/JackOLantern/actions/workflows/greetings.yml) ![](https://github.com/zer0Kerbal/JackOLantern/actions/workflows/AVC-VersionFileValidator.yml/badge.svg?branch=main 
 ### Halloween
-[![.github/workflows/greetings.yml](https://github.com/zer0Kerbal/Halloween/actions/workflows/greetings.yml/badge.svg)](https://github.com/zer0Kerbal/Halloween/actions/workflows/greetings.yml)
+[![.github/workflows/greetings.yml](https://github.com/zer0Kerbal/Halloween/actions/workflows/greetings.yml/badge.svg)](https://github.com/zer0Kerbal/Halloween/actions/workflows/greetings.yml) ![](https://github.com/zer0Kerbal/Halloween/actions/workflows/AVC-VersionFileValidator.yml/badge.svg?branch=main 
 
 <!--
 **zer0Kerbal/zer0Kerbal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
