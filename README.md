@@ -55,9 +55,13 @@
 ![](https://img.shields.io/github/release-date-pre/zer0kerbal/Biomatic?style=plastic)
 
 ### JackOLantern
-[![.github/workflows/greetings.yml](https://github.com/zer0Kerbal/JackOLantern/actions/workflows/greetings.yml/badge.svg)](https://github.com/zer0Kerbal/JackOLantern/actions/workflows/greetings.yml) ![](https://github.com/zer0Kerbal/JackOLantern/actions/workflows/AVC-VersionFileValidator.yml/badge.svg?branch=main 
-### Halloween
-[![.github/workflows/greetings.yml](https://github.com/zer0Kerbal/Halloween/actions/workflows/greetings.yml/badge.svg)](https://github.com/zer0Kerbal/Halloween/actions/workflows/greetings.yml) ![](https://github.com/zer0Kerbal/Halloween/actions/workflows/AVC-VersionFileValidator.yml/badge.svg?branch=main 
+[![greetings.yml](https://github.com/zer0Kerbal/JackOLantern/actions/workflows/greetings.yml/badge.svg)](https://github.com/zer0Kerbal/JackOLantern/actions/workflows/greetings.yml) ![](https://github.com/zer0Kerbal/JackOLantern/actions/workflows/AVC-VersionFileValidator.yml/badge.svg?branch=master)  
+![](https://img.shields.io/github/downloads/zer0Kerbal/JackOLantern/total?style=plastic) ![](https://img.shields.io/github/repo-size/zer0Kerbal/JackOLantern?style=plastic) ![](https://img.shields.io/github/contributors/zer0kerbal/JackOLantern?style=plastic) ![](https://img.shields.io/github/release-date/zer0kerbal/JackOLantern?style=plastic) ![](https://img.shields.io/github/release-date-pre/zer0kerbal/JackOLantern?style=plastic)
+
+### Halloween  
+
+![](https://github.com/zer0Kerbal/Halloween/actions/workflows/greetings.yml/badge.svg) ![](https://github.com/zer0Kerbal/Halloween/actions/workflows/AVC-VersionFileValidator.yml/badge.svg?branch=master) 
+![](https://img.shields.io/github/downloads/zer0Kerbal/Halloween/total?style=plastic) ![](https://img.shields.io/github/repo-size/zer0Kerbal/Halloween?style=plastic) ![](https://img.shields.io/github/contributors/zer0kerbal/Halloween?style=plastic) ![](https://img.shields.io/github/release-date/zer0kerbal/Halloween?style=plastic) ![](https://img.shields.io/github/release-date-pre/zer0kerbal/Halloween?style=plastic)
 
 <!--
 **zer0Kerbal/zer0Kerbal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
