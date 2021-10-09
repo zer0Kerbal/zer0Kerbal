@@ -63,6 +63,11 @@
 ![](https://github.com/zer0Kerbal/Halloween/actions/workflows/greetings.yml/badge.svg) ![](https://github.com/zer0Kerbal/Halloween/actions/workflows/AVC-VersionFileValidator.yml/badge.svg?branch=master) 
 ![](https://img.shields.io/github/downloads/zer0Kerbal/Halloween/total?style=plastic) ![](https://img.shields.io/github/repo-size/zer0Kerbal/Halloween?style=plastic) ![](https://img.shields.io/github/contributors/zer0kerbal/Halloween?style=plastic) ![](https://img.shields.io/github/release-date/zer0kerbal/Halloween?style=plastic) ![](https://img.shields.io/github/release-date-pre/zer0kerbal/Halloween?style=plastic)
 
+### KaboOom! (BOOM)  
+
+![](https://github.com/zer0Kerbal/Kaboom/actions/workflows/greetings.yml/badge.svg) ![](https://github.com/zer0Kerbal/Kaboom/actions/workflows/AVC-VersionFileValidator.yml/badge.svg?branch=master) 
+![](https://img.shields.io/github/downloads/zer0Kerbal/Kaboom/total?style=plastic) ![](https://img.shields.io/github/repo-size/zer0Kerbal/Kaboom?style=plastic) ![](https://img.shields.io/github/contributors/zer0kerbal/Kaboom?style=plastic) ![](https://img.shields.io/github/release-date/zer0kerbal/Kaboom?style=plastic) ![](https://img.shields.io/github/release-date-pre/zer0kerbal/Kaboom?style=plastic)
+
 <!--
 **zer0Kerbal/zer0Kerbal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <img src="https://wakatime.com/share/@926db0f4-33a1-4545-8aa6-88d1f7186f67/18dd85d3-f64d-4bcc-a3c3-65302497efc0.svg" width=600 height=600>
