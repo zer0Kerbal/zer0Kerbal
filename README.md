@@ -70,6 +70,12 @@
 ![](https://github.com/zer0Kerbal/SurfaceExperimentPack/actions/workflows/greetings.yml/badge.svg) ![](https://github.com/zer0Kerbal/SurfaceExperimentPack/actions/workflows/AVC-VersionFileValidator.yml/badge.svg?branch=master) 
 ![](https://img.shields.io/github/downloads/zer0Kerbal/SurfaceExperimentPack/total?style=plastic) ![](https://img.shields.io/github/repo-size/zer0Kerbal/SurfaceExperimentPack?style=plastic) ![](https://img.shields.io/github/contributors/zer0kerbal/SurfaceExperimentPack?style=plastic) ![](https://img.shields.io/github/release-date/zer0kerbal/SurfaceExperimentPack?style=plastic) ![](https://img.shields.io/github/release-date-pre/zer0kerbal/SurfaceExperimentPack?style=plastic)
 
+### [Coyote Cargo Freighter (CCF)](https://github.com/zer0Kerbal/CoyoteCargoFreighter)  
+![](https://github.com/zer0Kerbal/CoyoteCargoFreighter/actions/workflows/greetings.yml/badge.svg) ![](https://github.com/zer0Kerbal/CoyoteCargoFreighter/actions/workflows/AVC-VersionFileValidator.yml/badge.svg?branch=master) 
+![](https://img.shields.io/github/downloads/zer0Kerbal/CoyoteCargoFreighter/total?style=plastic) ![](https://img.shields.io/github/repo-size/zer0Kerbal/CoyoteCargoFreighter?style=plastic) ![](https://img.shields.io/github/contributors/zer0kerbal/CoyoteCargoFreighter?style=plastic) ![](https://img.shields.io/github/release-date/zer0kerbal/CoyoteCargoFreighter?style=plastic) ![](https://img.shields.io/github/release-date-pre/zer0kerbal/CoyoteCargoFreighter?style=plastic)
+
+
+
 <!--
 **zer0Kerbal/zer0Kerbal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <img src="https://wakatime.com/share/@926db0f4-33a1-4545-8aa6-88d1f7186f67/18dd85d3-f64d-4bcc-a3c3-65302497efc0.svg" width=600 height=600>
