@@ -74,6 +74,14 @@
 ![](https://github.com/zer0Kerbal/CoyoteCargoFreighter/actions/workflows/greetings.yml/badge.svg) ![](https://github.com/zer0Kerbal/CoyoteCargoFreighter/actions/workflows/AVC-VersionFileValidator.yml/badge.svg?branch=master) 
 ![](https://img.shields.io/github/downloads/zer0Kerbal/CoyoteCargoFreighter/total?style=plastic) ![](https://img.shields.io/github/repo-size/zer0Kerbal/CoyoteCargoFreighter?style=plastic) ![](https://img.shields.io/github/contributors/zer0kerbal/CoyoteCargoFreighter?style=plastic) ![](https://img.shields.io/github/release-date/zer0kerbal/CoyoteCargoFreighter?style=plastic) ![](https://img.shields.io/github/release-date-pre/zer0kerbal/CoyoteCargoFreighter?style=plastic)
 
+### [The Burger Mod (BURG)](https://github.com/zer0Kerbal/BurgerMod)  
+![](https://github.com/zer0Kerbal/BurgerMod/actions/workflows/greetings.yml/badge.svg) ![](https://github.com/zer0Kerbal/BurgerMod/actions/workflows/AVC-VersionFileValidator.yml/badge.svg?branch=master) 
+![](https://img.shields.io/github/downloads/zer0Kerbal/BurgerMod/total?style=plastic) ![](https://img.shields.io/github/repo-size/zer0Kerbal/BurgerMod?style=plastic) ![](https://img.shields.io/github/contributors/zer0kerbal/BurgerMod?style=plastic) ![](https://img.shields.io/github/release-date/zer0kerbal/BurgerMod?style=plastic) ![](https://img.shields.io/github/release-date-pre/zer0kerbal/BurgerMod?style=plastic)
+
+### [The Elephant Engine (NBEE)](https://github.com/zer0Kerbal/ElephantEngine)  
+![](https://github.com/zer0Kerbal/ElephantEngine/actions/workflows/greetings.yml/badge.svg) ![](https://github.com/zer0Kerbal/ElephantEngine/actions/workflows/AVC-VersionFileValidator.yml/badge.svg?branch=master) 
+![](https://img.shields.io/github/downloads/zer0Kerbal/ElephantEngine/total?style=plastic) ![](https://img.shields.io/github/repo-size/zer0Kerbal/ElephantEngine?style=plastic) ![](https://img.shields.io/github/contributors/zer0kerbal/ElephantEngine?style=plastic) ![](https://img.shields.io/github/release-date/zer0kerbal/ElephantEngine?style=plastic) ![](https://img.shields.io/github/release-date-pre/zer0kerbal/ElephantEngine?style=plastic)
+
 
 
 <!--
