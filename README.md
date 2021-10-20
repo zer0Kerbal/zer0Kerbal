@@ -8,9 +8,6 @@
 - 💬 Ask me about: my mods 
 - 📫 How to reach me: forums or mod discussions.
 - ⚡ Fun fact: I have no sense of humor. :P
-***  
-
-  
 
 ***  
 
@@ -82,7 +79,9 @@
 ![](https://github.com/zer0Kerbal/ElephantEngine/actions/workflows/greetings.yml/badge.svg) ![](https://github.com/zer0Kerbal/ElephantEngine/actions/workflows/AVC-VersionFileValidator.yml/badge.svg?branch=master) 
 ![](https://img.shields.io/github/downloads/zer0Kerbal/ElephantEngine/total?style=plastic) ![](https://img.shields.io/github/repo-size/zer0Kerbal/ElephantEngine?style=plastic) ![](https://img.shields.io/github/contributors/zer0kerbal/ElephantEngine?style=plastic) ![](https://img.shields.io/github/release-date/zer0kerbal/ElephantEngine?style=plastic) ![](https://img.shields.io/github/release-date-pre/zer0kerbal/ElephantEngine?style=plastic)
 
-
+### [SpaceY Heavy Lifters (SYHL)](https://github.com/zer0Kerbal/SpaceY-Lifters)  
+![](https://github.com/zer0Kerbal/SpaceY-Lifters/actions/workflows/greetings.yml/badge.svg) ![](https://github.com/zer0Kerbal/SpaceY-Lifters/actions/workflows/AVC-VersionFileValidator.yml/badge.svg?branch=master) 
+![](https://img.shields.io/github/downloads/zer0Kerbal/SpaceY-Lifters/total?style=plastic) ![](https://img.shields.io/github/repo-size/zer0Kerbal/SpaceY-Lifters?style=plastic) ![](https://img.shields.io/github/contributors/zer0kerbal/SpaceY-Lifters?style=plastic) ![](https://img.shields.io/github/release-date/zer0kerbal/SpaceY-Lifters?style=plastic) ![](https://img.shields.io/github/release-date-pre/zer0kerbal/SpaceY-Lifters?style=plastic)
 
 <!--
 **zer0Kerbal/zer0Kerbal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
