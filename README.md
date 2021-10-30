@@ -63,6 +63,10 @@
 ![](https://github.com/zer0Kerbal/Kaboom/actions/workflows/greetings.yml/badge.svg) ![](https://github.com/zer0Kerbal/Kaboom/actions/workflows/AVC-VersionFileValidator.yml/badge.svg?branch=master) 
 ![](https://img.shields.io/github/downloads/zer0Kerbal/Kaboom/total?style=plastic) ![](https://img.shields.io/github/repo-size/zer0Kerbal/Kaboom?style=plastic) ![](https://img.shields.io/github/contributors/zer0kerbal/Kaboom?style=plastic) ![](https://img.shields.io/github/release-date/zer0kerbal/Kaboom?style=plastic) ![](https://img.shields.io/github/release-date-pre/zer0kerbal/Kaboom?style=plastic)
 
+### [MoarKerbals! (MOAR)](https://github.com/zer0Kerbal/MoarKerbals)  
+![](https://github.com/zer0Kerbal/MoarKerbals/actions/workflows/greetings.yml/badge.svg) ![](https://github.com/zer0Kerbal/MoarKerbals/actions/workflows/AVC-VersionFileValidator.yml/badge.svg?branch=master) 
+![](https://img.shields.io/github/downloads/zer0Kerbal/MoarKerbals/total?style=plastic) ![](https://img.shields.io/github/repo-size/zer0Kerbal/MoarKerbals?style=plastic) ![](https://img.shields.io/github/contributors/zer0kerbal/MoarKerbals?style=plastic) ![](https://img.shields.io/github/release-date/zer0kerbal/MoarKerbals?style=plastic) ![](https://img.shields.io/github/release-date-pre/zer0kerbal/MoarKerbals?style=plastic)
+
 ### [Surface Experiment Pack! (SEP)](https://github.com/zer0Kerbal/SurfaceExperimentPack)  
 ![](https://github.com/zer0Kerbal/SurfaceExperimentPack/actions/workflows/greetings.yml/badge.svg) ![](https://github.com/zer0Kerbal/SurfaceExperimentPack/actions/workflows/AVC-VersionFileValidator.yml/badge.svg?branch=master) 
 ![](https://img.shields.io/github/downloads/zer0Kerbal/SurfaceExperimentPack/total?style=plastic) ![](https://img.shields.io/github/repo-size/zer0Kerbal/SurfaceExperimentPack?style=plastic) ![](https://img.shields.io/github/contributors/zer0kerbal/SurfaceExperimentPack?style=plastic) ![](https://img.shields.io/github/release-date/zer0kerbal/SurfaceExperimentPack?style=plastic) ![](https://img.shields.io/github/release-date-pre/zer0kerbal/SurfaceExperimentPack?style=plastic)
@@ -82,6 +86,29 @@
 ### [SpaceY Heavy Lifters (SYHL)](https://github.com/zer0Kerbal/SpaceY-Lifters)  
 ![](https://github.com/zer0Kerbal/SpaceY-Lifters/actions/workflows/greetings.yml/badge.svg) ![](https://github.com/zer0Kerbal/SpaceY-Lifters/actions/workflows/AVC-VersionFileValidator.yml/badge.svg?branch=master) 
 ![](https://img.shields.io/github/downloads/zer0Kerbal/SpaceY-Lifters/total?style=plastic) ![](https://img.shields.io/github/repo-size/zer0Kerbal/SpaceY-Lifters?style=plastic) ![](https://img.shields.io/github/contributors/zer0kerbal/SpaceY-Lifters?style=plastic) ![](https://img.shields.io/github/release-date/zer0kerbal/SpaceY-Lifters?style=plastic) ![](https://img.shields.io/github/release-date-pre/zer0kerbal/SpaceY-Lifters?style=plastic)
+
+
+# WHY - Mission Statement
+
+- fun
+- learn
+- experience
+- give back
+- profit
+- no mod left behind
+- continuous improvement of portfolio, documentation, experience, processes, procedures, communications, and knowledge.
+
+# WHAT - clear vision
+
+- Kerbal Space Program exterior enhancements and adjustments
+
+# How - Strategy
+
+- automated backend systems allowing maximum efficiency in updating and releasing mods.
+- rapid iterative / kaizen approach
+  - > ‘`Kaizen`, the Sino-Japanese word for ‘change for the better‘ or ‘rapid improvement’, is a concept referring to business activities that continuously improve all functions and involve all employees from the CEO to the assembly line workers. Kaizen also applies to processes, such as purchasing and logistics, that cross organizational boundaries into the supply chain’
+    >
+    > The concept of kaizen encompasses a wide range of ideas. It involves making the work environment more efficient and effective by creating a team atmosphere, <u>improving everyday procedures</u>, ensuring <u>player engagement</u>, and making things <u>more fulfilling, less tiring, and safer</u>.
 
 <!--
 **zer0Kerbal/zer0Kerbal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
