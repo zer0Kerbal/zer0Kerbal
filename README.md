@@ -87,6 +87,10 @@
 ![](https://github.com/zer0Kerbal/SpaceY-Lifters/actions/workflows/greetings.yml/badge.svg) ![](https://github.com/zer0Kerbal/SpaceY-Lifters/actions/workflows/AVC-VersionFileValidator.yml/badge.svg?branch=master) 
 ![](https://img.shields.io/github/downloads/zer0Kerbal/SpaceY-Lifters/total?style=plastic) ![](https://img.shields.io/github/repo-size/zer0Kerbal/SpaceY-Lifters?style=plastic) ![](https://img.shields.io/github/contributors/zer0kerbal/SpaceY-Lifters?style=plastic) ![](https://img.shields.io/github/release-date/zer0kerbal/SpaceY-Lifters?style=plastic) ![](https://img.shields.io/github/release-date-pre/zer0kerbal/SpaceY-Lifters?style=plastic)
 
+### [Taerobee (TBEE)](https://github.com/zer0Kerbal/Taerobee)  
+![](https://github.com/zer0Kerbal/Taerobee/actions/workflows/greetings.yml/badge.svg) ![](https://github.com/zer0Kerbal/Taerobee/actions/workflows/AVC-VersionFileValidator.yml/badge.svg?branch=master) 
+![](https://img.shields.io/github/downloads/zer0Kerbal/Taerobee/total?style=plastic) ![](https://img.shields.io/github/repo-size/zer0Kerbal/Taerobee?style=plastic) ![](https://img.shields.io/github/contributors/zer0kerbal/Taerobee?style=plastic) ![](https://img.shields.io/github/release-date/zer0kerbal/Taerobee?style=plastic) ![](https://img.shields.io/github/release-date-pre/zer0kerbal/Taerobee?style=plastic)
+
 
 # WHY - Mission Statement
 
@@ -94,6 +98,7 @@
 - learn
 - experience
 - give back
+- respect shown to authors
 - profit
 - no mod left behind
 - continuous improvement of portfolio, documentation, experience, processes, procedures, communications, and knowledge.
