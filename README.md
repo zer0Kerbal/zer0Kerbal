@@ -99,6 +99,10 @@
 ![](https://github.com/zer0Kerbal/KustomKerbals/actions/workflows/greetings.yml/badge.svg) ![](https://github.com/zer0Kerbal/KustomKerbals/actions/workflows/AVC-VersionFileValidator.yml/badge.svg?branch=master) 
 ![](https://img.shields.io/github/downloads/zer0Kerbal/KustomKerbals/total?style=plastic) ![](https://img.shields.io/github/repo-size/zer0Kerbal/KustomKerbals?style=plastic) ![](https://img.shields.io/github/contributors/zer0kerbal/KustomKerbals?style=plastic) ![](https://img.shields.io/github/release-date/zer0kerbal/KustomKerbals?style=plastic) ![](https://img.shields.io/github/release-date-pre/zer0kerbal/KustomKerbals?style=plastic)
 
+### [SimpleConstruction! (SCON!)](https://github.com/zer0Kerbal/SimpleConstruction)  
+![](https://github.com/zer0Kerbal/SimpleConstruction/actions/workflows/greetings.yml/badge.svg) ![](https://github.com/zer0Kerbal/SimpleConstruction/actions/workflows/AVC-VersionFileValidator.yml/badge.svg?branch=master) 
+![](https://img.shields.io/github/downloads/zer0Kerbal/SimpleConstruction/total?style=plastic) ![](https://img.shields.io/github/repo-size/zer0Kerbal/SimpleConstruction?style=plastic) ![](https://img.shields.io/github/contributors/zer0kerbal/SimpleConstruction?style=plastic) ![](https://img.shields.io/github/release-date/zer0kerbal/SimpleConstruction?style=plastic) ![](https://img.shields.io/github/release-date-pre/zer0kerbal/SimpleConstruction?style=plastic)
+
 # WHY - Mission Statement
 
 - fun
