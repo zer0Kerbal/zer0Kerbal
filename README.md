@@ -103,6 +103,10 @@
 ![](https://github.com/zer0Kerbal/SimpleConstruction/actions/workflows/greetings.yml/badge.svg) ![](https://github.com/zer0Kerbal/SimpleConstruction/actions/workflows/AVC-VersionFileValidator.yml/badge.svg?branch=master) 
 ![](https://img.shields.io/github/downloads/zer0Kerbal/SimpleConstruction/total?style=plastic) ![](https://img.shields.io/github/repo-size/zer0Kerbal/SimpleConstruction?style=plastic) ![](https://img.shields.io/github/contributors/zer0kerbal/SimpleConstruction?style=plastic) ![](https://img.shields.io/github/release-date/zer0kerbal/SimpleConstruction?style=plastic) ![](https://img.shields.io/github/release-date-pre/zer0kerbal/SimpleConstruction?style=plastic)
 
+### [MoreHitchhikers! (MHH)](https://github.com/zer0Kerbal/MoreHitchhikers)  
+![](https://github.com/zer0Kerbal/MoreHitchhikers/actions/workflows/greetings.yml/badge.svg) ![](https://github.com/zer0Kerbal/MoreHitchhikers/actions/workflows/AVC-VersionFileValidator.yml/badge.svg?branch=master) 
+![](https://img.shields.io/github/downloads/zer0Kerbal/MoreHitchhikers/total?style=plastic) ![](https://img.shields.io/github/repo-size/zer0Kerbal/MoreHitchhikers?style=plastic) ![](https://img.shields.io/github/contributors/zer0kerbal/MoreHitchhikers?style=plastic) ![](https://img.shields.io/github/release-date/zer0kerbal/MoreHitchhikers?style=plastic) ![](https://img.shields.io/github/release-date-pre/zer0kerbal/MoreHitchhikers?style=plastic)
+
 # WHY - Mission Statement
 
 - fun
