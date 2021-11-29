@@ -116,6 +116,7 @@
 - respect shown to authors
 - profit
 - no mod left behind
+- enhance a game we love
 - continuous improvement of portfolio, documentation, experience, processes, procedures, communications, and knowledge.
 
 # WHAT - clear vision
