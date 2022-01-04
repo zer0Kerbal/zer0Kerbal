@@ -9,10 +9,37 @@
 - 📫 How to reach me: forums or mod discussions.
 - ⚡ Fun fact: I have no sense of humor. :P
 
-***  
+### Connect with me:
+
+[<img align="left" alt="kerbalspaceprogram.com" width="22px" src="https://kerbalspaceprogram.com//favicon.ico" />][website]
+[<img align="left" alt="zer0Kerbal | CurseForge" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/curseforge.svg" />][curseforge]
+[<img align="left" alt="zer0Kerbal | CurseForge" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />][reddit]
+[<img align="left" alt="zer0Kerbal | CurseForge" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/patreon.svg" />][patreon]
+[<img align="left" alt="zer0Kerbal | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="zer0Kerbal | Twitch" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitch.svg" />][twitch]
+
+[<img align="left" alt="zer0Kerbal | CurseForge" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/paypal.svg" />][paypal]
+[<img align="left" alt="zer0Kerbal | buy me a coffee" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/buymeacoffee.svg" />][buymeacoffee]
+[<img align="left" alt="zer0Kerbal | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+<br />
+---
+
+### 📺 Latest YouTube Videos
+
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
+
+---
+
+### 📕 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+---
 
 <!--- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zer0Kerbal)](https://github.com/anuraghazra/github-readme-stats) -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zer0Kerbal&show_icons=true&theme=radical) <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zer0kerbal&layout=compact&hide_border=true&bg_color=ffffff&langs_count=10">  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zer0Kerbal&show_icons=true) <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zer0kerbal&layout=compact&hide_border=true&bg_color=bada55&langs_count=4">  
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zer0Kerbal&repo=AeroRadial)](https://github.com/zer0Kerbal/AeroRadial) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zer0Kerbal&repo=Fuselage)](https://github.com/zer0Kerbal/Fuselage) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zer0Kerbal&repo=SphericalTanks)](https://github.com/zer0Kerbal/SphericalTanks) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zer0Kerbal&repo=Cargobays)](https://github.com/zer0Kerbal/CargoBays)  
 
@@ -87,6 +114,10 @@
 ![](https://github.com/zer0Kerbal/ElephantEngine/actions/workflows/greetings.yml/badge.svg) ![](https://github.com/zer0Kerbal/ElephantEngine/actions/workflows/AVC-VersionFileValidator.yml/badge.svg?branch=master) 
 ![](https://img.shields.io/github/downloads/zer0Kerbal/ElephantEngine/total?style=plastic) ![](https://img.shields.io/github/repo-size/zer0Kerbal/ElephantEngine?style=plastic) ![](https://img.shields.io/github/contributors/zer0kerbal/ElephantEngine?style=plastic) ![](https://img.shields.io/github/release-date/zer0kerbal/ElephantEngine?style=plastic) ![](https://img.shields.io/github/release-date-pre/zer0kerbal/ElephantEngine?style=plastic)
 
+### [JoolianDiscovery (NBJD)](https://github.com/zer0Kerbal/JoolianDiscovery)  
+![](https://github.com/zer0Kerbal/JoolianDiscovery/actions/workflows/greetings.yml/badge.svg) ![](https://github.com/zer0Kerbal/JoolianDiscovery/actions/workflows/AVC-VersionFileValidator.yml/badge.svg?branch=master) 
+![](https://img.shields.io/github/downloads/zer0Kerbal/JoolianDiscovery/total?style=plastic) ![](https://img.shields.io/github/repo-size/zer0Kerbal/JoolianDiscovery?style=plastic) ![](https://img.shields.io/github/contributors/zer0kerbal/JoolianDiscovery?style=plastic) ![](https://img.shields.io/github/release-date/zer0kerbal/JoolianDiscovery?style=plastic) ![](https://img.shields.io/github/release-date-pre/zer0kerbal/JoolianDiscovery?style=plastic)
+
 ### [SpaceY Heavy Lifters (SYHL)](https://github.com/zer0Kerbal/SpaceY-Lifters)  
 ![](https://github.com/zer0Kerbal/SpaceY-Lifters/actions/workflows/greetings.yml/badge.svg) ![](https://github.com/zer0Kerbal/SpaceY-Lifters/actions/workflows/AVC-VersionFileValidator.yml/badge.svg?branch=master) 
 ![](https://img.shields.io/github/downloads/zer0Kerbal/SpaceY-Lifters/total?style=plastic) ![](https://img.shields.io/github/repo-size/zer0Kerbal/SpaceY-Lifters?style=plastic) ![](https://img.shields.io/github/contributors/zer0kerbal/SpaceY-Lifters?style=plastic) ![](https://img.shields.io/github/release-date/zer0kerbal/SpaceY-Lifters?style=plastic) ![](https://img.shields.io/github/release-date-pre/zer0kerbal/SpaceY-Lifters?style=plastic)
@@ -103,17 +134,21 @@
 ![](https://github.com/zer0Kerbal/SimpleConstruction/actions/workflows/greetings.yml/badge.svg) ![](https://github.com/zer0Kerbal/SimpleConstruction/actions/workflows/AVC-VersionFileValidator.yml/badge.svg?branch=master) 
 ![](https://img.shields.io/github/downloads/zer0Kerbal/SimpleConstruction/total?style=plastic) ![](https://img.shields.io/github/repo-size/zer0Kerbal/SimpleConstruction?style=plastic) ![](https://img.shields.io/github/contributors/zer0kerbal/SimpleConstruction?style=plastic) ![](https://img.shields.io/github/release-date/zer0kerbal/SimpleConstruction?style=plastic) ![](https://img.shields.io/github/release-date-pre/zer0kerbal/SimpleConstruction?style=plastic)
 
-### [MoreHitchhikers! (MHH)](https://github.com/zer0Kerbal/MoreHitchhikers)  
+### [More: Hitchhikers! (MHH)](https://github.com/zer0Kerbal/MoreHitchhikers)  
 ![](https://github.com/zer0Kerbal/MoreHitchhikers/actions/workflows/greetings.yml/badge.svg) ![](https://github.com/zer0Kerbal/MoreHitchhikers/actions/workflows/AVC-VersionFileValidator.yml/badge.svg?branch=master) 
 ![](https://img.shields.io/github/downloads/zer0Kerbal/MoreHitchhikers/total?style=plastic) ![](https://img.shields.io/github/repo-size/zer0Kerbal/MoreHitchhikers?style=plastic) ![](https://img.shields.io/github/contributors/zer0kerbal/MoreHitchhikers?style=plastic) ![](https://img.shields.io/github/release-date/zer0kerbal/MoreHitchhikers?style=plastic) ![](https://img.shields.io/github/release-date-pre/zer0kerbal/MoreHitchhikers?style=plastic)
 
-### [MoreCupolas! (MCP)](https://github.com/zer0Kerbal/MoreCupolas)  
+### [More: Cupolas! (MCP)](https://github.com/zer0Kerbal/MoreCupolas)  
 ![](https://github.com/zer0Kerbal/MoreCupolas/actions/workflows/greetings.yml/badge.svg) ![](https://github.com/zer0Kerbal/MoreCupolas/actions/workflows/AVC-VersionFileValidator.yml/badge.svg?branch=master) 
 ![](https://img.shields.io/github/downloads/zer0Kerbal/MoreCupolas/total?style=plastic) ![](https://img.shields.io/github/repo-size/zer0Kerbal/MoreCupolas?style=plastic) ![](https://img.shields.io/github/contributors/zer0kerbal/MoreCupolas?style=plastic) ![](https://img.shields.io/github/release-date/zer0kerbal/MoreCupolas?style=plastic) ![](https://img.shields.io/github/release-date-pre/zer0kerbal/MoreCupolas?style=plastic)
 
-### [MoreServiceBays! (MSB)](https://github.com/zer0Kerbal/MoreServiceBays)  
+### [More: ServiceBays! (MSB)](https://github.com/zer0Kerbal/MoreServiceBays)  
 ![](https://github.com/zer0Kerbal/MoreServiceBays/actions/workflows/greetings.yml/badge.svg) ![](https://github.com/zer0Kerbal/MoreServiceBays/actions/workflows/AVC-VersionFileValidator.yml/badge.svg?branch=master) 
 ![](https://img.shields.io/github/downloads/zer0Kerbal/MoreServiceBays/total?style=plastic) ![](https://img.shields.io/github/repo-size/zer0Kerbal/MoreServiceBays?style=plastic) ![](https://img.shields.io/github/contributors/zer0kerbal/MoreServiceBays?style=plastic) ![](https://img.shields.io/github/release-date/zer0kerbal/MoreServiceBays?style=plastic) ![](https://img.shields.io/github/release-date-pre/zer0kerbal/MoreServiceBays?style=plastic)
+
+### [KSPChromaControl (KCC)](https://github.com/zer0Kerbal/KSPChromaControl)  
+![](https://github.com/zer0Kerbal/KSPChromaControl/actions/workflows/greetings.yml/badge.svg) ![](https://github.com/zer0Kerbal/KSPChromaControl/actions/workflows/AVC-VersionFileValidator.yml/badge.svg?branch=master) 
+![](https://img.shields.io/github/downloads/zer0Kerbal/KSPChromaControl/total?style=plastic) ![](https://img.shields.io/github/repo-size/zer0Kerbal/KSPChromaControl?style=plastic) ![](https://img.shields.io/github/contributors/zer0kerbal/KSPChromaControl?style=plastic) ![](https://img.shields.io/github/release-date/zer0kerbal/KSPChromaControl?style=plastic) ![](https://img.shields.io/github/release-date-pre/zer0kerbal/KSPChromaControl?style=plastic)
   
 # WHY - Mission Statement
 
@@ -141,16 +176,16 @@
 
 <!--
 **zer0Kerbal/zer0Kerbal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<img src="https://wakatime.com/share/@926db0f4-33a1-4545-8aa6-88d1f7186f67/18dd85d3-f64d-4bcc-a3c3-65302497efc0.svg" width=600 height=600>
+<img src="https://wakatime.com/share/@926db0f4-33a1-4545-8aa6-88d1f7186f67/18dd85d3-f64d-4bcc-a3c3-65302497efc0.svg" width=600 height=600> -->
 
-Here are some ideas to get you started:
+[website]: https://forum.kerbalspaceprogram.com/index.php?/profile/190933-zer0kerbal/
+[youtube]: https://www.youtube.com/channel/UCp9c8IaK4Gjgfj3O9QxrbDw
+[twitter]: https://twitter.com/zer0Kerbal
+[curseforge]: https://www.curseforge.com/members/zer0kerbal/projects
+[twitch]: https://www.twitch.tv/zer0kerbal
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[reddit]: https://www.reddit.com/user/zer0Kerbal
+[patreon]: https://www.patreon.com/zer0Kerbal
+[paypal]: https://www.paypal.com/donate?hosted_button_id=DC22YHMEJREKL
+[buymeacoffee]: http://buymeacoffee.com/zer0Kerbal
+
