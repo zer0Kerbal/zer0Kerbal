@@ -27,6 +27,8 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Add on / mod testing:[SimpleConstruction! &lpar;SCON!&rpar; 4.0.9.9]](https://www.youtube.com/watch?v=j7EWdZ0T-kg)
+- [Komplexity](https://www.youtube.com/watch?v=erhEQpBZGas)
 <!-- YOUTUBE:END -->
 
 ---
