@@ -17,7 +17,6 @@
 [<img align="left" alt="zer0Kerbal | CurseForge" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/patreon.svg" />][patreon]
 [<img align="left" alt="zer0Kerbal | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="zer0Kerbal | Twitch" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitch.svg" />][twitch]
-
 [<img align="left" alt="zer0Kerbal | CurseForge" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/paypal.svg" />][paypal]
 [<img align="left" alt="zer0Kerbal | buy me a coffee" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/buymeacoffee.svg" />][buymeacoffee]
 [<img align="left" alt="zer0Kerbal | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
