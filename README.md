@@ -32,10 +32,11 @@
 
 ---
 
-### :zap: Recent Activity
-
+<details>
+  <summary>### :zap: Recent Activity</summary>
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
+ </details
 
 ---
 
@@ -49,6 +50,9 @@
 <!--- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zer0Kerbal)](https://github.com/anuraghazra/github-readme-stats) -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zer0Kerbal&show_icons=true) <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zer0kerbal&layout=compact&hide_border=true&bg_color=bada55&langs_count=4">  
 
+  <details>
+    <summary>Additional Cards</summary>
+    
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zer0Kerbal&repo=AeroRadial)](https://github.com/zer0Kerbal/AeroRadial) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zer0Kerbal&repo=Fuselage)](https://github.com/zer0Kerbal/Fuselage) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zer0Kerbal&repo=SphericalTanks)](https://github.com/zer0Kerbal/SphericalTanks) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zer0Kerbal&repo=Cargobays)](https://github.com/zer0Kerbal/CargoBays)  
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zer0Kerbal&repo=SimpleConstruction)](https://github.com/zer0Kerbal/SimpleConstruction)  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zer0Kerbal&repo=SimpleLife)](https://github.com/zer0Kerbal/SimpleLife)
@@ -58,7 +62,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zer0Kerbal&repo=SimpleCargoSolutions)](https://github.com/zer0Kerbal/SimpleCargoSolutions) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zer0Kerbal&repo=Whimchaser)](https://github.com/zer0Kerbal/WhimChaser)   
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zer0Kerbal&repo=MKII-L)](https://github.com/zer0Kerbal/MKII-L) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zer0Kerbal&repo=MK2Y)](https://github.com/zer0Kerbal/MK2Y)
-
+</details>
 
 
 
@@ -86,6 +90,8 @@
 ![](https://img.shields.io/github/release-date/zer0kerbal/Biomatic?style=plastic)
 ![](https://img.shields.io/github/release-date-pre/zer0kerbal/Biomatic?style=plastic)
 
+ <details>
+   <summary>Holiday</summary>
 ### [JackOLantern](https://github.com/zer0Kerbal/JackOLantern)  
 [![greetings.yml](https://github.com/zer0Kerbal/JackOLantern/actions/workflows/greetings.yml/badge.svg)](https://github.com/zer0Kerbal/JackOLantern/actions/workflows/greetings.yml) ![](https://github.com/zer0Kerbal/JackOLantern/actions/workflows/AVC-VersionFileValidator.yml/badge.svg?branch=master)  
 ![](https://img.shields.io/github/downloads/zer0Kerbal/JackOLantern/total?style=plastic) ![](https://img.shields.io/github/repo-size/zer0Kerbal/JackOLantern?style=plastic) ![](https://img.shields.io/github/contributors/zer0kerbal/JackOLantern?style=plastic) ![](https://img.shields.io/github/release-date/zer0kerbal/JackOLantern?style=plastic) ![](https://img.shields.io/github/release-date-pre/zer0kerbal/JackOLantern?style=plastic)
@@ -94,6 +100,8 @@
 ![](https://github.com/zer0Kerbal/Halloween/actions/workflows/greetings.yml/badge.svg) ![](https://github.com/zer0Kerbal/Halloween/actions/workflows/AVC-VersionFileValidator.yml/badge.svg?branch=master) 
 ![](https://img.shields.io/github/downloads/zer0Kerbal/Halloween/total?style=plastic) ![](https://img.shields.io/github/repo-size/zer0Kerbal/Halloween?style=plastic) ![](https://img.shields.io/github/contributors/zer0kerbal/Halloween?style=plastic) ![](https://img.shields.io/github/release-date/zer0kerbal/Halloween?style=plastic) ![](https://img.shields.io/github/release-date-pre/zer0kerbal/Halloween?style=plastic)
 
+  </details>
+   
 ### [KaboOom! (BOOM)](https://github.com/zer0Kerbal/Kaboom)  
 ![](https://github.com/zer0Kerbal/Kaboom/actions/workflows/greetings.yml/badge.svg) ![](https://github.com/zer0Kerbal/Kaboom/actions/workflows/AVC-VersionFileValidator.yml/badge.svg?branch=master) 
 ![](https://img.shields.io/github/downloads/zer0Kerbal/Kaboom/total?style=plastic) ![](https://img.shields.io/github/repo-size/zer0Kerbal/Kaboom?style=plastic) ![](https://img.shields.io/github/contributors/zer0kerbal/Kaboom?style=plastic) ![](https://img.shields.io/github/release-date/zer0kerbal/Kaboom?style=plastic) ![](https://img.shields.io/github/release-date-pre/zer0kerbal/Kaboom?style=plastic)
@@ -181,6 +189,7 @@
   - > ‘`Kaizen`, the Sino-Japanese word for ‘change for the better‘ or ‘rapid improvement’, is a concept referring to business activities that continuously improve all functions and involve all employees from the CEO to the assembly line workers. Kaizen also applies to processes, such as purchasing and logistics, that cross organizational boundaries into the supply chain’
     >
     > The concept of kaizen encompasses a wide range of ideas. It involves making the work environment more efficient and effective by creating a team atmosphere, <u>improving everyday procedures</u>, ensuring <u>player engagement</u>, and making things <u>more fulfilling, less tiring, and safer</u>.
+- the best dependency is no dependency.
 
 <!--
 **zer0Kerbal/zer0Kerbal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
