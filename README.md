@@ -92,6 +92,7 @@
 
  <details>
    <summary>Holiday</summary>
+   
 ### [JackOLantern](https://github.com/zer0Kerbal/JackOLantern)  
 [![greetings.yml](https://github.com/zer0Kerbal/JackOLantern/actions/workflows/greetings.yml/badge.svg)](https://github.com/zer0Kerbal/JackOLantern/actions/workflows/greetings.yml) ![](https://github.com/zer0Kerbal/JackOLantern/actions/workflows/AVC-VersionFileValidator.yml/badge.svg?branch=master)  
 ![](https://img.shields.io/github/downloads/zer0Kerbal/JackOLantern/total?style=plastic) ![](https://img.shields.io/github/repo-size/zer0Kerbal/JackOLantern?style=plastic) ![](https://img.shields.io/github/contributors/zer0kerbal/JackOLantern?style=plastic) ![](https://img.shields.io/github/release-date/zer0kerbal/JackOLantern?style=plastic) ![](https://img.shields.io/github/release-date-pre/zer0kerbal/JackOLantern?style=plastic)
@@ -122,6 +123,9 @@
 ![](https://github.com/zer0Kerbal/CoyoteCargoFreighter/actions/workflows/greetings.yml/badge.svg) ![](https://github.com/zer0Kerbal/CoyoteCargoFreighter/actions/workflows/AVC-VersionFileValidator.yml/badge.svg?branch=master) 
 ![](https://img.shields.io/github/downloads/zer0Kerbal/CoyoteCargoFreighter/total?style=plastic) ![](https://img.shields.io/github/repo-size/zer0Kerbal/CoyoteCargoFreighter?style=plastic) ![](https://img.shields.io/github/contributors/zer0kerbal/CoyoteCargoFreighter?style=plastic) ![](https://img.shields.io/github/release-date/zer0kerbal/CoyoteCargoFreighter?style=plastic) ![](https://img.shields.io/github/release-date-pre/zer0kerbal/CoyoteCargoFreighter?style=plastic)
 
+ <details>
+   <summary>NecroBones</summary>
+   
 ### [The Burger Mod (BURG)](https://github.com/zer0Kerbal/BurgerMod)  
 ![](https://github.com/zer0Kerbal/BurgerMod/actions/workflows/greetings.yml/badge.svg) ![](https://github.com/zer0Kerbal/BurgerMod/actions/workflows/AVC-VersionFileValidator.yml/badge.svg?branch=master) 
 ![](https://img.shields.io/github/downloads/zer0Kerbal/BurgerMod/total?style=plastic) ![](https://img.shields.io/github/repo-size/zer0Kerbal/BurgerMod?style=plastic) ![](https://img.shields.io/github/contributors/zer0kerbal/BurgerMod?style=plastic) ![](https://img.shields.io/github/release-date/zer0kerbal/BurgerMod?style=plastic) ![](https://img.shields.io/github/release-date-pre/zer0kerbal/BurgerMod?style=plastic)
@@ -138,6 +142,8 @@
 ![](https://github.com/zer0Kerbal/SpaceY-Lifters/actions/workflows/greetings.yml/badge.svg) ![](https://github.com/zer0Kerbal/SpaceY-Lifters/actions/workflows/AVC-VersionFileValidator.yml/badge.svg?branch=master) 
 ![](https://img.shields.io/github/downloads/zer0Kerbal/SpaceY-Lifters/total?style=plastic) ![](https://img.shields.io/github/repo-size/zer0Kerbal/SpaceY-Lifters?style=plastic) ![](https://img.shields.io/github/contributors/zer0kerbal/SpaceY-Lifters?style=plastic) ![](https://img.shields.io/github/release-date/zer0kerbal/SpaceY-Lifters?style=plastic) ![](https://img.shields.io/github/release-date-pre/zer0kerbal/SpaceY-Lifters?style=plastic)
 
+  </details>
+   
 ### [Taerobee (TBEE)](https://github.com/zer0Kerbal/Taerobee)  
 ![](https://github.com/zer0Kerbal/Taerobee/actions/workflows/greetings.yml/badge.svg) ![](https://github.com/zer0Kerbal/Taerobee/actions/workflows/AVC-VersionFileValidator.yml/badge.svg?branch=master) 
 ![](https://img.shields.io/github/downloads/zer0Kerbal/Taerobee/total?style=plastic) ![](https://img.shields.io/github/repo-size/zer0Kerbal/Taerobee?style=plastic) ![](https://img.shields.io/github/contributors/zer0kerbal/Taerobee?style=plastic) ![](https://img.shields.io/github/release-date/zer0kerbal/Taerobee?style=plastic) ![](https://img.shields.io/github/release-date-pre/zer0kerbal/Taerobee?style=plastic)
@@ -150,6 +156,9 @@
 ![](https://github.com/zer0Kerbal/SimpleConstruction/actions/workflows/greetings.yml/badge.svg) ![](https://github.com/zer0Kerbal/SimpleConstruction/actions/workflows/AVC-VersionFileValidator.yml/badge.svg?branch=master) 
 ![](https://img.shields.io/github/downloads/zer0Kerbal/SimpleConstruction/total?style=plastic) ![](https://img.shields.io/github/repo-size/zer0Kerbal/SimpleConstruction?style=plastic) ![](https://img.shields.io/github/contributors/zer0kerbal/SimpleConstruction?style=plastic) ![](https://img.shields.io/github/release-date/zer0kerbal/SimpleConstruction?style=plastic) ![](https://img.shields.io/github/release-date-pre/zer0kerbal/SimpleConstruction?style=plastic)
 
+ <details>
+   <summary>More: series of mods</summary>
+   
 ### [More: Hitchhikers! (MHH)](https://github.com/zer0Kerbal/MoreHitchhikers)  
 ![](https://github.com/zer0Kerbal/MoreHitchhikers/actions/workflows/greetings.yml/badge.svg) ![](https://github.com/zer0Kerbal/MoreHitchhikers/actions/workflows/AVC-VersionFileValidator.yml/badge.svg?branch=master) 
 ![](https://img.shields.io/github/downloads/zer0Kerbal/MoreHitchhikers/total?style=plastic) ![](https://img.shields.io/github/repo-size/zer0Kerbal/MoreHitchhikers?style=plastic) ![](https://img.shields.io/github/contributors/zer0kerbal/MoreHitchhikers?style=plastic) ![](https://img.shields.io/github/release-date/zer0kerbal/MoreHitchhikers?style=plastic) ![](https://img.shields.io/github/release-date-pre/zer0kerbal/MoreHitchhikers?style=plastic)
@@ -162,6 +171,8 @@
 ![](https://github.com/zer0Kerbal/MoreServiceBays/actions/workflows/greetings.yml/badge.svg) ![](https://github.com/zer0Kerbal/MoreServiceBays/actions/workflows/AVC-VersionFileValidator.yml/badge.svg?branch=master) 
 ![](https://img.shields.io/github/downloads/zer0Kerbal/MoreServiceBays/total?style=plastic) ![](https://img.shields.io/github/repo-size/zer0Kerbal/MoreServiceBays?style=plastic) ![](https://img.shields.io/github/contributors/zer0kerbal/MoreServiceBays?style=plastic) ![](https://img.shields.io/github/release-date/zer0kerbal/MoreServiceBays?style=plastic) ![](https://img.shields.io/github/release-date-pre/zer0kerbal/MoreServiceBays?style=plastic)
 
+  </details>
+   
 ### [KSPChromaControl (KCC)](https://github.com/zer0Kerbal/KSPChromaControl)  
 ![](https://github.com/zer0Kerbal/KSPChromaControl/actions/workflows/greetings.yml/badge.svg) ![](https://github.com/zer0Kerbal/KSPChromaControl/actions/workflows/AVC-VersionFileValidator.yml/badge.svg?branch=master) 
 ![](https://img.shields.io/github/downloads/zer0Kerbal/KSPChromaControl/total?style=plastic) ![](https://img.shields.io/github/repo-size/zer0Kerbal/KSPChromaControl?style=plastic) ![](https://img.shields.io/github/contributors/zer0kerbal/KSPChromaControl?style=plastic) ![](https://img.shields.io/github/release-date/zer0kerbal/KSPChromaControl?style=plastic) ![](https://img.shields.io/github/release-date-pre/zer0kerbal/KSPChromaControl?style=plastic)
