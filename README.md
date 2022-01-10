@@ -38,6 +38,16 @@
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#1](https://github.com/zer0Kerbal/zer0Kerbal/pull/1) in [zer0Kerbal/zer0Kerbal](https://github.com/zer0Kerbal/zer0Kerbal)
+2. ❗️ Closed issue [#2](https://github.com/zer0Kerbal/zer0Kerbal/issues/2) in [zer0Kerbal/zer0Kerbal](https://github.com/zer0Kerbal/zer0Kerbal)
+3. ❗️ Closed issue [#26](https://github.com/cguckes/ksp-chroma/issues/26) in [cguckes/ksp-chroma](https://github.com/cguckes/ksp-chroma)
+4. ❗️ Opened issue [#22](https://github.com/zer0Kerbal/KSPChromaControl/issues/22) in [zer0Kerbal/KSPChromaControl](https://github.com/zer0Kerbal/KSPChromaControl)
+5. 🗣 Commented on [#3](https://github.com/zer0Kerbal/Biomatic/issues/3) in [zer0Kerbal/Biomatic](https://github.com/zer0Kerbal/Biomatic)
+6. 🗣 Commented on [#16](https://github.com/zer0Kerbal/Biomatic/issues/16) in [zer0Kerbal/Biomatic](https://github.com/zer0Kerbal/Biomatic)
+7. 🗣 Commented on [#15](https://github.com/zer0Kerbal/Biomatic/issues/15) in [zer0Kerbal/Biomatic](https://github.com/zer0Kerbal/Biomatic)
+8. ❗️ Closed issue [#12](https://github.com/zer0Kerbal/Biomatic/issues/12) in [zer0Kerbal/Biomatic](https://github.com/zer0Kerbal/Biomatic)
+9. 🗣 Commented on [#12](https://github.com/zer0Kerbal/Biomatic/issues/12) in [zer0Kerbal/Biomatic](https://github.com/zer0Kerbal/Biomatic)
+10. ❗️ Opened issue [#31](https://github.com/zer0Kerbal/Biomatic/issues/31) in [zer0Kerbal/Biomatic](https://github.com/zer0Kerbal/Biomatic)
 <!--END_SECTION:activity-->
 
 </details
