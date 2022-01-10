@@ -154,10 +154,15 @@
 ![](https://github.com/zer0Kerbal/KustomKerbals/actions/workflows/greetings.yml/badge.svg) ![](https://github.com/zer0Kerbal/KustomKerbals/actions/workflows/AVC-VersionFileValidator.yml/badge.svg?branch=master) 
 ![](https://img.shields.io/github/downloads/zer0Kerbal/KustomKerbals/total?style=plastic) ![](https://img.shields.io/github/repo-size/zer0Kerbal/KustomKerbals?style=plastic) ![](https://img.shields.io/github/contributors/zer0kerbal/KustomKerbals?style=plastic) ![](https://img.shields.io/github/release-date/zer0kerbal/KustomKerbals?style=plastic) ![](https://img.shields.io/github/release-date-pre/zer0kerbal/KustomKerbals?style=plastic)
 
+ <details>
+   <summary>Simple series of mods</summary>
+   
 ### [SimpleConstruction! (SCON!)](https://github.com/zer0Kerbal/SimpleConstruction)  
 ![](https://github.com/zer0Kerbal/SimpleConstruction/actions/workflows/greetings.yml/badge.svg) ![](https://github.com/zer0Kerbal/SimpleConstruction/actions/workflows/AVC-VersionFileValidator.yml/badge.svg?branch=master) 
 ![](https://img.shields.io/github/downloads/zer0Kerbal/SimpleConstruction/total?style=plastic) ![](https://img.shields.io/github/repo-size/zer0Kerbal/SimpleConstruction?style=plastic) ![](https://img.shields.io/github/contributors/zer0kerbal/SimpleConstruction?style=plastic) ![](https://img.shields.io/github/release-date/zer0kerbal/SimpleConstruction?style=plastic) ![](https://img.shields.io/github/release-date-pre/zer0kerbal/SimpleConstruction?style=plastic)
 
+  </details>
+  
  <details>
    <summary>More: series of mods</summary>
    
@@ -178,6 +183,24 @@
 ### [KSPChromaControl (KCC)](https://github.com/zer0Kerbal/KSPChromaControl)  
 ![](https://github.com/zer0Kerbal/KSPChromaControl/actions/workflows/greetings.yml/badge.svg) ![](https://github.com/zer0Kerbal/KSPChromaControl/actions/workflows/AVC-VersionFileValidator.yml/badge.svg?branch=master) 
 ![](https://img.shields.io/github/downloads/zer0Kerbal/KSPChromaControl/total?style=plastic) ![](https://img.shields.io/github/repo-size/zer0Kerbal/KSPChromaControl?style=plastic) ![](https://img.shields.io/github/contributors/zer0kerbal/KSPChromaControl?style=plastic) ![](https://img.shields.io/github/release-date/zer0kerbal/KSPChromaControl?style=plastic) ![](https://img.shields.io/github/release-date-pre/zer0kerbal/KSPChromaControl?style=plastic)
+  
+  ### VanguardAstrodynamics
+  
+ <details>
+   <summary>VanguardAstrodynamics</summary>
+   
+- VXSeriesI
+- VXSeriesII
+- Rodent
+- KickbackBoosterSegments
+- VanguardAstrodynamics
+- CustomClusters
+- CustomClusters-Stock
+- HeatManagement
+- KineticPenetrator
+- VanguardAstrodynamics.Unity
+
+  </details>
   
 # WHY - Mission Statement
 
