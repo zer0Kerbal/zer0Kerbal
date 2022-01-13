@@ -38,16 +38,16 @@
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/zer0Kerbal/zer0Kerbal/pull/1) in [zer0Kerbal/zer0Kerbal](https://github.com/zer0Kerbal/zer0Kerbal)
-2. ❗️ Closed issue [#2](https://github.com/zer0Kerbal/zer0Kerbal/issues/2) in [zer0Kerbal/zer0Kerbal](https://github.com/zer0Kerbal/zer0Kerbal)
-3. ❗️ Closed issue [#26](https://github.com/cguckes/ksp-chroma/issues/26) in [cguckes/ksp-chroma](https://github.com/cguckes/ksp-chroma)
-4. ❗️ Opened issue [#22](https://github.com/zer0Kerbal/KSPChromaControl/issues/22) in [zer0Kerbal/KSPChromaControl](https://github.com/zer0Kerbal/KSPChromaControl)
-5. 🗣 Commented on [#3](https://github.com/zer0Kerbal/Biomatic/issues/3) in [zer0Kerbal/Biomatic](https://github.com/zer0Kerbal/Biomatic)
-6. 🗣 Commented on [#16](https://github.com/zer0Kerbal/Biomatic/issues/16) in [zer0Kerbal/Biomatic](https://github.com/zer0Kerbal/Biomatic)
-7. 🗣 Commented on [#15](https://github.com/zer0Kerbal/Biomatic/issues/15) in [zer0Kerbal/Biomatic](https://github.com/zer0Kerbal/Biomatic)
-8. ❗️ Closed issue [#12](https://github.com/zer0Kerbal/Biomatic/issues/12) in [zer0Kerbal/Biomatic](https://github.com/zer0Kerbal/Biomatic)
-9. 🗣 Commented on [#12](https://github.com/zer0Kerbal/Biomatic/issues/12) in [zer0Kerbal/Biomatic](https://github.com/zer0Kerbal/Biomatic)
-10. ❗️ Opened issue [#31](https://github.com/zer0Kerbal/Biomatic/issues/31) in [zer0Kerbal/Biomatic](https://github.com/zer0Kerbal/Biomatic)
+1. ❗️ Closed issue [#14](https://github.com/zer0Kerbal/Pteron/issues/14) in [zer0Kerbal/Pteron](https://github.com/zer0Kerbal/Pteron)
+2. 🎉 Merged PR [#46](https://github.com/zer0Kerbal/Pteron/pull/46) in [zer0Kerbal/Pteron](https://github.com/zer0Kerbal/Pteron)
+3. ❗️ Closed issue [#44](https://github.com/zer0Kerbal/Pteron/issues/44) in [zer0Kerbal/Pteron](https://github.com/zer0Kerbal/Pteron)
+4. ❗️ Closed issue [#18](https://github.com/zer0Kerbal/Pteron/issues/18) in [zer0Kerbal/Pteron](https://github.com/zer0Kerbal/Pteron)
+5. ❗️ Closed issue [#17](https://github.com/zer0Kerbal/Pteron/issues/17) in [zer0Kerbal/Pteron](https://github.com/zer0Kerbal/Pteron)
+6. ❗️ Closed issue [#15](https://github.com/zer0Kerbal/Pteron/issues/15) in [zer0Kerbal/Pteron](https://github.com/zer0Kerbal/Pteron)
+7. ❗️ Closed issue [#16](https://github.com/zer0Kerbal/Pteron/issues/16) in [zer0Kerbal/Pteron](https://github.com/zer0Kerbal/Pteron)
+8. ❗️ Closed issue [#13](https://github.com/zer0Kerbal/Pteron/issues/13) in [zer0Kerbal/Pteron](https://github.com/zer0Kerbal/Pteron)
+9. ❗️ Closed issue [#27](https://github.com/zer0Kerbal/Pteron/issues/27) in [zer0Kerbal/Pteron](https://github.com/zer0Kerbal/Pteron)
+10. ❗️ Closed issue [#22](https://github.com/zer0Kerbal/Pteron/issues/22) in [zer0Kerbal/Pteron](https://github.com/zer0Kerbal/Pteron)
 <!--END_SECTION:activity-->
 
 </details
