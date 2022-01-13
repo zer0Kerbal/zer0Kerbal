@@ -38,16 +38,16 @@
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#14](https://github.com/zer0Kerbal/Pteron/issues/14) in [zer0Kerbal/Pteron](https://github.com/zer0Kerbal/Pteron)
-2. 🎉 Merged PR [#46](https://github.com/zer0Kerbal/Pteron/pull/46) in [zer0Kerbal/Pteron](https://github.com/zer0Kerbal/Pteron)
-3. ❗️ Closed issue [#44](https://github.com/zer0Kerbal/Pteron/issues/44) in [zer0Kerbal/Pteron](https://github.com/zer0Kerbal/Pteron)
-4. ❗️ Closed issue [#18](https://github.com/zer0Kerbal/Pteron/issues/18) in [zer0Kerbal/Pteron](https://github.com/zer0Kerbal/Pteron)
-5. ❗️ Closed issue [#17](https://github.com/zer0Kerbal/Pteron/issues/17) in [zer0Kerbal/Pteron](https://github.com/zer0Kerbal/Pteron)
-6. ❗️ Closed issue [#15](https://github.com/zer0Kerbal/Pteron/issues/15) in [zer0Kerbal/Pteron](https://github.com/zer0Kerbal/Pteron)
-7. ❗️ Closed issue [#16](https://github.com/zer0Kerbal/Pteron/issues/16) in [zer0Kerbal/Pteron](https://github.com/zer0Kerbal/Pteron)
-8. ❗️ Closed issue [#13](https://github.com/zer0Kerbal/Pteron/issues/13) in [zer0Kerbal/Pteron](https://github.com/zer0Kerbal/Pteron)
-9. ❗️ Closed issue [#27](https://github.com/zer0Kerbal/Pteron/issues/27) in [zer0Kerbal/Pteron](https://github.com/zer0Kerbal/Pteron)
-10. ❗️ Closed issue [#22](https://github.com/zer0Kerbal/Pteron/issues/22) in [zer0Kerbal/Pteron](https://github.com/zer0Kerbal/Pteron)
+1. 💪 Opened PR [#17](https://github.com/zer0Kerbal/Komplexity/pull/17) in [zer0Kerbal/Komplexity](https://github.com/zer0Kerbal/Komplexity)
+2. 🗣 Commented on [#27](https://github.com/zer0Kerbal/ScrapYard/issues/27) in [zer0Kerbal/ScrapYard](https://github.com/zer0Kerbal/ScrapYard)
+3. ❗️ Opened issue [#27](https://github.com/zer0Kerbal/ScrapYard/issues/27) in [zer0Kerbal/ScrapYard](https://github.com/zer0Kerbal/ScrapYard)
+4. ❗️ Closed issue [#14](https://github.com/zer0Kerbal/Pteron/issues/14) in [zer0Kerbal/Pteron](https://github.com/zer0Kerbal/Pteron)
+5. 🎉 Merged PR [#46](https://github.com/zer0Kerbal/Pteron/pull/46) in [zer0Kerbal/Pteron](https://github.com/zer0Kerbal/Pteron)
+6. ❗️ Closed issue [#44](https://github.com/zer0Kerbal/Pteron/issues/44) in [zer0Kerbal/Pteron](https://github.com/zer0Kerbal/Pteron)
+7. ❗️ Closed issue [#18](https://github.com/zer0Kerbal/Pteron/issues/18) in [zer0Kerbal/Pteron](https://github.com/zer0Kerbal/Pteron)
+8. ❗️ Closed issue [#17](https://github.com/zer0Kerbal/Pteron/issues/17) in [zer0Kerbal/Pteron](https://github.com/zer0Kerbal/Pteron)
+9. ❗️ Closed issue [#15](https://github.com/zer0Kerbal/Pteron/issues/15) in [zer0Kerbal/Pteron](https://github.com/zer0Kerbal/Pteron)
+10. ❗️ Closed issue [#16](https://github.com/zer0Kerbal/Pteron/issues/16) in [zer0Kerbal/Pteron](https://github.com/zer0Kerbal/Pteron)
 <!--END_SECTION:activity-->
 
 </details
