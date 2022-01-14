@@ -152,6 +152,10 @@
 ![](https://github.com/zer0Kerbal/JoolianDiscovery/actions/workflows/greetings.yml/badge.svg) ![](https://github.com/zer0Kerbal/JoolianDiscovery/actions/workflows/AVC-VersionFileValidator.yml/badge.svg?branch=master) 
 ![](https://img.shields.io/github/downloads/zer0Kerbal/JoolianDiscovery/total?style=plastic) ![](https://img.shields.io/github/repo-size/zer0Kerbal/JoolianDiscovery?style=plastic) ![](https://img.shields.io/github/contributors/zer0kerbal/JoolianDiscovery?style=plastic) ![](https://img.shields.io/github/release-date/zer0kerbal/JoolianDiscovery?style=plastic) ![](https://img.shields.io/github/release-date-pre/zer0kerbal/JoolianDiscovery?style=plastic)
 
+### [Fuel Tanks Plus (FTP)](https://github.com/zer0Kerbal/FuelTanksPlus)  
+![](https://github.com/zer0Kerbal/FuelTanksPlus/actions/workflows/greetings.yml/badge.svg) ![](https://github.com/zer0Kerbal/FuelTanksPlus/actions/workflows/AVC-VersionFileValidator.yml/badge.svg?branch=master) 
+![](https://img.shields.io/github/downloads/zer0Kerbal/FuelTanksPlus/total?style=plastic) ![](https://img.shields.io/github/repo-size/zer0Kerbal/FuelTanksPlus?style=plastic) ![](https://img.shields.io/github/contributors/zer0kerbal/FuelTanksPlus?style=plastic) ![](https://img.shields.io/github/release-date/zer0kerbal/FuelTanksPlus?style=plastic) ![](https://img.shields.io/github/release-date-pre/zer0kerbal/FuelTanksPlus?style=plastic)
+
 ### [SpaceY Heavy Lifters (SYHL)](https://github.com/zer0Kerbal/SpaceY-Lifters)  
 ![](https://github.com/zer0Kerbal/SpaceY-Lifters/actions/workflows/greetings.yml/badge.svg) ![](https://github.com/zer0Kerbal/SpaceY-Lifters/actions/workflows/AVC-VersionFileValidator.yml/badge.svg?branch=master) 
 ![](https://img.shields.io/github/downloads/zer0Kerbal/SpaceY-Lifters/total?style=plastic) ![](https://img.shields.io/github/repo-size/zer0Kerbal/SpaceY-Lifters?style=plastic) ![](https://img.shields.io/github/contributors/zer0kerbal/SpaceY-Lifters?style=plastic) ![](https://img.shields.io/github/release-date/zer0kerbal/SpaceY-Lifters?style=plastic) ![](https://img.shields.io/github/release-date-pre/zer0kerbal/SpaceY-Lifters?style=plastic)
