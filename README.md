@@ -38,16 +38,16 @@
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#27](https://github.com/zer0Kerbal/Komplexity/pull/27) in [zer0Kerbal/Komplexity](https://github.com/zer0Kerbal/Komplexity)
-2. ❗️ Closed issue [#21](https://github.com/zer0Kerbal/Komplexity/issues/21) in [zer0Kerbal/Komplexity](https://github.com/zer0Kerbal/Komplexity)
-3. ❗️ Closed issue [#20](https://github.com/zer0Kerbal/Komplexity/issues/20) in [zer0Kerbal/Komplexity](https://github.com/zer0Kerbal/Komplexity)
-4. ❗️ Closed issue [#22](https://github.com/zer0Kerbal/Komplexity/issues/22) in [zer0Kerbal/Komplexity](https://github.com/zer0Kerbal/Komplexity)
-5. ❗️ Closed issue [#24](https://github.com/zer0Kerbal/Komplexity/issues/24) in [zer0Kerbal/Komplexity](https://github.com/zer0Kerbal/Komplexity)
-6. ❗️ Closed issue [#23](https://github.com/zer0Kerbal/Komplexity/issues/23) in [zer0Kerbal/Komplexity](https://github.com/zer0Kerbal/Komplexity)
-7. ❗️ Closed issue [#25](https://github.com/zer0Kerbal/Komplexity/issues/25) in [zer0Kerbal/Komplexity](https://github.com/zer0Kerbal/Komplexity)
-8. ❗️ Closed issue [#19](https://github.com/zer0Kerbal/Komplexity/issues/19) in [zer0Kerbal/Komplexity](https://github.com/zer0Kerbal/Komplexity)
-9. ❗️ Closed issue [#16](https://github.com/zer0Kerbal/Komplexity/issues/16) in [zer0Kerbal/Komplexity](https://github.com/zer0Kerbal/Komplexity)
-10. 💪 Opened PR [#27](https://github.com/zer0Kerbal/Komplexity/pull/27) in [zer0Kerbal/Komplexity](https://github.com/zer0Kerbal/Komplexity)
+1. ❗️ Opened issue [#29](https://github.com/zer0Kerbal/Komplexity/issues/29) in [zer0Kerbal/Komplexity](https://github.com/zer0Kerbal/Komplexity)
+2. 🎉 Merged PR [#27](https://github.com/zer0Kerbal/Komplexity/pull/27) in [zer0Kerbal/Komplexity](https://github.com/zer0Kerbal/Komplexity)
+3. ❗️ Closed issue [#21](https://github.com/zer0Kerbal/Komplexity/issues/21) in [zer0Kerbal/Komplexity](https://github.com/zer0Kerbal/Komplexity)
+4. ❗️ Closed issue [#20](https://github.com/zer0Kerbal/Komplexity/issues/20) in [zer0Kerbal/Komplexity](https://github.com/zer0Kerbal/Komplexity)
+5. ❗️ Closed issue [#22](https://github.com/zer0Kerbal/Komplexity/issues/22) in [zer0Kerbal/Komplexity](https://github.com/zer0Kerbal/Komplexity)
+6. ❗️ Closed issue [#24](https://github.com/zer0Kerbal/Komplexity/issues/24) in [zer0Kerbal/Komplexity](https://github.com/zer0Kerbal/Komplexity)
+7. ❗️ Closed issue [#23](https://github.com/zer0Kerbal/Komplexity/issues/23) in [zer0Kerbal/Komplexity](https://github.com/zer0Kerbal/Komplexity)
+8. ❗️ Closed issue [#25](https://github.com/zer0Kerbal/Komplexity/issues/25) in [zer0Kerbal/Komplexity](https://github.com/zer0Kerbal/Komplexity)
+9. ❗️ Closed issue [#19](https://github.com/zer0Kerbal/Komplexity/issues/19) in [zer0Kerbal/Komplexity](https://github.com/zer0Kerbal/Komplexity)
+10. ❗️ Closed issue [#16](https://github.com/zer0Kerbal/Komplexity/issues/16) in [zer0Kerbal/Komplexity](https://github.com/zer0Kerbal/Komplexity)
 <!--END_SECTION:activity-->
 
 </details
