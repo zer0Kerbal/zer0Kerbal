@@ -38,16 +38,16 @@
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#53](https://github.com/zer0Kerbal/TheGoldStandard/issues/53) in [zer0Kerbal/TheGoldStandard](https://github.com/zer0Kerbal/TheGoldStandard)
-2. 💪 Opened PR [#18](https://github.com/KSPSnark/IndicatorLights/pull/18) in [KSPSnark/IndicatorLights](https://github.com/KSPSnark/IndicatorLights)
-3. 💪 Opened PR [#8965](https://github.com/KSP-CKAN/NetKAN/pull/8965) in [KSP-CKAN/NetKAN](https://github.com/KSP-CKAN/NetKAN)
-4. ❗️ Opened issue [#29](https://github.com/zer0Kerbal/Komplexity/issues/29) in [zer0Kerbal/Komplexity](https://github.com/zer0Kerbal/Komplexity)
-5. 🎉 Merged PR [#27](https://github.com/zer0Kerbal/Komplexity/pull/27) in [zer0Kerbal/Komplexity](https://github.com/zer0Kerbal/Komplexity)
-6. ❗️ Closed issue [#21](https://github.com/zer0Kerbal/Komplexity/issues/21) in [zer0Kerbal/Komplexity](https://github.com/zer0Kerbal/Komplexity)
-7. ❗️ Closed issue [#20](https://github.com/zer0Kerbal/Komplexity/issues/20) in [zer0Kerbal/Komplexity](https://github.com/zer0Kerbal/Komplexity)
-8. ❗️ Closed issue [#22](https://github.com/zer0Kerbal/Komplexity/issues/22) in [zer0Kerbal/Komplexity](https://github.com/zer0Kerbal/Komplexity)
-9. ❗️ Closed issue [#24](https://github.com/zer0Kerbal/Komplexity/issues/24) in [zer0Kerbal/Komplexity](https://github.com/zer0Kerbal/Komplexity)
-10. ❗️ Closed issue [#23](https://github.com/zer0Kerbal/Komplexity/issues/23) in [zer0Kerbal/Komplexity](https://github.com/zer0Kerbal/Komplexity)
+1. 🗣 Commented on [#93](https://github.com/zer0Kerbal/MoarKerbals/issues/93) in [zer0Kerbal/MoarKerbals](https://github.com/zer0Kerbal/MoarKerbals)
+2. ❗️ Opened issue [#53](https://github.com/zer0Kerbal/TheGoldStandard/issues/53) in [zer0Kerbal/TheGoldStandard](https://github.com/zer0Kerbal/TheGoldStandard)
+3. 💪 Opened PR [#18](https://github.com/KSPSnark/IndicatorLights/pull/18) in [KSPSnark/IndicatorLights](https://github.com/KSPSnark/IndicatorLights)
+4. 💪 Opened PR [#8965](https://github.com/KSP-CKAN/NetKAN/pull/8965) in [KSP-CKAN/NetKAN](https://github.com/KSP-CKAN/NetKAN)
+5. ❗️ Opened issue [#29](https://github.com/zer0Kerbal/Komplexity/issues/29) in [zer0Kerbal/Komplexity](https://github.com/zer0Kerbal/Komplexity)
+6. 🎉 Merged PR [#27](https://github.com/zer0Kerbal/Komplexity/pull/27) in [zer0Kerbal/Komplexity](https://github.com/zer0Kerbal/Komplexity)
+7. ❗️ Closed issue [#21](https://github.com/zer0Kerbal/Komplexity/issues/21) in [zer0Kerbal/Komplexity](https://github.com/zer0Kerbal/Komplexity)
+8. ❗️ Closed issue [#20](https://github.com/zer0Kerbal/Komplexity/issues/20) in [zer0Kerbal/Komplexity](https://github.com/zer0Kerbal/Komplexity)
+9. ❗️ Closed issue [#22](https://github.com/zer0Kerbal/Komplexity/issues/22) in [zer0Kerbal/Komplexity](https://github.com/zer0Kerbal/Komplexity)
+10. ❗️ Closed issue [#24](https://github.com/zer0Kerbal/Komplexity/issues/24) in [zer0Kerbal/Komplexity](https://github.com/zer0Kerbal/Komplexity)
 <!--END_SECTION:activity-->
 
 </details
