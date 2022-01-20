@@ -38,16 +38,16 @@
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#24](https://github.com/zer0Kerbal/CoyoteCargoFreighter/pull/24) in [zer0Kerbal/CoyoteCargoFreighter](https://github.com/zer0Kerbal/CoyoteCargoFreighter)
-2. 💪 Opened PR [#24](https://github.com/zer0Kerbal/CoyoteCargoFreighter/pull/24) in [zer0Kerbal/CoyoteCargoFreighter](https://github.com/zer0Kerbal/CoyoteCargoFreighter)
-3. 🎉 Merged PR [#63](https://github.com/zer0Kerbal/LithobrakeExplorationTechnologies/pull/63) in [zer0Kerbal/LithobrakeExplorationTechnologies](https://github.com/zer0Kerbal/LithobrakeExplorationTechnologies)
-4. ❗️ Closed issue [#62](https://github.com/zer0Kerbal/LithobrakeExplorationTechnologies/issues/62) in [zer0Kerbal/LithobrakeExplorationTechnologies](https://github.com/zer0Kerbal/LithobrakeExplorationTechnologies)
-5. 💪 Opened PR [#63](https://github.com/zer0Kerbal/LithobrakeExplorationTechnologies/pull/63) in [zer0Kerbal/LithobrakeExplorationTechnologies](https://github.com/zer0Kerbal/LithobrakeExplorationTechnologies)
-6. ❗️ Opened issue [#62](https://github.com/zer0Kerbal/LithobrakeExplorationTechnologies/issues/62) in [zer0Kerbal/LithobrakeExplorationTechnologies](https://github.com/zer0Kerbal/LithobrakeExplorationTechnologies)
-7. 🎉 Merged PR [#60](https://github.com/zer0Kerbal/LithobrakeExplorationTechnologies/pull/60) in [zer0Kerbal/LithobrakeExplorationTechnologies](https://github.com/zer0Kerbal/LithobrakeExplorationTechnologies)
-8. ❗️ Closed issue [#21](https://github.com/zer0Kerbal/LithobrakeExplorationTechnologies/issues/21) in [zer0Kerbal/LithobrakeExplorationTechnologies](https://github.com/zer0Kerbal/LithobrakeExplorationTechnologies)
-9. ❗️ Closed issue [#9](https://github.com/zer0Kerbal/LithobrakeExplorationTechnologies/issues/9) in [zer0Kerbal/LithobrakeExplorationTechnologies](https://github.com/zer0Kerbal/LithobrakeExplorationTechnologies)
-10. 💪 Opened PR [#60](https://github.com/zer0Kerbal/LithobrakeExplorationTechnologies/pull/60) in [zer0Kerbal/LithobrakeExplorationTechnologies](https://github.com/zer0Kerbal/LithobrakeExplorationTechnologies)
+1. 🎉 Merged PR [#27](https://github.com/zer0Kerbal/CoyoteCargoFreighter/pull/27) in [zer0Kerbal/CoyoteCargoFreighter](https://github.com/zer0Kerbal/CoyoteCargoFreighter)
+2. ❗️ Opened issue [#47](https://github.com/zer0Kerbal/CoyoteCargoFreighter/issues/47) in [zer0Kerbal/CoyoteCargoFreighter](https://github.com/zer0Kerbal/CoyoteCargoFreighter)
+3. ❗️ Opened issue [#46](https://github.com/zer0Kerbal/CoyoteCargoFreighter/issues/46) in [zer0Kerbal/CoyoteCargoFreighter](https://github.com/zer0Kerbal/CoyoteCargoFreighter)
+4. ❗️ Opened issue [#45](https://github.com/zer0Kerbal/CoyoteCargoFreighter/issues/45) in [zer0Kerbal/CoyoteCargoFreighter](https://github.com/zer0Kerbal/CoyoteCargoFreighter)
+5. ❗️ Opened issue [#44](https://github.com/zer0Kerbal/CoyoteCargoFreighter/issues/44) in [zer0Kerbal/CoyoteCargoFreighter](https://github.com/zer0Kerbal/CoyoteCargoFreighter)
+6. ❗️ Opened issue [#43](https://github.com/zer0Kerbal/CoyoteCargoFreighter/issues/43) in [zer0Kerbal/CoyoteCargoFreighter](https://github.com/zer0Kerbal/CoyoteCargoFreighter)
+7. ❗️ Opened issue [#42](https://github.com/zer0Kerbal/CoyoteCargoFreighter/issues/42) in [zer0Kerbal/CoyoteCargoFreighter](https://github.com/zer0Kerbal/CoyoteCargoFreighter)
+8. ❗️ Opened issue [#41](https://github.com/zer0Kerbal/CoyoteCargoFreighter/issues/41) in [zer0Kerbal/CoyoteCargoFreighter](https://github.com/zer0Kerbal/CoyoteCargoFreighter)
+9. ❗️ Opened issue [#40](https://github.com/zer0Kerbal/CoyoteCargoFreighter/issues/40) in [zer0Kerbal/CoyoteCargoFreighter](https://github.com/zer0Kerbal/CoyoteCargoFreighter)
+10. ❗️ Opened issue [#39](https://github.com/zer0Kerbal/CoyoteCargoFreighter/issues/39) in [zer0Kerbal/CoyoteCargoFreighter](https://github.com/zer0Kerbal/CoyoteCargoFreighter)
 <!--END_SECTION:activity-->
 
 </details
