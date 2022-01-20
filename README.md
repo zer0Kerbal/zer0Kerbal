@@ -38,16 +38,16 @@
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#22](https://github.com/zer0Kerbal/SolarScience/issues/22) in [zer0Kerbal/SolarScience](https://github.com/zer0Kerbal/SolarScience)
-2. 🗣 Commented on [#47](https://github.com/zer0Kerbal/MiniSampleReturnCapsule/issues/47) in [zer0Kerbal/MiniSampleReturnCapsule](https://github.com/zer0Kerbal/MiniSampleReturnCapsule)
-3. ❗️ Opened issue [#47](https://github.com/zer0Kerbal/MiniSampleReturnCapsule/issues/47) in [zer0Kerbal/MiniSampleReturnCapsule](https://github.com/zer0Kerbal/MiniSampleReturnCapsule)
-4. 🗣 Commented on [#93](https://github.com/zer0Kerbal/MoarKerbals/issues/93) in [zer0Kerbal/MoarKerbals](https://github.com/zer0Kerbal/MoarKerbals)
-5. ❗️ Opened issue [#53](https://github.com/zer0Kerbal/TheGoldStandard/issues/53) in [zer0Kerbal/TheGoldStandard](https://github.com/zer0Kerbal/TheGoldStandard)
-6. 💪 Opened PR [#18](https://github.com/KSPSnark/IndicatorLights/pull/18) in [KSPSnark/IndicatorLights](https://github.com/KSPSnark/IndicatorLights)
-7. 💪 Opened PR [#8965](https://github.com/KSP-CKAN/NetKAN/pull/8965) in [KSP-CKAN/NetKAN](https://github.com/KSP-CKAN/NetKAN)
-8. ❗️ Opened issue [#29](https://github.com/zer0Kerbal/Komplexity/issues/29) in [zer0Kerbal/Komplexity](https://github.com/zer0Kerbal/Komplexity)
-9. 🎉 Merged PR [#27](https://github.com/zer0Kerbal/Komplexity/pull/27) in [zer0Kerbal/Komplexity](https://github.com/zer0Kerbal/Komplexity)
-10. ❗️ Closed issue [#21](https://github.com/zer0Kerbal/Komplexity/issues/21) in [zer0Kerbal/Komplexity](https://github.com/zer0Kerbal/Komplexity)
+1. ❗️ Opened issue [#22](https://github.com/zer0Kerbal/LithobrakeExplorationTechnologies/issues/22) in [zer0Kerbal/LithobrakeExplorationTechnologies](https://github.com/zer0Kerbal/LithobrakeExplorationTechnologies)
+2. ❗️ Opened issue [#21](https://github.com/zer0Kerbal/LithobrakeExplorationTechnologies/issues/21) in [zer0Kerbal/LithobrakeExplorationTechnologies](https://github.com/zer0Kerbal/LithobrakeExplorationTechnologies)
+3. ❗️ Opened issue [#20](https://github.com/zer0Kerbal/LithobrakeExplorationTechnologies/issues/20) in [zer0Kerbal/LithobrakeExplorationTechnologies](https://github.com/zer0Kerbal/LithobrakeExplorationTechnologies)
+4. ❗️ Opened issue [#19](https://github.com/zer0Kerbal/LithobrakeExplorationTechnologies/issues/19) in [zer0Kerbal/LithobrakeExplorationTechnologies](https://github.com/zer0Kerbal/LithobrakeExplorationTechnologies)
+5. ❗️ Opened issue [#18](https://github.com/zer0Kerbal/LithobrakeExplorationTechnologies/issues/18) in [zer0Kerbal/LithobrakeExplorationTechnologies](https://github.com/zer0Kerbal/LithobrakeExplorationTechnologies)
+6. ❗️ Opened issue [#17](https://github.com/zer0Kerbal/LithobrakeExplorationTechnologies/issues/17) in [zer0Kerbal/LithobrakeExplorationTechnologies](https://github.com/zer0Kerbal/LithobrakeExplorationTechnologies)
+7. ❗️ Opened issue [#16](https://github.com/zer0Kerbal/LithobrakeExplorationTechnologies/issues/16) in [zer0Kerbal/LithobrakeExplorationTechnologies](https://github.com/zer0Kerbal/LithobrakeExplorationTechnologies)
+8. ❗️ Opened issue [#15](https://github.com/zer0Kerbal/LithobrakeExplorationTechnologies/issues/15) in [zer0Kerbal/LithobrakeExplorationTechnologies](https://github.com/zer0Kerbal/LithobrakeExplorationTechnologies)
+9. ❗️ Opened issue [#14](https://github.com/zer0Kerbal/LithobrakeExplorationTechnologies/issues/14) in [zer0Kerbal/LithobrakeExplorationTechnologies](https://github.com/zer0Kerbal/LithobrakeExplorationTechnologies)
+10. ❗️ Opened issue [#13](https://github.com/zer0Kerbal/LithobrakeExplorationTechnologies/issues/13) in [zer0Kerbal/LithobrakeExplorationTechnologies](https://github.com/zer0Kerbal/LithobrakeExplorationTechnologies)
 <!--END_SECTION:activity-->
 
 </details
