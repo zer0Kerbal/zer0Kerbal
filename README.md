@@ -67,7 +67,7 @@
   <details>
     <summary>Additional Cards</summary>
     
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zer0Kerbal&repo=AeroRadial)](https://github.com/zer0Kerbal/AeroRadial) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zer0Kerbal&repo=Fuselage)](https://github.com/zer0Kerbal/Fuselage) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zer0Kerbal&repo=SphericalTanks)](https://github.com/zer0Kerbal/SphericalTanks) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zer0Kerbal&repo=Cargobays)](https://github.com/zer0Kerbal/CargoBays)  
+
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zer0Kerbal&repo=Pteron)](https://github.com/zer0Kerbal/Pteron)  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zer0Kerbal&repo=Dreamer)](https://github.com/zer0Kerbal/Dreamer)  
 
@@ -102,8 +102,40 @@
 ![](https://img.shields.io/github/release-date/zer0kerbal/Biomatic?style=plastic)
 ![](https://img.shields.io/github/release-date-pre/zer0kerbal/Biomatic?style=plastic)
 
- <details>
-   <summary>Holiday</summary>
+<details>
+   <summary>DaMichel's</summary>
+  
+   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zer0Kerbal&repo=DaMichel)](https://github.com/zer0Kerbal/DaMichel)   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zer0Kerbal&repo=AeroRadial)](https://github.com/zer0Kerbal/AeroRadial) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zer0Kerbal&repo=Fuselage)](https://github.com/zer0Kerbal/Fuselage) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zer0Kerbal&repo=SphericalTanks)](https://github.com/zer0Kerbal/SphericalTanks) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zer0Kerbal&repo=Cargobays)](https://github.com/zer0Kerbal/CargoBays) 
+
+### [DaMichel's Part Pack (DMPP)](https://github.com/zer0Kerbal/DaMichel)
+  
+  ![](https://github.com/zer0Kerbal/DaMichel/actions/workflows/greetings.yml/badge.svg) ![](https://github.com/zer0Kerbal/DaMichel/actions/workflows/AVC-VersionFileValidator.yml/badge.svg?branch=master) 
+  ![](https://img.shields.io/github/downloads/zer0Kerbal/DaMichel/total?style=plastic) ![](https://img.shields.io/github/repo-size/zer0Kerbal/DaMichel?style=plastic) ![](https://img.shields.io/github/contributors/zer0kerbal/DaMichel?style=plastic) ![](https://img.shields.io/github/release-date/zer0kerbal/DaMichel?style=plastic) ![](https://img.shields.io/github/release-date-pre/zer0kerbal/DaMichel?style=plastic)
+
+### [AeroRadial (DMAR)](https://github.com/zer0Kerbal/AeroRadial)
+  
+  ![](https://github.com/zer0Kerbal/AeroRadial/actions/workflows/greetings.yml/badge.svg) ![](https://github.com/zer0Kerbal/AeroRadial/actions/workflows/AVC-VersionFileValidator.yml/badge.svg?branch=master) 
+  ![](https://img.shields.io/github/downloads/zer0Kerbal/AeroRadial/total?style=plastic) ![](https://img.shields.io/github/repo-size/zer0Kerbal/AeroRadial?style=plastic) ![](https://img.shields.io/github/contributors/zer0kerbal/AeroRadial?style=plastic) ![](https://img.shields.io/github/release-date/zer0kerbal/AeroRadial?style=plastic) ![](https://img.shields.io/github/release-date-pre/zer0kerbal/AeroRadial?style=plastic)
+
+### [Fuselage (DMFS)](https://github.com/zer0Kerbal/Fuselage)
+  
+  ![](https://github.com/zer0Kerbal/Fuselage/actions/workflows/greetings.yml/badge.svg) ![](https://github.com/zer0Kerbal/Fuselage/actions/workflows/AVC-VersionFileValidator.yml/badge.svg?branch=master) 
+  ![](https://img.shields.io/github/downloads/zer0Kerbal/Fuselage/total?style=plastic) ![](https://img.shields.io/github/repo-size/zer0Kerbal/Fuselage?style=plastic) ![](https://img.shields.io/github/contributors/zer0kerbal/Fuselage?style=plastic) ![](https://img.shields.io/github/release-date/zer0kerbal/Fuselage?style=plastic) ![](https://img.shields.io/github/release-date-pre/zer0kerbal/Fuselage?style=plastic)
+
+### [CargoBays (DMCB)](https://github.com/zer0Kerbal/CargoBays)
+  
+  ![](https://github.com/zer0Kerbal/CargoBays/actions/workflows/greetings.yml/badge.svg) ![](https://github.com/zer0Kerbal/CargoBays/actions/workflows/AVC-VersionFileValidator.yml/badge.svg?branch=master) 
+  ![](https://img.shields.io/github/downloads/zer0Kerbal/CargoBays/total?style=plastic) ![](https://img.shields.io/github/repo-size/zer0Kerbal/CargoBays?style=plastic) ![](https://img.shields.io/github/contributors/zer0kerbal/CargoBays?style=plastic) ![](https://img.shields.io/github/release-date/zer0kerbal/CargoBays?style=plastic) ![](https://img.shields.io/github/release-date-pre/zer0kerbal/CargoBays?style=plastic)
+
+### [SphericalTanks (DMST)](https://github.com/zer0Kerbal/SphericalTanks)
+  
+  ![](https://github.com/zer0Kerbal/SphericalTanks/actions/workflows/greetings.yml/badge.svg) ![](https://github.com/zer0Kerbal/SphericalTanks/actions/workflows/AVC-VersionFileValidator.yml/badge.svg?branch=master) 
+  ![](https://img.shields.io/github/downloads/zer0Kerbal/SphericalTanks/total?style=plastic) ![](https://img.shields.io/github/repo-size/zer0Kerbal/SphericalTanks?style=plastic) ![](https://img.shields.io/github/contributors/zer0kerbal/SphericalTanks?style=plastic) ![](https://img.shields.io/github/release-date/zer0kerbal/SphericalTanks?style=plastic) ![](https://img.shields.io/github/release-date-pre/zer0kerbal/SphericalTanks?style=plastic)
+
+</details>
+
+<details>
+ <summary>Holiday</summary>
    
 ### [JackOLantern](https://github.com/zer0Kerbal/JackOLantern)  
 [![greetings.yml](https://github.com/zer0Kerbal/JackOLantern/actions/workflows/greetings.yml/badge.svg)](https://github.com/zer0Kerbal/JackOLantern/actions/workflows/greetings.yml) ![](https://github.com/zer0Kerbal/JackOLantern/actions/workflows/AVC-VersionFileValidator.yml/badge.svg?branch=master)  
