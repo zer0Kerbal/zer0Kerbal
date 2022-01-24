@@ -38,16 +38,16 @@
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#27](https://github.com/zer0Kerbal/Notes/pull/27) in [zer0Kerbal/Notes](https://github.com/zer0Kerbal/Notes)
-2. 💪 Opened PR [#27](https://github.com/zer0Kerbal/Notes/pull/27) in [zer0Kerbal/Notes](https://github.com/zer0Kerbal/Notes)
-3. ❗️ Opened issue [#26](https://github.com/zer0Kerbal/Notes/issues/26) in [zer0Kerbal/Notes](https://github.com/zer0Kerbal/Notes)
-4. ❗️ Opened issue [#25](https://github.com/zer0Kerbal/Notes/issues/25) in [zer0Kerbal/Notes](https://github.com/zer0Kerbal/Notes)
-5. ❗️ Opened issue [#24](https://github.com/zer0Kerbal/Notes/issues/24) in [zer0Kerbal/Notes](https://github.com/zer0Kerbal/Notes)
-6. ❗️ Opened issue [#23](https://github.com/zer0Kerbal/Notes/issues/23) in [zer0Kerbal/Notes](https://github.com/zer0Kerbal/Notes)
-7. ❗️ Opened issue [#22](https://github.com/zer0Kerbal/Notes/issues/22) in [zer0Kerbal/Notes](https://github.com/zer0Kerbal/Notes)
-8. ❗️ Opened issue [#21](https://github.com/zer0Kerbal/Notes/issues/21) in [zer0Kerbal/Notes](https://github.com/zer0Kerbal/Notes)
-9. ❗️ Opened issue [#20](https://github.com/zer0Kerbal/Notes/issues/20) in [zer0Kerbal/Notes](https://github.com/zer0Kerbal/Notes)
-10. ❗️ Opened issue [#19](https://github.com/zer0Kerbal/Notes/issues/19) in [zer0Kerbal/Notes](https://github.com/zer0Kerbal/Notes)
+1. ❗️ Closed issue [#27](https://github.com/zer0Kerbal/TheGoldStandard/issues/27) in [zer0Kerbal/TheGoldStandard](https://github.com/zer0Kerbal/TheGoldStandard)
+2. ❗️ Closed issue [#64](https://github.com/zer0Kerbal/TheGoldStandard/issues/64) in [zer0Kerbal/TheGoldStandard](https://github.com/zer0Kerbal/TheGoldStandard)
+3. ❗️ Closed issue [#63](https://github.com/zer0Kerbal/TheGoldStandard/issues/63) in [zer0Kerbal/TheGoldStandard](https://github.com/zer0Kerbal/TheGoldStandard)
+4. ❗️ Closed issue [#62](https://github.com/zer0Kerbal/TheGoldStandard/issues/62) in [zer0Kerbal/TheGoldStandard](https://github.com/zer0Kerbal/TheGoldStandard)
+5. ❗️ Closed issue [#61](https://github.com/zer0Kerbal/TheGoldStandard/issues/61) in [zer0Kerbal/TheGoldStandard](https://github.com/zer0Kerbal/TheGoldStandard)
+6. ❗️ Closed issue [#60](https://github.com/zer0Kerbal/TheGoldStandard/issues/60) in [zer0Kerbal/TheGoldStandard](https://github.com/zer0Kerbal/TheGoldStandard)
+7. ❗️ Closed issue [#46](https://github.com/zer0Kerbal/TheGoldStandard/issues/46) in [zer0Kerbal/TheGoldStandard](https://github.com/zer0Kerbal/TheGoldStandard)
+8. ❗️ Closed issue [#65](https://github.com/zer0Kerbal/TheGoldStandard/issues/65) in [zer0Kerbal/TheGoldStandard](https://github.com/zer0Kerbal/TheGoldStandard)
+9. ❗️ Closed issue [#44](https://github.com/zer0Kerbal/TheGoldStandard/issues/44) in [zer0Kerbal/TheGoldStandard](https://github.com/zer0Kerbal/TheGoldStandard)
+10. ❗️ Closed issue [#6](https://github.com/zer0Kerbal/TheGoldStandard/issues/6) in [zer0Kerbal/TheGoldStandard](https://github.com/zer0Kerbal/TheGoldStandard)
 <!--END_SECTION:activity-->
 
 </details
@@ -68,8 +68,6 @@
     <summary>Additional Cards</summary>
     
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zer0Kerbal&repo=AeroRadial)](https://github.com/zer0Kerbal/AeroRadial) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zer0Kerbal&repo=Fuselage)](https://github.com/zer0Kerbal/Fuselage) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zer0Kerbal&repo=SphericalTanks)](https://github.com/zer0Kerbal/SphericalTanks) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zer0Kerbal&repo=Cargobays)](https://github.com/zer0Kerbal/CargoBays)  
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zer0Kerbal&repo=SimpleConstruction)](https://github.com/zer0Kerbal/SimpleConstruction)  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zer0Kerbal&repo=SimpleLife)](https://github.com/zer0Kerbal/SimpleLife)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zer0Kerbal&repo=Pteron)](https://github.com/zer0Kerbal/Pteron)  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zer0Kerbal&repo=Dreamer)](https://github.com/zer0Kerbal/Dreamer)  
 
@@ -177,10 +175,28 @@
  <details>
    <summary>Simple series of mods</summary>
    
-### [SimpleConstruction! (SCON!)](https://github.com/zer0Kerbal/SimpleConstruction)  
-![](https://github.com/zer0Kerbal/SimpleConstruction/actions/workflows/greetings.yml/badge.svg) ![](https://github.com/zer0Kerbal/SimpleConstruction/actions/workflows/AVC-VersionFileValidator.yml/badge.svg?branch=master) 
-![](https://img.shields.io/github/downloads/zer0Kerbal/SimpleConstruction/total?style=plastic) ![](https://img.shields.io/github/repo-size/zer0Kerbal/SimpleConstruction?style=plastic) ![](https://img.shields.io/github/contributors/zer0kerbal/SimpleConstruction?style=plastic) ![](https://img.shields.io/github/release-date/zer0kerbal/SimpleConstruction?style=plastic) ![](https://img.shields.io/github/release-date-pre/zer0kerbal/SimpleConstruction?style=plastic)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zer0Kerbal&repo=SimpleConstruction)](https://github.com/zer0Kerbal/SimpleConstruction) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zer0Kerbal&repo=SimpleLogistics)](https://github.com/zer0Kerbal/SimpleLogistics)
+   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zer0Kerbal&repo=SimpleLife)](https://github.com/zer0Kerbal/SimpleLife) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zer0Kerbal&repo=SimpleNotes)](https://github.com/zer0Kerbal/SimpleNotes)
+   
+### [SimpleConstruction! (SCON!)](https://github.com/zer0Kerbal/SimpleConstruction)
+  
+  ![](https://github.com/zer0Kerbal/SimpleConstruction/actions/workflows/greetings.yml/badge.svg) ![](https://github.com/zer0Kerbal/SimpleConstruction/actions/workflows/AVC-VersionFileValidator.yml/badge.svg?branch=master) 
+  ![](https://img.shields.io/github/downloads/zer0Kerbal/SimpleConstruction/total?style=plastic) ![](https://img.shields.io/github/repo-size/zer0Kerbal/SimpleConstruction?style=plastic) ![](https://img.shields.io/github/contributors/zer0kerbal/SimpleConstruction?style=plastic) ![](https://img.shields.io/github/release-date/zer0kerbal/SimpleConstruction?style=plastic) ![](https://img.shields.io/github/release-date-pre/zer0kerbal/SimpleConstruction?style=plastic)
 
+### [SimpleLogistics! (SLOG!)](https://github.com/zer0Kerbal/SimpleLogistics)
+  
+  ![](https://github.com/zer0Kerbal/SimpleLogistics/actions/workflows/greetings.yml/badge.svg) ![](https://github.com/zer0Kerbal/SimpleLogistics/actions/workflows/AVC-VersionFileValidator.yml/badge.svg?branch=master) 
+  ![](https://img.shields.io/github/downloads/zer0Kerbal/SimpleLogistics/total?style=plastic) ![](https://img.shields.io/github/repo-size/zer0Kerbal/SimpleLogistics?style=plastic) ![](https://img.shields.io/github/contributors/zer0kerbal/SimpleLogistics?style=plastic) ![](https://img.shields.io/github/release-date/zer0kerbal/SimpleLogistics?style=plastic) ![](https://img.shields.io/github/release-date-pre/zer0kerbal/SimpleLogistics?style=plastic)
+
+### [SimpleLife! (SLIF!)](https://github.com/zer0Kerbal/SimpleLife)
+  
+  ![](https://github.com/zer0Kerbal/SimpleLife/actions/workflows/greetings.yml/badge.svg) ![](https://github.com/zer0Kerbal/SimpleLife/actions/workflows/AVC-VersionFileValidator.yml/badge.svg?branch=master) 
+  ![](https://img.shields.io/github/downloads/zer0Kerbal/SimpleLife/total?style=plastic) ![](https://img.shields.io/github/repo-size/zer0Kerbal/SimpleLife?style=plastic) ![](https://img.shields.io/github/contributors/zer0kerbal/SimpleLife?style=plastic) ![](https://img.shields.io/github/release-date/zer0kerbal/SimpleLife?style=plastic) ![](https://img.shields.io/github/release-date-pre/zer0kerbal/SimpleLife?style=plastic)
+   
+### [SimpleNotes! (SNOTE)](https://github.com/zer0Kerbal/SimpleNotes)  
+   
+   ![](https://github.com/zer0Kerbal/SimpleNotes/actions/workflows/greetings.yml/badge.svg) ![](https://github.com/zer0Kerbal/SimpleNotes/actions/workflows/AVC-VersionFileValidator.yml/badge.svg?branch=master) 
+   ![](https://img.shields.io/github/downloads/zer0Kerbal/SimpleNotes/total?style=plastic) ![](https://img.shields.io/github/repo-size/zer0Kerbal/SimpleNotes?style=plastic) ![](https://img.shields.io/github/contributors/zer0kerbal/SimpleNotes?style=plastic) ![](https://img.shields.io/github/release-date/zer0kerbal/SimpleNotes?style=plastic) ![](https://img.shields.io/github/release-date-pre/zer0kerbal/SimpleNotes?style=plastic)
   </details>
   
  <details>
