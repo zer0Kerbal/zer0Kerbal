@@ -38,16 +38,16 @@
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#58](https://github.com/zer0Kerbal/TheGoldStandard/issues/58) in [zer0Kerbal/TheGoldStandard](https://github.com/zer0Kerbal/TheGoldStandard)
-2. ❗️ Opened issue [#57](https://github.com/zer0Kerbal/TheGoldStandard/issues/57) in [zer0Kerbal/TheGoldStandard](https://github.com/zer0Kerbal/TheGoldStandard)
-3. ❗️ Opened issue [#56](https://github.com/zer0Kerbal/TheGoldStandard/issues/56) in [zer0Kerbal/TheGoldStandard](https://github.com/zer0Kerbal/TheGoldStandard)
-4. ❗️ Opened issue [#55](https://github.com/zer0Kerbal/TheGoldStandard/issues/55) in [zer0Kerbal/TheGoldStandard](https://github.com/zer0Kerbal/TheGoldStandard)
-5. ❗️ Opened issue [#63](https://github.com/zer0Kerbal/CoyoteCargoFreighter/issues/63) in [zer0Kerbal/CoyoteCargoFreighter](https://github.com/zer0Kerbal/CoyoteCargoFreighter)
-6. ❗️ Opened issue [#62](https://github.com/zer0Kerbal/CoyoteCargoFreighter/issues/62) in [zer0Kerbal/CoyoteCargoFreighter](https://github.com/zer0Kerbal/CoyoteCargoFreighter)
-7. ❗️ Opened issue [#30](https://github.com/zer0Kerbal/Komplexity/issues/30) in [zer0Kerbal/Komplexity](https://github.com/zer0Kerbal/Komplexity)
-8. 🗣 Commented on [#48](https://github.com/zer0Kerbal/Taerobee/issues/48) in [zer0Kerbal/Taerobee](https://github.com/zer0Kerbal/Taerobee)
-9. ❗️ Opened issue [#54](https://github.com/zer0Kerbal/TheGoldStandard/issues/54) in [zer0Kerbal/TheGoldStandard](https://github.com/zer0Kerbal/TheGoldStandard)
-10. 🗣 Commented on [#48](https://github.com/zer0Kerbal/TheGoldStandard/issues/48) in [zer0Kerbal/TheGoldStandard](https://github.com/zer0Kerbal/TheGoldStandard)
+1. ❗️ Closed issue [#34](https://github.com/zer0Kerbal/TheGoldStandard/issues/34) in [zer0Kerbal/TheGoldStandard](https://github.com/zer0Kerbal/TheGoldStandard)
+2. 🎉 Merged PR [#59](https://github.com/zer0Kerbal/TheGoldStandard/pull/59) in [zer0Kerbal/TheGoldStandard](https://github.com/zer0Kerbal/TheGoldStandard)
+3. ❗️ Closed issue [#58](https://github.com/zer0Kerbal/TheGoldStandard/issues/58) in [zer0Kerbal/TheGoldStandard](https://github.com/zer0Kerbal/TheGoldStandard)
+4. ❗️ Closed issue [#57](https://github.com/zer0Kerbal/TheGoldStandard/issues/57) in [zer0Kerbal/TheGoldStandard](https://github.com/zer0Kerbal/TheGoldStandard)
+5. ❗️ Closed issue [#56](https://github.com/zer0Kerbal/TheGoldStandard/issues/56) in [zer0Kerbal/TheGoldStandard](https://github.com/zer0Kerbal/TheGoldStandard)
+6. ❗️ Closed issue [#55](https://github.com/zer0Kerbal/TheGoldStandard/issues/55) in [zer0Kerbal/TheGoldStandard](https://github.com/zer0Kerbal/TheGoldStandard)
+7. ❗️ Closed issue [#54](https://github.com/zer0Kerbal/TheGoldStandard/issues/54) in [zer0Kerbal/TheGoldStandard](https://github.com/zer0Kerbal/TheGoldStandard)
+8. ❗️ Closed issue [#48](https://github.com/zer0Kerbal/TheGoldStandard/issues/48) in [zer0Kerbal/TheGoldStandard](https://github.com/zer0Kerbal/TheGoldStandard)
+9. ❗️ Opened issue [#64](https://github.com/zer0Kerbal/TheGoldStandard/issues/64) in [zer0Kerbal/TheGoldStandard](https://github.com/zer0Kerbal/TheGoldStandard)
+10. ❗️ Opened issue [#63](https://github.com/zer0Kerbal/TheGoldStandard/issues/63) in [zer0Kerbal/TheGoldStandard](https://github.com/zer0Kerbal/TheGoldStandard)
 <!--END_SECTION:activity-->
 
 </details
