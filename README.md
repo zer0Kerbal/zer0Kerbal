@@ -38,16 +38,16 @@
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#34](https://github.com/zer0Kerbal/TheGoldStandard/issues/34) in [zer0Kerbal/TheGoldStandard](https://github.com/zer0Kerbal/TheGoldStandard)
-2. 🎉 Merged PR [#59](https://github.com/zer0Kerbal/TheGoldStandard/pull/59) in [zer0Kerbal/TheGoldStandard](https://github.com/zer0Kerbal/TheGoldStandard)
-3. ❗️ Closed issue [#58](https://github.com/zer0Kerbal/TheGoldStandard/issues/58) in [zer0Kerbal/TheGoldStandard](https://github.com/zer0Kerbal/TheGoldStandard)
-4. ❗️ Closed issue [#57](https://github.com/zer0Kerbal/TheGoldStandard/issues/57) in [zer0Kerbal/TheGoldStandard](https://github.com/zer0Kerbal/TheGoldStandard)
-5. ❗️ Closed issue [#56](https://github.com/zer0Kerbal/TheGoldStandard/issues/56) in [zer0Kerbal/TheGoldStandard](https://github.com/zer0Kerbal/TheGoldStandard)
-6. ❗️ Closed issue [#55](https://github.com/zer0Kerbal/TheGoldStandard/issues/55) in [zer0Kerbal/TheGoldStandard](https://github.com/zer0Kerbal/TheGoldStandard)
-7. ❗️ Closed issue [#54](https://github.com/zer0Kerbal/TheGoldStandard/issues/54) in [zer0Kerbal/TheGoldStandard](https://github.com/zer0Kerbal/TheGoldStandard)
-8. ❗️ Closed issue [#48](https://github.com/zer0Kerbal/TheGoldStandard/issues/48) in [zer0Kerbal/TheGoldStandard](https://github.com/zer0Kerbal/TheGoldStandard)
-9. ❗️ Opened issue [#64](https://github.com/zer0Kerbal/TheGoldStandard/issues/64) in [zer0Kerbal/TheGoldStandard](https://github.com/zer0Kerbal/TheGoldStandard)
-10. ❗️ Opened issue [#63](https://github.com/zer0Kerbal/TheGoldStandard/issues/63) in [zer0Kerbal/TheGoldStandard](https://github.com/zer0Kerbal/TheGoldStandard)
+1. ❗️ Closed issue [#27](https://github.com/zer0Kerbal/TheGoldStandard/issues/27) in [zer0Kerbal/TheGoldStandard](https://github.com/zer0Kerbal/TheGoldStandard)
+2. ❗️ Closed issue [#64](https://github.com/zer0Kerbal/TheGoldStandard/issues/64) in [zer0Kerbal/TheGoldStandard](https://github.com/zer0Kerbal/TheGoldStandard)
+3. ❗️ Closed issue [#63](https://github.com/zer0Kerbal/TheGoldStandard/issues/63) in [zer0Kerbal/TheGoldStandard](https://github.com/zer0Kerbal/TheGoldStandard)
+4. ❗️ Closed issue [#62](https://github.com/zer0Kerbal/TheGoldStandard/issues/62) in [zer0Kerbal/TheGoldStandard](https://github.com/zer0Kerbal/TheGoldStandard)
+5. ❗️ Closed issue [#61](https://github.com/zer0Kerbal/TheGoldStandard/issues/61) in [zer0Kerbal/TheGoldStandard](https://github.com/zer0Kerbal/TheGoldStandard)
+6. ❗️ Closed issue [#60](https://github.com/zer0Kerbal/TheGoldStandard/issues/60) in [zer0Kerbal/TheGoldStandard](https://github.com/zer0Kerbal/TheGoldStandard)
+7. ❗️ Closed issue [#46](https://github.com/zer0Kerbal/TheGoldStandard/issues/46) in [zer0Kerbal/TheGoldStandard](https://github.com/zer0Kerbal/TheGoldStandard)
+8. ❗️ Closed issue [#65](https://github.com/zer0Kerbal/TheGoldStandard/issues/65) in [zer0Kerbal/TheGoldStandard](https://github.com/zer0Kerbal/TheGoldStandard)
+9. ❗️ Closed issue [#44](https://github.com/zer0Kerbal/TheGoldStandard/issues/44) in [zer0Kerbal/TheGoldStandard](https://github.com/zer0Kerbal/TheGoldStandard)
+10. ❗️ Closed issue [#6](https://github.com/zer0Kerbal/TheGoldStandard/issues/6) in [zer0Kerbal/TheGoldStandard](https://github.com/zer0Kerbal/TheGoldStandard)
 <!--END_SECTION:activity-->
 
 </details
