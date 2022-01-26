@@ -38,16 +38,16 @@
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#39](https://github.com/zer0Kerbal/Notes/issues/39) in [zer0Kerbal/Notes](https://github.com/zer0Kerbal/Notes)
-2. ❗️ Opened issue [#38](https://github.com/zer0Kerbal/Notes/issues/38) in [zer0Kerbal/Notes](https://github.com/zer0Kerbal/Notes)
-3. ❗️ Opened issue [#37](https://github.com/zer0Kerbal/Notes/issues/37) in [zer0Kerbal/Notes](https://github.com/zer0Kerbal/Notes)
-4. ❗️ Opened issue [#36](https://github.com/zer0Kerbal/Notes/issues/36) in [zer0Kerbal/Notes](https://github.com/zer0Kerbal/Notes)
-5. ❗️ Opened issue [#35](https://github.com/zer0Kerbal/Notes/issues/35) in [zer0Kerbal/Notes](https://github.com/zer0Kerbal/Notes)
-6. ❗️ Opened issue [#34](https://github.com/zer0Kerbal/Notes/issues/34) in [zer0Kerbal/Notes](https://github.com/zer0Kerbal/Notes)
-7. ❗️ Opened issue [#33](https://github.com/zer0Kerbal/Notes/issues/33) in [zer0Kerbal/Notes](https://github.com/zer0Kerbal/Notes)
-8. ❗️ Opened issue [#32](https://github.com/zer0Kerbal/Notes/issues/32) in [zer0Kerbal/Notes](https://github.com/zer0Kerbal/Notes)
-9. 🎉 Merged PR [#4](https://github.com/zer0Kerbal/Notes/pull/4) in [zer0Kerbal/Notes](https://github.com/zer0Kerbal/Notes)
-10. ❗️ Opened issue [#31](https://github.com/zer0Kerbal/SimpleNotes/issues/31) in [zer0Kerbal/SimpleNotes](https://github.com/zer0Kerbal/SimpleNotes)
+1. 🗣 Commented on [#53](https://github.com/zer0Kerbal/TheGoldStandard/issues/53) in [zer0Kerbal/TheGoldStandard](https://github.com/zer0Kerbal/TheGoldStandard)
+2. 🗣 Commented on [#29](https://github.com/zer0Kerbal/Dreamer/issues/29) in [zer0Kerbal/Dreamer](https://github.com/zer0Kerbal/Dreamer)
+3. ❗️ Opened issue [#39](https://github.com/zer0Kerbal/Notes/issues/39) in [zer0Kerbal/Notes](https://github.com/zer0Kerbal/Notes)
+4. ❗️ Opened issue [#38](https://github.com/zer0Kerbal/Notes/issues/38) in [zer0Kerbal/Notes](https://github.com/zer0Kerbal/Notes)
+5. ❗️ Opened issue [#37](https://github.com/zer0Kerbal/Notes/issues/37) in [zer0Kerbal/Notes](https://github.com/zer0Kerbal/Notes)
+6. ❗️ Opened issue [#36](https://github.com/zer0Kerbal/Notes/issues/36) in [zer0Kerbal/Notes](https://github.com/zer0Kerbal/Notes)
+7. ❗️ Opened issue [#35](https://github.com/zer0Kerbal/Notes/issues/35) in [zer0Kerbal/Notes](https://github.com/zer0Kerbal/Notes)
+8. ❗️ Opened issue [#34](https://github.com/zer0Kerbal/Notes/issues/34) in [zer0Kerbal/Notes](https://github.com/zer0Kerbal/Notes)
+9. ❗️ Opened issue [#33](https://github.com/zer0Kerbal/Notes/issues/33) in [zer0Kerbal/Notes](https://github.com/zer0Kerbal/Notes)
+10. ❗️ Opened issue [#32](https://github.com/zer0Kerbal/Notes/issues/32) in [zer0Kerbal/Notes](https://github.com/zer0Kerbal/Notes)
 <!--END_SECTION:activity-->
 
 </details
