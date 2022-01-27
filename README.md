@@ -38,16 +38,16 @@
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#58](https://github.com/zer0Kerbal/Taerobee/issues/58) in [zer0Kerbal/Taerobee](https://github.com/zer0Kerbal/Taerobee)
-2. ❗️ Opened issue [#57](https://github.com/zer0Kerbal/Taerobee/issues/57) in [zer0Kerbal/Taerobee](https://github.com/zer0Kerbal/Taerobee)
-3. ❗️ Opened issue [#56](https://github.com/zer0Kerbal/Taerobee/issues/56) in [zer0Kerbal/Taerobee](https://github.com/zer0Kerbal/Taerobee)
-4. ❗️ Opened issue [#55](https://github.com/zer0Kerbal/Taerobee/issues/55) in [zer0Kerbal/Taerobee](https://github.com/zer0Kerbal/Taerobee)
-5. ❗️ Opened issue [#54](https://github.com/zer0Kerbal/Taerobee/issues/54) in [zer0Kerbal/Taerobee](https://github.com/zer0Kerbal/Taerobee)
-6. 🎉 Merged PR [#53](https://github.com/zer0Kerbal/Taerobee/pull/53) in [zer0Kerbal/Taerobee](https://github.com/zer0Kerbal/Taerobee)
-7. 💪 Opened PR [#53](https://github.com/zer0Kerbal/Taerobee/pull/53) in [zer0Kerbal/Taerobee](https://github.com/zer0Kerbal/Taerobee)
-8. 🎉 Merged PR [#51](https://github.com/zer0Kerbal/Taerobee/pull/51) in [zer0Kerbal/Taerobee](https://github.com/zer0Kerbal/Taerobee)
-9. 🗣 Commented on [#52](https://github.com/zer0Kerbal/Taerobee/issues/52) in [zer0Kerbal/Taerobee](https://github.com/zer0Kerbal/Taerobee)
-10. 🎉 Merged PR [#49](https://github.com/zer0Kerbal/Taerobee/pull/49) in [zer0Kerbal/Taerobee](https://github.com/zer0Kerbal/Taerobee)
+1. 🎉 Merged PR [#2](https://github.com/zer0Kerbal/HotBeveragesInc/pull/2) in [zer0Kerbal/HotBeveragesInc](https://github.com/zer0Kerbal/HotBeveragesInc)
+2. ❗️ Opened issue [#58](https://github.com/zer0Kerbal/Taerobee/issues/58) in [zer0Kerbal/Taerobee](https://github.com/zer0Kerbal/Taerobee)
+3. ❗️ Opened issue [#57](https://github.com/zer0Kerbal/Taerobee/issues/57) in [zer0Kerbal/Taerobee](https://github.com/zer0Kerbal/Taerobee)
+4. ❗️ Opened issue [#56](https://github.com/zer0Kerbal/Taerobee/issues/56) in [zer0Kerbal/Taerobee](https://github.com/zer0Kerbal/Taerobee)
+5. ❗️ Opened issue [#55](https://github.com/zer0Kerbal/Taerobee/issues/55) in [zer0Kerbal/Taerobee](https://github.com/zer0Kerbal/Taerobee)
+6. ❗️ Opened issue [#54](https://github.com/zer0Kerbal/Taerobee/issues/54) in [zer0Kerbal/Taerobee](https://github.com/zer0Kerbal/Taerobee)
+7. 🎉 Merged PR [#53](https://github.com/zer0Kerbal/Taerobee/pull/53) in [zer0Kerbal/Taerobee](https://github.com/zer0Kerbal/Taerobee)
+8. 💪 Opened PR [#53](https://github.com/zer0Kerbal/Taerobee/pull/53) in [zer0Kerbal/Taerobee](https://github.com/zer0Kerbal/Taerobee)
+9. 🎉 Merged PR [#51](https://github.com/zer0Kerbal/Taerobee/pull/51) in [zer0Kerbal/Taerobee](https://github.com/zer0Kerbal/Taerobee)
+10. 🗣 Commented on [#52](https://github.com/zer0Kerbal/Taerobee/issues/52) in [zer0Kerbal/Taerobee](https://github.com/zer0Kerbal/Taerobee)
 <!--END_SECTION:activity-->
 
 </details
