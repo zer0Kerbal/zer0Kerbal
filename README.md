@@ -38,16 +38,16 @@
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#57](https://github.com/zer0Kerbal/DaMichel/issues/57) in [zer0Kerbal/DaMichel](https://github.com/zer0Kerbal/DaMichel)
-2. ❗️ Opened issue [#56](https://github.com/zer0Kerbal/DaMichel/issues/56) in [zer0Kerbal/DaMichel](https://github.com/zer0Kerbal/DaMichel)
-3. ❗️ Closed issue [#55](https://github.com/zer0Kerbal/DaMichel/issues/55) in [zer0Kerbal/DaMichel](https://github.com/zer0Kerbal/DaMichel)
-4. ❗️ Opened issue [#55](https://github.com/zer0Kerbal/DaMichel/issues/55) in [zer0Kerbal/DaMichel](https://github.com/zer0Kerbal/DaMichel)
-5. ❗️ Opened issue [#54](https://github.com/zer0Kerbal/DaMichel/issues/54) in [zer0Kerbal/DaMichel](https://github.com/zer0Kerbal/DaMichel)
-6. ❗️ Opened issue [#53](https://github.com/zer0Kerbal/DaMichel/issues/53) in [zer0Kerbal/DaMichel](https://github.com/zer0Kerbal/DaMichel)
-7. ❗️ Opened issue [#52](https://github.com/zer0Kerbal/DaMichel/issues/52) in [zer0Kerbal/DaMichel](https://github.com/zer0Kerbal/DaMichel)
-8. ❗️ Opened issue [#51](https://github.com/zer0Kerbal/DaMichel/issues/51) in [zer0Kerbal/DaMichel](https://github.com/zer0Kerbal/DaMichel)
-9. ❗️ Opened issue [#50](https://github.com/zer0Kerbal/DaMichel/issues/50) in [zer0Kerbal/DaMichel](https://github.com/zer0Kerbal/DaMichel)
-10. ❗️ Opened issue [#49](https://github.com/zer0Kerbal/DaMichel/issues/49) in [zer0Kerbal/DaMichel](https://github.com/zer0Kerbal/DaMichel)
+1. ❌ Closed PR [#46](https://github.com/zer0Kerbal/Taerobee/pull/46) in [zer0Kerbal/Taerobee](https://github.com/zer0Kerbal/Taerobee)
+2. ❗️ Opened issue [#40](https://github.com/zer0Kerbal/Notes/issues/40) in [zer0Kerbal/Notes](https://github.com/zer0Kerbal/Notes)
+3. 🗣 Commented on [#16](https://github.com/zer0Kerbal/Notes/issues/16) in [zer0Kerbal/Notes](https://github.com/zer0Kerbal/Notes)
+4. ❗️ Opened issue [#60](https://github.com/zer0Kerbal/DaMichel/issues/60) in [zer0Kerbal/DaMichel](https://github.com/zer0Kerbal/DaMichel)
+5. ❗️ Opened issue [#59](https://github.com/zer0Kerbal/DaMichel/issues/59) in [zer0Kerbal/DaMichel](https://github.com/zer0Kerbal/DaMichel)
+6. ❗️ Opened issue [#58](https://github.com/zer0Kerbal/DaMichel/issues/58) in [zer0Kerbal/DaMichel](https://github.com/zer0Kerbal/DaMichel)
+7. ❗️ Opened issue [#57](https://github.com/zer0Kerbal/DaMichel/issues/57) in [zer0Kerbal/DaMichel](https://github.com/zer0Kerbal/DaMichel)
+8. ❗️ Opened issue [#56](https://github.com/zer0Kerbal/DaMichel/issues/56) in [zer0Kerbal/DaMichel](https://github.com/zer0Kerbal/DaMichel)
+9. ❗️ Closed issue [#55](https://github.com/zer0Kerbal/DaMichel/issues/55) in [zer0Kerbal/DaMichel](https://github.com/zer0Kerbal/DaMichel)
+10. ❗️ Opened issue [#55](https://github.com/zer0Kerbal/DaMichel/issues/55) in [zer0Kerbal/DaMichel](https://github.com/zer0Kerbal/DaMichel)
 <!--END_SECTION:activity-->
 
 </details
