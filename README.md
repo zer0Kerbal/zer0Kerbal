@@ -38,16 +38,16 @@
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#67](https://github.com/zer0Kerbal/Taerobee/issues/67) in [zer0Kerbal/Taerobee](https://github.com/zer0Kerbal/Taerobee)
-2. ❗️ Opened issue [#66](https://github.com/zer0Kerbal/Taerobee/issues/66) in [zer0Kerbal/Taerobee](https://github.com/zer0Kerbal/Taerobee)
-3. ❗️ Opened issue [#65](https://github.com/zer0Kerbal/Taerobee/issues/65) in [zer0Kerbal/Taerobee](https://github.com/zer0Kerbal/Taerobee)
-4. ❗️ Opened issue [#64](https://github.com/zer0Kerbal/Taerobee/issues/64) in [zer0Kerbal/Taerobee](https://github.com/zer0Kerbal/Taerobee)
-5. ❗️ Opened issue [#63](https://github.com/zer0Kerbal/Taerobee/issues/63) in [zer0Kerbal/Taerobee](https://github.com/zer0Kerbal/Taerobee)
-6. ❗️ Opened issue [#62](https://github.com/zer0Kerbal/Taerobee/issues/62) in [zer0Kerbal/Taerobee](https://github.com/zer0Kerbal/Taerobee)
-7. ❗️ Opened issue [#61](https://github.com/zer0Kerbal/Taerobee/issues/61) in [zer0Kerbal/Taerobee](https://github.com/zer0Kerbal/Taerobee)
-8. ❗️ Opened issue [#60](https://github.com/zer0Kerbal/Taerobee/issues/60) in [zer0Kerbal/Taerobee](https://github.com/zer0Kerbal/Taerobee)
-9. ❌ Closed PR [#46](https://github.com/zer0Kerbal/Taerobee/pull/46) in [zer0Kerbal/Taerobee](https://github.com/zer0Kerbal/Taerobee)
-10. ❗️ Opened issue [#40](https://github.com/zer0Kerbal/Notes/issues/40) in [zer0Kerbal/Notes](https://github.com/zer0Kerbal/Notes)
+1. ❗️ Opened issue [#68](https://github.com/zer0Kerbal/Taerobee/issues/68) in [zer0Kerbal/Taerobee](https://github.com/zer0Kerbal/Taerobee)
+2. ❗️ Opened issue [#67](https://github.com/zer0Kerbal/Taerobee/issues/67) in [zer0Kerbal/Taerobee](https://github.com/zer0Kerbal/Taerobee)
+3. ❗️ Opened issue [#66](https://github.com/zer0Kerbal/Taerobee/issues/66) in [zer0Kerbal/Taerobee](https://github.com/zer0Kerbal/Taerobee)
+4. ❗️ Opened issue [#65](https://github.com/zer0Kerbal/Taerobee/issues/65) in [zer0Kerbal/Taerobee](https://github.com/zer0Kerbal/Taerobee)
+5. ❗️ Opened issue [#64](https://github.com/zer0Kerbal/Taerobee/issues/64) in [zer0Kerbal/Taerobee](https://github.com/zer0Kerbal/Taerobee)
+6. ❗️ Opened issue [#63](https://github.com/zer0Kerbal/Taerobee/issues/63) in [zer0Kerbal/Taerobee](https://github.com/zer0Kerbal/Taerobee)
+7. ❗️ Opened issue [#62](https://github.com/zer0Kerbal/Taerobee/issues/62) in [zer0Kerbal/Taerobee](https://github.com/zer0Kerbal/Taerobee)
+8. ❗️ Opened issue [#61](https://github.com/zer0Kerbal/Taerobee/issues/61) in [zer0Kerbal/Taerobee](https://github.com/zer0Kerbal/Taerobee)
+9. ❗️ Opened issue [#60](https://github.com/zer0Kerbal/Taerobee/issues/60) in [zer0Kerbal/Taerobee](https://github.com/zer0Kerbal/Taerobee)
+10. ❌ Closed PR [#46](https://github.com/zer0Kerbal/Taerobee/pull/46) in [zer0Kerbal/Taerobee](https://github.com/zer0Kerbal/Taerobee)
 <!--END_SECTION:activity-->
 
 </details
