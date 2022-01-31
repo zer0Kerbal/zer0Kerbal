@@ -38,16 +38,16 @@
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#8](https://github.com/zer0Kerbal/LanderTek/pull/8) in [zer0Kerbal/LanderTek](https://github.com/zer0Kerbal/LanderTek)
-2. ❗️ Opened issue [#7](https://github.com/zer0Kerbal/NukeRefueled/issues/7) in [zer0Kerbal/NukeRefueled](https://github.com/zer0Kerbal/NukeRefueled)
-3. ❗️ Opened issue [#27](https://github.com/zer0Kerbal/LanderTek/issues/27) in [zer0Kerbal/LanderTek](https://github.com/zer0Kerbal/LanderTek)
-4. ❗️ Opened issue [#27](https://github.com/zer0Kerbal/SimpleCargoSolutions/issues/27) in [zer0Kerbal/SimpleCargoSolutions](https://github.com/zer0Kerbal/SimpleCargoSolutions)
-5. ❌ Closed PR [#19](https://github.com/zer0Kerbal/ScrapYard/pull/19) in [zer0Kerbal/ScrapYard](https://github.com/zer0Kerbal/ScrapYard)
-6. ❌ Closed PR [#40](https://github.com/zer0Kerbal/OhScrap/pull/40) in [zer0Kerbal/OhScrap](https://github.com/zer0Kerbal/OhScrap)
-7. ❗️ Opened issue [#25](https://github.com/zer0Kerbal/FuelTanksPlus/issues/25) in [zer0Kerbal/FuelTanksPlus](https://github.com/zer0Kerbal/FuelTanksPlus)
-8. ❗️ Opened issue [#3](https://github.com/zer0Kerbal/SpaceShuttleSystem/issues/3) in [zer0Kerbal/SpaceShuttleSystem](https://github.com/zer0Kerbal/SpaceShuttleSystem)
-9. ❗️ Opened issue [#37](https://github.com/zer0Kerbal/SpaceY-Lifters/issues/37) in [zer0Kerbal/SpaceY-Lifters](https://github.com/zer0Kerbal/SpaceY-Lifters)
-10. ❗️ Opened issue [#2](https://github.com/zer0Kerbal/SpaceY-Expanded/issues/2) in [zer0Kerbal/SpaceY-Expanded](https://github.com/zer0Kerbal/SpaceY-Expanded)
+1. ❗️ Opened issue [#84](https://github.com/zer0Kerbal/Taerobee/issues/84) in [zer0Kerbal/Taerobee](https://github.com/zer0Kerbal/Taerobee)
+2. ❗️ Opened issue [#83](https://github.com/zer0Kerbal/Taerobee/issues/83) in [zer0Kerbal/Taerobee](https://github.com/zer0Kerbal/Taerobee)
+3. ❗️ Opened issue [#82](https://github.com/zer0Kerbal/Taerobee/issues/82) in [zer0Kerbal/Taerobee](https://github.com/zer0Kerbal/Taerobee)
+4. ❗️ Opened issue [#81](https://github.com/zer0Kerbal/Taerobee/issues/81) in [zer0Kerbal/Taerobee](https://github.com/zer0Kerbal/Taerobee)
+5. ❗️ Opened issue [#80](https://github.com/zer0Kerbal/Taerobee/issues/80) in [zer0Kerbal/Taerobee](https://github.com/zer0Kerbal/Taerobee)
+6. ❗️ Opened issue [#79](https://github.com/zer0Kerbal/Taerobee/issues/79) in [zer0Kerbal/Taerobee](https://github.com/zer0Kerbal/Taerobee)
+7. ❌ Closed PR [#8](https://github.com/zer0Kerbal/LanderTek/pull/8) in [zer0Kerbal/LanderTek](https://github.com/zer0Kerbal/LanderTek)
+8. ❗️ Opened issue [#7](https://github.com/zer0Kerbal/NukeRefueled/issues/7) in [zer0Kerbal/NukeRefueled](https://github.com/zer0Kerbal/NukeRefueled)
+9. ❗️ Opened issue [#27](https://github.com/zer0Kerbal/LanderTek/issues/27) in [zer0Kerbal/LanderTek](https://github.com/zer0Kerbal/LanderTek)
+10. ❗️ Opened issue [#27](https://github.com/zer0Kerbal/SimpleCargoSolutions/issues/27) in [zer0Kerbal/SimpleCargoSolutions](https://github.com/zer0Kerbal/SimpleCargoSolutions)
 <!--END_SECTION:activity-->
 
 </details
