@@ -221,6 +221,10 @@
 ![](https://github.com/zer0Kerbal/SpaceY-Lifters/actions/workflows/greetings.yml/badge.svg) ![](https://github.com/zer0Kerbal/SpaceY-Lifters/actions/workflows/AVC-VersionFileValidator.yml/badge.svg?branch=master) 
 ![](https://img.shields.io/github/downloads/zer0Kerbal/SpaceY-Lifters/total?style=plastic) ![](https://img.shields.io/github/repo-size/zer0Kerbal/SpaceY-Lifters?style=plastic) ![](https://img.shields.io/github/contributors/zer0kerbal/SpaceY-Lifters?style=plastic) ![](https://img.shields.io/github/release-date/zer0kerbal/SpaceY-Lifters?style=plastic) ![](https://img.shields.io/github/release-date-pre/zer0kerbal/SpaceY-Lifters?style=plastic)
 
+### [SpaceYExpanded (SPY)](https://github.com/zer0Kerbal/SpaceYExpanded)  
+![](https://github.com/zer0Kerbal/SpaceYExpanded/actions/workflows/greetings.yml/badge.svg) ![](https://github.com/zer0Kerbal/SpaceYExpanded/actions/workflows/AVC-VersionFileValidator.yml/badge.svg?branch=master) 
+![](https://img.shields.io/github/downloads/zer0Kerbal/SpaceYExpanded/total?style=plastic) ![](https://img.shields.io/github/repo-size/zer0Kerbal/SpaceYExpanded?style=plastic) ![](https://img.shields.io/github/contributors/zer0kerbal/SpaceYExpanded?style=plastic) ![](https://img.shields.io/github/release-date/zer0kerbal/SpaceYExpanded?style=plastic) ![](https://img.shields.io/github/release-date-pre/zer0kerbal/SpaceYExpanded?style=plastic)
+
   </details>
    
 ### [Taerobee (TBEE)](https://github.com/zer0Kerbal/Taerobee)  
@@ -231,11 +235,15 @@
 ![](https://github.com/zer0Kerbal/KustomKerbals/actions/workflows/greetings.yml/badge.svg) ![](https://github.com/zer0Kerbal/KustomKerbals/actions/workflows/AVC-VersionFileValidator.yml/badge.svg?branch=master) 
 ![](https://img.shields.io/github/downloads/zer0Kerbal/KustomKerbals/total?style=plastic) ![](https://img.shields.io/github/repo-size/zer0Kerbal/KustomKerbals?style=plastic) ![](https://img.shields.io/github/contributors/zer0kerbal/KustomKerbals?style=plastic) ![](https://img.shields.io/github/release-date/zer0kerbal/KustomKerbals?style=plastic) ![](https://img.shields.io/github/release-date-pre/zer0kerbal/KustomKerbals?style=plastic)
 
+### [MiniSampleReturnCapsule (MSRC)](https://github.com/zer0Kerbal/MiniSampleReturnCapsule)  
+![](https://github.com/zer0Kerbal/MiniSampleReturnCapsule/actions/workflows/greetings.yml/badge.svg) ![](https://github.com/zer0Kerbal/MiniSampleReturnCapsule/actions/workflows/AVC-VersionFileValidator.yml/badge.svg?branch=master) 
+![](https://img.shields.io/github/downloads/zer0Kerbal/MiniSampleReturnCapsule/total?style=plastic) ![](https://img.shields.io/github/repo-size/zer0Kerbal/MiniSampleReturnCapsule?style=plastic) ![](https://img.shields.io/github/contributors/zer0kerbal/MiniSampleReturnCapsule?style=plastic) ![](https://img.shields.io/github/release-date/zer0kerbal/MiniSampleReturnCapsule?style=plastic) ![](https://img.shields.io/github/release-date-pre/zer0kerbal/MiniSampleReturnCapsule?style=plastic)
+
  <details>
    <summary>Simple series of mods</summary>
    
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zer0Kerbal&repo=SimpleConstruction)](https://github.com/zer0Kerbal/SimpleConstruction) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zer0Kerbal&repo=SimpleLogistics)](https://github.com/zer0Kerbal/SimpleLogistics)
-   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zer0Kerbal&repo=SimpleLife)](https://github.com/zer0Kerbal/SimpleLife) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zer0Kerbal&repo=SimpleNotes)](https://github.com/zer0Kerbal/SimpleNotes)
+   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zer0Kerbal&repo=SimpleLife)](https://github.com/zer0Kerbal/SimpleLife) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zer0Kerbal&repo=Notes)](https://github.com/zer0Kerbal/Notes)
    
 ### [SimpleConstruction! (SCON!)](https://github.com/zer0Kerbal/SimpleConstruction)
   
@@ -252,10 +260,10 @@
   ![](https://github.com/zer0Kerbal/SimpleLife/actions/workflows/greetings.yml/badge.svg) ![](https://github.com/zer0Kerbal/SimpleLife/actions/workflows/AVC-VersionFileValidator.yml/badge.svg?branch=master) 
   ![](https://img.shields.io/github/downloads/zer0Kerbal/SimpleLife/total?style=plastic) ![](https://img.shields.io/github/repo-size/zer0Kerbal/SimpleLife?style=plastic) ![](https://img.shields.io/github/contributors/zer0kerbal/SimpleLife?style=plastic) ![](https://img.shields.io/github/release-date/zer0kerbal/SimpleLife?style=plastic) ![](https://img.shields.io/github/release-date-pre/zer0kerbal/SimpleLife?style=plastic)
    
-### [SimpleNotes! (SNOTE)](https://github.com/zer0Kerbal/SimpleNotes)  
+### [SimpleNotes! (SNOTE)](https://github.com/zer0Kerbal/Notes)  
    
-   ![](https://github.com/zer0Kerbal/SimpleNotes/actions/workflows/greetings.yml/badge.svg) ![](https://github.com/zer0Kerbal/SimpleNotes/actions/workflows/AVC-VersionFileValidator.yml/badge.svg?branch=master) 
-   ![](https://img.shields.io/github/downloads/zer0Kerbal/SimpleNotes/total?style=plastic) ![](https://img.shields.io/github/repo-size/zer0Kerbal/SimpleNotes?style=plastic) ![](https://img.shields.io/github/contributors/zer0kerbal/SimpleNotes?style=plastic) ![](https://img.shields.io/github/release-date/zer0kerbal/SimpleNotes?style=plastic) ![](https://img.shields.io/github/release-date-pre/zer0kerbal/SimpleNotes?style=plastic)
+   ![](https://github.com/zer0Kerbal/Notes/actions/workflows/greetings.yml/badge.svg) ![](https://github.com/zer0Kerbal/Notes/actions/workflows/AVC-VersionFileValidator.yml/badge.svg?branch=master) 
+   ![](https://img.shields.io/github/downloads/zer0Kerbal/Notes/total?style=plastic) ![](https://img.shields.io/github/repo-size/zer0Kerbal/Notes?style=plastic) ![](https://img.shields.io/github/contributors/zer0kerbal/Notes?style=plastic) ![](https://img.shields.io/github/release-date/zer0kerbal/Notes?style=plastic) ![](https://img.shields.io/github/release-date-pre/zer0kerbal/Notes?style=plastic)
   </details>
   
  <details>
