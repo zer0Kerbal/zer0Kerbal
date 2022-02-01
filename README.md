@@ -38,16 +38,16 @@
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#24](https://github.com/zer0Kerbal/MiniSampleReturnCapsule/pull/24) in [zer0Kerbal/MiniSampleReturnCapsule](https://github.com/zer0Kerbal/MiniSampleReturnCapsule)
-2. 🗣 Commented on [#46](https://github.com/zer0Kerbal/MiniSampleReturnCapsule/issues/46) in [zer0Kerbal/MiniSampleReturnCapsule](https://github.com/zer0Kerbal/MiniSampleReturnCapsule)
-3. ❗️ Closed issue [#29](https://github.com/zer0Kerbal/MiniSampleReturnCapsule/issues/29) in [zer0Kerbal/MiniSampleReturnCapsule](https://github.com/zer0Kerbal/MiniSampleReturnCapsule)
-4. 🗣 Commented on [#29](https://github.com/zer0Kerbal/MiniSampleReturnCapsule/issues/29) in [zer0Kerbal/MiniSampleReturnCapsule](https://github.com/zer0Kerbal/MiniSampleReturnCapsule)
-5. ❗️ Opened issue [#118](https://github.com/zer0Kerbal/Taerobee/issues/118) in [zer0Kerbal/Taerobee](https://github.com/zer0Kerbal/Taerobee)
-6. ❗️ Opened issue [#117](https://github.com/zer0Kerbal/Taerobee/issues/117) in [zer0Kerbal/Taerobee](https://github.com/zer0Kerbal/Taerobee)
-7. ❗️ Opened issue [#116](https://github.com/zer0Kerbal/Taerobee/issues/116) in [zer0Kerbal/Taerobee](https://github.com/zer0Kerbal/Taerobee)
-8. ❗️ Opened issue [#115](https://github.com/zer0Kerbal/Taerobee/issues/115) in [zer0Kerbal/Taerobee](https://github.com/zer0Kerbal/Taerobee)
-9. ❗️ Opened issue [#114](https://github.com/zer0Kerbal/Taerobee/issues/114) in [zer0Kerbal/Taerobee](https://github.com/zer0Kerbal/Taerobee)
-10. ❗️ Opened issue [#113](https://github.com/zer0Kerbal/Taerobee/issues/113) in [zer0Kerbal/Taerobee](https://github.com/zer0Kerbal/Taerobee)
+1. ❗️ Opened issue [#55](https://github.com/zer0Kerbal/MiniSampleReturnCapsule/issues/55) in [zer0Kerbal/MiniSampleReturnCapsule](https://github.com/zer0Kerbal/MiniSampleReturnCapsule)
+2. ❗️ Opened issue [#54](https://github.com/zer0Kerbal/MiniSampleReturnCapsule/issues/54) in [zer0Kerbal/MiniSampleReturnCapsule](https://github.com/zer0Kerbal/MiniSampleReturnCapsule)
+3. ❗️ Opened issue [#53](https://github.com/zer0Kerbal/MiniSampleReturnCapsule/issues/53) in [zer0Kerbal/MiniSampleReturnCapsule](https://github.com/zer0Kerbal/MiniSampleReturnCapsule)
+4. ❗️ Opened issue [#52](https://github.com/zer0Kerbal/MiniSampleReturnCapsule/issues/52) in [zer0Kerbal/MiniSampleReturnCapsule](https://github.com/zer0Kerbal/MiniSampleReturnCapsule)
+5. ❗️ Opened issue [#51](https://github.com/zer0Kerbal/MiniSampleReturnCapsule/issues/51) in [zer0Kerbal/MiniSampleReturnCapsule](https://github.com/zer0Kerbal/MiniSampleReturnCapsule)
+6. ❌ Closed PR [#50](https://github.com/zer0Kerbal/MiniSampleReturnCapsule/pull/50) in [zer0Kerbal/MiniSampleReturnCapsule](https://github.com/zer0Kerbal/MiniSampleReturnCapsule)
+7. 💪 Opened PR [#49](https://github.com/zer0Kerbal/MiniSampleReturnCapsule/pull/49) in [zer0Kerbal/MiniSampleReturnCapsule](https://github.com/zer0Kerbal/MiniSampleReturnCapsule)
+8. ❌ Closed PR [#24](https://github.com/zer0Kerbal/MiniSampleReturnCapsule/pull/24) in [zer0Kerbal/MiniSampleReturnCapsule](https://github.com/zer0Kerbal/MiniSampleReturnCapsule)
+9. 🗣 Commented on [#46](https://github.com/zer0Kerbal/MiniSampleReturnCapsule/issues/46) in [zer0Kerbal/MiniSampleReturnCapsule](https://github.com/zer0Kerbal/MiniSampleReturnCapsule)
+10. ❗️ Closed issue [#29](https://github.com/zer0Kerbal/MiniSampleReturnCapsule/issues/29) in [zer0Kerbal/MiniSampleReturnCapsule](https://github.com/zer0Kerbal/MiniSampleReturnCapsule)
 <!--END_SECTION:activity-->
 
 </details
