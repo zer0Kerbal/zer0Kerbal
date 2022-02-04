@@ -38,16 +38,16 @@
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#65](https://github.com/zer0Kerbal/MiniSampleReturnCapsule/issues/65) in [zer0Kerbal/MiniSampleReturnCapsule](https://github.com/zer0Kerbal/MiniSampleReturnCapsule)
-2. ❗️ Opened issue [#64](https://github.com/zer0Kerbal/MiniSampleReturnCapsule/issues/64) in [zer0Kerbal/MiniSampleReturnCapsule](https://github.com/zer0Kerbal/MiniSampleReturnCapsule)
-3. ❗️ Opened issue [#63](https://github.com/zer0Kerbal/MiniSampleReturnCapsule/issues/63) in [zer0Kerbal/MiniSampleReturnCapsule](https://github.com/zer0Kerbal/MiniSampleReturnCapsule)
-4. ❗️ Opened issue [#62](https://github.com/zer0Kerbal/MiniSampleReturnCapsule/issues/62) in [zer0Kerbal/MiniSampleReturnCapsule](https://github.com/zer0Kerbal/MiniSampleReturnCapsule)
-5. ❗️ Opened issue [#61](https://github.com/zer0Kerbal/MiniSampleReturnCapsule/issues/61) in [zer0Kerbal/MiniSampleReturnCapsule](https://github.com/zer0Kerbal/MiniSampleReturnCapsule)
-6. ❗️ Opened issue [#2](https://github.com/zer0Kerbal/GPOSpeedFuelPump/issues/2) in [zer0Kerbal/GPOSpeedFuelPump](https://github.com/zer0Kerbal/GPOSpeedFuelPump)
-7. 🎉 Merged PR [#60](https://github.com/zer0Kerbal/MiniSampleReturnCapsule/pull/60) in [zer0Kerbal/MiniSampleReturnCapsule](https://github.com/zer0Kerbal/MiniSampleReturnCapsule)
-8. 💪 Opened PR [#60](https://github.com/zer0Kerbal/MiniSampleReturnCapsule/pull/60) in [zer0Kerbal/MiniSampleReturnCapsule](https://github.com/zer0Kerbal/MiniSampleReturnCapsule)
-9. ❗️ Opened issue [#13](https://github.com/zer0Kerbal/issueTesting/issues/13) in [zer0Kerbal/issueTesting](https://github.com/zer0Kerbal/issueTesting)
-10. ❗️ Opened issue [#12](https://github.com/zer0Kerbal/issueTesting/issues/12) in [zer0Kerbal/issueTesting](https://github.com/zer0Kerbal/issueTesting)
+1. 🎉 Merged PR [#68](https://github.com/zer0Kerbal/MiniSampleReturnCapsule/pull/68) in [zer0Kerbal/MiniSampleReturnCapsule](https://github.com/zer0Kerbal/MiniSampleReturnCapsule)
+2. 💪 Opened PR [#68](https://github.com/zer0Kerbal/MiniSampleReturnCapsule/pull/68) in [zer0Kerbal/MiniSampleReturnCapsule](https://github.com/zer0Kerbal/MiniSampleReturnCapsule)
+3. 🎉 Merged PR [#67](https://github.com/zer0Kerbal/MiniSampleReturnCapsule/pull/67) in [zer0Kerbal/MiniSampleReturnCapsule](https://github.com/zer0Kerbal/MiniSampleReturnCapsule)
+4. ❗️ Closed issue [#27](https://github.com/zer0Kerbal/MiniSampleReturnCapsule/issues/27) in [zer0Kerbal/MiniSampleReturnCapsule](https://github.com/zer0Kerbal/MiniSampleReturnCapsule)
+5. ❗️ Closed issue [#26](https://github.com/zer0Kerbal/MiniSampleReturnCapsule/issues/26) in [zer0Kerbal/MiniSampleReturnCapsule](https://github.com/zer0Kerbal/MiniSampleReturnCapsule)
+6. ❗️ Closed issue [#28](https://github.com/zer0Kerbal/MiniSampleReturnCapsule/issues/28) in [zer0Kerbal/MiniSampleReturnCapsule](https://github.com/zer0Kerbal/MiniSampleReturnCapsule)
+7. ❗️ Closed issue [#56](https://github.com/zer0Kerbal/MiniSampleReturnCapsule/issues/56) in [zer0Kerbal/MiniSampleReturnCapsule](https://github.com/zer0Kerbal/MiniSampleReturnCapsule)
+8. ❗️ Closed issue [#57](https://github.com/zer0Kerbal/MiniSampleReturnCapsule/issues/57) in [zer0Kerbal/MiniSampleReturnCapsule](https://github.com/zer0Kerbal/MiniSampleReturnCapsule)
+9. ❗️ Closed issue [#8](https://github.com/zer0Kerbal/MiniSampleReturnCapsule/issues/8) in [zer0Kerbal/MiniSampleReturnCapsule](https://github.com/zer0Kerbal/MiniSampleReturnCapsule)
+10. ❗️ Closed issue [#25](https://github.com/zer0Kerbal/MiniSampleReturnCapsule/issues/25) in [zer0Kerbal/MiniSampleReturnCapsule](https://github.com/zer0Kerbal/MiniSampleReturnCapsule)
 <!--END_SECTION:activity-->
 
 </details
