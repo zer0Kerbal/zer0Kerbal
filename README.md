@@ -38,16 +38,16 @@
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#70](https://github.com/zer0Kerbal/MiniSampleReturnCapsule/pull/70) in [zer0Kerbal/MiniSampleReturnCapsule](https://github.com/zer0Kerbal/MiniSampleReturnCapsule)
-2. 💪 Opened PR [#70](https://github.com/zer0Kerbal/MiniSampleReturnCapsule/pull/70) in [zer0Kerbal/MiniSampleReturnCapsule](https://github.com/zer0Kerbal/MiniSampleReturnCapsule)
-3. 🎉 Merged PR [#68](https://github.com/zer0Kerbal/MiniSampleReturnCapsule/pull/68) in [zer0Kerbal/MiniSampleReturnCapsule](https://github.com/zer0Kerbal/MiniSampleReturnCapsule)
-4. 💪 Opened PR [#68](https://github.com/zer0Kerbal/MiniSampleReturnCapsule/pull/68) in [zer0Kerbal/MiniSampleReturnCapsule](https://github.com/zer0Kerbal/MiniSampleReturnCapsule)
-5. 🎉 Merged PR [#67](https://github.com/zer0Kerbal/MiniSampleReturnCapsule/pull/67) in [zer0Kerbal/MiniSampleReturnCapsule](https://github.com/zer0Kerbal/MiniSampleReturnCapsule)
-6. ❗️ Closed issue [#27](https://github.com/zer0Kerbal/MiniSampleReturnCapsule/issues/27) in [zer0Kerbal/MiniSampleReturnCapsule](https://github.com/zer0Kerbal/MiniSampleReturnCapsule)
-7. ❗️ Closed issue [#26](https://github.com/zer0Kerbal/MiniSampleReturnCapsule/issues/26) in [zer0Kerbal/MiniSampleReturnCapsule](https://github.com/zer0Kerbal/MiniSampleReturnCapsule)
-8. ❗️ Closed issue [#28](https://github.com/zer0Kerbal/MiniSampleReturnCapsule/issues/28) in [zer0Kerbal/MiniSampleReturnCapsule](https://github.com/zer0Kerbal/MiniSampleReturnCapsule)
-9. ❗️ Closed issue [#56](https://github.com/zer0Kerbal/MiniSampleReturnCapsule/issues/56) in [zer0Kerbal/MiniSampleReturnCapsule](https://github.com/zer0Kerbal/MiniSampleReturnCapsule)
-10. ❗️ Closed issue [#57](https://github.com/zer0Kerbal/MiniSampleReturnCapsule/issues/57) in [zer0Kerbal/MiniSampleReturnCapsule](https://github.com/zer0Kerbal/MiniSampleReturnCapsule)
+1. ❗️ Opened issue [#4](https://github.com/zer0Kerbal/UpgradesGUIExtended/issues/4) in [zer0Kerbal/UpgradesGUIExtended](https://github.com/zer0Kerbal/UpgradesGUIExtended)
+2. ❗️ Opened issue [#2](https://github.com/zer0Kerbal/UpgradeEditor/issues/2) in [zer0Kerbal/UpgradeEditor](https://github.com/zer0Kerbal/UpgradeEditor)
+3. 🎉 Merged PR [#70](https://github.com/zer0Kerbal/MiniSampleReturnCapsule/pull/70) in [zer0Kerbal/MiniSampleReturnCapsule](https://github.com/zer0Kerbal/MiniSampleReturnCapsule)
+4. 💪 Opened PR [#70](https://github.com/zer0Kerbal/MiniSampleReturnCapsule/pull/70) in [zer0Kerbal/MiniSampleReturnCapsule](https://github.com/zer0Kerbal/MiniSampleReturnCapsule)
+5. 🎉 Merged PR [#68](https://github.com/zer0Kerbal/MiniSampleReturnCapsule/pull/68) in [zer0Kerbal/MiniSampleReturnCapsule](https://github.com/zer0Kerbal/MiniSampleReturnCapsule)
+6. 💪 Opened PR [#68](https://github.com/zer0Kerbal/MiniSampleReturnCapsule/pull/68) in [zer0Kerbal/MiniSampleReturnCapsule](https://github.com/zer0Kerbal/MiniSampleReturnCapsule)
+7. 🎉 Merged PR [#67](https://github.com/zer0Kerbal/MiniSampleReturnCapsule/pull/67) in [zer0Kerbal/MiniSampleReturnCapsule](https://github.com/zer0Kerbal/MiniSampleReturnCapsule)
+8. ❗️ Closed issue [#27](https://github.com/zer0Kerbal/MiniSampleReturnCapsule/issues/27) in [zer0Kerbal/MiniSampleReturnCapsule](https://github.com/zer0Kerbal/MiniSampleReturnCapsule)
+9. ❗️ Closed issue [#26](https://github.com/zer0Kerbal/MiniSampleReturnCapsule/issues/26) in [zer0Kerbal/MiniSampleReturnCapsule](https://github.com/zer0Kerbal/MiniSampleReturnCapsule)
+10. ❗️ Closed issue [#28](https://github.com/zer0Kerbal/MiniSampleReturnCapsule/issues/28) in [zer0Kerbal/MiniSampleReturnCapsule](https://github.com/zer0Kerbal/MiniSampleReturnCapsule)
 <!--END_SECTION:activity-->
 
 </details
