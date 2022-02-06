@@ -38,16 +38,16 @@
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#3](https://github.com/kingnoob1377/Stock_DepthMask_Config/issues/3) in [kingnoob1377/Stock_DepthMask_Config](https://github.com/kingnoob1377/Stock_DepthMask_Config)
-2. ❗️ Opened issue [#2](https://github.com/kingnoob1377/Stock_DepthMask_Config/issues/2) in [kingnoob1377/Stock_DepthMask_Config](https://github.com/kingnoob1377/Stock_DepthMask_Config)
-3. 💪 Opened PR [#1](https://github.com/kingnoob1377/Stock_DepthMask_Config/pull/1) in [kingnoob1377/Stock_DepthMask_Config](https://github.com/kingnoob1377/Stock_DepthMask_Config)
-4. ❗️ Opened issue [#4](https://github.com/zer0Kerbal/UpgradesGUIExtended/issues/4) in [zer0Kerbal/UpgradesGUIExtended](https://github.com/zer0Kerbal/UpgradesGUIExtended)
-5. ❗️ Opened issue [#2](https://github.com/zer0Kerbal/UpgradeEditor/issues/2) in [zer0Kerbal/UpgradeEditor](https://github.com/zer0Kerbal/UpgradeEditor)
-6. 🎉 Merged PR [#70](https://github.com/zer0Kerbal/MiniSampleReturnCapsule/pull/70) in [zer0Kerbal/MiniSampleReturnCapsule](https://github.com/zer0Kerbal/MiniSampleReturnCapsule)
-7. 💪 Opened PR [#70](https://github.com/zer0Kerbal/MiniSampleReturnCapsule/pull/70) in [zer0Kerbal/MiniSampleReturnCapsule](https://github.com/zer0Kerbal/MiniSampleReturnCapsule)
-8. 🎉 Merged PR [#68](https://github.com/zer0Kerbal/MiniSampleReturnCapsule/pull/68) in [zer0Kerbal/MiniSampleReturnCapsule](https://github.com/zer0Kerbal/MiniSampleReturnCapsule)
-9. 💪 Opened PR [#68](https://github.com/zer0Kerbal/MiniSampleReturnCapsule/pull/68) in [zer0Kerbal/MiniSampleReturnCapsule](https://github.com/zer0Kerbal/MiniSampleReturnCapsule)
-10. 🎉 Merged PR [#67](https://github.com/zer0Kerbal/MiniSampleReturnCapsule/pull/67) in [zer0Kerbal/MiniSampleReturnCapsule](https://github.com/zer0Kerbal/MiniSampleReturnCapsule)
+1. ❗️ Opened issue [#81](https://github.com/zer0Kerbal/LithobrakeExplorationTechnologies/issues/81) in [zer0Kerbal/LithobrakeExplorationTechnologies](https://github.com/zer0Kerbal/LithobrakeExplorationTechnologies)
+2. ❗️ Opened issue [#80](https://github.com/zer0Kerbal/LithobrakeExplorationTechnologies/issues/80) in [zer0Kerbal/LithobrakeExplorationTechnologies](https://github.com/zer0Kerbal/LithobrakeExplorationTechnologies)
+3. ❗️ Opened issue [#79](https://github.com/zer0Kerbal/LithobrakeExplorationTechnologies/issues/79) in [zer0Kerbal/LithobrakeExplorationTechnologies](https://github.com/zer0Kerbal/LithobrakeExplorationTechnologies)
+4. ❗️ Opened issue [#78](https://github.com/zer0Kerbal/LithobrakeExplorationTechnologies/issues/78) in [zer0Kerbal/LithobrakeExplorationTechnologies](https://github.com/zer0Kerbal/LithobrakeExplorationTechnologies)
+5. ❗️ Opened issue [#77](https://github.com/zer0Kerbal/LithobrakeExplorationTechnologies/issues/77) in [zer0Kerbal/LithobrakeExplorationTechnologies](https://github.com/zer0Kerbal/LithobrakeExplorationTechnologies)
+6. ❗️ Opened issue [#76](https://github.com/zer0Kerbal/LithobrakeExplorationTechnologies/issues/76) in [zer0Kerbal/LithobrakeExplorationTechnologies](https://github.com/zer0Kerbal/LithobrakeExplorationTechnologies)
+7. ❗️ Opened issue [#75](https://github.com/zer0Kerbal/LithobrakeExplorationTechnologies/issues/75) in [zer0Kerbal/LithobrakeExplorationTechnologies](https://github.com/zer0Kerbal/LithobrakeExplorationTechnologies)
+8. ❗️ Opened issue [#74](https://github.com/zer0Kerbal/LithobrakeExplorationTechnologies/issues/74) in [zer0Kerbal/LithobrakeExplorationTechnologies](https://github.com/zer0Kerbal/LithobrakeExplorationTechnologies)
+9. ❗️ Opened issue [#73](https://github.com/zer0Kerbal/LithobrakeExplorationTechnologies/issues/73) in [zer0Kerbal/LithobrakeExplorationTechnologies](https://github.com/zer0Kerbal/LithobrakeExplorationTechnologies)
+10. ❗️ Opened issue [#72](https://github.com/zer0Kerbal/LithobrakeExplorationTechnologies/issues/72) in [zer0Kerbal/LithobrakeExplorationTechnologies](https://github.com/zer0Kerbal/LithobrakeExplorationTechnologies)
 <!--END_SECTION:activity-->
 
 </details
