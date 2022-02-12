@@ -38,16 +38,16 @@
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#79](https://github.com/zer0Kerbal/LithobrakeExplorationTechnologies/issues/79) in [zer0Kerbal/LithobrakeExplorationTechnologies](https://github.com/zer0Kerbal/LithobrakeExplorationTechnologies)
-2. ❗️ Closed issue [#78](https://github.com/zer0Kerbal/LithobrakeExplorationTechnologies/issues/78) in [zer0Kerbal/LithobrakeExplorationTechnologies](https://github.com/zer0Kerbal/LithobrakeExplorationTechnologies)
-3. ❗️ Closed issue [#77](https://github.com/zer0Kerbal/LithobrakeExplorationTechnologies/issues/77) in [zer0Kerbal/LithobrakeExplorationTechnologies](https://github.com/zer0Kerbal/LithobrakeExplorationTechnologies)
-4. ❗️ Closed issue [#76](https://github.com/zer0Kerbal/LithobrakeExplorationTechnologies/issues/76) in [zer0Kerbal/LithobrakeExplorationTechnologies](https://github.com/zer0Kerbal/LithobrakeExplorationTechnologies)
-5. ❗️ Closed issue [#71](https://github.com/zer0Kerbal/LithobrakeExplorationTechnologies/issues/71) in [zer0Kerbal/LithobrakeExplorationTechnologies](https://github.com/zer0Kerbal/LithobrakeExplorationTechnologies)
-6. ❗️ Closed issue [#75](https://github.com/zer0Kerbal/LithobrakeExplorationTechnologies/issues/75) in [zer0Kerbal/LithobrakeExplorationTechnologies](https://github.com/zer0Kerbal/LithobrakeExplorationTechnologies)
-7. ❗️ Closed issue [#74](https://github.com/zer0Kerbal/LithobrakeExplorationTechnologies/issues/74) in [zer0Kerbal/LithobrakeExplorationTechnologies](https://github.com/zer0Kerbal/LithobrakeExplorationTechnologies)
-8. ❗️ Closed issue [#73](https://github.com/zer0Kerbal/LithobrakeExplorationTechnologies/issues/73) in [zer0Kerbal/LithobrakeExplorationTechnologies](https://github.com/zer0Kerbal/LithobrakeExplorationTechnologies)
-9. ❗️ Closed issue [#72](https://github.com/zer0Kerbal/LithobrakeExplorationTechnologies/issues/72) in [zer0Kerbal/LithobrakeExplorationTechnologies](https://github.com/zer0Kerbal/LithobrakeExplorationTechnologies)
-10. ❗️ Closed issue [#70](https://github.com/zer0Kerbal/LithobrakeExplorationTechnologies/issues/70) in [zer0Kerbal/LithobrakeExplorationTechnologies](https://github.com/zer0Kerbal/LithobrakeExplorationTechnologies)
+1. 🎉 Merged PR [#43](https://github.com/zer0Kerbal/JoolianDiscovery/pull/43) in [zer0Kerbal/JoolianDiscovery](https://github.com/zer0Kerbal/JoolianDiscovery)
+2. 💪 Opened PR [#43](https://github.com/zer0Kerbal/JoolianDiscovery/pull/43) in [zer0Kerbal/JoolianDiscovery](https://github.com/zer0Kerbal/JoolianDiscovery)
+3. ❗️ Closed issue [#79](https://github.com/zer0Kerbal/LithobrakeExplorationTechnologies/issues/79) in [zer0Kerbal/LithobrakeExplorationTechnologies](https://github.com/zer0Kerbal/LithobrakeExplorationTechnologies)
+4. ❗️ Closed issue [#78](https://github.com/zer0Kerbal/LithobrakeExplorationTechnologies/issues/78) in [zer0Kerbal/LithobrakeExplorationTechnologies](https://github.com/zer0Kerbal/LithobrakeExplorationTechnologies)
+5. ❗️ Closed issue [#77](https://github.com/zer0Kerbal/LithobrakeExplorationTechnologies/issues/77) in [zer0Kerbal/LithobrakeExplorationTechnologies](https://github.com/zer0Kerbal/LithobrakeExplorationTechnologies)
+6. ❗️ Closed issue [#76](https://github.com/zer0Kerbal/LithobrakeExplorationTechnologies/issues/76) in [zer0Kerbal/LithobrakeExplorationTechnologies](https://github.com/zer0Kerbal/LithobrakeExplorationTechnologies)
+7. ❗️ Closed issue [#71](https://github.com/zer0Kerbal/LithobrakeExplorationTechnologies/issues/71) in [zer0Kerbal/LithobrakeExplorationTechnologies](https://github.com/zer0Kerbal/LithobrakeExplorationTechnologies)
+8. ❗️ Closed issue [#75](https://github.com/zer0Kerbal/LithobrakeExplorationTechnologies/issues/75) in [zer0Kerbal/LithobrakeExplorationTechnologies](https://github.com/zer0Kerbal/LithobrakeExplorationTechnologies)
+9. ❗️ Closed issue [#74](https://github.com/zer0Kerbal/LithobrakeExplorationTechnologies/issues/74) in [zer0Kerbal/LithobrakeExplorationTechnologies](https://github.com/zer0Kerbal/LithobrakeExplorationTechnologies)
+10. ❗️ Closed issue [#73](https://github.com/zer0Kerbal/LithobrakeExplorationTechnologies/issues/73) in [zer0Kerbal/LithobrakeExplorationTechnologies](https://github.com/zer0Kerbal/LithobrakeExplorationTechnologies)
 <!--END_SECTION:activity-->
 
 </details
