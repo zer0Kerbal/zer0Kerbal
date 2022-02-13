@@ -38,16 +38,16 @@
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#99](https://github.com/zer0Kerbal/LithobrakeExplorationTechnologies/issues/99) in [zer0Kerbal/LithobrakeExplorationTechnologies](https://github.com/zer0Kerbal/LithobrakeExplorationTechnologies)
-2. 🎉 Merged PR [#43](https://github.com/zer0Kerbal/JoolianDiscovery/pull/43) in [zer0Kerbal/JoolianDiscovery](https://github.com/zer0Kerbal/JoolianDiscovery)
-3. 💪 Opened PR [#43](https://github.com/zer0Kerbal/JoolianDiscovery/pull/43) in [zer0Kerbal/JoolianDiscovery](https://github.com/zer0Kerbal/JoolianDiscovery)
-4. ❗️ Closed issue [#79](https://github.com/zer0Kerbal/LithobrakeExplorationTechnologies/issues/79) in [zer0Kerbal/LithobrakeExplorationTechnologies](https://github.com/zer0Kerbal/LithobrakeExplorationTechnologies)
-5. ❗️ Closed issue [#78](https://github.com/zer0Kerbal/LithobrakeExplorationTechnologies/issues/78) in [zer0Kerbal/LithobrakeExplorationTechnologies](https://github.com/zer0Kerbal/LithobrakeExplorationTechnologies)
-6. ❗️ Closed issue [#77](https://github.com/zer0Kerbal/LithobrakeExplorationTechnologies/issues/77) in [zer0Kerbal/LithobrakeExplorationTechnologies](https://github.com/zer0Kerbal/LithobrakeExplorationTechnologies)
-7. ❗️ Closed issue [#76](https://github.com/zer0Kerbal/LithobrakeExplorationTechnologies/issues/76) in [zer0Kerbal/LithobrakeExplorationTechnologies](https://github.com/zer0Kerbal/LithobrakeExplorationTechnologies)
-8. ❗️ Closed issue [#71](https://github.com/zer0Kerbal/LithobrakeExplorationTechnologies/issues/71) in [zer0Kerbal/LithobrakeExplorationTechnologies](https://github.com/zer0Kerbal/LithobrakeExplorationTechnologies)
-9. ❗️ Closed issue [#75](https://github.com/zer0Kerbal/LithobrakeExplorationTechnologies/issues/75) in [zer0Kerbal/LithobrakeExplorationTechnologies](https://github.com/zer0Kerbal/LithobrakeExplorationTechnologies)
-10. ❗️ Closed issue [#74](https://github.com/zer0Kerbal/LithobrakeExplorationTechnologies/issues/74) in [zer0Kerbal/LithobrakeExplorationTechnologies](https://github.com/zer0Kerbal/LithobrakeExplorationTechnologies)
+1. ❗️ Opened issue [#55](https://github.com/zer0Kerbal/JoolianDiscovery/issues/55) in [zer0Kerbal/JoolianDiscovery](https://github.com/zer0Kerbal/JoolianDiscovery)
+2. ❗️ Opened issue [#54](https://github.com/zer0Kerbal/JoolianDiscovery/issues/54) in [zer0Kerbal/JoolianDiscovery](https://github.com/zer0Kerbal/JoolianDiscovery)
+3. ❗️ Opened issue [#53](https://github.com/zer0Kerbal/JoolianDiscovery/issues/53) in [zer0Kerbal/JoolianDiscovery](https://github.com/zer0Kerbal/JoolianDiscovery)
+4. ❗️ Opened issue [#52](https://github.com/zer0Kerbal/JoolianDiscovery/issues/52) in [zer0Kerbal/JoolianDiscovery](https://github.com/zer0Kerbal/JoolianDiscovery)
+5. ❗️ Opened issue [#51](https://github.com/zer0Kerbal/JoolianDiscovery/issues/51) in [zer0Kerbal/JoolianDiscovery](https://github.com/zer0Kerbal/JoolianDiscovery)
+6. ❗️ Opened issue [#50](https://github.com/zer0Kerbal/JoolianDiscovery/issues/50) in [zer0Kerbal/JoolianDiscovery](https://github.com/zer0Kerbal/JoolianDiscovery)
+7. ❗️ Opened issue [#49](https://github.com/zer0Kerbal/JoolianDiscovery/issues/49) in [zer0Kerbal/JoolianDiscovery](https://github.com/zer0Kerbal/JoolianDiscovery)
+8. ❗️ Opened issue [#48](https://github.com/zer0Kerbal/JoolianDiscovery/issues/48) in [zer0Kerbal/JoolianDiscovery](https://github.com/zer0Kerbal/JoolianDiscovery)
+9. ❗️ Opened issue [#47](https://github.com/zer0Kerbal/JoolianDiscovery/issues/47) in [zer0Kerbal/JoolianDiscovery](https://github.com/zer0Kerbal/JoolianDiscovery)
+10. ❗️ Opened issue [#46](https://github.com/zer0Kerbal/JoolianDiscovery/issues/46) in [zer0Kerbal/JoolianDiscovery](https://github.com/zer0Kerbal/JoolianDiscovery)
 <!--END_SECTION:activity-->
 
 </details
