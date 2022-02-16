@@ -38,16 +38,16 @@
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#55](https://github.com/zer0Kerbal/JoolianDiscovery/issues/55) in [zer0Kerbal/JoolianDiscovery](https://github.com/zer0Kerbal/JoolianDiscovery)
-2. ❗️ Opened issue [#54](https://github.com/zer0Kerbal/JoolianDiscovery/issues/54) in [zer0Kerbal/JoolianDiscovery](https://github.com/zer0Kerbal/JoolianDiscovery)
-3. ❗️ Opened issue [#53](https://github.com/zer0Kerbal/JoolianDiscovery/issues/53) in [zer0Kerbal/JoolianDiscovery](https://github.com/zer0Kerbal/JoolianDiscovery)
-4. ❗️ Opened issue [#52](https://github.com/zer0Kerbal/JoolianDiscovery/issues/52) in [zer0Kerbal/JoolianDiscovery](https://github.com/zer0Kerbal/JoolianDiscovery)
-5. ❗️ Opened issue [#51](https://github.com/zer0Kerbal/JoolianDiscovery/issues/51) in [zer0Kerbal/JoolianDiscovery](https://github.com/zer0Kerbal/JoolianDiscovery)
-6. ❗️ Opened issue [#50](https://github.com/zer0Kerbal/JoolianDiscovery/issues/50) in [zer0Kerbal/JoolianDiscovery](https://github.com/zer0Kerbal/JoolianDiscovery)
-7. ❗️ Opened issue [#49](https://github.com/zer0Kerbal/JoolianDiscovery/issues/49) in [zer0Kerbal/JoolianDiscovery](https://github.com/zer0Kerbal/JoolianDiscovery)
-8. ❗️ Opened issue [#48](https://github.com/zer0Kerbal/JoolianDiscovery/issues/48) in [zer0Kerbal/JoolianDiscovery](https://github.com/zer0Kerbal/JoolianDiscovery)
-9. ❗️ Opened issue [#47](https://github.com/zer0Kerbal/JoolianDiscovery/issues/47) in [zer0Kerbal/JoolianDiscovery](https://github.com/zer0Kerbal/JoolianDiscovery)
-10. ❗️ Opened issue [#46](https://github.com/zer0Kerbal/JoolianDiscovery/issues/46) in [zer0Kerbal/JoolianDiscovery](https://github.com/zer0Kerbal/JoolianDiscovery)
+1. ❗️ Opened issue [#58](https://github.com/zer0Kerbal/JoolianDiscovery/issues/58) in [zer0Kerbal/JoolianDiscovery](https://github.com/zer0Kerbal/JoolianDiscovery)
+2. ❗️ Opened issue [#57](https://github.com/zer0Kerbal/JoolianDiscovery/issues/57) in [zer0Kerbal/JoolianDiscovery](https://github.com/zer0Kerbal/JoolianDiscovery)
+3. ❗️ Opened issue [#56](https://github.com/zer0Kerbal/JoolianDiscovery/issues/56) in [zer0Kerbal/JoolianDiscovery](https://github.com/zer0Kerbal/JoolianDiscovery)
+4. ❗️ Opened issue [#55](https://github.com/zer0Kerbal/JoolianDiscovery/issues/55) in [zer0Kerbal/JoolianDiscovery](https://github.com/zer0Kerbal/JoolianDiscovery)
+5. ❗️ Opened issue [#54](https://github.com/zer0Kerbal/JoolianDiscovery/issues/54) in [zer0Kerbal/JoolianDiscovery](https://github.com/zer0Kerbal/JoolianDiscovery)
+6. ❗️ Opened issue [#53](https://github.com/zer0Kerbal/JoolianDiscovery/issues/53) in [zer0Kerbal/JoolianDiscovery](https://github.com/zer0Kerbal/JoolianDiscovery)
+7. ❗️ Opened issue [#52](https://github.com/zer0Kerbal/JoolianDiscovery/issues/52) in [zer0Kerbal/JoolianDiscovery](https://github.com/zer0Kerbal/JoolianDiscovery)
+8. ❗️ Opened issue [#51](https://github.com/zer0Kerbal/JoolianDiscovery/issues/51) in [zer0Kerbal/JoolianDiscovery](https://github.com/zer0Kerbal/JoolianDiscovery)
+9. ❗️ Opened issue [#50](https://github.com/zer0Kerbal/JoolianDiscovery/issues/50) in [zer0Kerbal/JoolianDiscovery](https://github.com/zer0Kerbal/JoolianDiscovery)
+10. ❗️ Opened issue [#49](https://github.com/zer0Kerbal/JoolianDiscovery/issues/49) in [zer0Kerbal/JoolianDiscovery](https://github.com/zer0Kerbal/JoolianDiscovery)
 <!--END_SECTION:activity-->
 
 </details
