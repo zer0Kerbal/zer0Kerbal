@@ -38,16 +38,16 @@
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#62](https://github.com/zer0Kerbal/JoolianDiscovery/issues/62) in [zer0Kerbal/JoolianDiscovery](https://github.com/zer0Kerbal/JoolianDiscovery)
-2. ❌ Closed PR [#60](https://github.com/zer0Kerbal/JoolianDiscovery/pull/60) in [zer0Kerbal/JoolianDiscovery](https://github.com/zer0Kerbal/JoolianDiscovery)
-3. ❗️ Closed issue [#3](https://github.com/zer0Kerbal/JoolianDiscovery/issues/3) in [zer0Kerbal/JoolianDiscovery](https://github.com/zer0Kerbal/JoolianDiscovery)
-4. ❗️ Closed issue [#54](https://github.com/zer0Kerbal/JoolianDiscovery/issues/54) in [zer0Kerbal/JoolianDiscovery](https://github.com/zer0Kerbal/JoolianDiscovery)
-5. ❗️ Closed issue [#45](https://github.com/zer0Kerbal/JoolianDiscovery/issues/45) in [zer0Kerbal/JoolianDiscovery](https://github.com/zer0Kerbal/JoolianDiscovery)
-6. 🎉 Merged PR [#59](https://github.com/zer0Kerbal/JoolianDiscovery/pull/59) in [zer0Kerbal/JoolianDiscovery](https://github.com/zer0Kerbal/JoolianDiscovery)
-7. ❗️ Closed issue [#42](https://github.com/zer0Kerbal/JoolianDiscovery/issues/42) in [zer0Kerbal/JoolianDiscovery](https://github.com/zer0Kerbal/JoolianDiscovery)
-8. ❗️ Closed issue [#53](https://github.com/zer0Kerbal/JoolianDiscovery/issues/53) in [zer0Kerbal/JoolianDiscovery](https://github.com/zer0Kerbal/JoolianDiscovery)
-9. ❗️ Closed issue [#41](https://github.com/zer0Kerbal/JoolianDiscovery/issues/41) in [zer0Kerbal/JoolianDiscovery](https://github.com/zer0Kerbal/JoolianDiscovery)
-10. ❗️ Closed issue [#25](https://github.com/zer0Kerbal/JoolianDiscovery/issues/25) in [zer0Kerbal/JoolianDiscovery](https://github.com/zer0Kerbal/JoolianDiscovery)
+1. 🗣 Commented on [#104](https://github.com/zer0Kerbal/Taerobee/issues/104) in [zer0Kerbal/Taerobee](https://github.com/zer0Kerbal/Taerobee)
+2. ❗️ Opened issue [#62](https://github.com/zer0Kerbal/JoolianDiscovery/issues/62) in [zer0Kerbal/JoolianDiscovery](https://github.com/zer0Kerbal/JoolianDiscovery)
+3. ❌ Closed PR [#60](https://github.com/zer0Kerbal/JoolianDiscovery/pull/60) in [zer0Kerbal/JoolianDiscovery](https://github.com/zer0Kerbal/JoolianDiscovery)
+4. ❗️ Closed issue [#3](https://github.com/zer0Kerbal/JoolianDiscovery/issues/3) in [zer0Kerbal/JoolianDiscovery](https://github.com/zer0Kerbal/JoolianDiscovery)
+5. ❗️ Closed issue [#54](https://github.com/zer0Kerbal/JoolianDiscovery/issues/54) in [zer0Kerbal/JoolianDiscovery](https://github.com/zer0Kerbal/JoolianDiscovery)
+6. ❗️ Closed issue [#45](https://github.com/zer0Kerbal/JoolianDiscovery/issues/45) in [zer0Kerbal/JoolianDiscovery](https://github.com/zer0Kerbal/JoolianDiscovery)
+7. 🎉 Merged PR [#59](https://github.com/zer0Kerbal/JoolianDiscovery/pull/59) in [zer0Kerbal/JoolianDiscovery](https://github.com/zer0Kerbal/JoolianDiscovery)
+8. ❗️ Closed issue [#42](https://github.com/zer0Kerbal/JoolianDiscovery/issues/42) in [zer0Kerbal/JoolianDiscovery](https://github.com/zer0Kerbal/JoolianDiscovery)
+9. ❗️ Closed issue [#53](https://github.com/zer0Kerbal/JoolianDiscovery/issues/53) in [zer0Kerbal/JoolianDiscovery](https://github.com/zer0Kerbal/JoolianDiscovery)
+10. ❗️ Closed issue [#41](https://github.com/zer0Kerbal/JoolianDiscovery/issues/41) in [zer0Kerbal/JoolianDiscovery](https://github.com/zer0Kerbal/JoolianDiscovery)
 <!--END_SECTION:activity-->
 
 </details
