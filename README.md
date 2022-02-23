@@ -41,16 +41,16 @@
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#122](https://github.com/zer0Kerbal/Taerobee/issues/122) in [zer0Kerbal/Taerobee](https://github.com/zer0Kerbal/Taerobee)
-2. 🗣 Commented on [#129](https://github.com/zer0Kerbal/Taerobee/issues/129) in [zer0Kerbal/Taerobee](https://github.com/zer0Kerbal/Taerobee)
-3. ❗️ Opened issue [#129](https://github.com/zer0Kerbal/Taerobee/issues/129) in [zer0Kerbal/Taerobee](https://github.com/zer0Kerbal/Taerobee)
-4. 🎉 Merged PR [#123](https://github.com/zer0Kerbal/Taerobee/pull/123) in [zer0Kerbal/Taerobee](https://github.com/zer0Kerbal/Taerobee)
-5. 🎉 Merged PR [#124](https://github.com/zer0Kerbal/Taerobee/pull/124) in [zer0Kerbal/Taerobee](https://github.com/zer0Kerbal/Taerobee)
-6. 🎉 Merged PR [#125](https://github.com/zer0Kerbal/Taerobee/pull/125) in [zer0Kerbal/Taerobee](https://github.com/zer0Kerbal/Taerobee)
-7. 🎉 Merged PR [#126](https://github.com/zer0Kerbal/Taerobee/pull/126) in [zer0Kerbal/Taerobee](https://github.com/zer0Kerbal/Taerobee)
-8. 🎉 Merged PR [#127](https://github.com/zer0Kerbal/Taerobee/pull/127) in [zer0Kerbal/Taerobee](https://github.com/zer0Kerbal/Taerobee)
-9. ❌ Closed PR [#128](https://github.com/zer0Kerbal/Taerobee/pull/128) in [zer0Kerbal/Taerobee](https://github.com/zer0Kerbal/Taerobee)
-10. 🗣 Commented on [#128](https://github.com/zer0Kerbal/Taerobee/issues/128) in [zer0Kerbal/Taerobee](https://github.com/zer0Kerbal/Taerobee)
+1. 💪 Opened PR [#1](https://github.com/DSG-Cubik/DSGC-AIO-Patch/pull/1) in [DSG-Cubik/DSGC-AIO-Patch](https://github.com/DSG-Cubik/DSGC-AIO-Patch)
+2. 🗣 Commented on [#122](https://github.com/zer0Kerbal/Taerobee/issues/122) in [zer0Kerbal/Taerobee](https://github.com/zer0Kerbal/Taerobee)
+3. 🗣 Commented on [#129](https://github.com/zer0Kerbal/Taerobee/issues/129) in [zer0Kerbal/Taerobee](https://github.com/zer0Kerbal/Taerobee)
+4. ❗️ Opened issue [#129](https://github.com/zer0Kerbal/Taerobee/issues/129) in [zer0Kerbal/Taerobee](https://github.com/zer0Kerbal/Taerobee)
+5. 🎉 Merged PR [#123](https://github.com/zer0Kerbal/Taerobee/pull/123) in [zer0Kerbal/Taerobee](https://github.com/zer0Kerbal/Taerobee)
+6. 🎉 Merged PR [#124](https://github.com/zer0Kerbal/Taerobee/pull/124) in [zer0Kerbal/Taerobee](https://github.com/zer0Kerbal/Taerobee)
+7. 🎉 Merged PR [#125](https://github.com/zer0Kerbal/Taerobee/pull/125) in [zer0Kerbal/Taerobee](https://github.com/zer0Kerbal/Taerobee)
+8. 🎉 Merged PR [#126](https://github.com/zer0Kerbal/Taerobee/pull/126) in [zer0Kerbal/Taerobee](https://github.com/zer0Kerbal/Taerobee)
+9. 🎉 Merged PR [#127](https://github.com/zer0Kerbal/Taerobee/pull/127) in [zer0Kerbal/Taerobee](https://github.com/zer0Kerbal/Taerobee)
+10. ❌ Closed PR [#128](https://github.com/zer0Kerbal/Taerobee/pull/128) in [zer0Kerbal/Taerobee](https://github.com/zer0Kerbal/Taerobee)
 <!--END_SECTION:activity-->
 
 </details
