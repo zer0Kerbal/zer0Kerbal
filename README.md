@@ -41,16 +41,16 @@
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#7](https://github.com/zer0Kerbal/KeridianDynamics/pull/7) in [zer0Kerbal/KeridianDynamics](https://github.com/zer0Kerbal/KeridianDynamics)
-2. 🗣 Commented on [#5](https://github.com/zer0Kerbal/KeridianDynamics/issues/5) in [zer0Kerbal/KeridianDynamics](https://github.com/zer0Kerbal/KeridianDynamics)
-3. 🗣 Commented on [#6](https://github.com/zer0Kerbal/KeridianDynamics/issues/6) in [zer0Kerbal/KeridianDynamics](https://github.com/zer0Kerbal/KeridianDynamics)
-4. ❗️ Opened issue [#6](https://github.com/zer0Kerbal/KeridianDynamics/issues/6) in [zer0Kerbal/KeridianDynamics](https://github.com/zer0Kerbal/KeridianDynamics)
-5. ❌ Closed PR [#131](https://github.com/zer0Kerbal/Taerobee/pull/131) in [zer0Kerbal/Taerobee](https://github.com/zer0Kerbal/Taerobee)
-6. 🎉 Merged PR [#130](https://github.com/zer0Kerbal/Taerobee/pull/130) in [zer0Kerbal/Taerobee](https://github.com/zer0Kerbal/Taerobee)
-7. ❗️ Closed issue [#129](https://github.com/zer0Kerbal/Taerobee/issues/129) in [zer0Kerbal/Taerobee](https://github.com/zer0Kerbal/Taerobee)
-8. ❗️ Closed issue [#120](https://github.com/zer0Kerbal/Taerobee/issues/120) in [zer0Kerbal/Taerobee](https://github.com/zer0Kerbal/Taerobee)
-9. ❗️ Closed issue [#110](https://github.com/zer0Kerbal/Taerobee/issues/110) in [zer0Kerbal/Taerobee](https://github.com/zer0Kerbal/Taerobee)
-10. ❗️ Closed issue [#114](https://github.com/zer0Kerbal/Taerobee/issues/114) in [zer0Kerbal/Taerobee](https://github.com/zer0Kerbal/Taerobee)
+1. ❌ Closed PR [#51](https://github.com/zer0Kerbal/SimpleConstruction/pull/51) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
+2. ❌ Closed PR [#16](https://github.com/zer0Kerbal/SimpleConstruction/pull/16) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
+3. ❌ Closed PR [#9](https://github.com/zer0Kerbal/KeridianDynamics/pull/9) in [zer0Kerbal/KeridianDynamics](https://github.com/zer0Kerbal/KeridianDynamics)
+4. ❌ Closed PR [#2](https://github.com/zer0Kerbal/KeridianDynamics/pull/2) in [zer0Kerbal/KeridianDynamics](https://github.com/zer0Kerbal/KeridianDynamics)
+5. 🎉 Merged PR [#8](https://github.com/zer0Kerbal/KeridianDynamics/pull/8) in [zer0Kerbal/KeridianDynamics](https://github.com/zer0Kerbal/KeridianDynamics)
+6. 💪 Opened PR [#8](https://github.com/zer0Kerbal/KeridianDynamics/pull/8) in [zer0Kerbal/KeridianDynamics](https://github.com/zer0Kerbal/KeridianDynamics)
+7. ❌ Closed PR [#7](https://github.com/zer0Kerbal/KeridianDynamics/pull/7) in [zer0Kerbal/KeridianDynamics](https://github.com/zer0Kerbal/KeridianDynamics)
+8. 🗣 Commented on [#5](https://github.com/zer0Kerbal/KeridianDynamics/issues/5) in [zer0Kerbal/KeridianDynamics](https://github.com/zer0Kerbal/KeridianDynamics)
+9. 🗣 Commented on [#6](https://github.com/zer0Kerbal/KeridianDynamics/issues/6) in [zer0Kerbal/KeridianDynamics](https://github.com/zer0Kerbal/KeridianDynamics)
+10. ❗️ Opened issue [#6](https://github.com/zer0Kerbal/KeridianDynamics/issues/6) in [zer0Kerbal/KeridianDynamics](https://github.com/zer0Kerbal/KeridianDynamics)
 <!--END_SECTION:activity-->
 
 </details
