@@ -41,16 +41,16 @@
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#51](https://github.com/zer0Kerbal/SimpleConstruction/pull/51) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
-2. ❌ Closed PR [#16](https://github.com/zer0Kerbal/SimpleConstruction/pull/16) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
-3. ❌ Closed PR [#9](https://github.com/zer0Kerbal/KeridianDynamics/pull/9) in [zer0Kerbal/KeridianDynamics](https://github.com/zer0Kerbal/KeridianDynamics)
-4. ❌ Closed PR [#2](https://github.com/zer0Kerbal/KeridianDynamics/pull/2) in [zer0Kerbal/KeridianDynamics](https://github.com/zer0Kerbal/KeridianDynamics)
-5. 🎉 Merged PR [#8](https://github.com/zer0Kerbal/KeridianDynamics/pull/8) in [zer0Kerbal/KeridianDynamics](https://github.com/zer0Kerbal/KeridianDynamics)
-6. 💪 Opened PR [#8](https://github.com/zer0Kerbal/KeridianDynamics/pull/8) in [zer0Kerbal/KeridianDynamics](https://github.com/zer0Kerbal/KeridianDynamics)
-7. ❌ Closed PR [#7](https://github.com/zer0Kerbal/KeridianDynamics/pull/7) in [zer0Kerbal/KeridianDynamics](https://github.com/zer0Kerbal/KeridianDynamics)
-8. 🗣 Commented on [#5](https://github.com/zer0Kerbal/KeridianDynamics/issues/5) in [zer0Kerbal/KeridianDynamics](https://github.com/zer0Kerbal/KeridianDynamics)
-9. 🗣 Commented on [#6](https://github.com/zer0Kerbal/KeridianDynamics/issues/6) in [zer0Kerbal/KeridianDynamics](https://github.com/zer0Kerbal/KeridianDynamics)
-10. ❗️ Opened issue [#6](https://github.com/zer0Kerbal/KeridianDynamics/issues/6) in [zer0Kerbal/KeridianDynamics](https://github.com/zer0Kerbal/KeridianDynamics)
+1. ❌ Closed PR [#1](https://github.com/MiracleMagician/KSP-SimpleConstruction/pull/1) in [MiracleMagician/KSP-SimpleConstruction](https://github.com/MiracleMagician/KSP-SimpleConstruction)
+2. 💪 Opened PR [#1](https://github.com/MiracleMagician/KSP-SimpleConstruction/pull/1) in [MiracleMagician/KSP-SimpleConstruction](https://github.com/MiracleMagician/KSP-SimpleConstruction)
+3. 🎉 Merged PR [#52](https://github.com/zer0Kerbal/SimpleConstruction/pull/52) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
+4. 💪 Opened PR [#52](https://github.com/zer0Kerbal/SimpleConstruction/pull/52) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
+5. ❌ Closed PR [#51](https://github.com/zer0Kerbal/SimpleConstruction/pull/51) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
+6. ❌ Closed PR [#16](https://github.com/zer0Kerbal/SimpleConstruction/pull/16) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
+7. ❌ Closed PR [#9](https://github.com/zer0Kerbal/KeridianDynamics/pull/9) in [zer0Kerbal/KeridianDynamics](https://github.com/zer0Kerbal/KeridianDynamics)
+8. ❌ Closed PR [#2](https://github.com/zer0Kerbal/KeridianDynamics/pull/2) in [zer0Kerbal/KeridianDynamics](https://github.com/zer0Kerbal/KeridianDynamics)
+9. 🎉 Merged PR [#8](https://github.com/zer0Kerbal/KeridianDynamics/pull/8) in [zer0Kerbal/KeridianDynamics](https://github.com/zer0Kerbal/KeridianDynamics)
+10. 💪 Opened PR [#8](https://github.com/zer0Kerbal/KeridianDynamics/pull/8) in [zer0Kerbal/KeridianDynamics](https://github.com/zer0Kerbal/KeridianDynamics)
 <!--END_SECTION:activity-->
 
 </details
