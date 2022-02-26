@@ -41,16 +41,16 @@
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#183](https://github.com/taniwha/Extraplanetary-Launchpads/issues/183) in [taniwha/Extraplanetary-Launchpads](https://github.com/taniwha/Extraplanetary-Launchpads)
-2. 🗣 Commented on [#183](https://github.com/taniwha/Extraplanetary-Launchpads/issues/183) in [taniwha/Extraplanetary-Launchpads](https://github.com/taniwha/Extraplanetary-Launchpads)
-3. ❗️ Opened issue [#183](https://github.com/taniwha/Extraplanetary-Launchpads/issues/183) in [taniwha/Extraplanetary-Launchpads](https://github.com/taniwha/Extraplanetary-Launchpads)
-4. ❌ Closed PR [#1](https://github.com/MiracleMagician/KSP-SimpleConstruction/pull/1) in [MiracleMagician/KSP-SimpleConstruction](https://github.com/MiracleMagician/KSP-SimpleConstruction)
-5. 💪 Opened PR [#1](https://github.com/MiracleMagician/KSP-SimpleConstruction/pull/1) in [MiracleMagician/KSP-SimpleConstruction](https://github.com/MiracleMagician/KSP-SimpleConstruction)
-6. 🎉 Merged PR [#52](https://github.com/zer0Kerbal/SimpleConstruction/pull/52) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
-7. 💪 Opened PR [#52](https://github.com/zer0Kerbal/SimpleConstruction/pull/52) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
-8. ❌ Closed PR [#51](https://github.com/zer0Kerbal/SimpleConstruction/pull/51) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
-9. ❌ Closed PR [#16](https://github.com/zer0Kerbal/SimpleConstruction/pull/16) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
-10. ❌ Closed PR [#9](https://github.com/zer0Kerbal/KeridianDynamics/pull/9) in [zer0Kerbal/KeridianDynamics](https://github.com/zer0Kerbal/KeridianDynamics)
+1. ❗️ Opened issue [#53](https://github.com/zer0Kerbal/SimpleConstruction/issues/53) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
+2. ❗️ Closed issue [#183](https://github.com/taniwha/Extraplanetary-Launchpads/issues/183) in [taniwha/Extraplanetary-Launchpads](https://github.com/taniwha/Extraplanetary-Launchpads)
+3. 🗣 Commented on [#183](https://github.com/taniwha/Extraplanetary-Launchpads/issues/183) in [taniwha/Extraplanetary-Launchpads](https://github.com/taniwha/Extraplanetary-Launchpads)
+4. ❗️ Opened issue [#183](https://github.com/taniwha/Extraplanetary-Launchpads/issues/183) in [taniwha/Extraplanetary-Launchpads](https://github.com/taniwha/Extraplanetary-Launchpads)
+5. ❌ Closed PR [#1](https://github.com/MiracleMagician/KSP-SimpleConstruction/pull/1) in [MiracleMagician/KSP-SimpleConstruction](https://github.com/MiracleMagician/KSP-SimpleConstruction)
+6. 💪 Opened PR [#1](https://github.com/MiracleMagician/KSP-SimpleConstruction/pull/1) in [MiracleMagician/KSP-SimpleConstruction](https://github.com/MiracleMagician/KSP-SimpleConstruction)
+7. 🎉 Merged PR [#52](https://github.com/zer0Kerbal/SimpleConstruction/pull/52) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
+8. 💪 Opened PR [#52](https://github.com/zer0Kerbal/SimpleConstruction/pull/52) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
+9. ❌ Closed PR [#51](https://github.com/zer0Kerbal/SimpleConstruction/pull/51) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
+10. ❌ Closed PR [#16](https://github.com/zer0Kerbal/SimpleConstruction/pull/16) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
 <!--END_SECTION:activity-->
 
 </details
