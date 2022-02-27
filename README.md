@@ -41,16 +41,16 @@
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#58](https://github.com/zer0Kerbal/SimpleConstruction/issues/58) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
-2. ❗️ Opened issue [#57](https://github.com/zer0Kerbal/SimpleConstruction/issues/57) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
-3. ❗️ Opened issue [#56](https://github.com/zer0Kerbal/SimpleConstruction/issues/56) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
-4. ❗️ Opened issue [#55](https://github.com/zer0Kerbal/SimpleConstruction/issues/55) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
-5. ❗️ Opened issue [#54](https://github.com/zer0Kerbal/SimpleConstruction/issues/54) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
-6. ❗️ Opened issue [#53](https://github.com/zer0Kerbal/SimpleConstruction/issues/53) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
-7. ❗️ Closed issue [#183](https://github.com/taniwha/Extraplanetary-Launchpads/issues/183) in [taniwha/Extraplanetary-Launchpads](https://github.com/taniwha/Extraplanetary-Launchpads)
-8. 🗣 Commented on [#183](https://github.com/taniwha/Extraplanetary-Launchpads/issues/183) in [taniwha/Extraplanetary-Launchpads](https://github.com/taniwha/Extraplanetary-Launchpads)
-9. ❗️ Opened issue [#183](https://github.com/taniwha/Extraplanetary-Launchpads/issues/183) in [taniwha/Extraplanetary-Launchpads](https://github.com/taniwha/Extraplanetary-Launchpads)
-10. ❌ Closed PR [#1](https://github.com/MiracleMagician/KSP-SimpleConstruction/pull/1) in [MiracleMagician/KSP-SimpleConstruction](https://github.com/MiracleMagician/KSP-SimpleConstruction)
+1. 💪 Opened PR [#60](https://github.com/zer0Kerbal/SimpleConstruction/pull/60) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
+2. ❗️ Opened issue [#59](https://github.com/zer0Kerbal/SimpleConstruction/issues/59) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
+3. ❗️ Opened issue [#58](https://github.com/zer0Kerbal/SimpleConstruction/issues/58) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
+4. ❗️ Opened issue [#57](https://github.com/zer0Kerbal/SimpleConstruction/issues/57) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
+5. ❗️ Opened issue [#56](https://github.com/zer0Kerbal/SimpleConstruction/issues/56) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
+6. ❗️ Opened issue [#55](https://github.com/zer0Kerbal/SimpleConstruction/issues/55) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
+7. ❗️ Opened issue [#54](https://github.com/zer0Kerbal/SimpleConstruction/issues/54) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
+8. ❗️ Opened issue [#53](https://github.com/zer0Kerbal/SimpleConstruction/issues/53) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
+9. ❗️ Closed issue [#183](https://github.com/taniwha/Extraplanetary-Launchpads/issues/183) in [taniwha/Extraplanetary-Launchpads](https://github.com/taniwha/Extraplanetary-Launchpads)
+10. 🗣 Commented on [#183](https://github.com/taniwha/Extraplanetary-Launchpads/issues/183) in [taniwha/Extraplanetary-Launchpads](https://github.com/taniwha/Extraplanetary-Launchpads)
 <!--END_SECTION:activity-->
 
 </details
