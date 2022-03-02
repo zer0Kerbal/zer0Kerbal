@@ -41,16 +41,16 @@
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#51](https://github.com/zer0Kerbal/CoyoteCargoFreighter/issues/51) in [zer0Kerbal/CoyoteCargoFreighter](https://github.com/zer0Kerbal/CoyoteCargoFreighter)
-2. ❗️ Closed issue [#3](https://github.com/zer0Kerbal/Biomatic/issues/3) in [zer0Kerbal/Biomatic](https://github.com/zer0Kerbal/Biomatic)
-3. ❌ Closed PR [#62](https://github.com/zer0Kerbal/SimpleConstruction/pull/62) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
-4. ❗️ Closed issue [#50](https://github.com/zer0Kerbal/SimpleConstruction/issues/50) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
-5. 🎉 Merged PR [#60](https://github.com/zer0Kerbal/SimpleConstruction/pull/60) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
-6. ❗️ Closed issue [#53](https://github.com/zer0Kerbal/SimpleConstruction/issues/53) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
-7. ❗️ Closed issue [#54](https://github.com/zer0Kerbal/SimpleConstruction/issues/54) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
-8. ❗️ Closed issue [#55](https://github.com/zer0Kerbal/SimpleConstruction/issues/55) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
-9. ❗️ Closed issue [#59](https://github.com/zer0Kerbal/SimpleConstruction/issues/59) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
-10. ❗️ Closed issue [#56](https://github.com/zer0Kerbal/SimpleConstruction/issues/56) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
+1. ❗️ Opened issue [#24](https://github.com/zer0Kerbal/CSITools/issues/24) in [zer0Kerbal/CSITools](https://github.com/zer0Kerbal/CSITools)
+2. ❗️ Opened issue [#21](https://github.com/zer0Kerbal/CSITools/issues/21) in [zer0Kerbal/CSITools](https://github.com/zer0Kerbal/CSITools)
+3. ❗️ Opened issue [#17](https://github.com/zer0Kerbal/CSITools/issues/17) in [zer0Kerbal/CSITools](https://github.com/zer0Kerbal/CSITools)
+4. ❗️ Opened issue [#16](https://github.com/zer0Kerbal/CSITools/issues/16) in [zer0Kerbal/CSITools](https://github.com/zer0Kerbal/CSITools)
+5. ❗️ Opened issue [#15](https://github.com/zer0Kerbal/CSITools/issues/15) in [zer0Kerbal/CSITools](https://github.com/zer0Kerbal/CSITools)
+6. ❗️ Opened issue [#14](https://github.com/zer0Kerbal/CSITools/issues/14) in [zer0Kerbal/CSITools](https://github.com/zer0Kerbal/CSITools)
+7. ❗️ Opened issue [#13](https://github.com/zer0Kerbal/CSITools/issues/13) in [zer0Kerbal/CSITools](https://github.com/zer0Kerbal/CSITools)
+8. ❗️ Opened issue [#12](https://github.com/zer0Kerbal/CSITools/issues/12) in [zer0Kerbal/CSITools](https://github.com/zer0Kerbal/CSITools)
+9. ❗️ Opened issue [#11](https://github.com/zer0Kerbal/CSITools/issues/11) in [zer0Kerbal/CSITools](https://github.com/zer0Kerbal/CSITools)
+10. ❗️ Opened issue [#10](https://github.com/zer0Kerbal/CSITools/issues/10) in [zer0Kerbal/CSITools](https://github.com/zer0Kerbal/CSITools)
 <!--END_SECTION:activity-->
 
 </details
