@@ -1,7 +1,12 @@
-<!--Readme.md v2.0.0.0  -->
+---
+permalink: /readme.html
+title: Localization and Translation Readme
+---
+
+<!--Readme.md v2.0.1.0  -->
 <!--Localization project  -->
-<!--created:   --> 
-<!--updated: 30 Aug 2021  -->
+<!--created:   01 Jan 2018 -->
+<!--updated: 02 Mar 2022  -->
 
 <!--from: @HebruSan (thank you) ![link](https://github.com/HebaruSan/Astrogator/tree/master/assets/lang)  -->
 
@@ -15,23 +20,27 @@ Unfortunately, I only speak English, and I maintain this mod for free. This mean
 
 Note: Even though you will appear to be editing the project's files, don't worry about making mistakes. Github will keep your changes separate from the main files until I have verified that they are OK to use. It is even possible for me to ask questions or request changes before your work is committed to the main files.
 
-## Languages Supported by Kerbal Space Program as of 1.12.2
-- [ ]  [![American English][EN]][EN] [American English][EN] <en-us.cfg>  
-- [ ]  [![Brasil][BR]][BR] [Brazilian][BR] <pt-br.cfg>  
-- [ ]  [![中文][CN]][CN] [Chinese (中文)][CN] <zh-cn.cfg>  
-- [ ]  [![Deutsch][DE]][DE] [German (Deutsch)][DE]  
-- [ ]  [![Español][ES]][ES] [Spanish (Español)][ES]  
-- [ ]  [![Français][FR]][FR] [French (Français)][FR] <fr-fr.cfg>  
-- [ ]  [![Italiano][IT]][IT] [Italian (Italiano)][IT] <it-it.cfg>  
-- [ ]  [![日本語][JA]][JA] [Japanese(日本語)][JA] <ja.cfg>  
-- [ ]  [![한국어][KO]][KO] [Korean (한국어)][KO] <ko.cfg>  
-- [ ]  [![Mexicano][ME]][ME] [Mexican (Mexicano)][ME] <es-mx.cfg>  
-- [ ]  [![Dutch][NL]][NL] [Dutch][NL] <nl-nl.cfg>  
-- [ ]  [![Norsk][NO]][NO] [Norwegian (Norsk)][NO] <no-no.cfg>  
-- [ ]  [![Polski][PO]][PO] [Polish (Polski)][PO] <pl.cfg>  
-- [ ]  [![Русский][RU]][RU] [Russian (Русский)][RU] <ru.cfg>  
-- [ ]  [![Svenska][SW]][SW] [Swedish (Svenska)][SW] <sw-sw.cfg>  
-- [ ]  [![国语][TW]][TW] [Taiwanese (国语)][TW] <zh-tw.cfg>  
+## Languages Supported by Kerbal Space Program as of 1.12.x
+
+* [ ] ![American English][EN] American English <en-us.cfg>
+* [ ] ![Brasil][BR] Brazilian <pt-br.cfg>
+* [ ] ![中文][CN]] Chinese (中文) <zh-cn.cfg>
+* [ ] ![Deutsch][DE] German (Deutsch) <de.cfg>
+* [ ] ![Español][ES]] [Spanish (Español) <es-es.cfg>
+* [ ] ![Français][FR] French (Français)<fr-fr.cfg>
+* [ ] ![Italiano][IT] Italian (Italiano) <it-it.cfg>
+* [ ] ![日本語][JA] Japanese(日本語) <ja.cfg>
+
+## Included just in case
+
+* [ ] ![한국어][KO] Korean (한국어) <ko.cfg>
+* [ ] ![Mexicano][ME] Mexican Spanish (Español Mexicano) <es-mx.cfg>
+* [ ] ![Dutch][NL]] Dutch <nl-nl.cfg>
+* [ ] ![Norsk][NO]] Norwegian (Norsk) <no-no.cfg>
+* [ ] ![Polski][PO]] Polish (Polski) <pl.cfg>
+* [ ] ![Русский][RU] Russian (Русский) <ru.cfg>
+* [ ] ![Svenska][SW] Swedish (Svenska) <sw-sw.cfg>
+* [ ] ![国语][TW]] Taiwanese (国语) <zh-tw.cfg>
 
 ## Creating or editing a translation
 
@@ -48,7 +57,7 @@ It is recommended to make your changes on your own computer at first so you can 
 
 The remaining steps are different depending on whether the file already exists:
 
-###  If the file exists
+### If the file exists
 
 Follow these steps to make improvements to an existing translation:
 
@@ -140,8 +149,6 @@ If I have any questions about specific changes you've made, I will add them to t
 
 Once all the questions and comments are resolved to my satisfaction, your changes will be merged into the main files and included in the next release. I will also add your Github name to the Acknowledgements section of the README file.
 
-
-
 [EN]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/American-flag-sm.png "American English"
 [BR]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Brazilian-flag-sm.png "Brasil"
 [CN]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Chinese-flag-sm.png "中文"
@@ -151,7 +158,7 @@ Once all the questions and comments are resolved to my satisfaction, your change
 [IT]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Italian-flag-sm.png "Italiano"
 [JA]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Japanese-flag-sm.png "日本語"
 [KO]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/South-Korean-flag-sm.png "한국어"
-[ME]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Mexican-flag-sm.png "Mexicano"
+[ME]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Mexican-flag-sm.png "Español Mexicano"
 [NL]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Dutch-flag-sm.png "Dutch"
 [NO]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Norwegian-flag-sm.png "Norsk"
 [PO]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Polish-flag-sm.png "Polski"
@@ -160,5 +167,4 @@ Once all the questions and comments are resolved to my satisfaction, your change
 [TW]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Taiwanese-flag-sm.png "国语"
 [HA]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Hawaii-flag-sm.png "ʻŌlelo Pākē"
 
-<!-- CC BY-ND-3.0 unported  -->
-<!-- zer0Kerbal  -->
+<!-- CC BY-ND-3.0 Unported  by zer0Kerbal  -->
