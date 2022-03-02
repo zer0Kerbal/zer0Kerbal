@@ -11,16 +11,20 @@
 
 ### Connect with me:
 
-<!--[<img align="left" alt="kerbalspaceprogram.com" width="22px" src="https://kerbalspaceprogram.com//favicon.ico" />][website]-->
-[<img align="left" alt="zer0Kerbal | CurseForge" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/curseforge.svg" />][curseforge]
-[<img align="left" alt="zer0Kerbal | CurseForge" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />][reddit]
-[<img align="left" alt="zer0Kerbal | CurseForge" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/patreon.svg" />][patreon]
-[<img align="left" alt="zer0Kerbal | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="zer0Kerbal | Twitch" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitch.svg" />][twitch]
-[<img align="left" alt="zer0Kerbal | CurseForge" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/paypal.svg" />][paypal]
-[<img align="left" alt="zer0Kerbal | buy me a coffee" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/buymeacoffee.svg" />][buymeacoffee]
-[<img align="left" alt="zer0Kerbal | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+<!--[<img align="left" alt="kerbalspaceprogram.com" width="32px" src="https://kerbalspaceprogram.com//favicon.ico" />][website]-->
+[<img align="left" alt="kerbalspaceprogram.com" width="32px" src="https://cdn.icon-icons.com/icons2/1381/PNG/32/kerbalspaceprogram_93898.png" />][website]
+[<img align="left" alt="zer0Kerbal | CurseForge" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/curseforge.svg" />][curseforge]
+[<img align="left" alt="zer0Kerbal | CurseForge" width="32px" src="https://cdn.icon-icons.com/icons2/1945/PNG/512/iconfinder-reddit-4661631_122483.png" />][reddit]
+[<img align="left" alt="zer0Kerbal | CurseForge" width="32px" src="https://cdn.icon-icons.com/icons2/2429/PNG/512/patreon_logo_icon_147253.png" />][patreon]
+[<img align="left" alt="zer0Kerbal | YouTube" width="32px" src="https://cdn.icon-icons.com/icons2/836/PNG/512/Youtube_icon-icons.com_66802.png" />][youtube]
+[<img align="left" alt="zer0Kerbal | Twitch" width="32px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/twitch_logo_icon_170383.png" />][twitch]
+[<img align="left" alt="zer0Kerbal | CurseForge" width="32px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/paypal_logo_icon_168055.png" />][paypal]
+[<img align="left" alt="zer0Kerbal | buy me a coffee" width="32px" src="https://www.buymeacoffee.com/assets/img/bmc-meta-new/new/favicon.ico" />][buymeacoffee]
+<!-- [<img align="left" alt="zer0Kerbal | buy me a coffee" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/buymeacoffee.svg" />][buymeacoffee] -->
+[<img align="left" alt="zer0Kerbal | Twitter" width="32px" src="https://cdn.icon-icons.com/icons2/836/PNG/32/Twitter_icon-icons.com_66803.png" />][twitter]
+<!-- [<img align="left" alt="zer0Kerbal | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] -->
 <br />
+
 ---
 
 ### 📺 Latest YouTube Videos
