@@ -11,7 +11,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="kerbalspaceprogram.com" width="22px" src="https://kerbalspaceprogram.com//favicon.ico" />][website]
+<!--[<img align="left" alt="kerbalspaceprogram.com" width="22px" src="https://kerbalspaceprogram.com//favicon.ico" />][website]-->
 [<img align="left" alt="zer0Kerbal | CurseForge" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/curseforge.svg" />][curseforge]
 [<img align="left" alt="zer0Kerbal | CurseForge" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />][reddit]
 [<img align="left" alt="zer0Kerbal | CurseForge" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/patreon.svg" />][patreon]
