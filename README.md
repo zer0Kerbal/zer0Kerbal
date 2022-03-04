@@ -45,16 +45,16 @@
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#16](https://github.com/zer0Kerbal/Notes/issues/16) in [zer0Kerbal/Notes](https://github.com/zer0Kerbal/Notes)
-2. ❗️ Closed issue [#40](https://github.com/zer0Kerbal/Notes/issues/40) in [zer0Kerbal/Notes](https://github.com/zer0Kerbal/Notes)
-3. 🗣 Commented on [#40](https://github.com/zer0Kerbal/Notes/issues/40) in [zer0Kerbal/Notes](https://github.com/zer0Kerbal/Notes)
-4. ❗️ Opened issue [#24](https://github.com/zer0Kerbal/CSITools/issues/24) in [zer0Kerbal/CSITools](https://github.com/zer0Kerbal/CSITools)
-5. ❗️ Opened issue [#21](https://github.com/zer0Kerbal/CSITools/issues/21) in [zer0Kerbal/CSITools](https://github.com/zer0Kerbal/CSITools)
-6. ❗️ Opened issue [#17](https://github.com/zer0Kerbal/CSITools/issues/17) in [zer0Kerbal/CSITools](https://github.com/zer0Kerbal/CSITools)
-7. ❗️ Opened issue [#16](https://github.com/zer0Kerbal/CSITools/issues/16) in [zer0Kerbal/CSITools](https://github.com/zer0Kerbal/CSITools)
-8. ❗️ Opened issue [#15](https://github.com/zer0Kerbal/CSITools/issues/15) in [zer0Kerbal/CSITools](https://github.com/zer0Kerbal/CSITools)
-9. ❗️ Opened issue [#14](https://github.com/zer0Kerbal/CSITools/issues/14) in [zer0Kerbal/CSITools](https://github.com/zer0Kerbal/CSITools)
-10. ❗️ Opened issue [#13](https://github.com/zer0Kerbal/CSITools/issues/13) in [zer0Kerbal/CSITools](https://github.com/zer0Kerbal/CSITools)
+1. ❌ Closed PR [#1](https://github.com/zer0Kerbal/WernhersOldStuff/pull/1) in [zer0Kerbal/WernhersOldStuff](https://github.com/zer0Kerbal/WernhersOldStuff)
+2. 🗣 Commented on [#16](https://github.com/zer0Kerbal/Notes/issues/16) in [zer0Kerbal/Notes](https://github.com/zer0Kerbal/Notes)
+3. ❗️ Closed issue [#40](https://github.com/zer0Kerbal/Notes/issues/40) in [zer0Kerbal/Notes](https://github.com/zer0Kerbal/Notes)
+4. 🗣 Commented on [#40](https://github.com/zer0Kerbal/Notes/issues/40) in [zer0Kerbal/Notes](https://github.com/zer0Kerbal/Notes)
+5. ❗️ Opened issue [#24](https://github.com/zer0Kerbal/CSITools/issues/24) in [zer0Kerbal/CSITools](https://github.com/zer0Kerbal/CSITools)
+6. ❗️ Opened issue [#21](https://github.com/zer0Kerbal/CSITools/issues/21) in [zer0Kerbal/CSITools](https://github.com/zer0Kerbal/CSITools)
+7. ❗️ Opened issue [#17](https://github.com/zer0Kerbal/CSITools/issues/17) in [zer0Kerbal/CSITools](https://github.com/zer0Kerbal/CSITools)
+8. ❗️ Opened issue [#16](https://github.com/zer0Kerbal/CSITools/issues/16) in [zer0Kerbal/CSITools](https://github.com/zer0Kerbal/CSITools)
+9. ❗️ Opened issue [#15](https://github.com/zer0Kerbal/CSITools/issues/15) in [zer0Kerbal/CSITools](https://github.com/zer0Kerbal/CSITools)
+10. ❗️ Opened issue [#14](https://github.com/zer0Kerbal/CSITools/issues/14) in [zer0Kerbal/CSITools](https://github.com/zer0Kerbal/CSITools)
 <!--END_SECTION:activity-->
 
 </details
