@@ -45,16 +45,16 @@
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/zer0Kerbal/WernhersOldStuff/pull/1) in [zer0Kerbal/WernhersOldStuff](https://github.com/zer0Kerbal/WernhersOldStuff)
-2. 🗣 Commented on [#16](https://github.com/zer0Kerbal/Notes/issues/16) in [zer0Kerbal/Notes](https://github.com/zer0Kerbal/Notes)
-3. ❗️ Closed issue [#40](https://github.com/zer0Kerbal/Notes/issues/40) in [zer0Kerbal/Notes](https://github.com/zer0Kerbal/Notes)
-4. 🗣 Commented on [#40](https://github.com/zer0Kerbal/Notes/issues/40) in [zer0Kerbal/Notes](https://github.com/zer0Kerbal/Notes)
-5. ❗️ Opened issue [#24](https://github.com/zer0Kerbal/CSITools/issues/24) in [zer0Kerbal/CSITools](https://github.com/zer0Kerbal/CSITools)
-6. ❗️ Opened issue [#21](https://github.com/zer0Kerbal/CSITools/issues/21) in [zer0Kerbal/CSITools](https://github.com/zer0Kerbal/CSITools)
-7. ❗️ Opened issue [#17](https://github.com/zer0Kerbal/CSITools/issues/17) in [zer0Kerbal/CSITools](https://github.com/zer0Kerbal/CSITools)
-8. ❗️ Opened issue [#16](https://github.com/zer0Kerbal/CSITools/issues/16) in [zer0Kerbal/CSITools](https://github.com/zer0Kerbal/CSITools)
-9. ❗️ Opened issue [#15](https://github.com/zer0Kerbal/CSITools/issues/15) in [zer0Kerbal/CSITools](https://github.com/zer0Kerbal/CSITools)
-10. ❗️ Opened issue [#14](https://github.com/zer0Kerbal/CSITools/issues/14) in [zer0Kerbal/CSITools](https://github.com/zer0Kerbal/CSITools)
+1. ❗️ Closed issue [#36](https://github.com/zer0Kerbal/Notes/issues/36) in [zer0Kerbal/Notes](https://github.com/zer0Kerbal/Notes)
+2. ❗️ Closed issue [#37](https://github.com/zer0Kerbal/Notes/issues/37) in [zer0Kerbal/Notes](https://github.com/zer0Kerbal/Notes)
+3. 🎉 Merged PR [#42](https://github.com/zer0Kerbal/Notes/pull/42) in [zer0Kerbal/Notes](https://github.com/zer0Kerbal/Notes)
+4. ❗️ Closed issue [#41](https://github.com/zer0Kerbal/Notes/issues/41) in [zer0Kerbal/Notes](https://github.com/zer0Kerbal/Notes)
+5. ❗️ Closed issue [#17](https://github.com/zer0Kerbal/Notes/issues/17) in [zer0Kerbal/Notes](https://github.com/zer0Kerbal/Notes)
+6. ❗️ Closed issue [#18](https://github.com/zer0Kerbal/Notes/issues/18) in [zer0Kerbal/Notes](https://github.com/zer0Kerbal/Notes)
+7. ❗️ Closed issue [#16](https://github.com/zer0Kerbal/Notes/issues/16) in [zer0Kerbal/Notes](https://github.com/zer0Kerbal/Notes)
+8. ❗️ Closed issue [#15](https://github.com/zer0Kerbal/Notes/issues/15) in [zer0Kerbal/Notes](https://github.com/zer0Kerbal/Notes)
+9. ❗️ Closed issue [#14](https://github.com/zer0Kerbal/Notes/issues/14) in [zer0Kerbal/Notes](https://github.com/zer0Kerbal/Notes)
+10. ❗️ Closed issue [#32](https://github.com/zer0Kerbal/Notes/issues/32) in [zer0Kerbal/Notes](https://github.com/zer0Kerbal/Notes)
 <!--END_SECTION:activity-->
 
 </details
