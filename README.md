@@ -45,16 +45,16 @@
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/zer0Kerbal/ShieldedPicoPort/pull/7) in [zer0Kerbal/ShieldedPicoPort](https://github.com/zer0Kerbal/ShieldedPicoPort)
-2. 💪 Opened PR [#7](https://github.com/zer0Kerbal/ShieldedPicoPort/pull/7) in [zer0Kerbal/ShieldedPicoPort](https://github.com/zer0Kerbal/ShieldedPicoPort)
-3. 🗣 Commented on [#3](https://github.com/DBooots/CommNetManager/issues/3) in [DBooots/CommNetManager](https://github.com/DBooots/CommNetManager)
-4. ❗️ Opened issue [#3](https://github.com/DBooots/CommNetManager/issues/3) in [DBooots/CommNetManager](https://github.com/DBooots/CommNetManager)
-5. 🎉 Merged PR [#5](https://github.com/zer0Kerbal/ShieldedPicoPort/pull/5) in [zer0Kerbal/ShieldedPicoPort](https://github.com/zer0Kerbal/ShieldedPicoPort)
-6. 🎉 Merged PR [#72](https://github.com/zer0Kerbal/MiniSampleReturnCapsule/pull/72) in [zer0Kerbal/MiniSampleReturnCapsule](https://github.com/zer0Kerbal/MiniSampleReturnCapsule)
-7. 💪 Opened PR [#72](https://github.com/zer0Kerbal/MiniSampleReturnCapsule/pull/72) in [zer0Kerbal/MiniSampleReturnCapsule](https://github.com/zer0Kerbal/MiniSampleReturnCapsule)
-8. 🗣 Commented on [#16](https://github.com/zer0Kerbal/Notes/issues/16) in [zer0Kerbal/Notes](https://github.com/zer0Kerbal/Notes)
-9. 🎉 Merged PR [#43](https://github.com/zer0Kerbal/Notes/pull/43) in [zer0Kerbal/Notes](https://github.com/zer0Kerbal/Notes)
-10. ❗️ Reopened issue [#18](https://github.com/zer0Kerbal/Notes/issues/18) in [zer0Kerbal/Notes](https://github.com/zer0Kerbal/Notes)
+1. ❗️ Opened issue [#8](https://github.com/zer0Kerbal/ShieldedPicoPort/issues/8) in [zer0Kerbal/ShieldedPicoPort](https://github.com/zer0Kerbal/ShieldedPicoPort)
+2. 🎉 Merged PR [#7](https://github.com/zer0Kerbal/ShieldedPicoPort/pull/7) in [zer0Kerbal/ShieldedPicoPort](https://github.com/zer0Kerbal/ShieldedPicoPort)
+3. 💪 Opened PR [#7](https://github.com/zer0Kerbal/ShieldedPicoPort/pull/7) in [zer0Kerbal/ShieldedPicoPort](https://github.com/zer0Kerbal/ShieldedPicoPort)
+4. 🗣 Commented on [#3](https://github.com/DBooots/CommNetManager/issues/3) in [DBooots/CommNetManager](https://github.com/DBooots/CommNetManager)
+5. ❗️ Opened issue [#3](https://github.com/DBooots/CommNetManager/issues/3) in [DBooots/CommNetManager](https://github.com/DBooots/CommNetManager)
+6. 🎉 Merged PR [#5](https://github.com/zer0Kerbal/ShieldedPicoPort/pull/5) in [zer0Kerbal/ShieldedPicoPort](https://github.com/zer0Kerbal/ShieldedPicoPort)
+7. 🎉 Merged PR [#72](https://github.com/zer0Kerbal/MiniSampleReturnCapsule/pull/72) in [zer0Kerbal/MiniSampleReturnCapsule](https://github.com/zer0Kerbal/MiniSampleReturnCapsule)
+8. 💪 Opened PR [#72](https://github.com/zer0Kerbal/MiniSampleReturnCapsule/pull/72) in [zer0Kerbal/MiniSampleReturnCapsule](https://github.com/zer0Kerbal/MiniSampleReturnCapsule)
+9. 🗣 Commented on [#16](https://github.com/zer0Kerbal/Notes/issues/16) in [zer0Kerbal/Notes](https://github.com/zer0Kerbal/Notes)
+10. 🎉 Merged PR [#43](https://github.com/zer0Kerbal/Notes/pull/43) in [zer0Kerbal/Notes](https://github.com/zer0Kerbal/Notes)
 <!--END_SECTION:activity-->
 
 </details
