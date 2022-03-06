@@ -45,16 +45,16 @@
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#63](https://github.com/zer0Kerbal/SimpleConstruction/issues/63) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
-2. ❗️ Opened issue [#8](https://github.com/zer0Kerbal/ShieldedPicoPort/issues/8) in [zer0Kerbal/ShieldedPicoPort](https://github.com/zer0Kerbal/ShieldedPicoPort)
-3. 🎉 Merged PR [#7](https://github.com/zer0Kerbal/ShieldedPicoPort/pull/7) in [zer0Kerbal/ShieldedPicoPort](https://github.com/zer0Kerbal/ShieldedPicoPort)
-4. 💪 Opened PR [#7](https://github.com/zer0Kerbal/ShieldedPicoPort/pull/7) in [zer0Kerbal/ShieldedPicoPort](https://github.com/zer0Kerbal/ShieldedPicoPort)
-5. 🗣 Commented on [#3](https://github.com/DBooots/CommNetManager/issues/3) in [DBooots/CommNetManager](https://github.com/DBooots/CommNetManager)
-6. ❗️ Opened issue [#3](https://github.com/DBooots/CommNetManager/issues/3) in [DBooots/CommNetManager](https://github.com/DBooots/CommNetManager)
-7. 🎉 Merged PR [#5](https://github.com/zer0Kerbal/ShieldedPicoPort/pull/5) in [zer0Kerbal/ShieldedPicoPort](https://github.com/zer0Kerbal/ShieldedPicoPort)
-8. 🎉 Merged PR [#72](https://github.com/zer0Kerbal/MiniSampleReturnCapsule/pull/72) in [zer0Kerbal/MiniSampleReturnCapsule](https://github.com/zer0Kerbal/MiniSampleReturnCapsule)
-9. 💪 Opened PR [#72](https://github.com/zer0Kerbal/MiniSampleReturnCapsule/pull/72) in [zer0Kerbal/MiniSampleReturnCapsule](https://github.com/zer0Kerbal/MiniSampleReturnCapsule)
-10. 🗣 Commented on [#16](https://github.com/zer0Kerbal/Notes/issues/16) in [zer0Kerbal/Notes](https://github.com/zer0Kerbal/Notes)
+1. ❗️ Opened issue [#67](https://github.com/zer0Kerbal/SimpleConstruction/issues/67) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
+2. ❗️ Opened issue [#66](https://github.com/zer0Kerbal/SimpleConstruction/issues/66) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
+3. ❗️ Opened issue [#65](https://github.com/zer0Kerbal/SimpleConstruction/issues/65) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
+4. ❗️ Opened issue [#64](https://github.com/zer0Kerbal/SimpleConstruction/issues/64) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
+5. 🗣 Commented on [#63](https://github.com/zer0Kerbal/SimpleConstruction/issues/63) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
+6. ❗️ Opened issue [#8](https://github.com/zer0Kerbal/ShieldedPicoPort/issues/8) in [zer0Kerbal/ShieldedPicoPort](https://github.com/zer0Kerbal/ShieldedPicoPort)
+7. 🎉 Merged PR [#7](https://github.com/zer0Kerbal/ShieldedPicoPort/pull/7) in [zer0Kerbal/ShieldedPicoPort](https://github.com/zer0Kerbal/ShieldedPicoPort)
+8. 💪 Opened PR [#7](https://github.com/zer0Kerbal/ShieldedPicoPort/pull/7) in [zer0Kerbal/ShieldedPicoPort](https://github.com/zer0Kerbal/ShieldedPicoPort)
+9. 🗣 Commented on [#3](https://github.com/DBooots/CommNetManager/issues/3) in [DBooots/CommNetManager](https://github.com/DBooots/CommNetManager)
+10. ❗️ Opened issue [#3](https://github.com/DBooots/CommNetManager/issues/3) in [DBooots/CommNetManager](https://github.com/DBooots/CommNetManager)
 <!--END_SECTION:activity-->
 
 </details
