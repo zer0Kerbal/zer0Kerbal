@@ -45,16 +45,16 @@
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#63](https://github.com/zer0Kerbal/SimpleConstruction/issues/63) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
-2. ❗️ Opened issue [#23](https://github.com/zer0Kerbal/KSPChromaControl/issues/23) in [zer0Kerbal/KSPChromaControl](https://github.com/zer0Kerbal/KSPChromaControl)
-3. 🗣 Commented on [#63](https://github.com/zer0Kerbal/SimpleConstruction/issues/63) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
-4. ❗️ Opened issue [#67](https://github.com/zer0Kerbal/SimpleConstruction/issues/67) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
-5. ❗️ Opened issue [#66](https://github.com/zer0Kerbal/SimpleConstruction/issues/66) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
-6. ❗️ Opened issue [#65](https://github.com/zer0Kerbal/SimpleConstruction/issues/65) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
-7. ❗️ Opened issue [#64](https://github.com/zer0Kerbal/SimpleConstruction/issues/64) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
-8. 🗣 Commented on [#63](https://github.com/zer0Kerbal/SimpleConstruction/issues/63) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
-9. ❗️ Opened issue [#8](https://github.com/zer0Kerbal/ShieldedPicoPort/issues/8) in [zer0Kerbal/ShieldedPicoPort](https://github.com/zer0Kerbal/ShieldedPicoPort)
-10. 🎉 Merged PR [#7](https://github.com/zer0Kerbal/ShieldedPicoPort/pull/7) in [zer0Kerbal/ShieldedPicoPort](https://github.com/zer0Kerbal/ShieldedPicoPort)
+1. 🎉 Merged PR [#68](https://github.com/zer0Kerbal/SimpleConstruction/pull/68) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
+2. 🎉 Merged PR [#68](https://github.com/zer0Kerbal/SimpleConstruction/pull/68) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
+3. ❗️ Closed issue [#64](https://github.com/zer0Kerbal/SimpleConstruction/issues/64) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
+4. ❗️ Closed issue [#65](https://github.com/zer0Kerbal/SimpleConstruction/issues/65) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
+5. ❗️ Closed issue [#67](https://github.com/zer0Kerbal/SimpleConstruction/issues/67) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
+6. ❗️ Closed issue [#66](https://github.com/zer0Kerbal/SimpleConstruction/issues/66) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
+7. ❗️ Closed issue [#63](https://github.com/zer0Kerbal/SimpleConstruction/issues/63) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
+8. 💪 Opened PR [#68](https://github.com/zer0Kerbal/SimpleConstruction/pull/68) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
+9. 🗣 Commented on [#63](https://github.com/zer0Kerbal/SimpleConstruction/issues/63) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
+10. ❗️ Opened issue [#23](https://github.com/zer0Kerbal/KSPChromaControl/issues/23) in [zer0Kerbal/KSPChromaControl](https://github.com/zer0Kerbal/KSPChromaControl)
 <!--END_SECTION:activity-->
 
 </details
