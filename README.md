@@ -45,16 +45,16 @@
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#33](https://github.com/zer0Kerbal/KeridianDynamics/issues/33) in [zer0Kerbal/KeridianDynamics](https://github.com/zer0Kerbal/KeridianDynamics)
-2. ❗️ Opened issue [#32](https://github.com/zer0Kerbal/KeridianDynamics/issues/32) in [zer0Kerbal/KeridianDynamics](https://github.com/zer0Kerbal/KeridianDynamics)
-3. ❗️ Opened issue [#31](https://github.com/zer0Kerbal/KeridianDynamics/issues/31) in [zer0Kerbal/KeridianDynamics](https://github.com/zer0Kerbal/KeridianDynamics)
-4. ❗️ Opened issue [#30](https://github.com/zer0Kerbal/KeridianDynamics/issues/30) in [zer0Kerbal/KeridianDynamics](https://github.com/zer0Kerbal/KeridianDynamics)
-5. ❗️ Opened issue [#29](https://github.com/zer0Kerbal/KeridianDynamics/issues/29) in [zer0Kerbal/KeridianDynamics](https://github.com/zer0Kerbal/KeridianDynamics)
-6. ❗️ Opened issue [#28](https://github.com/zer0Kerbal/KeridianDynamics/issues/28) in [zer0Kerbal/KeridianDynamics](https://github.com/zer0Kerbal/KeridianDynamics)
-7. ❗️ Opened issue [#27](https://github.com/zer0Kerbal/KeridianDynamics/issues/27) in [zer0Kerbal/KeridianDynamics](https://github.com/zer0Kerbal/KeridianDynamics)
-8. ❗️ Opened issue [#26](https://github.com/zer0Kerbal/KeridianDynamics/issues/26) in [zer0Kerbal/KeridianDynamics](https://github.com/zer0Kerbal/KeridianDynamics)
-9. ❗️ Opened issue [#25](https://github.com/zer0Kerbal/KeridianDynamics/issues/25) in [zer0Kerbal/KeridianDynamics](https://github.com/zer0Kerbal/KeridianDynamics)
-10. ❗️ Opened issue [#24](https://github.com/zer0Kerbal/KeridianDynamics/issues/24) in [zer0Kerbal/KeridianDynamics](https://github.com/zer0Kerbal/KeridianDynamics)
+1. ❗️ Opened issue [#30](https://github.com/zer0Kerbal/WernhersOldStuff/issues/30) in [zer0Kerbal/WernhersOldStuff](https://github.com/zer0Kerbal/WernhersOldStuff)
+2. ❗️ Opened issue [#29](https://github.com/zer0Kerbal/WernhersOldStuff/issues/29) in [zer0Kerbal/WernhersOldStuff](https://github.com/zer0Kerbal/WernhersOldStuff)
+3. ❗️ Opened issue [#28](https://github.com/zer0Kerbal/WernhersOldStuff/issues/28) in [zer0Kerbal/WernhersOldStuff](https://github.com/zer0Kerbal/WernhersOldStuff)
+4. ❗️ Opened issue [#27](https://github.com/zer0Kerbal/WernhersOldStuff/issues/27) in [zer0Kerbal/WernhersOldStuff](https://github.com/zer0Kerbal/WernhersOldStuff)
+5. ❗️ Opened issue [#26](https://github.com/zer0Kerbal/WernhersOldStuff/issues/26) in [zer0Kerbal/WernhersOldStuff](https://github.com/zer0Kerbal/WernhersOldStuff)
+6. ❗️ Opened issue [#25](https://github.com/zer0Kerbal/WernhersOldStuff/issues/25) in [zer0Kerbal/WernhersOldStuff](https://github.com/zer0Kerbal/WernhersOldStuff)
+7. ❗️ Opened issue [#24](https://github.com/zer0Kerbal/WernhersOldStuff/issues/24) in [zer0Kerbal/WernhersOldStuff](https://github.com/zer0Kerbal/WernhersOldStuff)
+8. ❗️ Opened issue [#23](https://github.com/zer0Kerbal/WernhersOldStuff/issues/23) in [zer0Kerbal/WernhersOldStuff](https://github.com/zer0Kerbal/WernhersOldStuff)
+9. ❗️ Opened issue [#22](https://github.com/zer0Kerbal/WernhersOldStuff/issues/22) in [zer0Kerbal/WernhersOldStuff](https://github.com/zer0Kerbal/WernhersOldStuff)
+10. ❗️ Opened issue [#21](https://github.com/zer0Kerbal/WernhersOldStuff/issues/21) in [zer0Kerbal/WernhersOldStuff](https://github.com/zer0Kerbal/WernhersOldStuff)
 <!--END_SECTION:activity-->
 
 </details
