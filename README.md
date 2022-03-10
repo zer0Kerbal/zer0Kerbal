@@ -45,16 +45,16 @@
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#101](https://github.com/zer0Kerbal/LithobrakeExplorationTechnologies/pull/101) in [zer0Kerbal/LithobrakeExplorationTechnologies](https://github.com/zer0Kerbal/LithobrakeExplorationTechnologies)
-2. 🗣 Commented on [#26](https://github.com/zer0Kerbal/LithobrakeExplorationTechnologies/issues/26) in [zer0Kerbal/LithobrakeExplorationTechnologies](https://github.com/zer0Kerbal/LithobrakeExplorationTechnologies)
-3. ❗️ Opened issue [#105](https://github.com/zer0Kerbal/LithobrakeExplorationTechnologies/issues/105) in [zer0Kerbal/LithobrakeExplorationTechnologies](https://github.com/zer0Kerbal/LithobrakeExplorationTechnologies)
-4. ❗️ Opened issue [#104](https://github.com/zer0Kerbal/LithobrakeExplorationTechnologies/issues/104) in [zer0Kerbal/LithobrakeExplorationTechnologies](https://github.com/zer0Kerbal/LithobrakeExplorationTechnologies)
-5. ❗️ Opened issue [#103](https://github.com/zer0Kerbal/LithobrakeExplorationTechnologies/issues/103) in [zer0Kerbal/LithobrakeExplorationTechnologies](https://github.com/zer0Kerbal/LithobrakeExplorationTechnologies)
-6. ❗️ Opened issue [#102](https://github.com/zer0Kerbal/LithobrakeExplorationTechnologies/issues/102) in [zer0Kerbal/LithobrakeExplorationTechnologies](https://github.com/zer0Kerbal/LithobrakeExplorationTechnologies)
-7. 🎉 Merged PR [#3](https://github.com/zer0Kerbal/AdjustableModPanel/pull/3) in [zer0Kerbal/AdjustableModPanel](https://github.com/zer0Kerbal/AdjustableModPanel)
-8. 💪 Opened PR [#3](https://github.com/zer0Kerbal/AdjustableModPanel/pull/3) in [zer0Kerbal/AdjustableModPanel](https://github.com/zer0Kerbal/AdjustableModPanel)
-9. 🎉 Merged PR [#2](https://github.com/zer0Kerbal/AdjustableModPanel/pull/2) in [zer0Kerbal/AdjustableModPanel](https://github.com/zer0Kerbal/AdjustableModPanel)
-10. 💪 Opened PR [#2](https://github.com/zer0Kerbal/AdjustableModPanel/pull/2) in [zer0Kerbal/AdjustableModPanel](https://github.com/zer0Kerbal/AdjustableModPanel)
+1. ❗️ Opened issue [#75](https://github.com/zer0Kerbal/SimpleConstruction/issues/75) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
+2. ❗️ Opened issue [#74](https://github.com/zer0Kerbal/SimpleConstruction/issues/74) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
+3. ❗️ Opened issue [#73](https://github.com/zer0Kerbal/SimpleConstruction/issues/73) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
+4. ❗️ Opened issue [#72](https://github.com/zer0Kerbal/SimpleConstruction/issues/72) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
+5. 🎉 Merged PR [#70](https://github.com/zer0Kerbal/SimpleConstruction/pull/70) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
+6. ❌ Closed PR [#71](https://github.com/zer0Kerbal/SimpleConstruction/pull/71) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
+7. 🗣 Commented on [#71](https://github.com/zer0Kerbal/SimpleConstruction/issues/71) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
+8. 🎉 Merged PR [#101](https://github.com/zer0Kerbal/LithobrakeExplorationTechnologies/pull/101) in [zer0Kerbal/LithobrakeExplorationTechnologies](https://github.com/zer0Kerbal/LithobrakeExplorationTechnologies)
+9. 🗣 Commented on [#26](https://github.com/zer0Kerbal/LithobrakeExplorationTechnologies/issues/26) in [zer0Kerbal/LithobrakeExplorationTechnologies](https://github.com/zer0Kerbal/LithobrakeExplorationTechnologies)
+10. ❗️ Opened issue [#105](https://github.com/zer0Kerbal/LithobrakeExplorationTechnologies/issues/105) in [zer0Kerbal/LithobrakeExplorationTechnologies](https://github.com/zer0Kerbal/LithobrakeExplorationTechnologies)
 <!--END_SECTION:activity-->
 
 </details
