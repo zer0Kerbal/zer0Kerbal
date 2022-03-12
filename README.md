@@ -45,16 +45,16 @@
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#136](https://github.com/zer0Kerbal/Taerobee/issues/136) in [zer0Kerbal/Taerobee](https://github.com/zer0Kerbal/Taerobee)
-2. 🗣 Commented on [#3](https://github.com/zer0Kerbal/WernhersOldStuff/issues/3) in [zer0Kerbal/WernhersOldStuff](https://github.com/zer0Kerbal/WernhersOldStuff)
-3. 🎉 Merged PR [#2](https://github.com/zer0Kerbal/PreciseManeuver/pull/2) in [zer0Kerbal/PreciseManeuver](https://github.com/zer0Kerbal/PreciseManeuver)
-4. 💪 Opened PR [#2](https://github.com/zer0Kerbal/PreciseManeuver/pull/2) in [zer0Kerbal/PreciseManeuver](https://github.com/zer0Kerbal/PreciseManeuver)
-5. ❗️ Opened issue [#75](https://github.com/zer0Kerbal/SimpleConstruction/issues/75) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
-6. ❗️ Opened issue [#74](https://github.com/zer0Kerbal/SimpleConstruction/issues/74) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
-7. ❗️ Opened issue [#73](https://github.com/zer0Kerbal/SimpleConstruction/issues/73) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
-8. ❗️ Opened issue [#72](https://github.com/zer0Kerbal/SimpleConstruction/issues/72) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
-9. 🎉 Merged PR [#70](https://github.com/zer0Kerbal/SimpleConstruction/pull/70) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
-10. ❌ Closed PR [#71](https://github.com/zer0Kerbal/SimpleConstruction/pull/71) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
+1. ❗️ Closed issue [#18](https://github.com/zer0Kerbal/Localization/issues/18) in [zer0Kerbal/Localization](https://github.com/zer0Kerbal/Localization)
+2. ❗️ Closed issue [#17](https://github.com/zer0Kerbal/Localization/issues/17) in [zer0Kerbal/Localization](https://github.com/zer0Kerbal/Localization)
+3. ❗️ Closed issue [#16](https://github.com/zer0Kerbal/Localization/issues/16) in [zer0Kerbal/Localization](https://github.com/zer0Kerbal/Localization)
+4. ❗️ Closed issue [#15](https://github.com/zer0Kerbal/Localization/issues/15) in [zer0Kerbal/Localization](https://github.com/zer0Kerbal/Localization)
+5. ❗️ Closed issue [#14](https://github.com/zer0Kerbal/Localization/issues/14) in [zer0Kerbal/Localization](https://github.com/zer0Kerbal/Localization)
+6. ❗️ Closed issue [#13](https://github.com/zer0Kerbal/Localization/issues/13) in [zer0Kerbal/Localization](https://github.com/zer0Kerbal/Localization)
+7. ❗️ Closed issue [#12](https://github.com/zer0Kerbal/Localization/issues/12) in [zer0Kerbal/Localization](https://github.com/zer0Kerbal/Localization)
+8. ❗️ Closed issue [#11](https://github.com/zer0Kerbal/Localization/issues/11) in [zer0Kerbal/Localization](https://github.com/zer0Kerbal/Localization)
+9. ❗️ Closed issue [#10](https://github.com/zer0Kerbal/Localization/issues/10) in [zer0Kerbal/Localization](https://github.com/zer0Kerbal/Localization)
+10. ❗️ Closed issue [#9](https://github.com/zer0Kerbal/Localization/issues/9) in [zer0Kerbal/Localization](https://github.com/zer0Kerbal/Localization)
 <!--END_SECTION:activity-->
 
 </details
