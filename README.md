@@ -45,16 +45,16 @@
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#18](https://github.com/zer0Kerbal/Localization/issues/18) in [zer0Kerbal/Localization](https://github.com/zer0Kerbal/Localization)
-2. ❗️ Closed issue [#17](https://github.com/zer0Kerbal/Localization/issues/17) in [zer0Kerbal/Localization](https://github.com/zer0Kerbal/Localization)
-3. ❗️ Closed issue [#16](https://github.com/zer0Kerbal/Localization/issues/16) in [zer0Kerbal/Localization](https://github.com/zer0Kerbal/Localization)
-4. ❗️ Closed issue [#15](https://github.com/zer0Kerbal/Localization/issues/15) in [zer0Kerbal/Localization](https://github.com/zer0Kerbal/Localization)
-5. ❗️ Closed issue [#14](https://github.com/zer0Kerbal/Localization/issues/14) in [zer0Kerbal/Localization](https://github.com/zer0Kerbal/Localization)
-6. ❗️ Closed issue [#13](https://github.com/zer0Kerbal/Localization/issues/13) in [zer0Kerbal/Localization](https://github.com/zer0Kerbal/Localization)
-7. ❗️ Closed issue [#12](https://github.com/zer0Kerbal/Localization/issues/12) in [zer0Kerbal/Localization](https://github.com/zer0Kerbal/Localization)
-8. ❗️ Closed issue [#11](https://github.com/zer0Kerbal/Localization/issues/11) in [zer0Kerbal/Localization](https://github.com/zer0Kerbal/Localization)
-9. ❗️ Closed issue [#10](https://github.com/zer0Kerbal/Localization/issues/10) in [zer0Kerbal/Localization](https://github.com/zer0Kerbal/Localization)
-10. ❗️ Closed issue [#9](https://github.com/zer0Kerbal/Localization/issues/9) in [zer0Kerbal/Localization](https://github.com/zer0Kerbal/Localization)
+1. ❗️ Closed issue [#4](https://github.com/zer0Kerbal/AdjustableModPanel/issues/4) in [zer0Kerbal/AdjustableModPanel](https://github.com/zer0Kerbal/AdjustableModPanel)
+2. ❗️ Opened issue [#8](https://github.com/zer0Kerbal/AdjustableModPanel/issues/8) in [zer0Kerbal/AdjustableModPanel](https://github.com/zer0Kerbal/AdjustableModPanel)
+3. ❗️ Opened issue [#7](https://github.com/zer0Kerbal/AdjustableModPanel/issues/7) in [zer0Kerbal/AdjustableModPanel](https://github.com/zer0Kerbal/AdjustableModPanel)
+4. ❗️ Opened issue [#6](https://github.com/zer0Kerbal/AdjustableModPanel/issues/6) in [zer0Kerbal/AdjustableModPanel](https://github.com/zer0Kerbal/AdjustableModPanel)
+5. ❗️ Opened issue [#5](https://github.com/zer0Kerbal/AdjustableModPanel/issues/5) in [zer0Kerbal/AdjustableModPanel](https://github.com/zer0Kerbal/AdjustableModPanel)
+6. ❗️ Opened issue [#4](https://github.com/zer0Kerbal/AdjustableModPanel/issues/4) in [zer0Kerbal/AdjustableModPanel](https://github.com/zer0Kerbal/AdjustableModPanel)
+7. ❗️ Opened issue [#9](https://github.com/zer0Kerbal/PreciseManeuver/issues/9) in [zer0Kerbal/PreciseManeuver](https://github.com/zer0Kerbal/PreciseManeuver)
+8. ❗️ Opened issue [#8](https://github.com/zer0Kerbal/PreciseManeuver/issues/8) in [zer0Kerbal/PreciseManeuver](https://github.com/zer0Kerbal/PreciseManeuver)
+9. ❗️ Opened issue [#7](https://github.com/zer0Kerbal/PreciseManeuver/issues/7) in [zer0Kerbal/PreciseManeuver](https://github.com/zer0Kerbal/PreciseManeuver)
+10. ❗️ Opened issue [#6](https://github.com/zer0Kerbal/PreciseManeuver/issues/6) in [zer0Kerbal/PreciseManeuver](https://github.com/zer0Kerbal/PreciseManeuver)
 <!--END_SECTION:activity-->
 
 </details
