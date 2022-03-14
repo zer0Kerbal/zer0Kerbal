@@ -45,16 +45,16 @@
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#28](https://github.com/zer0Kerbal/AdjustableModPanel/pull/28) in [zer0Kerbal/AdjustableModPanel](https://github.com/zer0Kerbal/AdjustableModPanel)
-2. ❌ Closed PR [#31](https://github.com/zer0Kerbal/PreciseManeuver/pull/31) in [zer0Kerbal/PreciseManeuver](https://github.com/zer0Kerbal/PreciseManeuver)
-3. 🗣 Commented on [#19](https://github.com/zer0Kerbal/NotSoSimpleConstruction/issues/19) in [zer0Kerbal/NotSoSimpleConstruction](https://github.com/zer0Kerbal/NotSoSimpleConstruction)
-4. 🗣 Commented on [#37](https://github.com/zer0Kerbal/SpaceY-Lifters/issues/37) in [zer0Kerbal/SpaceY-Lifters](https://github.com/zer0Kerbal/SpaceY-Lifters)
-5. ❌ Closed PR [#30](https://github.com/zer0Kerbal/PreciseManeuver/pull/30) in [zer0Kerbal/PreciseManeuver](https://github.com/zer0Kerbal/PreciseManeuver)
-6. ❗️ Closed issue [#29](https://github.com/zer0Kerbal/PreciseManeuver/issues/29) in [zer0Kerbal/PreciseManeuver](https://github.com/zer0Kerbal/PreciseManeuver)
-7. ❗️ Closed issue [#20](https://github.com/zer0Kerbal/PreciseManeuver/issues/20) in [zer0Kerbal/PreciseManeuver](https://github.com/zer0Kerbal/PreciseManeuver)
-8. ❗️ Closed issue [#19](https://github.com/zer0Kerbal/PreciseManeuver/issues/19) in [zer0Kerbal/PreciseManeuver](https://github.com/zer0Kerbal/PreciseManeuver)
-9. ❗️ Closed issue [#18](https://github.com/zer0Kerbal/PreciseManeuver/issues/18) in [zer0Kerbal/PreciseManeuver](https://github.com/zer0Kerbal/PreciseManeuver)
-10. ❗️ Closed issue [#14](https://github.com/zer0Kerbal/PreciseManeuver/issues/14) in [zer0Kerbal/PreciseManeuver](https://github.com/zer0Kerbal/PreciseManeuver)
+1. 💪 Opened PR [#32](https://github.com/zer0Kerbal/PreciseManeuver/pull/32) in [zer0Kerbal/PreciseManeuver](https://github.com/zer0Kerbal/PreciseManeuver)
+2. 🎉 Merged PR [#28](https://github.com/zer0Kerbal/AdjustableModPanel/pull/28) in [zer0Kerbal/AdjustableModPanel](https://github.com/zer0Kerbal/AdjustableModPanel)
+3. ❌ Closed PR [#31](https://github.com/zer0Kerbal/PreciseManeuver/pull/31) in [zer0Kerbal/PreciseManeuver](https://github.com/zer0Kerbal/PreciseManeuver)
+4. 🗣 Commented on [#19](https://github.com/zer0Kerbal/NotSoSimpleConstruction/issues/19) in [zer0Kerbal/NotSoSimpleConstruction](https://github.com/zer0Kerbal/NotSoSimpleConstruction)
+5. 🗣 Commented on [#37](https://github.com/zer0Kerbal/SpaceY-Lifters/issues/37) in [zer0Kerbal/SpaceY-Lifters](https://github.com/zer0Kerbal/SpaceY-Lifters)
+6. ❌ Closed PR [#30](https://github.com/zer0Kerbal/PreciseManeuver/pull/30) in [zer0Kerbal/PreciseManeuver](https://github.com/zer0Kerbal/PreciseManeuver)
+7. ❗️ Closed issue [#29](https://github.com/zer0Kerbal/PreciseManeuver/issues/29) in [zer0Kerbal/PreciseManeuver](https://github.com/zer0Kerbal/PreciseManeuver)
+8. ❗️ Closed issue [#20](https://github.com/zer0Kerbal/PreciseManeuver/issues/20) in [zer0Kerbal/PreciseManeuver](https://github.com/zer0Kerbal/PreciseManeuver)
+9. ❗️ Closed issue [#19](https://github.com/zer0Kerbal/PreciseManeuver/issues/19) in [zer0Kerbal/PreciseManeuver](https://github.com/zer0Kerbal/PreciseManeuver)
+10. ❗️ Closed issue [#18](https://github.com/zer0Kerbal/PreciseManeuver/issues/18) in [zer0Kerbal/PreciseManeuver](https://github.com/zer0Kerbal/PreciseManeuver)
 <!--END_SECTION:activity-->
 
 </details
