@@ -30,11 +30,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Add on / mod testing:[Adjustable Mod Panel &lpar;KAMP&rpar; and Precise Maneuver &lpar;KPM&rpar; and Notes! &lpar;NOTE&rpar;]](https://www.youtube.com/watch?v=LQuuWlecPEc)
 - [Add on / mod testing:[Taerobee]](https://www.youtube.com/watch?v=-c0VDbEmb40)
 - [Please Stand By](https://www.youtube.com/watch?v=jkUy_I7vqc8)
 - [All nominal....wait...KSC we have an issue](https://www.youtube.com/watch?v=RWdrVfEaQOU)
 - [Add on / mod testing:[SimpleConstruction! &lpar;SCON!&rpar; 4.0.9.9]](https://www.youtube.com/watch?v=j7EWdZ0T-kg)
-- [Komplexity](https://www.youtube.com/watch?v=erhEQpBZGas)
 <!-- YOUTUBE:END -->
 
 ---
