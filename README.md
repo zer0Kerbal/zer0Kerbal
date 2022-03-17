@@ -45,16 +45,16 @@
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#34](https://github.com/zer0Kerbal/Dreamer/pull/34) in [zer0Kerbal/Dreamer](https://github.com/zer0Kerbal/Dreamer)
-2. 🎉 Merged PR [#33](https://github.com/zer0Kerbal/Dreamer/pull/33) in [zer0Kerbal/Dreamer](https://github.com/zer0Kerbal/Dreamer)
-3. 💪 Opened PR [#33](https://github.com/zer0Kerbal/Dreamer/pull/33) in [zer0Kerbal/Dreamer](https://github.com/zer0Kerbal/Dreamer)
-4. ❗️ Closed issue [#1](https://github.com/zer0Kerbal/Dreamer/issues/1) in [zer0Kerbal/Dreamer](https://github.com/zer0Kerbal/Dreamer)
-5. 🎉 Merged PR [#32](https://github.com/zer0Kerbal/Dreamer/pull/32) in [zer0Kerbal/Dreamer](https://github.com/zer0Kerbal/Dreamer)
-6. 💪 Opened PR [#32](https://github.com/zer0Kerbal/Dreamer/pull/32) in [zer0Kerbal/Dreamer](https://github.com/zer0Kerbal/Dreamer)
-7. ❌ Closed PR [#9](https://github.com/zer0Kerbal/Dreamer/pull/9) in [zer0Kerbal/Dreamer](https://github.com/zer0Kerbal/Dreamer)
-8. 🎉 Merged PR [#82](https://github.com/zer0Kerbal/SimpleConstruction/pull/82) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
-9. 🎉 Merged PR [#82](https://github.com/zer0Kerbal/SimpleConstruction/pull/82) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
-10. ❗️ Closed issue [#74](https://github.com/zer0Kerbal/SimpleConstruction/issues/74) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
+1. 🗣 Commented on [#8](https://github.com/zer0Kerbal/Dreamer/issues/8) in [zer0Kerbal/Dreamer](https://github.com/zer0Kerbal/Dreamer)
+2. 🗣 Commented on [#31](https://github.com/zer0Kerbal/Dreamer/issues/31) in [zer0Kerbal/Dreamer](https://github.com/zer0Kerbal/Dreamer)
+3. 🗣 Commented on [#36](https://github.com/zer0Kerbal/Dreamer/issues/36) in [zer0Kerbal/Dreamer](https://github.com/zer0Kerbal/Dreamer)
+4. ❌ Closed PR [#34](https://github.com/zer0Kerbal/Dreamer/pull/34) in [zer0Kerbal/Dreamer](https://github.com/zer0Kerbal/Dreamer)
+5. 🎉 Merged PR [#33](https://github.com/zer0Kerbal/Dreamer/pull/33) in [zer0Kerbal/Dreamer](https://github.com/zer0Kerbal/Dreamer)
+6. 💪 Opened PR [#33](https://github.com/zer0Kerbal/Dreamer/pull/33) in [zer0Kerbal/Dreamer](https://github.com/zer0Kerbal/Dreamer)
+7. ❗️ Closed issue [#1](https://github.com/zer0Kerbal/Dreamer/issues/1) in [zer0Kerbal/Dreamer](https://github.com/zer0Kerbal/Dreamer)
+8. 🎉 Merged PR [#32](https://github.com/zer0Kerbal/Dreamer/pull/32) in [zer0Kerbal/Dreamer](https://github.com/zer0Kerbal/Dreamer)
+9. 💪 Opened PR [#32](https://github.com/zer0Kerbal/Dreamer/pull/32) in [zer0Kerbal/Dreamer](https://github.com/zer0Kerbal/Dreamer)
+10. ❌ Closed PR [#9](https://github.com/zer0Kerbal/Dreamer/pull/9) in [zer0Kerbal/Dreamer](https://github.com/zer0Kerbal/Dreamer)
 <!--END_SECTION:activity-->
 
 </details
