@@ -45,16 +45,16 @@
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8](https://github.com/zer0Kerbal/Dreamer/issues/8) in [zer0Kerbal/Dreamer](https://github.com/zer0Kerbal/Dreamer)
-2. 🗣 Commented on [#31](https://github.com/zer0Kerbal/Dreamer/issues/31) in [zer0Kerbal/Dreamer](https://github.com/zer0Kerbal/Dreamer)
-3. 🗣 Commented on [#36](https://github.com/zer0Kerbal/Dreamer/issues/36) in [zer0Kerbal/Dreamer](https://github.com/zer0Kerbal/Dreamer)
-4. ❌ Closed PR [#34](https://github.com/zer0Kerbal/Dreamer/pull/34) in [zer0Kerbal/Dreamer](https://github.com/zer0Kerbal/Dreamer)
-5. 🎉 Merged PR [#33](https://github.com/zer0Kerbal/Dreamer/pull/33) in [zer0Kerbal/Dreamer](https://github.com/zer0Kerbal/Dreamer)
-6. 💪 Opened PR [#33](https://github.com/zer0Kerbal/Dreamer/pull/33) in [zer0Kerbal/Dreamer](https://github.com/zer0Kerbal/Dreamer)
-7. ❗️ Closed issue [#1](https://github.com/zer0Kerbal/Dreamer/issues/1) in [zer0Kerbal/Dreamer](https://github.com/zer0Kerbal/Dreamer)
-8. 🎉 Merged PR [#32](https://github.com/zer0Kerbal/Dreamer/pull/32) in [zer0Kerbal/Dreamer](https://github.com/zer0Kerbal/Dreamer)
-9. 💪 Opened PR [#32](https://github.com/zer0Kerbal/Dreamer/pull/32) in [zer0Kerbal/Dreamer](https://github.com/zer0Kerbal/Dreamer)
-10. ❌ Closed PR [#9](https://github.com/zer0Kerbal/Dreamer/pull/9) in [zer0Kerbal/Dreamer](https://github.com/zer0Kerbal/Dreamer)
+1. 💪 Opened PR [#45](https://github.com/zer0Kerbal/Dreamer/pull/45) in [zer0Kerbal/Dreamer](https://github.com/zer0Kerbal/Dreamer)
+2. ❗️ Opened issue [#44](https://github.com/zer0Kerbal/Dreamer/issues/44) in [zer0Kerbal/Dreamer](https://github.com/zer0Kerbal/Dreamer)
+3. 🗣 Commented on [#41](https://github.com/zer0Kerbal/Dreamer/issues/41) in [zer0Kerbal/Dreamer](https://github.com/zer0Kerbal/Dreamer)
+4. 🗣 Commented on [#8](https://github.com/zer0Kerbal/Dreamer/issues/8) in [zer0Kerbal/Dreamer](https://github.com/zer0Kerbal/Dreamer)
+5. 🗣 Commented on [#31](https://github.com/zer0Kerbal/Dreamer/issues/31) in [zer0Kerbal/Dreamer](https://github.com/zer0Kerbal/Dreamer)
+6. 🗣 Commented on [#36](https://github.com/zer0Kerbal/Dreamer/issues/36) in [zer0Kerbal/Dreamer](https://github.com/zer0Kerbal/Dreamer)
+7. ❌ Closed PR [#34](https://github.com/zer0Kerbal/Dreamer/pull/34) in [zer0Kerbal/Dreamer](https://github.com/zer0Kerbal/Dreamer)
+8. 🎉 Merged PR [#33](https://github.com/zer0Kerbal/Dreamer/pull/33) in [zer0Kerbal/Dreamer](https://github.com/zer0Kerbal/Dreamer)
+9. 💪 Opened PR [#33](https://github.com/zer0Kerbal/Dreamer/pull/33) in [zer0Kerbal/Dreamer](https://github.com/zer0Kerbal/Dreamer)
+10. ❗️ Closed issue [#1](https://github.com/zer0Kerbal/Dreamer/issues/1) in [zer0Kerbal/Dreamer](https://github.com/zer0Kerbal/Dreamer)
 <!--END_SECTION:activity-->
 
 </details
