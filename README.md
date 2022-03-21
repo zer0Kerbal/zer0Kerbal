@@ -45,16 +45,16 @@
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#26](https://github.com/zer0Kerbal/CargoBays/issues/26) in [zer0Kerbal/CargoBays](https://github.com/zer0Kerbal/CargoBays)
-2. ❗️ Opened issue [#25](https://github.com/zer0Kerbal/CargoBays/issues/25) in [zer0Kerbal/CargoBays](https://github.com/zer0Kerbal/CargoBays)
-3. ❗️ Opened issue [#24](https://github.com/zer0Kerbal/CargoBays/issues/24) in [zer0Kerbal/CargoBays](https://github.com/zer0Kerbal/CargoBays)
-4. ❗️ Opened issue [#23](https://github.com/zer0Kerbal/CargoBays/issues/23) in [zer0Kerbal/CargoBays](https://github.com/zer0Kerbal/CargoBays)
-5. ❗️ Opened issue [#22](https://github.com/zer0Kerbal/CargoBays/issues/22) in [zer0Kerbal/CargoBays](https://github.com/zer0Kerbal/CargoBays)
-6. ❗️ Opened issue [#21](https://github.com/zer0Kerbal/CargoBays/issues/21) in [zer0Kerbal/CargoBays](https://github.com/zer0Kerbal/CargoBays)
-7. ❗️ Opened issue [#20](https://github.com/zer0Kerbal/CargoBays/issues/20) in [zer0Kerbal/CargoBays](https://github.com/zer0Kerbal/CargoBays)
-8. ❗️ Opened issue [#19](https://github.com/zer0Kerbal/CargoBays/issues/19) in [zer0Kerbal/CargoBays](https://github.com/zer0Kerbal/CargoBays)
-9. ❗️ Opened issue [#18](https://github.com/zer0Kerbal/CargoBays/issues/18) in [zer0Kerbal/CargoBays](https://github.com/zer0Kerbal/CargoBays)
-10. ❗️ Opened issue [#17](https://github.com/zer0Kerbal/CargoBays/issues/17) in [zer0Kerbal/CargoBays](https://github.com/zer0Kerbal/CargoBays)
+1. ❗️ Closed issue [#11](https://github.com/zer0Kerbal/CargoBays/issues/11) in [zer0Kerbal/CargoBays](https://github.com/zer0Kerbal/CargoBays)
+2. ❗️ Closed issue [#10](https://github.com/zer0Kerbal/CargoBays/issues/10) in [zer0Kerbal/CargoBays](https://github.com/zer0Kerbal/CargoBays)
+3. ❗️ Closed issue [#9](https://github.com/zer0Kerbal/CargoBays/issues/9) in [zer0Kerbal/CargoBays](https://github.com/zer0Kerbal/CargoBays)
+4. ❗️ Closed issue [#6](https://github.com/zer0Kerbal/CargoBays/issues/6) in [zer0Kerbal/CargoBays](https://github.com/zer0Kerbal/CargoBays)
+5. ❗️ Opened issue [#26](https://github.com/zer0Kerbal/CargoBays/issues/26) in [zer0Kerbal/CargoBays](https://github.com/zer0Kerbal/CargoBays)
+6. ❗️ Opened issue [#25](https://github.com/zer0Kerbal/CargoBays/issues/25) in [zer0Kerbal/CargoBays](https://github.com/zer0Kerbal/CargoBays)
+7. ❗️ Opened issue [#24](https://github.com/zer0Kerbal/CargoBays/issues/24) in [zer0Kerbal/CargoBays](https://github.com/zer0Kerbal/CargoBays)
+8. ❗️ Opened issue [#23](https://github.com/zer0Kerbal/CargoBays/issues/23) in [zer0Kerbal/CargoBays](https://github.com/zer0Kerbal/CargoBays)
+9. ❗️ Opened issue [#22](https://github.com/zer0Kerbal/CargoBays/issues/22) in [zer0Kerbal/CargoBays](https://github.com/zer0Kerbal/CargoBays)
+10. ❗️ Opened issue [#21](https://github.com/zer0Kerbal/CargoBays/issues/21) in [zer0Kerbal/CargoBays](https://github.com/zer0Kerbal/CargoBays)
 <!--END_SECTION:activity-->
 
 </details
