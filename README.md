@@ -45,16 +45,16 @@
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#32](https://github.com/zer0Kerbal/Antennas/issues/32) in [zer0Kerbal/Antennas](https://github.com/zer0Kerbal/Antennas)
-2. ❗️ Opened issue [#31](https://github.com/zer0Kerbal/Antennas/issues/31) in [zer0Kerbal/Antennas](https://github.com/zer0Kerbal/Antennas)
-3. ❗️ Opened issue [#30](https://github.com/zer0Kerbal/Antennas/issues/30) in [zer0Kerbal/Antennas](https://github.com/zer0Kerbal/Antennas)
-4. ❗️ Opened issue [#29](https://github.com/zer0Kerbal/Antennas/issues/29) in [zer0Kerbal/Antennas](https://github.com/zer0Kerbal/Antennas)
-5. ❗️ Opened issue [#28](https://github.com/zer0Kerbal/Antennas/issues/28) in [zer0Kerbal/Antennas](https://github.com/zer0Kerbal/Antennas)
-6. ❗️ Opened issue [#27](https://github.com/zer0Kerbal/Antennas/issues/27) in [zer0Kerbal/Antennas](https://github.com/zer0Kerbal/Antennas)
-7. 🗣 Commented on [#58](https://github.com/zer0Kerbal/Dreamer/issues/58) in [zer0Kerbal/Dreamer](https://github.com/zer0Kerbal/Dreamer)
-8. 🗣 Commented on [#54](https://github.com/zer0Kerbal/Dreamer/issues/54) in [zer0Kerbal/Dreamer](https://github.com/zer0Kerbal/Dreamer)
-9. 🗣 Commented on [#47](https://github.com/zer0Kerbal/Dreamer/issues/47) in [zer0Kerbal/Dreamer](https://github.com/zer0Kerbal/Dreamer)
-10. 🗣 Commented on [#56](https://github.com/zer0Kerbal/Dreamer/issues/56) in [zer0Kerbal/Dreamer](https://github.com/zer0Kerbal/Dreamer)
+1. 🎉 Merged PR [#35](https://github.com/zer0Kerbal/SimpleLogistics/pull/35) in [zer0Kerbal/SimpleLogistics](https://github.com/zer0Kerbal/SimpleLogistics)
+2. 💪 Opened PR [#35](https://github.com/zer0Kerbal/SimpleLogistics/pull/35) in [zer0Kerbal/SimpleLogistics](https://github.com/zer0Kerbal/SimpleLogistics)
+3. ❗️ Opened issue [#34](https://github.com/zer0Kerbal/SimpleLogistics/issues/34) in [zer0Kerbal/SimpleLogistics](https://github.com/zer0Kerbal/SimpleLogistics)
+4. ❗️ Opened issue [#33](https://github.com/zer0Kerbal/SimpleLogistics/issues/33) in [zer0Kerbal/SimpleLogistics](https://github.com/zer0Kerbal/SimpleLogistics)
+5. ❗️ Opened issue [#32](https://github.com/zer0Kerbal/SimpleLogistics/issues/32) in [zer0Kerbal/SimpleLogistics](https://github.com/zer0Kerbal/SimpleLogistics)
+6. ❗️ Opened issue [#31](https://github.com/zer0Kerbal/SimpleLogistics/issues/31) in [zer0Kerbal/SimpleLogistics](https://github.com/zer0Kerbal/SimpleLogistics)
+7. 🎉 Merged PR [#28](https://github.com/zer0Kerbal/SimpleLogistics/pull/28) in [zer0Kerbal/SimpleLogistics](https://github.com/zer0Kerbal/SimpleLogistics)
+8. ❗️ Opened issue [#32](https://github.com/zer0Kerbal/Antennas/issues/32) in [zer0Kerbal/Antennas](https://github.com/zer0Kerbal/Antennas)
+9. ❗️ Opened issue [#31](https://github.com/zer0Kerbal/Antennas/issues/31) in [zer0Kerbal/Antennas](https://github.com/zer0Kerbal/Antennas)
+10. ❗️ Opened issue [#30](https://github.com/zer0Kerbal/Antennas/issues/30) in [zer0Kerbal/Antennas](https://github.com/zer0Kerbal/Antennas)
 <!--END_SECTION:activity-->
 
 </details
