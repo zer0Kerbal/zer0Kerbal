@@ -45,16 +45,16 @@
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/zer0Kerbal/WernhersOldStuff/pull/4) in [zer0Kerbal/WernhersOldStuff](https://github.com/zer0Kerbal/WernhersOldStuff)
-2. 🎉 Merged PR [#5](https://github.com/zer0Kerbal/WernhersOldStuff/pull/5) in [zer0Kerbal/WernhersOldStuff](https://github.com/zer0Kerbal/WernhersOldStuff)
-3. 🎉 Merged PR [#6](https://github.com/zer0Kerbal/WernhersOldStuff/pull/6) in [zer0Kerbal/WernhersOldStuff](https://github.com/zer0Kerbal/WernhersOldStuff)
-4. 🎉 Merged PR [#3](https://github.com/zer0Kerbal/WernhersOldStuff/pull/3) in [zer0Kerbal/WernhersOldStuff](https://github.com/zer0Kerbal/WernhersOldStuff)
-5. 🗣 Commented on [#3](https://github.com/zer0Kerbal/WernhersOldStuff/issues/3) in [zer0Kerbal/WernhersOldStuff](https://github.com/zer0Kerbal/WernhersOldStuff)
-6. ❌ Closed PR [#33](https://github.com/zer0Kerbal/WernhersOldStuff/pull/33) in [zer0Kerbal/WernhersOldStuff](https://github.com/zer0Kerbal/WernhersOldStuff)
-7. 🗣 Commented on [#7](https://github.com/zer0Kerbal/WernhersOldStuff/issues/7) in [zer0Kerbal/WernhersOldStuff](https://github.com/zer0Kerbal/WernhersOldStuff)
-8. 🎉 Merged PR [#7](https://github.com/zer0Kerbal/WernhersOldStuff/pull/7) in [zer0Kerbal/WernhersOldStuff](https://github.com/zer0Kerbal/WernhersOldStuff)
-9. 🗣 Commented on [#72](https://github.com/zer0Kerbal/Dreamer/issues/72) in [zer0Kerbal/Dreamer](https://github.com/zer0Kerbal/Dreamer)
-10. 🗣 Commented on [#63](https://github.com/zer0Kerbal/Dreamer/issues/63) in [zer0Kerbal/Dreamer](https://github.com/zer0Kerbal/Dreamer)
+1. ❗️ Opened issue [#30](https://github.com/zer0Kerbal/Fuselage/issues/30) in [zer0Kerbal/Fuselage](https://github.com/zer0Kerbal/Fuselage)
+2. ❗️ Opened issue [#29](https://github.com/zer0Kerbal/Fuselage/issues/29) in [zer0Kerbal/Fuselage](https://github.com/zer0Kerbal/Fuselage)
+3. ❗️ Opened issue [#28](https://github.com/zer0Kerbal/Fuselage/issues/28) in [zer0Kerbal/Fuselage](https://github.com/zer0Kerbal/Fuselage)
+4. ❗️ Opened issue [#27](https://github.com/zer0Kerbal/Fuselage/issues/27) in [zer0Kerbal/Fuselage](https://github.com/zer0Kerbal/Fuselage)
+5. ❗️ Closed issue [#10](https://github.com/zer0Kerbal/Fuselage/issues/10) in [zer0Kerbal/Fuselage](https://github.com/zer0Kerbal/Fuselage)
+6. ❗️ Opened issue [#26](https://github.com/zer0Kerbal/Fuselage/issues/26) in [zer0Kerbal/Fuselage](https://github.com/zer0Kerbal/Fuselage)
+7. ❗️ Opened issue [#25](https://github.com/zer0Kerbal/Fuselage/issues/25) in [zer0Kerbal/Fuselage](https://github.com/zer0Kerbal/Fuselage)
+8. ❗️ Opened issue [#24](https://github.com/zer0Kerbal/Fuselage/issues/24) in [zer0Kerbal/Fuselage](https://github.com/zer0Kerbal/Fuselage)
+9. ❗️ Opened issue [#23](https://github.com/zer0Kerbal/Fuselage/issues/23) in [zer0Kerbal/Fuselage](https://github.com/zer0Kerbal/Fuselage)
+10. ❗️ Opened issue [#22](https://github.com/zer0Kerbal/Fuselage/issues/22) in [zer0Kerbal/Fuselage](https://github.com/zer0Kerbal/Fuselage)
 <!--END_SECTION:activity-->
 
 </details
