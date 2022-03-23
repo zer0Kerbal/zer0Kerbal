@@ -45,16 +45,16 @@
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#74](https://github.com/zer0Kerbal/Kaboom/issues/74) in [zer0Kerbal/Kaboom](https://github.com/zer0Kerbal/Kaboom)
-2. 🗣 Commented on [#84](https://github.com/zer0Kerbal/SimpleConstruction/issues/84) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
-3. 🗣 Commented on [#84](https://github.com/zer0Kerbal/SimpleConstruction/issues/84) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
-4. ❗️ Opened issue [#84](https://github.com/zer0Kerbal/SimpleConstruction/issues/84) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
-5. ❗️ Opened issue [#74](https://github.com/zer0Kerbal/Kaboom/issues/74) in [zer0Kerbal/Kaboom](https://github.com/zer0Kerbal/Kaboom)
-6. ❗️ Opened issue [#30](https://github.com/zer0Kerbal/Fuselage/issues/30) in [zer0Kerbal/Fuselage](https://github.com/zer0Kerbal/Fuselage)
-7. ❗️ Opened issue [#29](https://github.com/zer0Kerbal/Fuselage/issues/29) in [zer0Kerbal/Fuselage](https://github.com/zer0Kerbal/Fuselage)
-8. ❗️ Opened issue [#28](https://github.com/zer0Kerbal/Fuselage/issues/28) in [zer0Kerbal/Fuselage](https://github.com/zer0Kerbal/Fuselage)
-9. ❗️ Opened issue [#27](https://github.com/zer0Kerbal/Fuselage/issues/27) in [zer0Kerbal/Fuselage](https://github.com/zer0Kerbal/Fuselage)
-10. ❗️ Closed issue [#10](https://github.com/zer0Kerbal/Fuselage/issues/10) in [zer0Kerbal/Fuselage](https://github.com/zer0Kerbal/Fuselage)
+1. 🎉 Merged PR [#85](https://github.com/zer0Kerbal/SimpleConstruction/pull/85) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
+2. 💪 Opened PR [#85](https://github.com/zer0Kerbal/SimpleConstruction/pull/85) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
+3. 🗣 Commented on [#74](https://github.com/zer0Kerbal/Kaboom/issues/74) in [zer0Kerbal/Kaboom](https://github.com/zer0Kerbal/Kaboom)
+4. 🗣 Commented on [#84](https://github.com/zer0Kerbal/SimpleConstruction/issues/84) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
+5. 🗣 Commented on [#84](https://github.com/zer0Kerbal/SimpleConstruction/issues/84) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
+6. ❗️ Opened issue [#84](https://github.com/zer0Kerbal/SimpleConstruction/issues/84) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
+7. ❗️ Opened issue [#74](https://github.com/zer0Kerbal/Kaboom/issues/74) in [zer0Kerbal/Kaboom](https://github.com/zer0Kerbal/Kaboom)
+8. ❗️ Opened issue [#30](https://github.com/zer0Kerbal/Fuselage/issues/30) in [zer0Kerbal/Fuselage](https://github.com/zer0Kerbal/Fuselage)
+9. ❗️ Opened issue [#29](https://github.com/zer0Kerbal/Fuselage/issues/29) in [zer0Kerbal/Fuselage](https://github.com/zer0Kerbal/Fuselage)
+10. ❗️ Opened issue [#28](https://github.com/zer0Kerbal/Fuselage/issues/28) in [zer0Kerbal/Fuselage](https://github.com/zer0Kerbal/Fuselage)
 <!--END_SECTION:activity-->
 
 </details
