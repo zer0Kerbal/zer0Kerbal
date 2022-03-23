@@ -45,16 +45,16 @@
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#37](https://github.com/zer0Kerbal/NotSoSimpleConstruction/pull/37) in [zer0Kerbal/NotSoSimpleConstruction](https://github.com/zer0Kerbal/NotSoSimpleConstruction)
-2. 💪 Opened PR [#37](https://github.com/zer0Kerbal/NotSoSimpleConstruction/pull/37) in [zer0Kerbal/NotSoSimpleConstruction](https://github.com/zer0Kerbal/NotSoSimpleConstruction)
-3. ❗️ Closed issue [#9](https://github.com/zer0Kerbal/NotSoSimpleConstruction/issues/9) in [zer0Kerbal/NotSoSimpleConstruction](https://github.com/zer0Kerbal/NotSoSimpleConstruction)
-4. ❗️ Closed issue [#10](https://github.com/zer0Kerbal/NotSoSimpleConstruction/issues/10) in [zer0Kerbal/NotSoSimpleConstruction](https://github.com/zer0Kerbal/NotSoSimpleConstruction)
-5. ❗️ Closed issue [#7](https://github.com/zer0Kerbal/NotSoSimpleConstruction/issues/7) in [zer0Kerbal/NotSoSimpleConstruction](https://github.com/zer0Kerbal/NotSoSimpleConstruction)
-6. 🎉 Merged PR [#35](https://github.com/zer0Kerbal/NotSoSimpleConstruction/pull/35) in [zer0Kerbal/NotSoSimpleConstruction](https://github.com/zer0Kerbal/NotSoSimpleConstruction)
-7. ❗️ Closed issue [#19](https://github.com/zer0Kerbal/NotSoSimpleConstruction/issues/19) in [zer0Kerbal/NotSoSimpleConstruction](https://github.com/zer0Kerbal/NotSoSimpleConstruction)
-8. ❗️ Closed issue [#8](https://github.com/zer0Kerbal/NotSoSimpleConstruction/issues/8) in [zer0Kerbal/NotSoSimpleConstruction](https://github.com/zer0Kerbal/NotSoSimpleConstruction)
-9. ❗️ Closed issue [#29](https://github.com/zer0Kerbal/NotSoSimpleConstruction/issues/29) in [zer0Kerbal/NotSoSimpleConstruction](https://github.com/zer0Kerbal/NotSoSimpleConstruction)
-10. ❗️ Closed issue [#16](https://github.com/zer0Kerbal/NotSoSimpleConstruction/issues/16) in [zer0Kerbal/NotSoSimpleConstruction](https://github.com/zer0Kerbal/NotSoSimpleConstruction)
+1. ❌ Closed PR [#38](https://github.com/zer0Kerbal/NotSoSimpleConstruction/pull/38) in [zer0Kerbal/NotSoSimpleConstruction](https://github.com/zer0Kerbal/NotSoSimpleConstruction)
+2. 🎉 Merged PR [#37](https://github.com/zer0Kerbal/NotSoSimpleConstruction/pull/37) in [zer0Kerbal/NotSoSimpleConstruction](https://github.com/zer0Kerbal/NotSoSimpleConstruction)
+3. 💪 Opened PR [#37](https://github.com/zer0Kerbal/NotSoSimpleConstruction/pull/37) in [zer0Kerbal/NotSoSimpleConstruction](https://github.com/zer0Kerbal/NotSoSimpleConstruction)
+4. ❗️ Closed issue [#9](https://github.com/zer0Kerbal/NotSoSimpleConstruction/issues/9) in [zer0Kerbal/NotSoSimpleConstruction](https://github.com/zer0Kerbal/NotSoSimpleConstruction)
+5. ❗️ Closed issue [#10](https://github.com/zer0Kerbal/NotSoSimpleConstruction/issues/10) in [zer0Kerbal/NotSoSimpleConstruction](https://github.com/zer0Kerbal/NotSoSimpleConstruction)
+6. ❗️ Closed issue [#7](https://github.com/zer0Kerbal/NotSoSimpleConstruction/issues/7) in [zer0Kerbal/NotSoSimpleConstruction](https://github.com/zer0Kerbal/NotSoSimpleConstruction)
+7. 🎉 Merged PR [#35](https://github.com/zer0Kerbal/NotSoSimpleConstruction/pull/35) in [zer0Kerbal/NotSoSimpleConstruction](https://github.com/zer0Kerbal/NotSoSimpleConstruction)
+8. ❗️ Closed issue [#19](https://github.com/zer0Kerbal/NotSoSimpleConstruction/issues/19) in [zer0Kerbal/NotSoSimpleConstruction](https://github.com/zer0Kerbal/NotSoSimpleConstruction)
+9. ❗️ Closed issue [#8](https://github.com/zer0Kerbal/NotSoSimpleConstruction/issues/8) in [zer0Kerbal/NotSoSimpleConstruction](https://github.com/zer0Kerbal/NotSoSimpleConstruction)
+10. ❗️ Closed issue [#29](https://github.com/zer0Kerbal/NotSoSimpleConstruction/issues/29) in [zer0Kerbal/NotSoSimpleConstruction](https://github.com/zer0Kerbal/NotSoSimpleConstruction)
 <!--END_SECTION:activity-->
 
 </details
