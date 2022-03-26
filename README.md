@@ -45,16 +45,16 @@
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#45](https://github.com/zer0Kerbal/Notes/issues/45) in [zer0Kerbal/Notes](https://github.com/zer0Kerbal/Notes)
-2. ❗️ Closed issue [#45](https://github.com/zer0Kerbal/Notes/issues/45) in [zer0Kerbal/Notes](https://github.com/zer0Kerbal/Notes)
-3. 🗣 Commented on [#45](https://github.com/zer0Kerbal/Notes/issues/45) in [zer0Kerbal/Notes](https://github.com/zer0Kerbal/Notes)
-4. 🎉 Merged PR [#143](https://github.com/zer0Kerbal/Taerobee/pull/143) in [zer0Kerbal/Taerobee](https://github.com/zer0Kerbal/Taerobee)
-5. ❗️ Closed issue [#136](https://github.com/zer0Kerbal/Taerobee/issues/136) in [zer0Kerbal/Taerobee](https://github.com/zer0Kerbal/Taerobee)
-6. ❗️ Closed issue [#137](https://github.com/zer0Kerbal/Taerobee/issues/137) in [zer0Kerbal/Taerobee](https://github.com/zer0Kerbal/Taerobee)
-7. ❗️ Closed issue [#134](https://github.com/zer0Kerbal/Taerobee/issues/134) in [zer0Kerbal/Taerobee](https://github.com/zer0Kerbal/Taerobee)
-8. ❗️ Closed issue [#138](https://github.com/zer0Kerbal/Taerobee/issues/138) in [zer0Kerbal/Taerobee](https://github.com/zer0Kerbal/Taerobee)
-9. ❗️ Closed issue [#139](https://github.com/zer0Kerbal/Taerobee/issues/139) in [zer0Kerbal/Taerobee](https://github.com/zer0Kerbal/Taerobee)
-10. ❗️ Closed issue [#135](https://github.com/zer0Kerbal/Taerobee/issues/135) in [zer0Kerbal/Taerobee](https://github.com/zer0Kerbal/Taerobee)
+1. 🎉 Merged PR [#32](https://github.com/zer0Kerbal/PreciseManeuver/pull/32) in [zer0Kerbal/PreciseManeuver](https://github.com/zer0Kerbal/PreciseManeuver)
+2. ❗️ Closed issue [#7](https://github.com/zer0Kerbal/PreciseManeuver/issues/7) in [zer0Kerbal/PreciseManeuver](https://github.com/zer0Kerbal/PreciseManeuver)
+3. ❗️ Closed issue [#8](https://github.com/zer0Kerbal/PreciseManeuver/issues/8) in [zer0Kerbal/PreciseManeuver](https://github.com/zer0Kerbal/PreciseManeuver)
+4. ❗️ Closed issue [#6](https://github.com/zer0Kerbal/PreciseManeuver/issues/6) in [zer0Kerbal/PreciseManeuver](https://github.com/zer0Kerbal/PreciseManeuver)
+5. ❗️ Closed issue [#9](https://github.com/zer0Kerbal/PreciseManeuver/issues/9) in [zer0Kerbal/PreciseManeuver](https://github.com/zer0Kerbal/PreciseManeuver)
+6. 🗣 Commented on [#45](https://github.com/zer0Kerbal/Notes/issues/45) in [zer0Kerbal/Notes](https://github.com/zer0Kerbal/Notes)
+7. ❗️ Closed issue [#45](https://github.com/zer0Kerbal/Notes/issues/45) in [zer0Kerbal/Notes](https://github.com/zer0Kerbal/Notes)
+8. 🗣 Commented on [#45](https://github.com/zer0Kerbal/Notes/issues/45) in [zer0Kerbal/Notes](https://github.com/zer0Kerbal/Notes)
+9. 🎉 Merged PR [#143](https://github.com/zer0Kerbal/Taerobee/pull/143) in [zer0Kerbal/Taerobee](https://github.com/zer0Kerbal/Taerobee)
+10. ❗️ Closed issue [#136](https://github.com/zer0Kerbal/Taerobee/issues/136) in [zer0Kerbal/Taerobee](https://github.com/zer0Kerbal/Taerobee)
 <!--END_SECTION:activity-->
 
 </details
