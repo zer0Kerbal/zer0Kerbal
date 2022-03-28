@@ -45,16 +45,16 @@
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#25](https://github.com/zer0Kerbal/OblivionAerospace/issues/25) in [zer0Kerbal/OblivionAerospace](https://github.com/zer0Kerbal/OblivionAerospace)
-2. ❗️ Opened issue [#24](https://github.com/zer0Kerbal/OblivionAerospace/issues/24) in [zer0Kerbal/OblivionAerospace](https://github.com/zer0Kerbal/OblivionAerospace)
-3. ❗️ Opened issue [#23](https://github.com/zer0Kerbal/OblivionAerospace/issues/23) in [zer0Kerbal/OblivionAerospace](https://github.com/zer0Kerbal/OblivionAerospace)
-4. ❗️ Opened issue [#22](https://github.com/zer0Kerbal/OblivionAerospace/issues/22) in [zer0Kerbal/OblivionAerospace](https://github.com/zer0Kerbal/OblivionAerospace)
-5. ❗️ Opened issue [#21](https://github.com/zer0Kerbal/OblivionAerospace/issues/21) in [zer0Kerbal/OblivionAerospace](https://github.com/zer0Kerbal/OblivionAerospace)
-6. ❗️ Opened issue [#20](https://github.com/zer0Kerbal/OblivionAerospace/issues/20) in [zer0Kerbal/OblivionAerospace](https://github.com/zer0Kerbal/OblivionAerospace)
-7. ❗️ Opened issue [#19](https://github.com/zer0Kerbal/OblivionAerospace/issues/19) in [zer0Kerbal/OblivionAerospace](https://github.com/zer0Kerbal/OblivionAerospace)
-8. ❗️ Opened issue [#18](https://github.com/zer0Kerbal/OblivionAerospace/issues/18) in [zer0Kerbal/OblivionAerospace](https://github.com/zer0Kerbal/OblivionAerospace)
-9. ❗️ Opened issue [#17](https://github.com/zer0Kerbal/OblivionAerospace/issues/17) in [zer0Kerbal/OblivionAerospace](https://github.com/zer0Kerbal/OblivionAerospace)
-10. ❗️ Opened issue [#16](https://github.com/zer0Kerbal/OblivionAerospace/issues/16) in [zer0Kerbal/OblivionAerospace](https://github.com/zer0Kerbal/OblivionAerospace)
+1. ❌ Closed PR [#26](https://github.com/zer0Kerbal/OblivionAerospace/pull/26) in [zer0Kerbal/OblivionAerospace](https://github.com/zer0Kerbal/OblivionAerospace)
+2. ❗️ Opened issue [#25](https://github.com/zer0Kerbal/OblivionAerospace/issues/25) in [zer0Kerbal/OblivionAerospace](https://github.com/zer0Kerbal/OblivionAerospace)
+3. ❗️ Opened issue [#24](https://github.com/zer0Kerbal/OblivionAerospace/issues/24) in [zer0Kerbal/OblivionAerospace](https://github.com/zer0Kerbal/OblivionAerospace)
+4. ❗️ Opened issue [#23](https://github.com/zer0Kerbal/OblivionAerospace/issues/23) in [zer0Kerbal/OblivionAerospace](https://github.com/zer0Kerbal/OblivionAerospace)
+5. ❗️ Opened issue [#22](https://github.com/zer0Kerbal/OblivionAerospace/issues/22) in [zer0Kerbal/OblivionAerospace](https://github.com/zer0Kerbal/OblivionAerospace)
+6. ❗️ Opened issue [#21](https://github.com/zer0Kerbal/OblivionAerospace/issues/21) in [zer0Kerbal/OblivionAerospace](https://github.com/zer0Kerbal/OblivionAerospace)
+7. ❗️ Opened issue [#20](https://github.com/zer0Kerbal/OblivionAerospace/issues/20) in [zer0Kerbal/OblivionAerospace](https://github.com/zer0Kerbal/OblivionAerospace)
+8. ❗️ Opened issue [#19](https://github.com/zer0Kerbal/OblivionAerospace/issues/19) in [zer0Kerbal/OblivionAerospace](https://github.com/zer0Kerbal/OblivionAerospace)
+9. ❗️ Opened issue [#18](https://github.com/zer0Kerbal/OblivionAerospace/issues/18) in [zer0Kerbal/OblivionAerospace](https://github.com/zer0Kerbal/OblivionAerospace)
+10. ❗️ Opened issue [#17](https://github.com/zer0Kerbal/OblivionAerospace/issues/17) in [zer0Kerbal/OblivionAerospace](https://github.com/zer0Kerbal/OblivionAerospace)
 <!--END_SECTION:activity-->
 
 </details
