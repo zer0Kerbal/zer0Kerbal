@@ -45,16 +45,16 @@
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#92](https://github.com/zer0Kerbal/SimpleConstruction/issues/92) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
-2. 🗣 Commented on [#92](https://github.com/zer0Kerbal/SimpleConstruction/issues/92) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
-3. 🗣 Commented on [#92](https://github.com/zer0Kerbal/SimpleConstruction/issues/92) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
-4. 🗣 Commented on [#92](https://github.com/zer0Kerbal/SimpleConstruction/issues/92) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
-5. 🗣 Commented on [#92](https://github.com/zer0Kerbal/SimpleConstruction/issues/92) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
-6. ❗️ Opened issue [#23](https://github.com/zer0Kerbal/HBSensorModules/issues/23) in [zer0Kerbal/HBSensorModules](https://github.com/zer0Kerbal/HBSensorModules)
-7. ❗️ Opened issue [#22](https://github.com/zer0Kerbal/HBSensorModules/issues/22) in [zer0Kerbal/HBSensorModules](https://github.com/zer0Kerbal/HBSensorModules)
-8. ❗️ Opened issue [#21](https://github.com/zer0Kerbal/HBSensorModules/issues/21) in [zer0Kerbal/HBSensorModules](https://github.com/zer0Kerbal/HBSensorModules)
-9. ❗️ Opened issue [#20](https://github.com/zer0Kerbal/HBSensorModules/issues/20) in [zer0Kerbal/HBSensorModules](https://github.com/zer0Kerbal/HBSensorModules)
-10. ❗️ Opened issue [#19](https://github.com/zer0Kerbal/HBSensorModules/issues/19) in [zer0Kerbal/HBSensorModules](https://github.com/zer0Kerbal/HBSensorModules)
+1. ❗️ Opened issue [#97](https://github.com/zer0Kerbal/SimpleConstruction/issues/97) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
+2. ❗️ Opened issue [#96](https://github.com/zer0Kerbal/SimpleConstruction/issues/96) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
+3. ❗️ Opened issue [#95](https://github.com/zer0Kerbal/SimpleConstruction/issues/95) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
+4. ❗️ Opened issue [#94](https://github.com/zer0Kerbal/SimpleConstruction/issues/94) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
+5. ❗️ Opened issue [#93](https://github.com/zer0Kerbal/SimpleConstruction/issues/93) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
+6. 🗣 Commented on [#92](https://github.com/zer0Kerbal/SimpleConstruction/issues/92) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
+7. 🗣 Commented on [#92](https://github.com/zer0Kerbal/SimpleConstruction/issues/92) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
+8. 🗣 Commented on [#92](https://github.com/zer0Kerbal/SimpleConstruction/issues/92) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
+9. 🗣 Commented on [#92](https://github.com/zer0Kerbal/SimpleConstruction/issues/92) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
+10. 🗣 Commented on [#92](https://github.com/zer0Kerbal/SimpleConstruction/issues/92) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
 <!--END_SECTION:activity-->
 
 </details
