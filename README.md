@@ -45,16 +45,16 @@
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/zer0Kerbal/ExceptionDetector/pull/5) in [zer0Kerbal/ExceptionDetector](https://github.com/zer0Kerbal/ExceptionDetector)
-2. 💪 Opened PR [#5](https://github.com/zer0Kerbal/ExceptionDetector/pull/5) in [zer0Kerbal/ExceptionDetector](https://github.com/zer0Kerbal/ExceptionDetector)
-3. ❌ Closed PR [#4](https://github.com/zer0Kerbal/ExceptionDetector/pull/4) in [zer0Kerbal/ExceptionDetector](https://github.com/zer0Kerbal/ExceptionDetector)
-4. 🎉 Merged PR [#80](https://github.com/zer0Kerbal/MiniSampleReturnCapsule/pull/80) in [zer0Kerbal/MiniSampleReturnCapsule](https://github.com/zer0Kerbal/MiniSampleReturnCapsule)
-5. ❗️ Opened issue [#9](https://github.com/zer0Kerbal/NyanCat/issues/9) in [zer0Kerbal/NyanCat](https://github.com/zer0Kerbal/NyanCat)
-6. ❗️ Closed issue [#6](https://github.com/zer0Kerbal/SafetyWall/issues/6) in [zer0Kerbal/SafetyWall](https://github.com/zer0Kerbal/SafetyWall)
-7. ❗️ Closed issue [#7](https://github.com/zer0Kerbal/SafetyWall/issues/7) in [zer0Kerbal/SafetyWall](https://github.com/zer0Kerbal/SafetyWall)
-8. 🎉 Merged PR [#8](https://github.com/zer0Kerbal/SafetyWall/pull/8) in [zer0Kerbal/SafetyWall](https://github.com/zer0Kerbal/SafetyWall)
-9. ❗️ Closed issue [#5](https://github.com/zer0Kerbal/SafetyWall/issues/5) in [zer0Kerbal/SafetyWall](https://github.com/zer0Kerbal/SafetyWall)
-10. ❗️ Closed issue [#4](https://github.com/zer0Kerbal/SafetyWall/issues/4) in [zer0Kerbal/SafetyWall](https://github.com/zer0Kerbal/SafetyWall)
+1. ❗️ Opened issue [#9](https://github.com/zer0Kerbal/ExceptionDetector/issues/9) in [zer0Kerbal/ExceptionDetector](https://github.com/zer0Kerbal/ExceptionDetector)
+2. ❗️ Opened issue [#8](https://github.com/zer0Kerbal/ExceptionDetector/issues/8) in [zer0Kerbal/ExceptionDetector](https://github.com/zer0Kerbal/ExceptionDetector)
+3. ❗️ Opened issue [#7](https://github.com/zer0Kerbal/ExceptionDetector/issues/7) in [zer0Kerbal/ExceptionDetector](https://github.com/zer0Kerbal/ExceptionDetector)
+4. ❗️ Opened issue [#6](https://github.com/zer0Kerbal/ExceptionDetector/issues/6) in [zer0Kerbal/ExceptionDetector](https://github.com/zer0Kerbal/ExceptionDetector)
+5. 🎉 Merged PR [#5](https://github.com/zer0Kerbal/ExceptionDetector/pull/5) in [zer0Kerbal/ExceptionDetector](https://github.com/zer0Kerbal/ExceptionDetector)
+6. 💪 Opened PR [#5](https://github.com/zer0Kerbal/ExceptionDetector/pull/5) in [zer0Kerbal/ExceptionDetector](https://github.com/zer0Kerbal/ExceptionDetector)
+7. ❌ Closed PR [#4](https://github.com/zer0Kerbal/ExceptionDetector/pull/4) in [zer0Kerbal/ExceptionDetector](https://github.com/zer0Kerbal/ExceptionDetector)
+8. 🎉 Merged PR [#80](https://github.com/zer0Kerbal/MiniSampleReturnCapsule/pull/80) in [zer0Kerbal/MiniSampleReturnCapsule](https://github.com/zer0Kerbal/MiniSampleReturnCapsule)
+9. ❗️ Opened issue [#9](https://github.com/zer0Kerbal/NyanCat/issues/9) in [zer0Kerbal/NyanCat](https://github.com/zer0Kerbal/NyanCat)
+10. ❗️ Closed issue [#6](https://github.com/zer0Kerbal/SafetyWall/issues/6) in [zer0Kerbal/SafetyWall](https://github.com/zer0Kerbal/SafetyWall)
 <!--END_SECTION:activity-->
 
 </details
