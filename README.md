@@ -45,16 +45,16 @@
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#10](https://github.com/zer0Kerbal/ExceptionDetector/pull/10) in [zer0Kerbal/ExceptionDetector](https://github.com/zer0Kerbal/ExceptionDetector)
-2. ❗️ Closed issue [#8](https://github.com/zer0Kerbal/ExceptionDetector/issues/8) in [zer0Kerbal/ExceptionDetector](https://github.com/zer0Kerbal/ExceptionDetector)
-3. ❗️ Closed issue [#9](https://github.com/zer0Kerbal/ExceptionDetector/issues/9) in [zer0Kerbal/ExceptionDetector](https://github.com/zer0Kerbal/ExceptionDetector)
-4. ❗️ Closed issue [#7](https://github.com/zer0Kerbal/ExceptionDetector/issues/7) in [zer0Kerbal/ExceptionDetector](https://github.com/zer0Kerbal/ExceptionDetector)
-5. ❗️ Closed issue [#6](https://github.com/zer0Kerbal/ExceptionDetector/issues/6) in [zer0Kerbal/ExceptionDetector](https://github.com/zer0Kerbal/ExceptionDetector)
-6. 💪 Opened PR [#10](https://github.com/zer0Kerbal/ExceptionDetector/pull/10) in [zer0Kerbal/ExceptionDetector](https://github.com/zer0Kerbal/ExceptionDetector)
-7. 💪 Opened PR [#11](https://github.com/zer0Kerbal/OrbitalTug/pull/11) in [zer0Kerbal/OrbitalTug](https://github.com/zer0Kerbal/OrbitalTug)
-8. ❗️ Opened issue [#9](https://github.com/zer0Kerbal/ExceptionDetector/issues/9) in [zer0Kerbal/ExceptionDetector](https://github.com/zer0Kerbal/ExceptionDetector)
-9. ❗️ Opened issue [#8](https://github.com/zer0Kerbal/ExceptionDetector/issues/8) in [zer0Kerbal/ExceptionDetector](https://github.com/zer0Kerbal/ExceptionDetector)
-10. ❗️ Opened issue [#7](https://github.com/zer0Kerbal/ExceptionDetector/issues/7) in [zer0Kerbal/ExceptionDetector](https://github.com/zer0Kerbal/ExceptionDetector)
+1. 🗣 Commented on [#30](https://github.com/zer0Kerbal/AdjustableModPanel/issues/30) in [zer0Kerbal/AdjustableModPanel](https://github.com/zer0Kerbal/AdjustableModPanel)
+2. 🎉 Merged PR [#10](https://github.com/zer0Kerbal/ExceptionDetector/pull/10) in [zer0Kerbal/ExceptionDetector](https://github.com/zer0Kerbal/ExceptionDetector)
+3. ❗️ Closed issue [#8](https://github.com/zer0Kerbal/ExceptionDetector/issues/8) in [zer0Kerbal/ExceptionDetector](https://github.com/zer0Kerbal/ExceptionDetector)
+4. ❗️ Closed issue [#9](https://github.com/zer0Kerbal/ExceptionDetector/issues/9) in [zer0Kerbal/ExceptionDetector](https://github.com/zer0Kerbal/ExceptionDetector)
+5. ❗️ Closed issue [#7](https://github.com/zer0Kerbal/ExceptionDetector/issues/7) in [zer0Kerbal/ExceptionDetector](https://github.com/zer0Kerbal/ExceptionDetector)
+6. ❗️ Closed issue [#6](https://github.com/zer0Kerbal/ExceptionDetector/issues/6) in [zer0Kerbal/ExceptionDetector](https://github.com/zer0Kerbal/ExceptionDetector)
+7. 💪 Opened PR [#10](https://github.com/zer0Kerbal/ExceptionDetector/pull/10) in [zer0Kerbal/ExceptionDetector](https://github.com/zer0Kerbal/ExceptionDetector)
+8. 💪 Opened PR [#11](https://github.com/zer0Kerbal/OrbitalTug/pull/11) in [zer0Kerbal/OrbitalTug](https://github.com/zer0Kerbal/OrbitalTug)
+9. ❗️ Opened issue [#9](https://github.com/zer0Kerbal/ExceptionDetector/issues/9) in [zer0Kerbal/ExceptionDetector](https://github.com/zer0Kerbal/ExceptionDetector)
+10. ❗️ Opened issue [#8](https://github.com/zer0Kerbal/ExceptionDetector/issues/8) in [zer0Kerbal/ExceptionDetector](https://github.com/zer0Kerbal/ExceptionDetector)
 <!--END_SECTION:activity-->
 
 </details
