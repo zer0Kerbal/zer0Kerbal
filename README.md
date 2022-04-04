@@ -45,16 +45,16 @@
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#30](https://github.com/zer0Kerbal/ExceptionDetector/issues/30) in [zer0Kerbal/ExceptionDetector](https://github.com/zer0Kerbal/ExceptionDetector)
-2. 🎉 Merged PR [#1](https://github.com/zer0Kerbal/HL20/pull/1) in [zer0Kerbal/HL20](https://github.com/zer0Kerbal/HL20)
-3. ❌ Closed PR [#11](https://github.com/zer0Kerbal/OrbitalTug/pull/11) in [zer0Kerbal/OrbitalTug](https://github.com/zer0Kerbal/OrbitalTug)
-4. 💪 Opened PR [#12](https://github.com/zer0Kerbal/OrbitalTug/pull/12) in [zer0Kerbal/OrbitalTug](https://github.com/zer0Kerbal/OrbitalTug)
-5. ❗️ Opened issue [#31](https://github.com/zer0Kerbal/ExceptionDetector/issues/31) in [zer0Kerbal/ExceptionDetector](https://github.com/zer0Kerbal/ExceptionDetector)
-6. ❗️ Opened issue [#30](https://github.com/zer0Kerbal/ExceptionDetector/issues/30) in [zer0Kerbal/ExceptionDetector](https://github.com/zer0Kerbal/ExceptionDetector)
-7. ❗️ Opened issue [#29](https://github.com/zer0Kerbal/ExceptionDetector/issues/29) in [zer0Kerbal/ExceptionDetector](https://github.com/zer0Kerbal/ExceptionDetector)
-8. ❗️ Opened issue [#28](https://github.com/zer0Kerbal/ExceptionDetector/issues/28) in [zer0Kerbal/ExceptionDetector](https://github.com/zer0Kerbal/ExceptionDetector)
-9. ❗️ Opened issue [#27](https://github.com/zer0Kerbal/ExceptionDetector/issues/27) in [zer0Kerbal/ExceptionDetector](https://github.com/zer0Kerbal/ExceptionDetector)
-10. ❗️ Opened issue [#26](https://github.com/zer0Kerbal/ExceptionDetector/issues/26) in [zer0Kerbal/ExceptionDetector](https://github.com/zer0Kerbal/ExceptionDetector)
+1. ❗️ Opened issue [#22](https://github.com/zer0Kerbal/GoodspeedAerospace/issues/22) in [zer0Kerbal/GoodspeedAerospace](https://github.com/zer0Kerbal/GoodspeedAerospace)
+2. ❗️ Opened issue [#21](https://github.com/zer0Kerbal/GoodspeedAerospace/issues/21) in [zer0Kerbal/GoodspeedAerospace](https://github.com/zer0Kerbal/GoodspeedAerospace)
+3. ❗️ Opened issue [#20](https://github.com/zer0Kerbal/GoodspeedAerospace/issues/20) in [zer0Kerbal/GoodspeedAerospace](https://github.com/zer0Kerbal/GoodspeedAerospace)
+4. ❗️ Opened issue [#19](https://github.com/zer0Kerbal/GoodspeedAerospace/issues/19) in [zer0Kerbal/GoodspeedAerospace](https://github.com/zer0Kerbal/GoodspeedAerospace)
+5. ❗️ Opened issue [#18](https://github.com/zer0Kerbal/GoodspeedAerospace/issues/18) in [zer0Kerbal/GoodspeedAerospace](https://github.com/zer0Kerbal/GoodspeedAerospace)
+6. ❗️ Opened issue [#17](https://github.com/zer0Kerbal/GoodspeedAerospace/issues/17) in [zer0Kerbal/GoodspeedAerospace](https://github.com/zer0Kerbal/GoodspeedAerospace)
+7. ❗️ Opened issue [#16](https://github.com/zer0Kerbal/GoodspeedAerospace/issues/16) in [zer0Kerbal/GoodspeedAerospace](https://github.com/zer0Kerbal/GoodspeedAerospace)
+8. ❗️ Opened issue [#15](https://github.com/zer0Kerbal/GoodspeedAerospace/issues/15) in [zer0Kerbal/GoodspeedAerospace](https://github.com/zer0Kerbal/GoodspeedAerospace)
+9. ❗️ Opened issue [#14](https://github.com/zer0Kerbal/GoodspeedAerospace/issues/14) in [zer0Kerbal/GoodspeedAerospace](https://github.com/zer0Kerbal/GoodspeedAerospace)
+10. ❗️ Opened issue [#13](https://github.com/zer0Kerbal/GoodspeedAerospace/issues/13) in [zer0Kerbal/GoodspeedAerospace](https://github.com/zer0Kerbal/GoodspeedAerospace)
 <!--END_SECTION:activity-->
 
 </details
