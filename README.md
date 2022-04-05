@@ -46,15 +46,15 @@
   
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#2](https://github.com/zer0Kerbal/SpaceShuttleEngines/issues/2) in [zer0Kerbal/SpaceShuttleEngines](https://github.com/zer0Kerbal/SpaceShuttleEngines)
-2. 🗣 Commented on [#26](https://github.com/zer0Kerbal/GoodspeedAerospace/issues/26) in [zer0Kerbal/GoodspeedAerospace](https://github.com/zer0Kerbal/GoodspeedAerospace)
-3. 🗣 Commented on [#26](https://github.com/zer0Kerbal/GoodspeedAerospace/issues/26) in [zer0Kerbal/GoodspeedAerospace](https://github.com/zer0Kerbal/GoodspeedAerospace)
+2. 🗣 Commented on [#2](https://github.com/zer0Kerbal/SpaceShuttleEngines/issues/2) in [zer0Kerbal/SpaceShuttleEngines](https://github.com/zer0Kerbal/SpaceShuttleEngines)
+3. 🗣 Commented on [#2](https://github.com/zer0Kerbal/SpaceShuttleEngines/issues/2) in [zer0Kerbal/SpaceShuttleEngines](https://github.com/zer0Kerbal/SpaceShuttleEngines)
 4. 🗣 Commented on [#26](https://github.com/zer0Kerbal/GoodspeedAerospace/issues/26) in [zer0Kerbal/GoodspeedAerospace](https://github.com/zer0Kerbal/GoodspeedAerospace)
-5. ❌ Closed PR [#32](https://github.com/zer0Kerbal/ExceptionDetector/pull/32) in [zer0Kerbal/ExceptionDetector](https://github.com/zer0Kerbal/ExceptionDetector)
-6. ❗️ Opened issue [#22](https://github.com/zer0Kerbal/GoodspeedAerospace/issues/22) in [zer0Kerbal/GoodspeedAerospace](https://github.com/zer0Kerbal/GoodspeedAerospace)
-7. ❗️ Opened issue [#21](https://github.com/zer0Kerbal/GoodspeedAerospace/issues/21) in [zer0Kerbal/GoodspeedAerospace](https://github.com/zer0Kerbal/GoodspeedAerospace)
-8. ❗️ Opened issue [#20](https://github.com/zer0Kerbal/GoodspeedAerospace/issues/20) in [zer0Kerbal/GoodspeedAerospace](https://github.com/zer0Kerbal/GoodspeedAerospace)
-9. ❗️ Opened issue [#19](https://github.com/zer0Kerbal/GoodspeedAerospace/issues/19) in [zer0Kerbal/GoodspeedAerospace](https://github.com/zer0Kerbal/GoodspeedAerospace)
-10. ❗️ Opened issue [#18](https://github.com/zer0Kerbal/GoodspeedAerospace/issues/18) in [zer0Kerbal/GoodspeedAerospace](https://github.com/zer0Kerbal/GoodspeedAerospace)
+5. 🗣 Commented on [#26](https://github.com/zer0Kerbal/GoodspeedAerospace/issues/26) in [zer0Kerbal/GoodspeedAerospace](https://github.com/zer0Kerbal/GoodspeedAerospace)
+6. 🗣 Commented on [#26](https://github.com/zer0Kerbal/GoodspeedAerospace/issues/26) in [zer0Kerbal/GoodspeedAerospace](https://github.com/zer0Kerbal/GoodspeedAerospace)
+7. ❌ Closed PR [#32](https://github.com/zer0Kerbal/ExceptionDetector/pull/32) in [zer0Kerbal/ExceptionDetector](https://github.com/zer0Kerbal/ExceptionDetector)
+8. ❗️ Opened issue [#22](https://github.com/zer0Kerbal/GoodspeedAerospace/issues/22) in [zer0Kerbal/GoodspeedAerospace](https://github.com/zer0Kerbal/GoodspeedAerospace)
+9. ❗️ Opened issue [#21](https://github.com/zer0Kerbal/GoodspeedAerospace/issues/21) in [zer0Kerbal/GoodspeedAerospace](https://github.com/zer0Kerbal/GoodspeedAerospace)
+10. ❗️ Opened issue [#20](https://github.com/zer0Kerbal/GoodspeedAerospace/issues/20) in [zer0Kerbal/GoodspeedAerospace](https://github.com/zer0Kerbal/GoodspeedAerospace)
 <!--END_SECTION:activity-->
 
 </details
