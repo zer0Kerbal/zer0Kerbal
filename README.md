@@ -45,16 +45,16 @@
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/zer0Kerbal/SpaceShuttleEngines/issues/2) in [zer0Kerbal/SpaceShuttleEngines](https://github.com/zer0Kerbal/SpaceShuttleEngines)
-2. 🗣 Commented on [#2](https://github.com/zer0Kerbal/SpaceShuttleEngines/issues/2) in [zer0Kerbal/SpaceShuttleEngines](https://github.com/zer0Kerbal/SpaceShuttleEngines)
+1. ❗️ Opened issue [#106](https://github.com/zer0Kerbal/LithobrakeExplorationTechnologies/issues/106) in [zer0Kerbal/LithobrakeExplorationTechnologies](https://github.com/zer0Kerbal/LithobrakeExplorationTechnologies)
+2. 🗣 Commented on [#71](https://github.com/zer0Kerbal/Dreamer/issues/71) in [zer0Kerbal/Dreamer](https://github.com/zer0Kerbal/Dreamer)
 3. 🗣 Commented on [#2](https://github.com/zer0Kerbal/SpaceShuttleEngines/issues/2) in [zer0Kerbal/SpaceShuttleEngines](https://github.com/zer0Kerbal/SpaceShuttleEngines)
 4. 🗣 Commented on [#2](https://github.com/zer0Kerbal/SpaceShuttleEngines/issues/2) in [zer0Kerbal/SpaceShuttleEngines](https://github.com/zer0Kerbal/SpaceShuttleEngines)
 5. 🗣 Commented on [#2](https://github.com/zer0Kerbal/SpaceShuttleEngines/issues/2) in [zer0Kerbal/SpaceShuttleEngines](https://github.com/zer0Kerbal/SpaceShuttleEngines)
 6. 🗣 Commented on [#2](https://github.com/zer0Kerbal/SpaceShuttleEngines/issues/2) in [zer0Kerbal/SpaceShuttleEngines](https://github.com/zer0Kerbal/SpaceShuttleEngines)
-7. 🗣 Commented on [#26](https://github.com/zer0Kerbal/GoodspeedAerospace/issues/26) in [zer0Kerbal/GoodspeedAerospace](https://github.com/zer0Kerbal/GoodspeedAerospace)
-8. 🗣 Commented on [#26](https://github.com/zer0Kerbal/GoodspeedAerospace/issues/26) in [zer0Kerbal/GoodspeedAerospace](https://github.com/zer0Kerbal/GoodspeedAerospace)
+7. 🗣 Commented on [#2](https://github.com/zer0Kerbal/SpaceShuttleEngines/issues/2) in [zer0Kerbal/SpaceShuttleEngines](https://github.com/zer0Kerbal/SpaceShuttleEngines)
+8. 🗣 Commented on [#2](https://github.com/zer0Kerbal/SpaceShuttleEngines/issues/2) in [zer0Kerbal/SpaceShuttleEngines](https://github.com/zer0Kerbal/SpaceShuttleEngines)
 9. 🗣 Commented on [#26](https://github.com/zer0Kerbal/GoodspeedAerospace/issues/26) in [zer0Kerbal/GoodspeedAerospace](https://github.com/zer0Kerbal/GoodspeedAerospace)
-10. ❌ Closed PR [#32](https://github.com/zer0Kerbal/ExceptionDetector/pull/32) in [zer0Kerbal/ExceptionDetector](https://github.com/zer0Kerbal/ExceptionDetector)
+10. 🗣 Commented on [#26](https://github.com/zer0Kerbal/GoodspeedAerospace/issues/26) in [zer0Kerbal/GoodspeedAerospace](https://github.com/zer0Kerbal/GoodspeedAerospace)
 <!--END_SECTION:activity-->
 
 </details
