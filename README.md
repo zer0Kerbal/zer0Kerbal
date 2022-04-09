@@ -119,10 +119,10 @@
   ![](https://github.com/zer0Kerbal/Dreamer/actions/workflows/greetings.yml/badge.svg) ![](https://github.com/zer0Kerbal/Dreamer/actions/workflows/AVC-VersionFileValidator.yml/badge.svg?branch=master) 
   ![](https://img.shields.io/github/downloads/zer0Kerbal/Dreamer/total?style=plastic) ![](https://img.shields.io/github/repo-size/zer0Kerbal/Dreamer?style=plastic) ![](https://img.shields.io/github/contributors/zer0kerbal/Dreamer?style=plastic) ![](https://img.shields.io/github/release-date/zer0kerbal/Dreamer?style=plastic) ![](https://img.shields.io/github/release-date-pre/zer0kerbal/Dreamer?style=plastic)
 
-  ### [WhimChaserr (AAWC))](https://github.com/zer0Kerbal/WhimChaserr)
+  ### [WhimChaser (AAWC))](https://github.com/zer0Kerbal/WhimChaser)
   
-  ![](https://github.com/zer0Kerbal/WhimChaserr/actions/workflows/greetings.yml/badge.svg) ![](https://github.com/zer0Kerbal/WhimChaserr/actions/workflows/AVC-VersionFileValidator.yml/badge.svg?branch=master) 
-  ![](https://img.shields.io/github/downloads/zer0Kerbal/WhimChaserr/total?style=plastic) ![](https://img.shields.io/github/repo-size/zer0Kerbal/WhimChaserr?style=plastic) ![](https://img.shields.io/github/contributors/zer0kerbal/WhimChaserr?style=plastic) ![](https://img.shields.io/github/release-date/zer0kerbal/WhimChaserr?style=plastic) ![](https://img.shields.io/github/release-date-pre/zer0kerbal/WhimChaser?style=plastic)
+  ![](https://github.com/zer0Kerbal/WhimChaser/actions/workflows/greetings.yml/badge.svg) ![](https://github.com/zer0Kerbal/WhimChaser/actions/workflows/AVC-VersionFileValidator.yml/badge.svg?branch=master) 
+  ![](https://img.shields.io/github/downloads/zer0Kerbal/WhimChaser/total?style=plastic) ![](https://img.shields.io/github/repo-size/zer0Kerbal/WhimChaser?style=plastic) ![](https://img.shields.io/github/contributors/zer0kerbal/WhimChaser?style=plastic) ![](https://img.shields.io/github/release-date/zer0kerbal/WhimChaser?style=plastic) ![](https://img.shields.io/github/release-date-pre/zer0kerbal/WhimChaser?style=plastic)
 
   ### [Simple Cargo Solutions (AASC)](https://github.com/zer0Kerbal/SimpleCargoSolution)
   
