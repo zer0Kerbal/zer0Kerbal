@@ -46,15 +46,15 @@
   
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#2](https://github.com/zer0Kerbal/SpaceShuttleEngines/issues/2) in [zer0Kerbal/SpaceShuttleEngines](https://github.com/zer0Kerbal/SpaceShuttleEngines)
-2. 🗣 Commented on [#2](https://github.com/zer0Kerbal/SpaceShuttleEngines/issues/2) in [zer0Kerbal/SpaceShuttleEngines](https://github.com/zer0Kerbal/SpaceShuttleEngines)
-3. 🗣 Commented on [#9067](https://github.com/KSP-CKAN/NetKAN/issues/9067) in [KSP-CKAN/NetKAN](https://github.com/KSP-CKAN/NetKAN)
-4. 💪 Opened PR [#9067](https://github.com/KSP-CKAN/NetKAN/pull/9067) in [KSP-CKAN/NetKAN](https://github.com/KSP-CKAN/NetKAN)
-5. ❗️ Opened issue [#38](https://github.com/zer0Kerbal/Komplexity/issues/38) in [zer0Kerbal/Komplexity](https://github.com/zer0Kerbal/Komplexity)
-6. ❗️ Opened issue [#37](https://github.com/zer0Kerbal/Komplexity/issues/37) in [zer0Kerbal/Komplexity](https://github.com/zer0Kerbal/Komplexity)
-7. ❗️ Closed issue [#34](https://github.com/zer0Kerbal/Komplexity/issues/34) in [zer0Kerbal/Komplexity](https://github.com/zer0Kerbal/Komplexity)
-8. 🎉 Merged PR [#35](https://github.com/zer0Kerbal/Komplexity/pull/35) in [zer0Kerbal/Komplexity](https://github.com/zer0Kerbal/Komplexity)
-9. ❗️ Closed issue [#32](https://github.com/zer0Kerbal/Komplexity/issues/32) in [zer0Kerbal/Komplexity](https://github.com/zer0Kerbal/Komplexity)
-10. ❗️ Closed issue [#33](https://github.com/zer0Kerbal/Komplexity/issues/33) in [zer0Kerbal/Komplexity](https://github.com/zer0Kerbal/Komplexity)
+2. 🗣 Commented on [#9067](https://github.com/KSP-CKAN/NetKAN/issues/9067) in [KSP-CKAN/NetKAN](https://github.com/KSP-CKAN/NetKAN)
+3. 💪 Opened PR [#9067](https://github.com/KSP-CKAN/NetKAN/pull/9067) in [KSP-CKAN/NetKAN](https://github.com/KSP-CKAN/NetKAN)
+4. ❗️ Opened issue [#38](https://github.com/zer0Kerbal/Komplexity/issues/38) in [zer0Kerbal/Komplexity](https://github.com/zer0Kerbal/Komplexity)
+5. ❗️ Opened issue [#37](https://github.com/zer0Kerbal/Komplexity/issues/37) in [zer0Kerbal/Komplexity](https://github.com/zer0Kerbal/Komplexity)
+6. ❗️ Closed issue [#34](https://github.com/zer0Kerbal/Komplexity/issues/34) in [zer0Kerbal/Komplexity](https://github.com/zer0Kerbal/Komplexity)
+7. 🎉 Merged PR [#35](https://github.com/zer0Kerbal/Komplexity/pull/35) in [zer0Kerbal/Komplexity](https://github.com/zer0Kerbal/Komplexity)
+8. ❗️ Closed issue [#32](https://github.com/zer0Kerbal/Komplexity/issues/32) in [zer0Kerbal/Komplexity](https://github.com/zer0Kerbal/Komplexity)
+9. ❗️ Closed issue [#33](https://github.com/zer0Kerbal/Komplexity/issues/33) in [zer0Kerbal/Komplexity](https://github.com/zer0Kerbal/Komplexity)
+10. ❗️ Closed issue [#31](https://github.com/zer0Kerbal/Komplexity/issues/31) in [zer0Kerbal/Komplexity](https://github.com/zer0Kerbal/Komplexity)
 <!--END_SECTION:activity-->
 
 </details
@@ -459,6 +459,38 @@
 * VanguardAstrodynamics.Unity
 
   </details>
+  
+    ### dtobi's Klockheed Martian
+  
+ <details>
+   <summary>Klockheed Martian</summary>
+
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zer0Kerbal&repo=KlockheedMartian)](https://github.com/zer0Kerbal/KlockheedMartian)  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zer0Kerbal&repo=SpaceShuttleEngines)](https://github.com/zer0Kerbal/SpaceShuttleEngines)   
+
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zer0Kerbal&repo=AsteroidCities)](https://github.com/zer0Kerbal/AsteroidCities)  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zer0Kerbal&repo=SpecialParts)](https://github.com/zer0Kerbal/SpecialParts)
+
+
+  ### [Klockheed Martian(KM)](https://github.com/zer0Kerbal/KlockheedMartian)
+
+  ![](https://github.com/zer0Kerbal/KlockheedMartian/actions/workflows/greetings.yml/badge.svg) ![](https://github.com/zer0Kerbal/KlockheedMartian/actions/workflows/AVC-VersionFileValidator.yml/badge.svg?branch=master) 
+  ![](https://img.shields.io/github/downloads/zer0Kerbal/KlockheedMartian/total?style=plastic) ![](https://img.shields.io/github/repo-size/zer0Kerbal/KlockheedMartian?style=plastic) ![](https://img.shields.io/github/contributors/zer0kerbal/KlockheedMartian?style=plastic) ![](https://img.shields.io/github/release-date/zer0kerbal/KlockheedMartian?style=plastic) ![](https://img.shields.io/github/release-date-pre/zer0kerbal/KlockheedMartian?style=plastic)
+   
+### [Space Shuttle Engines (SSE)](https://github.com/zer0Kerbal/SpaceShuttleEngines)
+
+  ![](https://github.com/zer0Kerbal/SpaceShuttleEngines/actions/workflows/greetings.yml/badge.svg) ![](https://github.com/zer0Kerbal/SpaceShuttleEngines/actions/workflows/AVC-VersionFileValidator.yml/badge.svg?branch=master) 
+  ![](https://img.shields.io/github/downloads/zer0Kerbal/SpaceShuttleEngines/total?style=plastic) ![](https://img.shields.io/github/repo-size/zer0Kerbal/SpaceShuttleEngines?style=plastic) ![](https://img.shields.io/github/contributors/zer0kerbal/SpaceShuttleEngines?style=plastic) ![](https://img.shields.io/github/release-date/zer0kerbal/SpaceShuttleEngines?style=plastic) ![](https://img.shields.io/github/release-date-pre/zer0kerbal/SpaceShuttleEngines?style=plastic)
+
+  ### [AsteroidCities (LMAC))](https://github.com/zer0Kerbal/AsteroidCities)
+
+  ![](https://github.com/zer0Kerbal/AsteroidCities/actions/workflows/greetings.yml/badge.svg) ![](https://github.com/zer0Kerbal/AsteroidCities/actions/workflows/AVC-VersionFileValidator.yml/badge.svg?branch=master) 
+  ![](https://img.shields.io/github/downloads/zer0Kerbal/AsteroidCities/total?style=plastic) ![](https://img.shields.io/github/repo-size/zer0Kerbal/AsteroidCities?style=plastic) ![](https://img.shields.io/github/contributors/zer0kerbal/AsteroidCities?style=plastic) ![](https://img.shields.io/github/release-date/zer0kerbal/AsteroidCities?style=plastic) ![](https://img.shields.io/github/release-date-pre/zer0kerbal/AsteroidCities?style=plastic)
+
+  ### [Special Parts (LMSP)](https://github.com/zer0Kerbal/SpecialParts)
+  
+  ![](https://github.com/zer0Kerbal/SpecialParts/actions/workflows/greetings.yml/badge.svg) ![](https://github.com/zer0Kerbal/SpecialParts/actions/workflows/AVC-VersionFileValidator.yml/badge.svg?branch=master) 
+  ![](https://img.shields.io/github/downloads/zer0Kerbal/SpecialParts/total?style=plastic) ![](https://img.shields.io/github/repo-size/zer0Kerbal/SpecialParts?style=plastic) ![](https://img.shields.io/github/contributors/zer0kerbal/SpecialParts?style=plastic) ![](https://img.shields.io/github/release-date/zer0kerbal/SpecialParts?style=plastic) ![](https://img.shields.io/github/release-date-pre/zer0kerbal/SpecialParts?style=plastic)
+
+</details>
   
 # WHY - Mission Statement
 
