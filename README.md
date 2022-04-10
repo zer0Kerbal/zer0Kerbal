@@ -45,16 +45,16 @@
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#23](https://github.com/zer0Kerbal/AsteroidCities/pull/23) in [zer0Kerbal/AsteroidCities](https://github.com/zer0Kerbal/AsteroidCities)
-2. ❗️ Closed issue [#16](https://github.com/zer0Kerbal/AsteroidCities/issues/16) in [zer0Kerbal/AsteroidCities](https://github.com/zer0Kerbal/AsteroidCities)
-3. ❗️ Closed issue [#6](https://github.com/zer0Kerbal/AsteroidCities/issues/6) in [zer0Kerbal/AsteroidCities](https://github.com/zer0Kerbal/AsteroidCities)
-4. 💪 Opened PR [#23](https://github.com/zer0Kerbal/AsteroidCities/pull/23) in [zer0Kerbal/AsteroidCities](https://github.com/zer0Kerbal/AsteroidCities)
-5. 🎉 Merged PR [#22](https://github.com/zer0Kerbal/AsteroidCities/pull/22) in [zer0Kerbal/AsteroidCities](https://github.com/zer0Kerbal/AsteroidCities)
-6. 💪 Opened PR [#22](https://github.com/zer0Kerbal/AsteroidCities/pull/22) in [zer0Kerbal/AsteroidCities](https://github.com/zer0Kerbal/AsteroidCities)
-7. ❗️ Closed issue [#15](https://github.com/zer0Kerbal/AsteroidCities/issues/15) in [zer0Kerbal/AsteroidCities](https://github.com/zer0Kerbal/AsteroidCities)
-8. 🎉 Merged PR [#21](https://github.com/zer0Kerbal/AsteroidCities/pull/21) in [zer0Kerbal/AsteroidCities](https://github.com/zer0Kerbal/AsteroidCities)
-9. ❗️ Closed issue [#14](https://github.com/zer0Kerbal/AsteroidCities/issues/14) in [zer0Kerbal/AsteroidCities](https://github.com/zer0Kerbal/AsteroidCities)
-10. 💪 Opened PR [#21](https://github.com/zer0Kerbal/AsteroidCities/pull/21) in [zer0Kerbal/AsteroidCities](https://github.com/zer0Kerbal/AsteroidCities)
+1. ❗️ Closed issue [#26](https://github.com/zer0Kerbal/AdjustableModPanel/issues/26) in [zer0Kerbal/AdjustableModPanel](https://github.com/zer0Kerbal/AdjustableModPanel)
+2. 🎉 Merged PR [#23](https://github.com/zer0Kerbal/AsteroidCities/pull/23) in [zer0Kerbal/AsteroidCities](https://github.com/zer0Kerbal/AsteroidCities)
+3. ❗️ Closed issue [#16](https://github.com/zer0Kerbal/AsteroidCities/issues/16) in [zer0Kerbal/AsteroidCities](https://github.com/zer0Kerbal/AsteroidCities)
+4. ❗️ Closed issue [#6](https://github.com/zer0Kerbal/AsteroidCities/issues/6) in [zer0Kerbal/AsteroidCities](https://github.com/zer0Kerbal/AsteroidCities)
+5. 💪 Opened PR [#23](https://github.com/zer0Kerbal/AsteroidCities/pull/23) in [zer0Kerbal/AsteroidCities](https://github.com/zer0Kerbal/AsteroidCities)
+6. 🎉 Merged PR [#22](https://github.com/zer0Kerbal/AsteroidCities/pull/22) in [zer0Kerbal/AsteroidCities](https://github.com/zer0Kerbal/AsteroidCities)
+7. 💪 Opened PR [#22](https://github.com/zer0Kerbal/AsteroidCities/pull/22) in [zer0Kerbal/AsteroidCities](https://github.com/zer0Kerbal/AsteroidCities)
+8. ❗️ Closed issue [#15](https://github.com/zer0Kerbal/AsteroidCities/issues/15) in [zer0Kerbal/AsteroidCities](https://github.com/zer0Kerbal/AsteroidCities)
+9. 🎉 Merged PR [#21](https://github.com/zer0Kerbal/AsteroidCities/pull/21) in [zer0Kerbal/AsteroidCities](https://github.com/zer0Kerbal/AsteroidCities)
+10. ❗️ Closed issue [#14](https://github.com/zer0Kerbal/AsteroidCities/issues/14) in [zer0Kerbal/AsteroidCities](https://github.com/zer0Kerbal/AsteroidCities)
 <!--END_SECTION:activity-->
 
 </details
