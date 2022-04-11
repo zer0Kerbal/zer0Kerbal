@@ -45,16 +45,16 @@
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#28](https://github.com/zer0Kerbal/FuelTanksPlus/issues/28) in [zer0Kerbal/FuelTanksPlus](https://github.com/zer0Kerbal/FuelTanksPlus)
-2. ❗️ Closed issue [#27](https://github.com/zer0Kerbal/FuelTanksPlus/issues/27) in [zer0Kerbal/FuelTanksPlus](https://github.com/zer0Kerbal/FuelTanksPlus)
-3. ❗️ Opened issue [#27](https://github.com/zer0Kerbal/FuelTanksPlus/issues/27) in [zer0Kerbal/FuelTanksPlus](https://github.com/zer0Kerbal/FuelTanksPlus)
-4. ❗️ Opened issue [#26](https://github.com/zer0Kerbal/FuelTanksPlus/issues/26) in [zer0Kerbal/FuelTanksPlus](https://github.com/zer0Kerbal/FuelTanksPlus)
-5. ❌ Closed PR [#34](https://github.com/zer0Kerbal/PreciseManeuver/pull/34) in [zer0Kerbal/PreciseManeuver](https://github.com/zer0Kerbal/PreciseManeuver)
-6. 🎉 Merged PR [#29](https://github.com/zer0Kerbal/AdjustableModPanel/pull/29) in [zer0Kerbal/AdjustableModPanel](https://github.com/zer0Kerbal/AdjustableModPanel)
-7. ❗️ Closed issue [#5](https://github.com/zer0Kerbal/AdjustableModPanel/issues/5) in [zer0Kerbal/AdjustableModPanel](https://github.com/zer0Kerbal/AdjustableModPanel)
-8. ❗️ Closed issue [#8](https://github.com/zer0Kerbal/AdjustableModPanel/issues/8) in [zer0Kerbal/AdjustableModPanel](https://github.com/zer0Kerbal/AdjustableModPanel)
-9. ❗️ Closed issue [#7](https://github.com/zer0Kerbal/AdjustableModPanel/issues/7) in [zer0Kerbal/AdjustableModPanel](https://github.com/zer0Kerbal/AdjustableModPanel)
-10. ❗️ Closed issue [#27](https://github.com/zer0Kerbal/AdjustableModPanel/issues/27) in [zer0Kerbal/AdjustableModPanel](https://github.com/zer0Kerbal/AdjustableModPanel)
+1. ❗️ Opened issue [#23](https://github.com/zer0Kerbal/KlockheedMartian/issues/23) in [zer0Kerbal/KlockheedMartian](https://github.com/zer0Kerbal/KlockheedMartian)
+2. ❗️ Opened issue [#22](https://github.com/zer0Kerbal/KlockheedMartian/issues/22) in [zer0Kerbal/KlockheedMartian](https://github.com/zer0Kerbal/KlockheedMartian)
+3. ❗️ Opened issue [#21](https://github.com/zer0Kerbal/KlockheedMartian/issues/21) in [zer0Kerbal/KlockheedMartian](https://github.com/zer0Kerbal/KlockheedMartian)
+4. ❗️ Opened issue [#20](https://github.com/zer0Kerbal/KlockheedMartian/issues/20) in [zer0Kerbal/KlockheedMartian](https://github.com/zer0Kerbal/KlockheedMartian)
+5. ❗️ Opened issue [#19](https://github.com/zer0Kerbal/KlockheedMartian/issues/19) in [zer0Kerbal/KlockheedMartian](https://github.com/zer0Kerbal/KlockheedMartian)
+6. ❗️ Opened issue [#18](https://github.com/zer0Kerbal/KlockheedMartian/issues/18) in [zer0Kerbal/KlockheedMartian](https://github.com/zer0Kerbal/KlockheedMartian)
+7. ❗️ Opened issue [#17](https://github.com/zer0Kerbal/KlockheedMartian/issues/17) in [zer0Kerbal/KlockheedMartian](https://github.com/zer0Kerbal/KlockheedMartian)
+8. ❗️ Opened issue [#16](https://github.com/zer0Kerbal/KlockheedMartian/issues/16) in [zer0Kerbal/KlockheedMartian](https://github.com/zer0Kerbal/KlockheedMartian)
+9. ❗️ Opened issue [#15](https://github.com/zer0Kerbal/KlockheedMartian/issues/15) in [zer0Kerbal/KlockheedMartian](https://github.com/zer0Kerbal/KlockheedMartian)
+10. ❗️ Opened issue [#14](https://github.com/zer0Kerbal/KlockheedMartian/issues/14) in [zer0Kerbal/KlockheedMartian](https://github.com/zer0Kerbal/KlockheedMartian)
 <!--END_SECTION:activity-->
 
 </details
