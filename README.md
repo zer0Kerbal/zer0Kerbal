@@ -45,16 +45,16 @@
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#23](https://github.com/zer0Kerbal/KlockheedMartian/issues/23) in [zer0Kerbal/KlockheedMartian](https://github.com/zer0Kerbal/KlockheedMartian)
-2. ❗️ Opened issue [#22](https://github.com/zer0Kerbal/KlockheedMartian/issues/22) in [zer0Kerbal/KlockheedMartian](https://github.com/zer0Kerbal/KlockheedMartian)
-3. ❗️ Opened issue [#21](https://github.com/zer0Kerbal/KlockheedMartian/issues/21) in [zer0Kerbal/KlockheedMartian](https://github.com/zer0Kerbal/KlockheedMartian)
-4. ❗️ Opened issue [#20](https://github.com/zer0Kerbal/KlockheedMartian/issues/20) in [zer0Kerbal/KlockheedMartian](https://github.com/zer0Kerbal/KlockheedMartian)
-5. ❗️ Opened issue [#19](https://github.com/zer0Kerbal/KlockheedMartian/issues/19) in [zer0Kerbal/KlockheedMartian](https://github.com/zer0Kerbal/KlockheedMartian)
-6. ❗️ Opened issue [#18](https://github.com/zer0Kerbal/KlockheedMartian/issues/18) in [zer0Kerbal/KlockheedMartian](https://github.com/zer0Kerbal/KlockheedMartian)
-7. ❗️ Opened issue [#17](https://github.com/zer0Kerbal/KlockheedMartian/issues/17) in [zer0Kerbal/KlockheedMartian](https://github.com/zer0Kerbal/KlockheedMartian)
-8. ❗️ Opened issue [#16](https://github.com/zer0Kerbal/KlockheedMartian/issues/16) in [zer0Kerbal/KlockheedMartian](https://github.com/zer0Kerbal/KlockheedMartian)
-9. ❗️ Opened issue [#15](https://github.com/zer0Kerbal/KlockheedMartian/issues/15) in [zer0Kerbal/KlockheedMartian](https://github.com/zer0Kerbal/KlockheedMartian)
-10. ❗️ Opened issue [#14](https://github.com/zer0Kerbal/KlockheedMartian/issues/14) in [zer0Kerbal/KlockheedMartian](https://github.com/zer0Kerbal/KlockheedMartian)
+1. ❗️ Opened issue [#78](https://github.com/zer0Kerbal/FuelTanksPlus/issues/78) in [zer0Kerbal/FuelTanksPlus](https://github.com/zer0Kerbal/FuelTanksPlus)
+2. ❗️ Opened issue [#77](https://github.com/zer0Kerbal/FuelTanksPlus/issues/77) in [zer0Kerbal/FuelTanksPlus](https://github.com/zer0Kerbal/FuelTanksPlus)
+3. ❗️ Opened issue [#76](https://github.com/zer0Kerbal/FuelTanksPlus/issues/76) in [zer0Kerbal/FuelTanksPlus](https://github.com/zer0Kerbal/FuelTanksPlus)
+4. ❗️ Opened issue [#75](https://github.com/zer0Kerbal/FuelTanksPlus/issues/75) in [zer0Kerbal/FuelTanksPlus](https://github.com/zer0Kerbal/FuelTanksPlus)
+5. ❗️ Opened issue [#74](https://github.com/zer0Kerbal/FuelTanksPlus/issues/74) in [zer0Kerbal/FuelTanksPlus](https://github.com/zer0Kerbal/FuelTanksPlus)
+6. ❗️ Opened issue [#73](https://github.com/zer0Kerbal/FuelTanksPlus/issues/73) in [zer0Kerbal/FuelTanksPlus](https://github.com/zer0Kerbal/FuelTanksPlus)
+7. ❗️ Opened issue [#72](https://github.com/zer0Kerbal/FuelTanksPlus/issues/72) in [zer0Kerbal/FuelTanksPlus](https://github.com/zer0Kerbal/FuelTanksPlus)
+8. ❗️ Opened issue [#71](https://github.com/zer0Kerbal/FuelTanksPlus/issues/71) in [zer0Kerbal/FuelTanksPlus](https://github.com/zer0Kerbal/FuelTanksPlus)
+9. ❗️ Opened issue [#70](https://github.com/zer0Kerbal/FuelTanksPlus/issues/70) in [zer0Kerbal/FuelTanksPlus](https://github.com/zer0Kerbal/FuelTanksPlus)
+10. ❗️ Opened issue [#69](https://github.com/zer0Kerbal/FuelTanksPlus/issues/69) in [zer0Kerbal/FuelTanksPlus](https://github.com/zer0Kerbal/FuelTanksPlus)
 <!--END_SECTION:activity-->
 
 </details
