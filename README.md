@@ -45,16 +45,16 @@
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#27](https://github.com/zer0Kerbal/FuelTanksPlus/issues/27) in [zer0Kerbal/FuelTanksPlus](https://github.com/zer0Kerbal/FuelTanksPlus)
-2. ❗️ Opened issue [#27](https://github.com/zer0Kerbal/FuelTanksPlus/issues/27) in [zer0Kerbal/FuelTanksPlus](https://github.com/zer0Kerbal/FuelTanksPlus)
-3. ❗️ Opened issue [#26](https://github.com/zer0Kerbal/FuelTanksPlus/issues/26) in [zer0Kerbal/FuelTanksPlus](https://github.com/zer0Kerbal/FuelTanksPlus)
-4. ❌ Closed PR [#34](https://github.com/zer0Kerbal/PreciseManeuver/pull/34) in [zer0Kerbal/PreciseManeuver](https://github.com/zer0Kerbal/PreciseManeuver)
-5. 🎉 Merged PR [#29](https://github.com/zer0Kerbal/AdjustableModPanel/pull/29) in [zer0Kerbal/AdjustableModPanel](https://github.com/zer0Kerbal/AdjustableModPanel)
-6. ❗️ Closed issue [#5](https://github.com/zer0Kerbal/AdjustableModPanel/issues/5) in [zer0Kerbal/AdjustableModPanel](https://github.com/zer0Kerbal/AdjustableModPanel)
-7. ❗️ Closed issue [#8](https://github.com/zer0Kerbal/AdjustableModPanel/issues/8) in [zer0Kerbal/AdjustableModPanel](https://github.com/zer0Kerbal/AdjustableModPanel)
-8. ❗️ Closed issue [#7](https://github.com/zer0Kerbal/AdjustableModPanel/issues/7) in [zer0Kerbal/AdjustableModPanel](https://github.com/zer0Kerbal/AdjustableModPanel)
-9. ❗️ Closed issue [#27](https://github.com/zer0Kerbal/AdjustableModPanel/issues/27) in [zer0Kerbal/AdjustableModPanel](https://github.com/zer0Kerbal/AdjustableModPanel)
-10. ❗️ Closed issue [#6](https://github.com/zer0Kerbal/AdjustableModPanel/issues/6) in [zer0Kerbal/AdjustableModPanel](https://github.com/zer0Kerbal/AdjustableModPanel)
+1. ❗️ Opened issue [#28](https://github.com/zer0Kerbal/FuelTanksPlus/issues/28) in [zer0Kerbal/FuelTanksPlus](https://github.com/zer0Kerbal/FuelTanksPlus)
+2. ❗️ Closed issue [#27](https://github.com/zer0Kerbal/FuelTanksPlus/issues/27) in [zer0Kerbal/FuelTanksPlus](https://github.com/zer0Kerbal/FuelTanksPlus)
+3. ❗️ Opened issue [#27](https://github.com/zer0Kerbal/FuelTanksPlus/issues/27) in [zer0Kerbal/FuelTanksPlus](https://github.com/zer0Kerbal/FuelTanksPlus)
+4. ❗️ Opened issue [#26](https://github.com/zer0Kerbal/FuelTanksPlus/issues/26) in [zer0Kerbal/FuelTanksPlus](https://github.com/zer0Kerbal/FuelTanksPlus)
+5. ❌ Closed PR [#34](https://github.com/zer0Kerbal/PreciseManeuver/pull/34) in [zer0Kerbal/PreciseManeuver](https://github.com/zer0Kerbal/PreciseManeuver)
+6. 🎉 Merged PR [#29](https://github.com/zer0Kerbal/AdjustableModPanel/pull/29) in [zer0Kerbal/AdjustableModPanel](https://github.com/zer0Kerbal/AdjustableModPanel)
+7. ❗️ Closed issue [#5](https://github.com/zer0Kerbal/AdjustableModPanel/issues/5) in [zer0Kerbal/AdjustableModPanel](https://github.com/zer0Kerbal/AdjustableModPanel)
+8. ❗️ Closed issue [#8](https://github.com/zer0Kerbal/AdjustableModPanel/issues/8) in [zer0Kerbal/AdjustableModPanel](https://github.com/zer0Kerbal/AdjustableModPanel)
+9. ❗️ Closed issue [#7](https://github.com/zer0Kerbal/AdjustableModPanel/issues/7) in [zer0Kerbal/AdjustableModPanel](https://github.com/zer0Kerbal/AdjustableModPanel)
+10. ❗️ Closed issue [#27](https://github.com/zer0Kerbal/AdjustableModPanel/issues/27) in [zer0Kerbal/AdjustableModPanel](https://github.com/zer0Kerbal/AdjustableModPanel)
 <!--END_SECTION:activity-->
 
 </details
