@@ -45,16 +45,16 @@
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#25](https://github.com/zer0Kerbal/RadialHeatShields/pull/25) in [zer0Kerbal/RadialHeatShields](https://github.com/zer0Kerbal/RadialHeatShields)
-2. ❗️ Closed issue [#25](https://github.com/zer0Kerbal/FuelTanksPlus/issues/25) in [zer0Kerbal/FuelTanksPlus](https://github.com/zer0Kerbal/FuelTanksPlus)
-3. ❗️ Closed issue [#26](https://github.com/zer0Kerbal/FuelTanksPlus/issues/26) in [zer0Kerbal/FuelTanksPlus](https://github.com/zer0Kerbal/FuelTanksPlus)
-4. 🗣 Commented on [#26](https://github.com/zer0Kerbal/FuelTanksPlus/issues/26) in [zer0Kerbal/FuelTanksPlus](https://github.com/zer0Kerbal/FuelTanksPlus)
-5. ❗️ Closed issue [#53](https://github.com/zer0Kerbal/FuelTanksPlus/issues/53) in [zer0Kerbal/FuelTanksPlus](https://github.com/zer0Kerbal/FuelTanksPlus)
-6. 🎉 Merged PR [#130](https://github.com/zer0Kerbal/FuelTanksPlus/pull/130) in [zer0Kerbal/FuelTanksPlus](https://github.com/zer0Kerbal/FuelTanksPlus)
-7. ❗️ Closed issue [#78](https://github.com/zer0Kerbal/FuelTanksPlus/issues/78) in [zer0Kerbal/FuelTanksPlus](https://github.com/zer0Kerbal/FuelTanksPlus)
-8. 💪 Opened PR [#130](https://github.com/zer0Kerbal/FuelTanksPlus/pull/130) in [zer0Kerbal/FuelTanksPlus](https://github.com/zer0Kerbal/FuelTanksPlus)
-9. 🎉 Merged PR [#128](https://github.com/zer0Kerbal/FuelTanksPlus/pull/128) in [zer0Kerbal/FuelTanksPlus](https://github.com/zer0Kerbal/FuelTanksPlus)
-10. ❗️ Closed issue [#77](https://github.com/zer0Kerbal/FuelTanksPlus/issues/77) in [zer0Kerbal/FuelTanksPlus](https://github.com/zer0Kerbal/FuelTanksPlus)
+1. ❌ Closed PR [#105](https://github.com/zer0Kerbal/SimpleConstruction/pull/105) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
+2. 💪 Opened PR [#9070](https://github.com/KSP-CKAN/NetKAN/pull/9070) in [KSP-CKAN/NetKAN](https://github.com/KSP-CKAN/NetKAN)
+3. ❌ Closed PR [#25](https://github.com/zer0Kerbal/RadialHeatShields/pull/25) in [zer0Kerbal/RadialHeatShields](https://github.com/zer0Kerbal/RadialHeatShields)
+4. ❗️ Closed issue [#25](https://github.com/zer0Kerbal/FuelTanksPlus/issues/25) in [zer0Kerbal/FuelTanksPlus](https://github.com/zer0Kerbal/FuelTanksPlus)
+5. ❗️ Closed issue [#26](https://github.com/zer0Kerbal/FuelTanksPlus/issues/26) in [zer0Kerbal/FuelTanksPlus](https://github.com/zer0Kerbal/FuelTanksPlus)
+6. 🗣 Commented on [#26](https://github.com/zer0Kerbal/FuelTanksPlus/issues/26) in [zer0Kerbal/FuelTanksPlus](https://github.com/zer0Kerbal/FuelTanksPlus)
+7. ❗️ Closed issue [#53](https://github.com/zer0Kerbal/FuelTanksPlus/issues/53) in [zer0Kerbal/FuelTanksPlus](https://github.com/zer0Kerbal/FuelTanksPlus)
+8. 🎉 Merged PR [#130](https://github.com/zer0Kerbal/FuelTanksPlus/pull/130) in [zer0Kerbal/FuelTanksPlus](https://github.com/zer0Kerbal/FuelTanksPlus)
+9. ❗️ Closed issue [#78](https://github.com/zer0Kerbal/FuelTanksPlus/issues/78) in [zer0Kerbal/FuelTanksPlus](https://github.com/zer0Kerbal/FuelTanksPlus)
+10. 💪 Opened PR [#130](https://github.com/zer0Kerbal/FuelTanksPlus/pull/130) in [zer0Kerbal/FuelTanksPlus](https://github.com/zer0Kerbal/FuelTanksPlus)
 <!--END_SECTION:activity-->
 
 </details
