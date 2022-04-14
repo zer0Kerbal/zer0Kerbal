@@ -45,16 +45,16 @@
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#24](https://github.com/zer0Kerbal/GPOSpeedFuelPump/issues/24) in [zer0Kerbal/GPOSpeedFuelPump](https://github.com/zer0Kerbal/GPOSpeedFuelPump)
-2. ❗️ Opened issue [#24](https://github.com/zer0Kerbal/GPOSpeedFuelPump/issues/24) in [zer0Kerbal/GPOSpeedFuelPump](https://github.com/zer0Kerbal/GPOSpeedFuelPump)
-3. ❗️ Opened issue [#23](https://github.com/zer0Kerbal/GPOSpeedFuelPump/issues/23) in [zer0Kerbal/GPOSpeedFuelPump](https://github.com/zer0Kerbal/GPOSpeedFuelPump)
-4. ❗️ Opened issue [#22](https://github.com/zer0Kerbal/GPOSpeedFuelPump/issues/22) in [zer0Kerbal/GPOSpeedFuelPump](https://github.com/zer0Kerbal/GPOSpeedFuelPump)
-5. ❗️ Opened issue [#21](https://github.com/zer0Kerbal/GPOSpeedFuelPump/issues/21) in [zer0Kerbal/GPOSpeedFuelPump](https://github.com/zer0Kerbal/GPOSpeedFuelPump)
-6. ❗️ Opened issue [#20](https://github.com/zer0Kerbal/GPOSpeedFuelPump/issues/20) in [zer0Kerbal/GPOSpeedFuelPump](https://github.com/zer0Kerbal/GPOSpeedFuelPump)
-7. ❗️ Opened issue [#19](https://github.com/zer0Kerbal/GPOSpeedFuelPump/issues/19) in [zer0Kerbal/GPOSpeedFuelPump](https://github.com/zer0Kerbal/GPOSpeedFuelPump)
-8. ❗️ Opened issue [#18](https://github.com/zer0Kerbal/GPOSpeedFuelPump/issues/18) in [zer0Kerbal/GPOSpeedFuelPump](https://github.com/zer0Kerbal/GPOSpeedFuelPump)
-9. ❗️ Opened issue [#17](https://github.com/zer0Kerbal/GPOSpeedFuelPump/issues/17) in [zer0Kerbal/GPOSpeedFuelPump](https://github.com/zer0Kerbal/GPOSpeedFuelPump)
-10. ❗️ Opened issue [#16](https://github.com/zer0Kerbal/GPOSpeedFuelPump/issues/16) in [zer0Kerbal/GPOSpeedFuelPump](https://github.com/zer0Kerbal/GPOSpeedFuelPump)
+1. ❌ Closed PR [#9070](https://github.com/KSP-CKAN/NetKAN/pull/9070) in [KSP-CKAN/NetKAN](https://github.com/KSP-CKAN/NetKAN)
+2. 🗣 Commented on [#9070](https://github.com/KSP-CKAN/NetKAN/issues/9070) in [KSP-CKAN/NetKAN](https://github.com/KSP-CKAN/NetKAN)
+3. 🎉 Merged PR [#2](https://github.com/zer0Kerbal/GPOSpeedFuelPump/pull/2) in [zer0Kerbal/GPOSpeedFuelPump](https://github.com/zer0Kerbal/GPOSpeedFuelPump)
+4. ❗️ Closed issue [#25](https://github.com/zer0Kerbal/GPOSpeedFuelPump/issues/25) in [zer0Kerbal/GPOSpeedFuelPump](https://github.com/zer0Kerbal/GPOSpeedFuelPump)
+5. ❗️ Opened issue [#25](https://github.com/zer0Kerbal/GPOSpeedFuelPump/issues/25) in [zer0Kerbal/GPOSpeedFuelPump](https://github.com/zer0Kerbal/GPOSpeedFuelPump)
+6. 🗣 Commented on [#24](https://github.com/zer0Kerbal/GPOSpeedFuelPump/issues/24) in [zer0Kerbal/GPOSpeedFuelPump](https://github.com/zer0Kerbal/GPOSpeedFuelPump)
+7. ❗️ Opened issue [#24](https://github.com/zer0Kerbal/GPOSpeedFuelPump/issues/24) in [zer0Kerbal/GPOSpeedFuelPump](https://github.com/zer0Kerbal/GPOSpeedFuelPump)
+8. ❗️ Opened issue [#23](https://github.com/zer0Kerbal/GPOSpeedFuelPump/issues/23) in [zer0Kerbal/GPOSpeedFuelPump](https://github.com/zer0Kerbal/GPOSpeedFuelPump)
+9. ❗️ Opened issue [#22](https://github.com/zer0Kerbal/GPOSpeedFuelPump/issues/22) in [zer0Kerbal/GPOSpeedFuelPump](https://github.com/zer0Kerbal/GPOSpeedFuelPump)
+10. ❗️ Opened issue [#21](https://github.com/zer0Kerbal/GPOSpeedFuelPump/issues/21) in [zer0Kerbal/GPOSpeedFuelPump](https://github.com/zer0Kerbal/GPOSpeedFuelPump)
 <!--END_SECTION:activity-->
 
 </details
