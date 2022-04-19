@@ -49,12 +49,12 @@
 2. 🗣 Commented on [#21](https://github.com/zer0Kerbal/NotSoSimpleConstruction/issues/21) in [zer0Kerbal/NotSoSimpleConstruction](https://github.com/zer0Kerbal/NotSoSimpleConstruction)
 3. 🗣 Commented on [#21](https://github.com/zer0Kerbal/NotSoSimpleConstruction/issues/21) in [zer0Kerbal/NotSoSimpleConstruction](https://github.com/zer0Kerbal/NotSoSimpleConstruction)
 4. 🗣 Commented on [#21](https://github.com/zer0Kerbal/NotSoSimpleConstruction/issues/21) in [zer0Kerbal/NotSoSimpleConstruction](https://github.com/zer0Kerbal/NotSoSimpleConstruction)
-5. ❗️ Closed issue [#42](https://github.com/zer0Kerbal/Komplexity/issues/42) in [zer0Kerbal/Komplexity](https://github.com/zer0Kerbal/Komplexity)
-6. 🎉 Merged PR [#45](https://github.com/zer0Kerbal/Komplexity/pull/45) in [zer0Kerbal/Komplexity](https://github.com/zer0Kerbal/Komplexity)
-7. ❗️ Closed issue [#40](https://github.com/zer0Kerbal/Komplexity/issues/40) in [zer0Kerbal/Komplexity](https://github.com/zer0Kerbal/Komplexity)
-8. ❗️ Closed issue [#41](https://github.com/zer0Kerbal/Komplexity/issues/41) in [zer0Kerbal/Komplexity](https://github.com/zer0Kerbal/Komplexity)
-9. ❗️ Closed issue [#43](https://github.com/zer0Kerbal/Komplexity/issues/43) in [zer0Kerbal/Komplexity](https://github.com/zer0Kerbal/Komplexity)
-10. ❗️ Closed issue [#44](https://github.com/zer0Kerbal/Komplexity/issues/44) in [zer0Kerbal/Komplexity](https://github.com/zer0Kerbal/Komplexity)
+5. 🗣 Commented on [#21](https://github.com/zer0Kerbal/NotSoSimpleConstruction/issues/21) in [zer0Kerbal/NotSoSimpleConstruction](https://github.com/zer0Kerbal/NotSoSimpleConstruction)
+6. 🗣 Commented on [#21](https://github.com/zer0Kerbal/NotSoSimpleConstruction/issues/21) in [zer0Kerbal/NotSoSimpleConstruction](https://github.com/zer0Kerbal/NotSoSimpleConstruction)
+7. ❗️ Closed issue [#42](https://github.com/zer0Kerbal/Komplexity/issues/42) in [zer0Kerbal/Komplexity](https://github.com/zer0Kerbal/Komplexity)
+8. 🎉 Merged PR [#45](https://github.com/zer0Kerbal/Komplexity/pull/45) in [zer0Kerbal/Komplexity](https://github.com/zer0Kerbal/Komplexity)
+9. ❗️ Closed issue [#40](https://github.com/zer0Kerbal/Komplexity/issues/40) in [zer0Kerbal/Komplexity](https://github.com/zer0Kerbal/Komplexity)
+10. ❗️ Closed issue [#41](https://github.com/zer0Kerbal/Komplexity/issues/41) in [zer0Kerbal/Komplexity](https://github.com/zer0Kerbal/Komplexity)
 <!--END_SECTION:activity-->
 
 </details
