@@ -45,16 +45,16 @@
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#97](https://github.com/zer0Kerbal/MoarKerbals/pull/97) in [zer0Kerbal/MoarKerbals](https://github.com/zer0Kerbal/MoarKerbals)
-2. ❗️ Closed issue [#50](https://github.com/zer0Kerbal/NotSoSimpleConstruction/issues/50) in [zer0Kerbal/NotSoSimpleConstruction](https://github.com/zer0Kerbal/NotSoSimpleConstruction)
-3. ❗️ Closed issue [#51](https://github.com/zer0Kerbal/NotSoSimpleConstruction/issues/51) in [zer0Kerbal/NotSoSimpleConstruction](https://github.com/zer0Kerbal/NotSoSimpleConstruction)
-4. ❗️ Closed issue [#49](https://github.com/zer0Kerbal/NotSoSimpleConstruction/issues/49) in [zer0Kerbal/NotSoSimpleConstruction](https://github.com/zer0Kerbal/NotSoSimpleConstruction)
-5. ❗️ Closed issue [#48](https://github.com/zer0Kerbal/NotSoSimpleConstruction/issues/48) in [zer0Kerbal/NotSoSimpleConstruction](https://github.com/zer0Kerbal/NotSoSimpleConstruction)
-6. ❗️ Closed issue [#19](https://github.com/zer0Kerbal/NotSoSimpleConstruction/issues/19) in [zer0Kerbal/NotSoSimpleConstruction](https://github.com/zer0Kerbal/NotSoSimpleConstruction)
-7. 🎉 Merged PR [#52](https://github.com/zer0Kerbal/NotSoSimpleConstruction/pull/52) in [zer0Kerbal/NotSoSimpleConstruction](https://github.com/zer0Kerbal/NotSoSimpleConstruction)
-8. 💪 Opened PR [#52](https://github.com/zer0Kerbal/NotSoSimpleConstruction/pull/52) in [zer0Kerbal/NotSoSimpleConstruction](https://github.com/zer0Kerbal/NotSoSimpleConstruction)
-9. ❌ Closed PR [#1](https://github.com/Kayinnasaki/KSP-NSSC/pull/1) in [Kayinnasaki/KSP-NSSC](https://github.com/Kayinnasaki/KSP-NSSC)
-10. 🗣 Commented on [#1](https://github.com/Kayinnasaki/KSP-NSSC/issues/1) in [Kayinnasaki/KSP-NSSC](https://github.com/Kayinnasaki/KSP-NSSC)
+1. ❗️ Closed issue [#42](https://github.com/zer0Kerbal/Komplexity/issues/42) in [zer0Kerbal/Komplexity](https://github.com/zer0Kerbal/Komplexity)
+2. 🎉 Merged PR [#45](https://github.com/zer0Kerbal/Komplexity/pull/45) in [zer0Kerbal/Komplexity](https://github.com/zer0Kerbal/Komplexity)
+3. ❗️ Closed issue [#40](https://github.com/zer0Kerbal/Komplexity/issues/40) in [zer0Kerbal/Komplexity](https://github.com/zer0Kerbal/Komplexity)
+4. ❗️ Closed issue [#41](https://github.com/zer0Kerbal/Komplexity/issues/41) in [zer0Kerbal/Komplexity](https://github.com/zer0Kerbal/Komplexity)
+5. ❗️ Closed issue [#43](https://github.com/zer0Kerbal/Komplexity/issues/43) in [zer0Kerbal/Komplexity](https://github.com/zer0Kerbal/Komplexity)
+6. ❗️ Closed issue [#44](https://github.com/zer0Kerbal/Komplexity/issues/44) in [zer0Kerbal/Komplexity](https://github.com/zer0Kerbal/Komplexity)
+7. ❗️ Closed issue [#37](https://github.com/zer0Kerbal/Komplexity/issues/37) in [zer0Kerbal/Komplexity](https://github.com/zer0Kerbal/Komplexity)
+8. ❗️ Closed issue [#39](https://github.com/zer0Kerbal/Komplexity/issues/39) in [zer0Kerbal/Komplexity](https://github.com/zer0Kerbal/Komplexity)
+9. 💪 Opened PR [#45](https://github.com/zer0Kerbal/Komplexity/pull/45) in [zer0Kerbal/Komplexity](https://github.com/zer0Kerbal/Komplexity)
+10. 🎉 Merged PR [#97](https://github.com/zer0Kerbal/MoarKerbals/pull/97) in [zer0Kerbal/MoarKerbals](https://github.com/zer0Kerbal/MoarKerbals)
 <!--END_SECTION:activity-->
 
 </details
