@@ -45,16 +45,16 @@
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/Kayinnasaki/KSP-NSSC/pull/1) in [Kayinnasaki/KSP-NSSC](https://github.com/Kayinnasaki/KSP-NSSC)
-2. 🗣 Commented on [#1](https://github.com/Kayinnasaki/KSP-NSSC/issues/1) in [Kayinnasaki/KSP-NSSC](https://github.com/Kayinnasaki/KSP-NSSC)
-3. 💪 Opened PR [#1](https://github.com/Kayinnasaki/KSP-NSSC/pull/1) in [Kayinnasaki/KSP-NSSC](https://github.com/Kayinnasaki/KSP-NSSC)
-4. ❗️ Opened issue [#51](https://github.com/zer0Kerbal/NotSoSimpleConstruction/issues/51) in [zer0Kerbal/NotSoSimpleConstruction](https://github.com/zer0Kerbal/NotSoSimpleConstruction)
-5. ❗️ Opened issue [#50](https://github.com/zer0Kerbal/NotSoSimpleConstruction/issues/50) in [zer0Kerbal/NotSoSimpleConstruction](https://github.com/zer0Kerbal/NotSoSimpleConstruction)
-6. ❗️ Opened issue [#49](https://github.com/zer0Kerbal/NotSoSimpleConstruction/issues/49) in [zer0Kerbal/NotSoSimpleConstruction](https://github.com/zer0Kerbal/NotSoSimpleConstruction)
-7. ❗️ Opened issue [#48](https://github.com/zer0Kerbal/NotSoSimpleConstruction/issues/48) in [zer0Kerbal/NotSoSimpleConstruction](https://github.com/zer0Kerbal/NotSoSimpleConstruction)
-8. 🎉 Merged PR [#47](https://github.com/zer0Kerbal/NotSoSimpleConstruction/pull/47) in [zer0Kerbal/NotSoSimpleConstruction](https://github.com/zer0Kerbal/NotSoSimpleConstruction)
-9. ❗️ Reopened issue [#25](https://github.com/zer0Kerbal/NotSoSimpleConstruction/issues/25) in [zer0Kerbal/NotSoSimpleConstruction](https://github.com/zer0Kerbal/NotSoSimpleConstruction)
-10. ❗️ Reopened issue [#27](https://github.com/zer0Kerbal/NotSoSimpleConstruction/issues/27) in [zer0Kerbal/NotSoSimpleConstruction](https://github.com/zer0Kerbal/NotSoSimpleConstruction)
+1. 🎉 Merged PR [#97](https://github.com/zer0Kerbal/MoarKerbals/pull/97) in [zer0Kerbal/MoarKerbals](https://github.com/zer0Kerbal/MoarKerbals)
+2. ❗️ Closed issue [#50](https://github.com/zer0Kerbal/NotSoSimpleConstruction/issues/50) in [zer0Kerbal/NotSoSimpleConstruction](https://github.com/zer0Kerbal/NotSoSimpleConstruction)
+3. ❗️ Closed issue [#51](https://github.com/zer0Kerbal/NotSoSimpleConstruction/issues/51) in [zer0Kerbal/NotSoSimpleConstruction](https://github.com/zer0Kerbal/NotSoSimpleConstruction)
+4. ❗️ Closed issue [#49](https://github.com/zer0Kerbal/NotSoSimpleConstruction/issues/49) in [zer0Kerbal/NotSoSimpleConstruction](https://github.com/zer0Kerbal/NotSoSimpleConstruction)
+5. ❗️ Closed issue [#48](https://github.com/zer0Kerbal/NotSoSimpleConstruction/issues/48) in [zer0Kerbal/NotSoSimpleConstruction](https://github.com/zer0Kerbal/NotSoSimpleConstruction)
+6. ❗️ Closed issue [#19](https://github.com/zer0Kerbal/NotSoSimpleConstruction/issues/19) in [zer0Kerbal/NotSoSimpleConstruction](https://github.com/zer0Kerbal/NotSoSimpleConstruction)
+7. 🎉 Merged PR [#52](https://github.com/zer0Kerbal/NotSoSimpleConstruction/pull/52) in [zer0Kerbal/NotSoSimpleConstruction](https://github.com/zer0Kerbal/NotSoSimpleConstruction)
+8. 💪 Opened PR [#52](https://github.com/zer0Kerbal/NotSoSimpleConstruction/pull/52) in [zer0Kerbal/NotSoSimpleConstruction](https://github.com/zer0Kerbal/NotSoSimpleConstruction)
+9. ❌ Closed PR [#1](https://github.com/Kayinnasaki/KSP-NSSC/pull/1) in [Kayinnasaki/KSP-NSSC](https://github.com/Kayinnasaki/KSP-NSSC)
+10. 🗣 Commented on [#1](https://github.com/Kayinnasaki/KSP-NSSC/issues/1) in [Kayinnasaki/KSP-NSSC](https://github.com/Kayinnasaki/KSP-NSSC)
 <!--END_SECTION:activity-->
 
 </details
