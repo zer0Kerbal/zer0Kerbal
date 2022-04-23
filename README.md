@@ -45,16 +45,16 @@
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#30](https://github.com/zer0Kerbal/RoverPack/issues/30) in [zer0Kerbal/RoverPack](https://github.com/zer0Kerbal/RoverPack)
-2. ❗️ Opened issue [#29](https://github.com/zer0Kerbal/RoverPack/issues/29) in [zer0Kerbal/RoverPack](https://github.com/zer0Kerbal/RoverPack)
-3. ❗️ Opened issue [#28](https://github.com/zer0Kerbal/RoverPack/issues/28) in [zer0Kerbal/RoverPack](https://github.com/zer0Kerbal/RoverPack)
-4. ❗️ Opened issue [#27](https://github.com/zer0Kerbal/RoverPack/issues/27) in [zer0Kerbal/RoverPack](https://github.com/zer0Kerbal/RoverPack)
-5. ❗️ Opened issue [#26](https://github.com/zer0Kerbal/RoverPack/issues/26) in [zer0Kerbal/RoverPack](https://github.com/zer0Kerbal/RoverPack)
-6. ❗️ Opened issue [#25](https://github.com/zer0Kerbal/RoverPack/issues/25) in [zer0Kerbal/RoverPack](https://github.com/zer0Kerbal/RoverPack)
-7. ❗️ Opened issue [#24](https://github.com/zer0Kerbal/RoverPack/issues/24) in [zer0Kerbal/RoverPack](https://github.com/zer0Kerbal/RoverPack)
-8. ❗️ Opened issue [#23](https://github.com/zer0Kerbal/RoverPack/issues/23) in [zer0Kerbal/RoverPack](https://github.com/zer0Kerbal/RoverPack)
-9. ❗️ Opened issue [#22](https://github.com/zer0Kerbal/RoverPack/issues/22) in [zer0Kerbal/RoverPack](https://github.com/zer0Kerbal/RoverPack)
-10. ❗️ Opened issue [#21](https://github.com/zer0Kerbal/RoverPack/issues/21) in [zer0Kerbal/RoverPack](https://github.com/zer0Kerbal/RoverPack)
+1. 💪 Opened PR [#3](https://github.com/net-lisias-ksp/GPOSpeedPump/pull/3) in [net-lisias-ksp/GPOSpeedPump](https://github.com/net-lisias-ksp/GPOSpeedPump)
+2. ❌ Closed PR [#26](https://github.com/zer0Kerbal/GPOSpeedPump/pull/26) in [zer0Kerbal/GPOSpeedPump](https://github.com/zer0Kerbal/GPOSpeedPump)
+3. 💪 Opened PR [#26](https://github.com/zer0Kerbal/GPOSpeedPump/pull/26) in [zer0Kerbal/GPOSpeedPump](https://github.com/zer0Kerbal/GPOSpeedPump)
+4. ❗️ Opened issue [#30](https://github.com/zer0Kerbal/RoverPack/issues/30) in [zer0Kerbal/RoverPack](https://github.com/zer0Kerbal/RoverPack)
+5. ❗️ Opened issue [#29](https://github.com/zer0Kerbal/RoverPack/issues/29) in [zer0Kerbal/RoverPack](https://github.com/zer0Kerbal/RoverPack)
+6. ❗️ Opened issue [#28](https://github.com/zer0Kerbal/RoverPack/issues/28) in [zer0Kerbal/RoverPack](https://github.com/zer0Kerbal/RoverPack)
+7. ❗️ Opened issue [#27](https://github.com/zer0Kerbal/RoverPack/issues/27) in [zer0Kerbal/RoverPack](https://github.com/zer0Kerbal/RoverPack)
+8. ❗️ Opened issue [#26](https://github.com/zer0Kerbal/RoverPack/issues/26) in [zer0Kerbal/RoverPack](https://github.com/zer0Kerbal/RoverPack)
+9. ❗️ Opened issue [#25](https://github.com/zer0Kerbal/RoverPack/issues/25) in [zer0Kerbal/RoverPack](https://github.com/zer0Kerbal/RoverPack)
+10. ❗️ Opened issue [#24](https://github.com/zer0Kerbal/RoverPack/issues/24) in [zer0Kerbal/RoverPack](https://github.com/zer0Kerbal/RoverPack)
 <!--END_SECTION:activity-->
 
 </details
