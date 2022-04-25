@@ -45,16 +45,16 @@
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#27](https://github.com/zer0Kerbal/GPOSpeedPump/pull/27) in [zer0Kerbal/GPOSpeedPump](https://github.com/zer0Kerbal/GPOSpeedPump)
-2. 💪 Opened PR [#27](https://github.com/zer0Kerbal/GPOSpeedPump/pull/27) in [zer0Kerbal/GPOSpeedPump](https://github.com/zer0Kerbal/GPOSpeedPump)
-3. ❌ Closed PR [#2](https://github.com/zer0Kerbal/SimpleRefuel/pull/2) in [zer0Kerbal/SimpleRefuel](https://github.com/zer0Kerbal/SimpleRefuel)
-4. 💪 Opened PR [#2](https://github.com/zer0Kerbal/SimpleRefuel/pull/2) in [zer0Kerbal/SimpleRefuel](https://github.com/zer0Kerbal/SimpleRefuel)
-5. 💪 Opened PR [#3](https://github.com/net-lisias-ksp/GPOSpeedPump/pull/3) in [net-lisias-ksp/GPOSpeedPump](https://github.com/net-lisias-ksp/GPOSpeedPump)
-6. ❌ Closed PR [#26](https://github.com/zer0Kerbal/GPOSpeedPump/pull/26) in [zer0Kerbal/GPOSpeedPump](https://github.com/zer0Kerbal/GPOSpeedPump)
-7. 💪 Opened PR [#26](https://github.com/zer0Kerbal/GPOSpeedPump/pull/26) in [zer0Kerbal/GPOSpeedPump](https://github.com/zer0Kerbal/GPOSpeedPump)
-8. ❗️ Opened issue [#30](https://github.com/zer0Kerbal/RoverPack/issues/30) in [zer0Kerbal/RoverPack](https://github.com/zer0Kerbal/RoverPack)
-9. ❗️ Opened issue [#29](https://github.com/zer0Kerbal/RoverPack/issues/29) in [zer0Kerbal/RoverPack](https://github.com/zer0Kerbal/RoverPack)
-10. ❗️ Opened issue [#28](https://github.com/zer0Kerbal/RoverPack/issues/28) in [zer0Kerbal/RoverPack](https://github.com/zer0Kerbal/RoverPack)
+1. 🎉 Merged PR [#35](https://github.com/zer0Kerbal/RoverPack/pull/35) in [zer0Kerbal/RoverPack](https://github.com/zer0Kerbal/RoverPack)
+2. ❗️ Closed issue [#2](https://github.com/zer0Kerbal/RoverPack/issues/2) in [zer0Kerbal/RoverPack](https://github.com/zer0Kerbal/RoverPack)
+3. ❗️ Closed issue [#7](https://github.com/zer0Kerbal/RoverPack/issues/7) in [zer0Kerbal/RoverPack](https://github.com/zer0Kerbal/RoverPack)
+4. 💪 Opened PR [#35](https://github.com/zer0Kerbal/RoverPack/pull/35) in [zer0Kerbal/RoverPack](https://github.com/zer0Kerbal/RoverPack)
+5. ❗️ Closed issue [#6](https://github.com/zer0Kerbal/RoverPack/issues/6) in [zer0Kerbal/RoverPack](https://github.com/zer0Kerbal/RoverPack)
+6. 🎉 Merged PR [#34](https://github.com/zer0Kerbal/RoverPack/pull/34) in [zer0Kerbal/RoverPack](https://github.com/zer0Kerbal/RoverPack)
+7. 💪 Opened PR [#34](https://github.com/zer0Kerbal/RoverPack/pull/34) in [zer0Kerbal/RoverPack](https://github.com/zer0Kerbal/RoverPack)
+8. 🎉 Merged PR [#33](https://github.com/zer0Kerbal/RoverPack/pull/33) in [zer0Kerbal/RoverPack](https://github.com/zer0Kerbal/RoverPack)
+9. ❗️ Closed issue [#5](https://github.com/zer0Kerbal/RoverPack/issues/5) in [zer0Kerbal/RoverPack](https://github.com/zer0Kerbal/RoverPack)
+10. 💪 Opened PR [#33](https://github.com/zer0Kerbal/RoverPack/pull/33) in [zer0Kerbal/RoverPack](https://github.com/zer0Kerbal/RoverPack)
 <!--END_SECTION:activity-->
 
 </details
