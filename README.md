@@ -45,16 +45,16 @@
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#5](https://github.com/zer0Kerbal/KirovAirship/issues/5) in [zer0Kerbal/KirovAirship](https://github.com/zer0Kerbal/KirovAirship)
-2. ❗️ Opened issue [#4](https://github.com/zer0Kerbal/KirovAirship/issues/4) in [zer0Kerbal/KirovAirship](https://github.com/zer0Kerbal/KirovAirship)
-3. ❗️ Opened issue [#3](https://github.com/zer0Kerbal/KirovAirship/issues/3) in [zer0Kerbal/KirovAirship](https://github.com/zer0Kerbal/KirovAirship)
-4. 🗣 Commented on [#111](https://github.com/zer0Kerbal/SimpleConstruction/issues/111) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
-5. ❗️ Opened issue [#111](https://github.com/zer0Kerbal/SimpleConstruction/issues/111) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
-6. 🎉 Merged PR [#37](https://github.com/zer0Kerbal/LanderTek/pull/37) in [zer0Kerbal/LanderTek](https://github.com/zer0Kerbal/LanderTek)
-7. ❌ Closed PR [#24](https://github.com/zer0Kerbal/ArtofReentry/pull/24) in [zer0Kerbal/ArtofReentry](https://github.com/zer0Kerbal/ArtofReentry)
-8. ❗️ Opened issue [#42](https://github.com/zer0Kerbal/ElephantEngine/issues/42) in [zer0Kerbal/ElephantEngine](https://github.com/zer0Kerbal/ElephantEngine)
-9. ❗️ Opened issue [#41](https://github.com/zer0Kerbal/ElephantEngine/issues/41) in [zer0Kerbal/ElephantEngine](https://github.com/zer0Kerbal/ElephantEngine)
-10. 🎉 Merged PR [#1](https://github.com/zer0Kerbal/ResourceOverview/pull/1) in [zer0Kerbal/ResourceOverview](https://github.com/zer0Kerbal/ResourceOverview)
+1. 🎉 Merged PR [#27](https://github.com/zer0Kerbal/KirovAirship/pull/27) in [zer0Kerbal/KirovAirship](https://github.com/zer0Kerbal/KirovAirship)
+2. ❗️ Closed issue [#7](https://github.com/zer0Kerbal/KirovAirship/issues/7) in [zer0Kerbal/KirovAirship](https://github.com/zer0Kerbal/KirovAirship)
+3. 💪 Opened PR [#27](https://github.com/zer0Kerbal/KirovAirship/pull/27) in [zer0Kerbal/KirovAirship](https://github.com/zer0Kerbal/KirovAirship)
+4. ❗️ Opened issue [#26](https://github.com/zer0Kerbal/KirovAirship/issues/26) in [zer0Kerbal/KirovAirship](https://github.com/zer0Kerbal/KirovAirship)
+5. ❗️ Opened issue [#25](https://github.com/zer0Kerbal/KirovAirship/issues/25) in [zer0Kerbal/KirovAirship](https://github.com/zer0Kerbal/KirovAirship)
+6. ❗️ Opened issue [#24](https://github.com/zer0Kerbal/KirovAirship/issues/24) in [zer0Kerbal/KirovAirship](https://github.com/zer0Kerbal/KirovAirship)
+7. ❗️ Opened issue [#23](https://github.com/zer0Kerbal/KirovAirship/issues/23) in [zer0Kerbal/KirovAirship](https://github.com/zer0Kerbal/KirovAirship)
+8. ❗️ Opened issue [#22](https://github.com/zer0Kerbal/KirovAirship/issues/22) in [zer0Kerbal/KirovAirship](https://github.com/zer0Kerbal/KirovAirship)
+9. ❗️ Opened issue [#21](https://github.com/zer0Kerbal/KirovAirship/issues/21) in [zer0Kerbal/KirovAirship](https://github.com/zer0Kerbal/KirovAirship)
+10. ❗️ Opened issue [#20](https://github.com/zer0Kerbal/KirovAirship/issues/20) in [zer0Kerbal/KirovAirship](https://github.com/zer0Kerbal/KirovAirship)
 <!--END_SECTION:activity-->
 
 </details
