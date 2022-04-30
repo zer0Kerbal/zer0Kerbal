@@ -45,16 +45,16 @@
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#30](https://github.com/zer0Kerbal/RadialHeatShields/pull/30) in [zer0Kerbal/RadialHeatShields](https://github.com/zer0Kerbal/RadialHeatShields)
-2. 💪 Opened PR [#30](https://github.com/zer0Kerbal/RadialHeatShields/pull/30) in [zer0Kerbal/RadialHeatShields](https://github.com/zer0Kerbal/RadialHeatShields)
-3. 🎉 Merged PR [#29](https://github.com/zer0Kerbal/RadialHeatShields/pull/29) in [zer0Kerbal/RadialHeatShields](https://github.com/zer0Kerbal/RadialHeatShields)
-4. 💪 Opened PR [#29](https://github.com/zer0Kerbal/RadialHeatShields/pull/29) in [zer0Kerbal/RadialHeatShields](https://github.com/zer0Kerbal/RadialHeatShields)
-5. ❗️ Opened issue [#28](https://github.com/zer0Kerbal/RadialHeatShields/issues/28) in [zer0Kerbal/RadialHeatShields](https://github.com/zer0Kerbal/RadialHeatShields)
-6. ❗️ Opened issue [#27](https://github.com/zer0Kerbal/RadialHeatShields/issues/27) in [zer0Kerbal/RadialHeatShields](https://github.com/zer0Kerbal/RadialHeatShields)
-7. ❗️ Opened issue [#26](https://github.com/zer0Kerbal/RadialHeatShields/issues/26) in [zer0Kerbal/RadialHeatShields](https://github.com/zer0Kerbal/RadialHeatShields)
-8. 💪 Opened PR [#4](https://github.com/net-lisias-ksp/GPOSpeedPump/pull/4) in [net-lisias-ksp/GPOSpeedPump](https://github.com/net-lisias-ksp/GPOSpeedPump)
-9. 🗣 Commented on [#42](https://github.com/zer0Kerbal/ElephantEngine/issues/42) in [zer0Kerbal/ElephantEngine](https://github.com/zer0Kerbal/ElephantEngine)
-10. 🗣 Commented on [#43](https://github.com/zer0Kerbal/ElephantEngine/issues/43) in [zer0Kerbal/ElephantEngine](https://github.com/zer0Kerbal/ElephantEngine)
+1. ❗️ Closed issue [#2](https://github.com/zer0Kerbal/RadialHeatShields/issues/2) in [zer0Kerbal/RadialHeatShields](https://github.com/zer0Kerbal/RadialHeatShields)
+2. 🎉 Merged PR [#31](https://github.com/zer0Kerbal/RadialHeatShields/pull/31) in [zer0Kerbal/RadialHeatShields](https://github.com/zer0Kerbal/RadialHeatShields)
+3. ❗️ Closed issue [#5](https://github.com/zer0Kerbal/RadialHeatShields/issues/5) in [zer0Kerbal/RadialHeatShields](https://github.com/zer0Kerbal/RadialHeatShields)
+4. ❗️ Closed issue [#3](https://github.com/zer0Kerbal/RadialHeatShields/issues/3) in [zer0Kerbal/RadialHeatShields](https://github.com/zer0Kerbal/RadialHeatShields)
+5. ❗️ Closed issue [#4](https://github.com/zer0Kerbal/RadialHeatShields/issues/4) in [zer0Kerbal/RadialHeatShields](https://github.com/zer0Kerbal/RadialHeatShields)
+6. ❗️ Closed issue [#7](https://github.com/zer0Kerbal/RadialHeatShields/issues/7) in [zer0Kerbal/RadialHeatShields](https://github.com/zer0Kerbal/RadialHeatShields)
+7. ❗️ Closed issue [#24](https://github.com/zer0Kerbal/RadialHeatShields/issues/24) in [zer0Kerbal/RadialHeatShields](https://github.com/zer0Kerbal/RadialHeatShields)
+8. ❗️ Closed issue [#26](https://github.com/zer0Kerbal/RadialHeatShields/issues/26) in [zer0Kerbal/RadialHeatShields](https://github.com/zer0Kerbal/RadialHeatShields)
+9. 💪 Opened PR [#31](https://github.com/zer0Kerbal/RadialHeatShields/pull/31) in [zer0Kerbal/RadialHeatShields](https://github.com/zer0Kerbal/RadialHeatShields)
+10. 🎉 Merged PR [#30](https://github.com/zer0Kerbal/RadialHeatShields/pull/30) in [zer0Kerbal/RadialHeatShields](https://github.com/zer0Kerbal/RadialHeatShields)
 <!--END_SECTION:activity-->
 
 </details
