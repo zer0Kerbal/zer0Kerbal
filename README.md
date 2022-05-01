@@ -45,16 +45,16 @@
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#35](https://github.com/zer0Kerbal/RadialHeatShields/pull/35) in [zer0Kerbal/RadialHeatShields](https://github.com/zer0Kerbal/RadialHeatShields)
-2. 🎉 Merged PR [#27](https://github.com/zer0Kerbal/OblivionAerospace/pull/27) in [zer0Kerbal/OblivionAerospace](https://github.com/zer0Kerbal/OblivionAerospace)
-3. ❗️ Closed issue [#6](https://github.com/zer0Kerbal/OblivionAerospace/issues/6) in [zer0Kerbal/OblivionAerospace](https://github.com/zer0Kerbal/OblivionAerospace)
-4. ❗️ Closed issue [#5](https://github.com/zer0Kerbal/OblivionAerospace/issues/5) in [zer0Kerbal/OblivionAerospace](https://github.com/zer0Kerbal/OblivionAerospace)
-5. ❗️ Closed issue [#4](https://github.com/zer0Kerbal/OblivionAerospace/issues/4) in [zer0Kerbal/OblivionAerospace](https://github.com/zer0Kerbal/OblivionAerospace)
-6. ❗️ Closed issue [#7](https://github.com/zer0Kerbal/OblivionAerospace/issues/7) in [zer0Kerbal/OblivionAerospace](https://github.com/zer0Kerbal/OblivionAerospace)
-7. ❗️ Closed issue [#25](https://github.com/zer0Kerbal/OblivionAerospace/issues/25) in [zer0Kerbal/OblivionAerospace](https://github.com/zer0Kerbal/OblivionAerospace)
-8. ❗️ Closed issue [#9](https://github.com/zer0Kerbal/OblivionAerospace/issues/9) in [zer0Kerbal/OblivionAerospace](https://github.com/zer0Kerbal/OblivionAerospace)
-9. 💪 Opened PR [#27](https://github.com/zer0Kerbal/OblivionAerospace/pull/27) in [zer0Kerbal/OblivionAerospace](https://github.com/zer0Kerbal/OblivionAerospace)
-10. 🗣 Commented on [#9100](https://github.com/KSP-CKAN/NetKAN/issues/9100) in [KSP-CKAN/NetKAN](https://github.com/KSP-CKAN/NetKAN)
+1. ❌ Closed PR [#33](https://github.com/zer0Kerbal/Antennas/pull/33) in [zer0Kerbal/Antennas](https://github.com/zer0Kerbal/Antennas)
+2. 🗣 Commented on [#9052](https://github.com/KSP-CKAN/NetKAN/issues/9052) in [KSP-CKAN/NetKAN](https://github.com/KSP-CKAN/NetKAN)
+3. 🎉 Merged PR [#35](https://github.com/zer0Kerbal/RadialHeatShields/pull/35) in [zer0Kerbal/RadialHeatShields](https://github.com/zer0Kerbal/RadialHeatShields)
+4. 🎉 Merged PR [#27](https://github.com/zer0Kerbal/OblivionAerospace/pull/27) in [zer0Kerbal/OblivionAerospace](https://github.com/zer0Kerbal/OblivionAerospace)
+5. ❗️ Closed issue [#6](https://github.com/zer0Kerbal/OblivionAerospace/issues/6) in [zer0Kerbal/OblivionAerospace](https://github.com/zer0Kerbal/OblivionAerospace)
+6. ❗️ Closed issue [#5](https://github.com/zer0Kerbal/OblivionAerospace/issues/5) in [zer0Kerbal/OblivionAerospace](https://github.com/zer0Kerbal/OblivionAerospace)
+7. ❗️ Closed issue [#4](https://github.com/zer0Kerbal/OblivionAerospace/issues/4) in [zer0Kerbal/OblivionAerospace](https://github.com/zer0Kerbal/OblivionAerospace)
+8. ❗️ Closed issue [#7](https://github.com/zer0Kerbal/OblivionAerospace/issues/7) in [zer0Kerbal/OblivionAerospace](https://github.com/zer0Kerbal/OblivionAerospace)
+9. ❗️ Closed issue [#25](https://github.com/zer0Kerbal/OblivionAerospace/issues/25) in [zer0Kerbal/OblivionAerospace](https://github.com/zer0Kerbal/OblivionAerospace)
+10. ❗️ Closed issue [#9](https://github.com/zer0Kerbal/OblivionAerospace/issues/9) in [zer0Kerbal/OblivionAerospace](https://github.com/zer0Kerbal/OblivionAerospace)
 <!--END_SECTION:activity-->
 
 </details
