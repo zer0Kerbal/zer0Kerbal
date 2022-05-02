@@ -45,16 +45,16 @@
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#40](https://github.com/zer0Kerbal/ElephantEngine/pull/40) in [zer0Kerbal/ElephantEngine](https://github.com/zer0Kerbal/ElephantEngine)
-2. 🎉 Merged PR [#39](https://github.com/zer0Kerbal/ElephantEngine/pull/39) in [zer0Kerbal/ElephantEngine](https://github.com/zer0Kerbal/ElephantEngine)
-3. 🎉 Merged PR [#38](https://github.com/zer0Kerbal/ElephantEngine/pull/38) in [zer0Kerbal/ElephantEngine](https://github.com/zer0Kerbal/ElephantEngine)
-4. 🎉 Merged PR [#27](https://github.com/zer0Kerbal/ArtofReentry/pull/27) in [zer0Kerbal/ArtofReentry](https://github.com/zer0Kerbal/ArtofReentry)
-5. ❗️ Closed issue [#26](https://github.com/zer0Kerbal/ArtofReentry/issues/26) in [zer0Kerbal/ArtofReentry](https://github.com/zer0Kerbal/ArtofReentry)
-6. 💪 Opened PR [#27](https://github.com/zer0Kerbal/ArtofReentry/pull/27) in [zer0Kerbal/ArtofReentry](https://github.com/zer0Kerbal/ArtofReentry)
-7. ❗️ Opened issue [#26](https://github.com/zer0Kerbal/ArtofReentry/issues/26) in [zer0Kerbal/ArtofReentry](https://github.com/zer0Kerbal/ArtofReentry)
-8. ❗️ Opened issue [#25](https://github.com/zer0Kerbal/ArtofReentry/issues/25) in [zer0Kerbal/ArtofReentry](https://github.com/zer0Kerbal/ArtofReentry)
-9. ❌ Closed PR [#33](https://github.com/zer0Kerbal/Antennas/pull/33) in [zer0Kerbal/Antennas](https://github.com/zer0Kerbal/Antennas)
-10. 🗣 Commented on [#9052](https://github.com/KSP-CKAN/NetKAN/issues/9052) in [KSP-CKAN/NetKAN](https://github.com/KSP-CKAN/NetKAN)
+1. 💪 Opened PR [#112](https://github.com/zer0Kerbal/SimpleConstruction/pull/112) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
+2. 🎉 Merged PR [#40](https://github.com/zer0Kerbal/ElephantEngine/pull/40) in [zer0Kerbal/ElephantEngine](https://github.com/zer0Kerbal/ElephantEngine)
+3. 🎉 Merged PR [#39](https://github.com/zer0Kerbal/ElephantEngine/pull/39) in [zer0Kerbal/ElephantEngine](https://github.com/zer0Kerbal/ElephantEngine)
+4. 🎉 Merged PR [#38](https://github.com/zer0Kerbal/ElephantEngine/pull/38) in [zer0Kerbal/ElephantEngine](https://github.com/zer0Kerbal/ElephantEngine)
+5. 🎉 Merged PR [#27](https://github.com/zer0Kerbal/ArtofReentry/pull/27) in [zer0Kerbal/ArtofReentry](https://github.com/zer0Kerbal/ArtofReentry)
+6. ❗️ Closed issue [#26](https://github.com/zer0Kerbal/ArtofReentry/issues/26) in [zer0Kerbal/ArtofReentry](https://github.com/zer0Kerbal/ArtofReentry)
+7. 💪 Opened PR [#27](https://github.com/zer0Kerbal/ArtofReentry/pull/27) in [zer0Kerbal/ArtofReentry](https://github.com/zer0Kerbal/ArtofReentry)
+8. ❗️ Opened issue [#26](https://github.com/zer0Kerbal/ArtofReentry/issues/26) in [zer0Kerbal/ArtofReentry](https://github.com/zer0Kerbal/ArtofReentry)
+9. ❗️ Opened issue [#25](https://github.com/zer0Kerbal/ArtofReentry/issues/25) in [zer0Kerbal/ArtofReentry](https://github.com/zer0Kerbal/ArtofReentry)
+10. ❌ Closed PR [#33](https://github.com/zer0Kerbal/Antennas/pull/33) in [zer0Kerbal/Antennas](https://github.com/zer0Kerbal/Antennas)
 <!--END_SECTION:activity-->
 
 </details
