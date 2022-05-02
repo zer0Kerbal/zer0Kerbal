@@ -45,16 +45,16 @@
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#27](https://github.com/zer0Kerbal/ArtofReentry/pull/27) in [zer0Kerbal/ArtofReentry](https://github.com/zer0Kerbal/ArtofReentry)
-2. ❗️ Closed issue [#26](https://github.com/zer0Kerbal/ArtofReentry/issues/26) in [zer0Kerbal/ArtofReentry](https://github.com/zer0Kerbal/ArtofReentry)
-3. 💪 Opened PR [#27](https://github.com/zer0Kerbal/ArtofReentry/pull/27) in [zer0Kerbal/ArtofReentry](https://github.com/zer0Kerbal/ArtofReentry)
-4. ❗️ Opened issue [#26](https://github.com/zer0Kerbal/ArtofReentry/issues/26) in [zer0Kerbal/ArtofReentry](https://github.com/zer0Kerbal/ArtofReentry)
-5. ❗️ Opened issue [#25](https://github.com/zer0Kerbal/ArtofReentry/issues/25) in [zer0Kerbal/ArtofReentry](https://github.com/zer0Kerbal/ArtofReentry)
-6. ❌ Closed PR [#33](https://github.com/zer0Kerbal/Antennas/pull/33) in [zer0Kerbal/Antennas](https://github.com/zer0Kerbal/Antennas)
-7. 🗣 Commented on [#9052](https://github.com/KSP-CKAN/NetKAN/issues/9052) in [KSP-CKAN/NetKAN](https://github.com/KSP-CKAN/NetKAN)
-8. 🎉 Merged PR [#35](https://github.com/zer0Kerbal/RadialHeatShields/pull/35) in [zer0Kerbal/RadialHeatShields](https://github.com/zer0Kerbal/RadialHeatShields)
-9. 🎉 Merged PR [#27](https://github.com/zer0Kerbal/OblivionAerospace/pull/27) in [zer0Kerbal/OblivionAerospace](https://github.com/zer0Kerbal/OblivionAerospace)
-10. ❗️ Closed issue [#6](https://github.com/zer0Kerbal/OblivionAerospace/issues/6) in [zer0Kerbal/OblivionAerospace](https://github.com/zer0Kerbal/OblivionAerospace)
+1. 🎉 Merged PR [#40](https://github.com/zer0Kerbal/ElephantEngine/pull/40) in [zer0Kerbal/ElephantEngine](https://github.com/zer0Kerbal/ElephantEngine)
+2. 🎉 Merged PR [#39](https://github.com/zer0Kerbal/ElephantEngine/pull/39) in [zer0Kerbal/ElephantEngine](https://github.com/zer0Kerbal/ElephantEngine)
+3. 🎉 Merged PR [#38](https://github.com/zer0Kerbal/ElephantEngine/pull/38) in [zer0Kerbal/ElephantEngine](https://github.com/zer0Kerbal/ElephantEngine)
+4. 🎉 Merged PR [#27](https://github.com/zer0Kerbal/ArtofReentry/pull/27) in [zer0Kerbal/ArtofReentry](https://github.com/zer0Kerbal/ArtofReentry)
+5. ❗️ Closed issue [#26](https://github.com/zer0Kerbal/ArtofReentry/issues/26) in [zer0Kerbal/ArtofReentry](https://github.com/zer0Kerbal/ArtofReentry)
+6. 💪 Opened PR [#27](https://github.com/zer0Kerbal/ArtofReentry/pull/27) in [zer0Kerbal/ArtofReentry](https://github.com/zer0Kerbal/ArtofReentry)
+7. ❗️ Opened issue [#26](https://github.com/zer0Kerbal/ArtofReentry/issues/26) in [zer0Kerbal/ArtofReentry](https://github.com/zer0Kerbal/ArtofReentry)
+8. ❗️ Opened issue [#25](https://github.com/zer0Kerbal/ArtofReentry/issues/25) in [zer0Kerbal/ArtofReentry](https://github.com/zer0Kerbal/ArtofReentry)
+9. ❌ Closed PR [#33](https://github.com/zer0Kerbal/Antennas/pull/33) in [zer0Kerbal/Antennas](https://github.com/zer0Kerbal/Antennas)
+10. 🗣 Commented on [#9052](https://github.com/KSP-CKAN/NetKAN/issues/9052) in [KSP-CKAN/NetKAN](https://github.com/KSP-CKAN/NetKAN)
 <!--END_SECTION:activity-->
 
 </details
