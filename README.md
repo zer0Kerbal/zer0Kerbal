@@ -45,16 +45,16 @@
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#306](https://github.com/post-kerbin-mining-corporation/StationPartsExpansionRedux/pull/306) in [post-kerbin-mining-corporation/StationPartsExpansionRedux](https://github.com/post-kerbin-mining-corporation/StationPartsExpansionRedux)
-2. ❗️ Opened issue [#305](https://github.com/post-kerbin-mining-corporation/StationPartsExpansionRedux/issues/305) in [post-kerbin-mining-corporation/StationPartsExpansionRedux](https://github.com/post-kerbin-mining-corporation/StationPartsExpansionRedux)
-3. 💪 Opened PR [#112](https://github.com/zer0Kerbal/SimpleConstruction/pull/112) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
-4. 🎉 Merged PR [#40](https://github.com/zer0Kerbal/ElephantEngine/pull/40) in [zer0Kerbal/ElephantEngine](https://github.com/zer0Kerbal/ElephantEngine)
-5. 🎉 Merged PR [#39](https://github.com/zer0Kerbal/ElephantEngine/pull/39) in [zer0Kerbal/ElephantEngine](https://github.com/zer0Kerbal/ElephantEngine)
-6. 🎉 Merged PR [#38](https://github.com/zer0Kerbal/ElephantEngine/pull/38) in [zer0Kerbal/ElephantEngine](https://github.com/zer0Kerbal/ElephantEngine)
-7. 🎉 Merged PR [#27](https://github.com/zer0Kerbal/ArtofReentry/pull/27) in [zer0Kerbal/ArtofReentry](https://github.com/zer0Kerbal/ArtofReentry)
-8. ❗️ Closed issue [#26](https://github.com/zer0Kerbal/ArtofReentry/issues/26) in [zer0Kerbal/ArtofReentry](https://github.com/zer0Kerbal/ArtofReentry)
-9. 💪 Opened PR [#27](https://github.com/zer0Kerbal/ArtofReentry/pull/27) in [zer0Kerbal/ArtofReentry](https://github.com/zer0Kerbal/ArtofReentry)
-10. ❗️ Opened issue [#26](https://github.com/zer0Kerbal/ArtofReentry/issues/26) in [zer0Kerbal/ArtofReentry](https://github.com/zer0Kerbal/ArtofReentry)
+1. ❗️ Closed issue [#27](https://github.com/zer0Kerbal/SimpleConstruction/issues/27) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
+2. 🎉 Merged PR [#112](https://github.com/zer0Kerbal/SimpleConstruction/pull/112) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
+3. ❗️ Closed issue [#110](https://github.com/zer0Kerbal/SimpleConstruction/issues/110) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
+4. ❗️ Closed issue [#107](https://github.com/zer0Kerbal/SimpleConstruction/issues/107) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
+5. ❗️ Closed issue [#109](https://github.com/zer0Kerbal/SimpleConstruction/issues/109) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
+6. ❗️ Closed issue [#108](https://github.com/zer0Kerbal/SimpleConstruction/issues/108) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
+7. ❗️ Closed issue [#104](https://github.com/zer0Kerbal/SimpleConstruction/issues/104) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
+8. 💪 Opened PR [#306](https://github.com/post-kerbin-mining-corporation/StationPartsExpansionRedux/pull/306) in [post-kerbin-mining-corporation/StationPartsExpansionRedux](https://github.com/post-kerbin-mining-corporation/StationPartsExpansionRedux)
+9. ❗️ Opened issue [#305](https://github.com/post-kerbin-mining-corporation/StationPartsExpansionRedux/issues/305) in [post-kerbin-mining-corporation/StationPartsExpansionRedux](https://github.com/post-kerbin-mining-corporation/StationPartsExpansionRedux)
+10. 💪 Opened PR [#112](https://github.com/zer0Kerbal/SimpleConstruction/pull/112) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
 <!--END_SECTION:activity-->
 
 </details
