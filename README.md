@@ -45,16 +45,16 @@
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#39](https://github.com/zer0Kerbal/SimpleConstruction/issues/39) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
-2. 🗣 Commented on [#40](https://github.com/zer0Kerbal/SimpleConstruction/issues/40) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
-3. 💪 Opened PR [#9105](https://github.com/KSP-CKAN/NetKAN/pull/9105) in [KSP-CKAN/NetKAN](https://github.com/KSP-CKAN/NetKAN)
-4. 🗣 Commented on [#9033](https://github.com/KSP-CKAN/NetKAN/issues/9033) in [KSP-CKAN/NetKAN](https://github.com/KSP-CKAN/NetKAN)
-5. 🗣 Commented on [#9034](https://github.com/KSP-CKAN/NetKAN/issues/9034) in [KSP-CKAN/NetKAN](https://github.com/KSP-CKAN/NetKAN)
-6. ❗️ Closed issue [#27](https://github.com/zer0Kerbal/SimpleConstruction/issues/27) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
-7. 🎉 Merged PR [#112](https://github.com/zer0Kerbal/SimpleConstruction/pull/112) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
-8. ❗️ Closed issue [#110](https://github.com/zer0Kerbal/SimpleConstruction/issues/110) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
-9. ❗️ Closed issue [#107](https://github.com/zer0Kerbal/SimpleConstruction/issues/107) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
-10. ❗️ Closed issue [#109](https://github.com/zer0Kerbal/SimpleConstruction/issues/109) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
+1. ❗️ Opened issue [#29](https://github.com/zer0Kerbal/MODNAME/issues/29) in [zer0Kerbal/MODNAME](https://github.com/zer0Kerbal/MODNAME)
+2. ❗️ Opened issue [#28](https://github.com/zer0Kerbal/MODNAME/issues/28) in [zer0Kerbal/MODNAME](https://github.com/zer0Kerbal/MODNAME)
+3. ❗️ Opened issue [#27](https://github.com/zer0Kerbal/MODNAME/issues/27) in [zer0Kerbal/MODNAME](https://github.com/zer0Kerbal/MODNAME)
+4. ❗️ Opened issue [#26](https://github.com/zer0Kerbal/MODNAME/issues/26) in [zer0Kerbal/MODNAME](https://github.com/zer0Kerbal/MODNAME)
+5. ❗️ Opened issue [#25](https://github.com/zer0Kerbal/MODNAME/issues/25) in [zer0Kerbal/MODNAME](https://github.com/zer0Kerbal/MODNAME)
+6. ❗️ Opened issue [#24](https://github.com/zer0Kerbal/MODNAME/issues/24) in [zer0Kerbal/MODNAME](https://github.com/zer0Kerbal/MODNAME)
+7. ❗️ Opened issue [#23](https://github.com/zer0Kerbal/MODNAME/issues/23) in [zer0Kerbal/MODNAME](https://github.com/zer0Kerbal/MODNAME)
+8. ❗️ Opened issue [#22](https://github.com/zer0Kerbal/MODNAME/issues/22) in [zer0Kerbal/MODNAME](https://github.com/zer0Kerbal/MODNAME)
+9. ❗️ Opened issue [#21](https://github.com/zer0Kerbal/MODNAME/issues/21) in [zer0Kerbal/MODNAME](https://github.com/zer0Kerbal/MODNAME)
+10. ❗️ Opened issue [#20](https://github.com/zer0Kerbal/MODNAME/issues/20) in [zer0Kerbal/MODNAME](https://github.com/zer0Kerbal/MODNAME)
 <!--END_SECTION:activity-->
 
 </details
