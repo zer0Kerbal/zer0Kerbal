@@ -45,16 +45,16 @@
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#35](https://github.com/zer0Kerbal/SpecialPartsDivision/issues/35) in [zer0Kerbal/SpecialPartsDivision](https://github.com/zer0Kerbal/SpecialPartsDivision)
-2. ❗️ Closed issue [#24](https://github.com/zer0Kerbal/SpecialPartsDivision/issues/24) in [zer0Kerbal/SpecialPartsDivision](https://github.com/zer0Kerbal/SpecialPartsDivision)
-3. 🎉 Merged PR [#34](https://github.com/zer0Kerbal/SpecialPartsDivision/pull/34) in [zer0Kerbal/SpecialPartsDivision](https://github.com/zer0Kerbal/SpecialPartsDivision)
-4. ❗️ Closed issue [#28](https://github.com/zer0Kerbal/SpecialPartsDivision/issues/28) in [zer0Kerbal/SpecialPartsDivision](https://github.com/zer0Kerbal/SpecialPartsDivision)
-5. 💪 Opened PR [#34](https://github.com/zer0Kerbal/SpecialPartsDivision/pull/34) in [zer0Kerbal/SpecialPartsDivision](https://github.com/zer0Kerbal/SpecialPartsDivision)
-6. ❗️ Closed issue [#27](https://github.com/zer0Kerbal/SpecialPartsDivision/issues/27) in [zer0Kerbal/SpecialPartsDivision](https://github.com/zer0Kerbal/SpecialPartsDivision)
-7. 🎉 Merged PR [#33](https://github.com/zer0Kerbal/SpecialPartsDivision/pull/33) in [zer0Kerbal/SpecialPartsDivision](https://github.com/zer0Kerbal/SpecialPartsDivision)
-8. 💪 Opened PR [#33](https://github.com/zer0Kerbal/SpecialPartsDivision/pull/33) in [zer0Kerbal/SpecialPartsDivision](https://github.com/zer0Kerbal/SpecialPartsDivision)
-9. 🎉 Merged PR [#32](https://github.com/zer0Kerbal/SpecialPartsDivision/pull/32) in [zer0Kerbal/SpecialPartsDivision](https://github.com/zer0Kerbal/SpecialPartsDivision)
-10. ❗️ Closed issue [#29](https://github.com/zer0Kerbal/SpecialPartsDivision/issues/29) in [zer0Kerbal/SpecialPartsDivision](https://github.com/zer0Kerbal/SpecialPartsDivision)
+1. 🗣 Commented on [#40](https://github.com/zer0Kerbal/SimpleConstruction/issues/40) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
+2. ❗️ Opened issue [#35](https://github.com/zer0Kerbal/SpecialPartsDivision/issues/35) in [zer0Kerbal/SpecialPartsDivision](https://github.com/zer0Kerbal/SpecialPartsDivision)
+3. ❗️ Closed issue [#24](https://github.com/zer0Kerbal/SpecialPartsDivision/issues/24) in [zer0Kerbal/SpecialPartsDivision](https://github.com/zer0Kerbal/SpecialPartsDivision)
+4. 🎉 Merged PR [#34](https://github.com/zer0Kerbal/SpecialPartsDivision/pull/34) in [zer0Kerbal/SpecialPartsDivision](https://github.com/zer0Kerbal/SpecialPartsDivision)
+5. ❗️ Closed issue [#28](https://github.com/zer0Kerbal/SpecialPartsDivision/issues/28) in [zer0Kerbal/SpecialPartsDivision](https://github.com/zer0Kerbal/SpecialPartsDivision)
+6. 💪 Opened PR [#34](https://github.com/zer0Kerbal/SpecialPartsDivision/pull/34) in [zer0Kerbal/SpecialPartsDivision](https://github.com/zer0Kerbal/SpecialPartsDivision)
+7. ❗️ Closed issue [#27](https://github.com/zer0Kerbal/SpecialPartsDivision/issues/27) in [zer0Kerbal/SpecialPartsDivision](https://github.com/zer0Kerbal/SpecialPartsDivision)
+8. 🎉 Merged PR [#33](https://github.com/zer0Kerbal/SpecialPartsDivision/pull/33) in [zer0Kerbal/SpecialPartsDivision](https://github.com/zer0Kerbal/SpecialPartsDivision)
+9. 💪 Opened PR [#33](https://github.com/zer0Kerbal/SpecialPartsDivision/pull/33) in [zer0Kerbal/SpecialPartsDivision](https://github.com/zer0Kerbal/SpecialPartsDivision)
+10. 🎉 Merged PR [#32](https://github.com/zer0Kerbal/SpecialPartsDivision/pull/32) in [zer0Kerbal/SpecialPartsDivision](https://github.com/zer0Kerbal/SpecialPartsDivision)
 <!--END_SECTION:activity-->
 
 </details
