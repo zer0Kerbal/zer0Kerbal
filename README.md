@@ -506,7 +506,7 @@
 
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zer0Kerbal&repo=KlockheedMartian)](https://github.com/zer0Kerbal/KlockheedMartian)  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zer0Kerbal&repo=SpaceShuttleEngines)](https://github.com/zer0Kerbal/SpaceShuttleEngines)   
 
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zer0Kerbal&repo=AsteroidCities)](https://github.com/zer0Kerbal/AsteroidCities)  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zer0Kerbal&repo=SpecialParts)](https://github.com/zer0Kerbal/SpecialParts)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zer0Kerbal&repo=AsteroidCities)](https://github.com/zer0Kerbal/AsteroidCities)  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zer0Kerbal&repo=SpecialPartsDivision)](https://github.com/zer0Kerbal/SpecialPartsDivision)
 
 
   ### [Klockheed Martian(KM)](https://github.com/zer0Kerbal/KlockheedMartian)
