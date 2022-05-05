@@ -543,7 +543,7 @@
 * continuous improvement of portfolio, documentation, experience, processes, procedures, communications, and knowledge.
 * Localizations: Kerbal Space Program players often aren't native English speakers; world focused - make sure every mod is translated to as many languages as possible.
 * Help to motivate STEAM and the future of science and innovation by facilitating players KSP play.
-* non-profit: yes some profit; however the RIO will be negative due to number of hours per day invested (6-10).
+* non-profit: yes some profit; however the *financial* RIO (return on investment) will be negative due to number of hours per day invested (6-10).
 
 # WHAT - clear vision
 
