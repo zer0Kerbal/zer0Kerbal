@@ -8,4 +8,5 @@
 - [DocumentationStyle](DocumentationStyle.md)
 - [ModList](ModList.md)
 - [README](README.md)
+- [projects](projects.md)
 - [rules](rules.md)
