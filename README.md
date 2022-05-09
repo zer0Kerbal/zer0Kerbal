@@ -45,16 +45,16 @@
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#13](https://github.com/KSP-CKAN/KSPMMCfgParser/issues/13) in [KSP-CKAN/KSPMMCfgParser](https://github.com/KSP-CKAN/KSPMMCfgParser)
-2. 💪 Opened PR [#13](https://github.com/KSP-CKAN/KSPMMCfgParser/pull/13) in [KSP-CKAN/KSPMMCfgParser](https://github.com/KSP-CKAN/KSPMMCfgParser)
-3. 🗣 Commented on [#12](https://github.com/KSP-CKAN/KSPMMCfgParser/issues/12) in [KSP-CKAN/KSPMMCfgParser](https://github.com/KSP-CKAN/KSPMMCfgParser)
-4. 💪 Opened PR [#12](https://github.com/KSP-CKAN/KSPMMCfgParser/pull/12) in [KSP-CKAN/KSPMMCfgParser](https://github.com/KSP-CKAN/KSPMMCfgParser)
-5. 🗣 Commented on [#11](https://github.com/KSP-CKAN/KSPMMCfgParser/issues/11) in [KSP-CKAN/KSPMMCfgParser](https://github.com/KSP-CKAN/KSPMMCfgParser)
-6. 🗣 Commented on [#11](https://github.com/KSP-CKAN/KSPMMCfgParser/issues/11) in [KSP-CKAN/KSPMMCfgParser](https://github.com/KSP-CKAN/KSPMMCfgParser)
-7. 🗣 Commented on [#11](https://github.com/KSP-CKAN/KSPMMCfgParser/issues/11) in [KSP-CKAN/KSPMMCfgParser](https://github.com/KSP-CKAN/KSPMMCfgParser)
-8. ❗️ Opened issue [#11](https://github.com/KSP-CKAN/KSPMMCfgParser/issues/11) in [KSP-CKAN/KSPMMCfgParser](https://github.com/KSP-CKAN/KSPMMCfgParser)
-9. 💪 Opened PR [#10](https://github.com/KSP-CKAN/KSPMMCfgParser/pull/10) in [KSP-CKAN/KSPMMCfgParser](https://github.com/KSP-CKAN/KSPMMCfgParser)
-10. 🎉 Merged PR [#27](https://github.com/zer0Kerbal/KlockheedMartianLtd/pull/27) in [zer0Kerbal/KlockheedMartianLtd](https://github.com/zer0Kerbal/KlockheedMartianLtd)
+1. 🎉 Merged PR [#34](https://github.com/zer0Kerbal/AdjustableModPanel/pull/34) in [zer0Kerbal/AdjustableModPanel](https://github.com/zer0Kerbal/AdjustableModPanel)
+2. ❗️ Closed issue [#33](https://github.com/zer0Kerbal/AdjustableModPanel/issues/33) in [zer0Kerbal/AdjustableModPanel](https://github.com/zer0Kerbal/AdjustableModPanel)
+3. 💪 Opened PR [#34](https://github.com/zer0Kerbal/AdjustableModPanel/pull/34) in [zer0Kerbal/AdjustableModPanel](https://github.com/zer0Kerbal/AdjustableModPanel)
+4. ❗️ Opened issue [#33](https://github.com/zer0Kerbal/AdjustableModPanel/issues/33) in [zer0Kerbal/AdjustableModPanel](https://github.com/zer0Kerbal/AdjustableModPanel)
+5. 🗣 Commented on [#9111](https://github.com/KSP-CKAN/NetKAN/issues/9111) in [KSP-CKAN/NetKAN](https://github.com/KSP-CKAN/NetKAN)
+6. 🗣 Commented on [#13](https://github.com/KSP-CKAN/KSPMMCfgParser/issues/13) in [KSP-CKAN/KSPMMCfgParser](https://github.com/KSP-CKAN/KSPMMCfgParser)
+7. 💪 Opened PR [#13](https://github.com/KSP-CKAN/KSPMMCfgParser/pull/13) in [KSP-CKAN/KSPMMCfgParser](https://github.com/KSP-CKAN/KSPMMCfgParser)
+8. 🗣 Commented on [#12](https://github.com/KSP-CKAN/KSPMMCfgParser/issues/12) in [KSP-CKAN/KSPMMCfgParser](https://github.com/KSP-CKAN/KSPMMCfgParser)
+9. 💪 Opened PR [#12](https://github.com/KSP-CKAN/KSPMMCfgParser/pull/12) in [KSP-CKAN/KSPMMCfgParser](https://github.com/KSP-CKAN/KSPMMCfgParser)
+10. 🗣 Commented on [#11](https://github.com/KSP-CKAN/KSPMMCfgParser/issues/11) in [KSP-CKAN/KSPMMCfgParser](https://github.com/KSP-CKAN/KSPMMCfgParser)
 <!--END_SECTION:activity-->
 
 </details
