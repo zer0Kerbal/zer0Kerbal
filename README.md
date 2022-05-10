@@ -45,16 +45,16 @@
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#24](https://github.com/zer0Kerbal/DaMichelLtd/issues/24) in [zer0Kerbal/DaMichelLtd](https://github.com/zer0Kerbal/DaMichelLtd)
-2. ❗️ Opened issue [#23](https://github.com/zer0Kerbal/DaMichelLtd/issues/23) in [zer0Kerbal/DaMichelLtd](https://github.com/zer0Kerbal/DaMichelLtd)
-3. ❗️ Opened issue [#22](https://github.com/zer0Kerbal/DaMichelLtd/issues/22) in [zer0Kerbal/DaMichelLtd](https://github.com/zer0Kerbal/DaMichelLtd)
-4. ❗️ Opened issue [#21](https://github.com/zer0Kerbal/DaMichelLtd/issues/21) in [zer0Kerbal/DaMichelLtd](https://github.com/zer0Kerbal/DaMichelLtd)
-5. ❗️ Opened issue [#20](https://github.com/zer0Kerbal/DaMichelLtd/issues/20) in [zer0Kerbal/DaMichelLtd](https://github.com/zer0Kerbal/DaMichelLtd)
-6. ❗️ Opened issue [#19](https://github.com/zer0Kerbal/DaMichelLtd/issues/19) in [zer0Kerbal/DaMichelLtd](https://github.com/zer0Kerbal/DaMichelLtd)
-7. ❗️ Opened issue [#18](https://github.com/zer0Kerbal/DaMichelLtd/issues/18) in [zer0Kerbal/DaMichelLtd](https://github.com/zer0Kerbal/DaMichelLtd)
-8. ❗️ Opened issue [#17](https://github.com/zer0Kerbal/DaMichelLtd/issues/17) in [zer0Kerbal/DaMichelLtd](https://github.com/zer0Kerbal/DaMichelLtd)
-9. ❗️ Opened issue [#16](https://github.com/zer0Kerbal/DaMichelLtd/issues/16) in [zer0Kerbal/DaMichelLtd](https://github.com/zer0Kerbal/DaMichelLtd)
-10. ❗️ Opened issue [#15](https://github.com/zer0Kerbal/DaMichelLtd/issues/15) in [zer0Kerbal/DaMichelLtd](https://github.com/zer0Kerbal/DaMichelLtd)
+1. 🗣 Commented on [#9116](https://github.com/KSP-CKAN/NetKAN/issues/9116) in [KSP-CKAN/NetKAN](https://github.com/KSP-CKAN/NetKAN)
+2. 🎉 Merged PR [#25](https://github.com/zer0Kerbal/DaMichelLtd/pull/25) in [zer0Kerbal/DaMichelLtd](https://github.com/zer0Kerbal/DaMichelLtd)
+3. ❗️ Closed issue [#4](https://github.com/zer0Kerbal/DaMichelLtd/issues/4) in [zer0Kerbal/DaMichelLtd](https://github.com/zer0Kerbal/DaMichelLtd)
+4. ❗️ Closed issue [#5](https://github.com/zer0Kerbal/DaMichelLtd/issues/5) in [zer0Kerbal/DaMichelLtd](https://github.com/zer0Kerbal/DaMichelLtd)
+5. ❗️ Closed issue [#22](https://github.com/zer0Kerbal/DaMichelLtd/issues/22) in [zer0Kerbal/DaMichelLtd](https://github.com/zer0Kerbal/DaMichelLtd)
+6. ❗️ Closed issue [#6](https://github.com/zer0Kerbal/DaMichelLtd/issues/6) in [zer0Kerbal/DaMichelLtd](https://github.com/zer0Kerbal/DaMichelLtd)
+7. ❗️ Closed issue [#24](https://github.com/zer0Kerbal/DaMichelLtd/issues/24) in [zer0Kerbal/DaMichelLtd](https://github.com/zer0Kerbal/DaMichelLtd)
+8. ❗️ Closed issue [#23](https://github.com/zer0Kerbal/DaMichelLtd/issues/23) in [zer0Kerbal/DaMichelLtd](https://github.com/zer0Kerbal/DaMichelLtd)
+9. 💪 Opened PR [#25](https://github.com/zer0Kerbal/DaMichelLtd/pull/25) in [zer0Kerbal/DaMichelLtd](https://github.com/zer0Kerbal/DaMichelLtd)
+10. ❗️ Opened issue [#24](https://github.com/zer0Kerbal/DaMichelLtd/issues/24) in [zer0Kerbal/DaMichelLtd](https://github.com/zer0Kerbal/DaMichelLtd)
 <!--END_SECTION:activity-->
 
 </details
