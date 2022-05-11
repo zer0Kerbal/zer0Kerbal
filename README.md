@@ -45,16 +45,16 @@
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#6](https://github.com/zer0Kerbal/AeroRadial/issues/6) in [zer0Kerbal/AeroRadial](https://github.com/zer0Kerbal/AeroRadial)
-2. ❗️ Opened issue [#36](https://github.com/zer0Kerbal/AeroRadial/issues/36) in [zer0Kerbal/AeroRadial](https://github.com/zer0Kerbal/AeroRadial)
-3. ❗️ Opened issue [#35](https://github.com/zer0Kerbal/AeroRadial/issues/35) in [zer0Kerbal/AeroRadial](https://github.com/zer0Kerbal/AeroRadial)
-4. ❗️ Opened issue [#34](https://github.com/zer0Kerbal/AeroRadial/issues/34) in [zer0Kerbal/AeroRadial](https://github.com/zer0Kerbal/AeroRadial)
-5. ❗️ Opened issue [#33](https://github.com/zer0Kerbal/AeroRadial/issues/33) in [zer0Kerbal/AeroRadial](https://github.com/zer0Kerbal/AeroRadial)
-6. ❗️ Opened issue [#32](https://github.com/zer0Kerbal/AeroRadial/issues/32) in [zer0Kerbal/AeroRadial](https://github.com/zer0Kerbal/AeroRadial)
-7. ❗️ Opened issue [#31](https://github.com/zer0Kerbal/AeroRadial/issues/31) in [zer0Kerbal/AeroRadial](https://github.com/zer0Kerbal/AeroRadial)
-8. ❗️ Opened issue [#30](https://github.com/zer0Kerbal/AeroRadial/issues/30) in [zer0Kerbal/AeroRadial](https://github.com/zer0Kerbal/AeroRadial)
-9. ❗️ Opened issue [#29](https://github.com/zer0Kerbal/AeroRadial/issues/29) in [zer0Kerbal/AeroRadial](https://github.com/zer0Kerbal/AeroRadial)
-10. ❗️ Opened issue [#28](https://github.com/zer0Kerbal/AeroRadial/issues/28) in [zer0Kerbal/AeroRadial](https://github.com/zer0Kerbal/AeroRadial)
+1. 🎉 Merged PR [#39](https://github.com/zer0Kerbal/AeroRadial/pull/39) in [zer0Kerbal/AeroRadial](https://github.com/zer0Kerbal/AeroRadial)
+2. ❗️ Closed issue [#35](https://github.com/zer0Kerbal/AeroRadial/issues/35) in [zer0Kerbal/AeroRadial](https://github.com/zer0Kerbal/AeroRadial)
+3. ❗️ Closed issue [#33](https://github.com/zer0Kerbal/AeroRadial/issues/33) in [zer0Kerbal/AeroRadial](https://github.com/zer0Kerbal/AeroRadial)
+4. 💪 Opened PR [#39](https://github.com/zer0Kerbal/AeroRadial/pull/39) in [zer0Kerbal/AeroRadial](https://github.com/zer0Kerbal/AeroRadial)
+5. 🎉 Merged PR [#37](https://github.com/zer0Kerbal/AeroRadial/pull/37) in [zer0Kerbal/AeroRadial](https://github.com/zer0Kerbal/AeroRadial)
+6. ❗️ Closed issue [#34](https://github.com/zer0Kerbal/AeroRadial/issues/34) in [zer0Kerbal/AeroRadial](https://github.com/zer0Kerbal/AeroRadial)
+7. ❗️ Closed issue [#32](https://github.com/zer0Kerbal/AeroRadial/issues/32) in [zer0Kerbal/AeroRadial](https://github.com/zer0Kerbal/AeroRadial)
+8. ❗️ Closed issue [#7](https://github.com/zer0Kerbal/AeroRadial/issues/7) in [zer0Kerbal/AeroRadial](https://github.com/zer0Kerbal/AeroRadial)
+9. 💪 Opened PR [#37](https://github.com/zer0Kerbal/AeroRadial/pull/37) in [zer0Kerbal/AeroRadial](https://github.com/zer0Kerbal/AeroRadial)
+10. ❗️ Closed issue [#6](https://github.com/zer0Kerbal/AeroRadial/issues/6) in [zer0Kerbal/AeroRadial](https://github.com/zer0Kerbal/AeroRadial)
 <!--END_SECTION:activity-->
 
 </details
