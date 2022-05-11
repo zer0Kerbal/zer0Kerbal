@@ -45,16 +45,16 @@
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com/zer0Kerbal/AeroRadial-Old/issues/1) in [zer0Kerbal/AeroRadial-Old](https://github.com/zer0Kerbal/AeroRadial-Old)
-2. 🗣 Commented on [#9116](https://github.com/KSP-CKAN/NetKAN/issues/9116) in [KSP-CKAN/NetKAN](https://github.com/KSP-CKAN/NetKAN)
-3. ❌ Closed PR [#7](https://github.com/zer0Kerbal/TransparentPods/pull/7) in [zer0Kerbal/TransparentPods](https://github.com/zer0Kerbal/TransparentPods)
-4. 🗣 Commented on [#9116](https://github.com/KSP-CKAN/NetKAN/issues/9116) in [KSP-CKAN/NetKAN](https://github.com/KSP-CKAN/NetKAN)
-5. 🎉 Merged PR [#25](https://github.com/zer0Kerbal/DaMichelLtd/pull/25) in [zer0Kerbal/DaMichelLtd](https://github.com/zer0Kerbal/DaMichelLtd)
-6. ❗️ Closed issue [#4](https://github.com/zer0Kerbal/DaMichelLtd/issues/4) in [zer0Kerbal/DaMichelLtd](https://github.com/zer0Kerbal/DaMichelLtd)
-7. ❗️ Closed issue [#5](https://github.com/zer0Kerbal/DaMichelLtd/issues/5) in [zer0Kerbal/DaMichelLtd](https://github.com/zer0Kerbal/DaMichelLtd)
-8. ❗️ Closed issue [#22](https://github.com/zer0Kerbal/DaMichelLtd/issues/22) in [zer0Kerbal/DaMichelLtd](https://github.com/zer0Kerbal/DaMichelLtd)
-9. ❗️ Closed issue [#6](https://github.com/zer0Kerbal/DaMichelLtd/issues/6) in [zer0Kerbal/DaMichelLtd](https://github.com/zer0Kerbal/DaMichelLtd)
-10. ❗️ Closed issue [#24](https://github.com/zer0Kerbal/DaMichelLtd/issues/24) in [zer0Kerbal/DaMichelLtd](https://github.com/zer0Kerbal/DaMichelLtd)
+1. ❗️ Closed issue [#6](https://github.com/zer0Kerbal/AeroRadial/issues/6) in [zer0Kerbal/AeroRadial](https://github.com/zer0Kerbal/AeroRadial)
+2. ❗️ Opened issue [#36](https://github.com/zer0Kerbal/AeroRadial/issues/36) in [zer0Kerbal/AeroRadial](https://github.com/zer0Kerbal/AeroRadial)
+3. ❗️ Opened issue [#35](https://github.com/zer0Kerbal/AeroRadial/issues/35) in [zer0Kerbal/AeroRadial](https://github.com/zer0Kerbal/AeroRadial)
+4. ❗️ Opened issue [#34](https://github.com/zer0Kerbal/AeroRadial/issues/34) in [zer0Kerbal/AeroRadial](https://github.com/zer0Kerbal/AeroRadial)
+5. ❗️ Opened issue [#33](https://github.com/zer0Kerbal/AeroRadial/issues/33) in [zer0Kerbal/AeroRadial](https://github.com/zer0Kerbal/AeroRadial)
+6. ❗️ Opened issue [#32](https://github.com/zer0Kerbal/AeroRadial/issues/32) in [zer0Kerbal/AeroRadial](https://github.com/zer0Kerbal/AeroRadial)
+7. ❗️ Opened issue [#31](https://github.com/zer0Kerbal/AeroRadial/issues/31) in [zer0Kerbal/AeroRadial](https://github.com/zer0Kerbal/AeroRadial)
+8. ❗️ Opened issue [#30](https://github.com/zer0Kerbal/AeroRadial/issues/30) in [zer0Kerbal/AeroRadial](https://github.com/zer0Kerbal/AeroRadial)
+9. ❗️ Opened issue [#29](https://github.com/zer0Kerbal/AeroRadial/issues/29) in [zer0Kerbal/AeroRadial](https://github.com/zer0Kerbal/AeroRadial)
+10. ❗️ Opened issue [#28](https://github.com/zer0Kerbal/AeroRadial/issues/28) in [zer0Kerbal/AeroRadial](https://github.com/zer0Kerbal/AeroRadial)
 <!--END_SECTION:activity-->
 
 </details
