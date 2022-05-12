@@ -45,16 +45,16 @@
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7](https://github.com/net-lisias-ksp/GPOSpeedPump/issues/7) in [net-lisias-ksp/GPOSpeedPump](https://github.com/net-lisias-ksp/GPOSpeedPump)
-2. ❗️ Opened issue [#2](https://github.com/DaanV2/Markdown-Action-Create-Indexes/issues/2) in [DaanV2/Markdown-Action-Create-Indexes](https://github.com/DaanV2/Markdown-Action-Create-Indexes)
-3. ❗️ Closed issue [#1](https://github.com/zer0Kerbal/SphericalTanksOld/issues/1) in [zer0Kerbal/SphericalTanksOld](https://github.com/zer0Kerbal/SphericalTanksOld)
-4. ❗️ Opened issue [#4](https://github.com/zer0Kerbal/SphericalTanks/issues/4) in [zer0Kerbal/SphericalTanks](https://github.com/zer0Kerbal/SphericalTanks)
-5. ❗️ Closed issue [#2](https://github.com/zer0Kerbal/SphericalTanksOld/issues/2) in [zer0Kerbal/SphericalTanksOld](https://github.com/zer0Kerbal/SphericalTanksOld)
-6. ❗️ Closed issue [#5](https://github.com/zer0Kerbal/SphericalTanksOld/issues/5) in [zer0Kerbal/SphericalTanksOld](https://github.com/zer0Kerbal/SphericalTanksOld)
-7. ❗️ Opened issue [#3](https://github.com/zer0Kerbal/SphericalTanks/issues/3) in [zer0Kerbal/SphericalTanks](https://github.com/zer0Kerbal/SphericalTanks)
-8. ❗️ Opened issue [#2](https://github.com/zer0Kerbal/SphericalTanks/issues/2) in [zer0Kerbal/SphericalTanks](https://github.com/zer0Kerbal/SphericalTanks)
-9. ❗️ Closed issue [#6](https://github.com/zer0Kerbal/SphericalTanksOld/issues/6) in [zer0Kerbal/SphericalTanksOld](https://github.com/zer0Kerbal/SphericalTanksOld)
-10. ❗️ Opened issue [#1](https://github.com/zer0Kerbal/SphericalTanks/issues/1) in [zer0Kerbal/SphericalTanks](https://github.com/zer0Kerbal/SphericalTanks)
+1. 💪 Opened PR [#9122](https://github.com/KSP-CKAN/NetKAN/pull/9122) in [KSP-CKAN/NetKAN](https://github.com/KSP-CKAN/NetKAN)
+2. 💪 Opened PR [#9121](https://github.com/KSP-CKAN/NetKAN/pull/9121) in [KSP-CKAN/NetKAN](https://github.com/KSP-CKAN/NetKAN)
+3. 🗣 Commented on [#7](https://github.com/net-lisias-ksp/GPOSpeedPump/issues/7) in [net-lisias-ksp/GPOSpeedPump](https://github.com/net-lisias-ksp/GPOSpeedPump)
+4. ❗️ Opened issue [#2](https://github.com/DaanV2/Markdown-Action-Create-Indexes/issues/2) in [DaanV2/Markdown-Action-Create-Indexes](https://github.com/DaanV2/Markdown-Action-Create-Indexes)
+5. ❗️ Closed issue [#1](https://github.com/zer0Kerbal/SphericalTanksOld/issues/1) in [zer0Kerbal/SphericalTanksOld](https://github.com/zer0Kerbal/SphericalTanksOld)
+6. ❗️ Opened issue [#4](https://github.com/zer0Kerbal/SphericalTanks/issues/4) in [zer0Kerbal/SphericalTanks](https://github.com/zer0Kerbal/SphericalTanks)
+7. ❗️ Closed issue [#2](https://github.com/zer0Kerbal/SphericalTanksOld/issues/2) in [zer0Kerbal/SphericalTanksOld](https://github.com/zer0Kerbal/SphericalTanksOld)
+8. ❗️ Closed issue [#5](https://github.com/zer0Kerbal/SphericalTanksOld/issues/5) in [zer0Kerbal/SphericalTanksOld](https://github.com/zer0Kerbal/SphericalTanksOld)
+9. ❗️ Opened issue [#3](https://github.com/zer0Kerbal/SphericalTanks/issues/3) in [zer0Kerbal/SphericalTanks](https://github.com/zer0Kerbal/SphericalTanks)
+10. ❗️ Opened issue [#2](https://github.com/zer0Kerbal/SphericalTanks/issues/2) in [zer0Kerbal/SphericalTanks](https://github.com/zer0Kerbal/SphericalTanks)
 <!--END_SECTION:activity-->
 
 </details
