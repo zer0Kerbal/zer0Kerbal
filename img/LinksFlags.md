@@ -1,22 +1,22 @@
 # 🇺🇸 🇪🇸 🇫🇷 🇮🇹 🇧🇷 🇷🇺 🇩🇪 🇨🇳 🇯🇵 🇰🇷 🇳🇴 🇸🇪
 
-![English][EN] English
-![Brasil][BR] Brazilian Portuguese (Português Brasil)
-![中文][CN] 中文
-![Deutsch][DE] Deutsch
-![Español][ES] Español
-![Français][FR] Français
-![Italiano][IT] Italiano
-![日本語][JA] 日本語
-![한국어][KO] 한국어
-![Mexicano][ME] Mexicano Español
-![Dutch][NL] Dutch
-![Norsk][NO] Norsk
-![Polski][PO] Polski
-![Русский][RU] Русский
-![Svenska][SW] Svenska
-![国语][TW] 国语
-![ʻŌlelo Pākē][HA] ʻŌlelo Pākē
+* ![English][EN] English
+* ![Brasil][BR] Brazilian Portuguese (Português Brasil)
+* ![中文][CN] 中文
+* ![Deutsch][DE] Deutsch
+* ![Español][ES] Español
+* ![Français][FR] Français
+* ![Italiano][IT] Italiano
+* ![日本語][JA] 日本語
+* ![한국어][KO] 한국어
+* ![Mexicano][MX] Mexicano Español
+* ![Dutch][NL] Dutch
+* ![Norsk][NO] Norsk
+* ![Polski][PO] Polski
+* ![Русский][RU] Русский
+* ![Svenska][SW] Svenska
+* ![国语][TW] 国语
+* ![ʻŌlelo Pākē][HA] ʻŌlelo Pākē
 
 ### Localization
 
@@ -32,7 +32,7 @@
 - [ ] ![Italiano][IT] Italian (Italiano) <it-it.cfg>  
 - [ ] ![日本語][JA] Japanese(日本語) <ja.cfg>  
 - [ ] ![한국어][KO] Korean (한국어)<ko.cfg>  
-- [ ] ![Mexicano][ME] Mexican (Mexicano Español) <es-mx.cfg>  
+- [ ] ![Mexicano][MX] Mexican (Mexicano Español) <es-mx.cfg>  
 - [ ] ![Dutch][NL] Dutch][NL] <nl-nl.cfg>  
 - [ ] ![Norsk][NO] Norwegian (Norsk) <no-no.cfg>  
 - [ ] ![Polski][PO] Polish (Polski) <pl.cfg>  
@@ -40,7 +40,7 @@
 - [ ] ![Svenska][SW] Swedish (Svenska) <sw-sw.cfg>  
 - [ ] ![国语][TW] Taiwanese (国语) <zh-tw.cfg>  
 	</pre>
-</details>
+</details> 
 
 <!-- > SimpleLogistics is a Polyglot! It now twelve languages.   -->
 > *Additions and corrections solicited and welcome!*  
