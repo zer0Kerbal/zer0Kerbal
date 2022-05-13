@@ -201,8 +201,8 @@
 
 ### [AeroRadial (DMAR)](https://github.com/zer0Kerbal/AeroRadial)
   
-  ![](https://github.com/zer0Kerbal/AeroRadial/actions/workflows/greetings.yml/badge.svg) ![](https://github.com/zer0Kerbal/AeroRadial/actions/workflows/AVC-VersionFileValidator.yml/badge.svg?branch=master) 
-  ![](https://img.shields.io/github/downloads/zer0Kerbal/AeroRadial/total?style=plastic) ![](https://img.shields.io/github/repo-size/zer0Kerbal/AeroRadial?style=plastic) ![](https://img.shields.io/github/contributors/zer0kerbal/AeroRadial?style=plastic) ![](https://img.shields.io/github/release-date/zer0kerbal/AeroRadial?style=plastic) ![](https://img.shields.io/github/release-date-pre/zer0kerbal/AeroRadial?style=plastic)
+  ![AeroRadial](https://github.com/zer0Kerbal/AeroRadial/actions/workflows/greetings.yml/badge.svg) ![AeroRadial](https://github.com/zer0Kerbal/AeroRadial/actions/workflows/AVC-VersionFileValidator.yml/badge.svg?branch=master) 
+  ![AeroRadial](https://img.shields.io/github/downloads/zer0Kerbal/AeroRadial/total?style=plastic) ![AeroRadial](https://img.shields.io/github/repo-size/zer0Kerbal/AeroRadial?style=plastic) ![AeroRadial](https://img.shields.io/github/contributors/zer0kerbal/AeroRadial?style=plastic) ![AeroRadial](https://img.shields.io/github/release-date/zer0kerbal/AeroRadial?style=plastic) ![AeroRadial](https://img.shields.io/github/release-date-pre/zer0kerbal/AeroRadial?style=plastic)
 
 ### [Fuselage (DMFS)](https://github.com/zer0Kerbal/Fuselage)
   
