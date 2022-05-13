@@ -34,15 +34,15 @@
     22. [Fuel Tanks Plus (FTP)](#fuel-tanks-plus-ftp)
     23. [SpaceY Heavy Lifters (SYHL)](#spacey-heavy-lifters-syhl)
     24. [SpaceYExpanded (SPY)](#spaceyexpanded-spy)
-    25. [==BurgerMod - version 0.4==](#burgermod---version-04)
+    25. [BurgerMod - version 0.4](#burgermod---version-04)
     26. [ColorCodedCans - version 2.0.1](#colorcodedcans---version-201)
     27. [ColorfulFuelLines - version 0.3.3](#colorfulfuellines---version-033)
     28. [DiscontinuedParts - version 0.4](#discontinuedparts---version-04)
-    29. [==ElephantEngine - version 0.2==](#elephantengine---version-02)
+    29. [ElephantEngine - version 0.2](#elephantengine---version-02)
     30. [FTPDeprecated - version 1.0](#ftpdeprecated---version-10)
     31. [FuelTanksPlus - version 2.0.2](#fueltanksplus---version-202)
-    32. [==JoolianDiscovery - version 0.8==](#jooliandiscovery---version-08)
-    33. [==LithobrakeExplorationTechnologies - version 0.4==](#lithobrakeexplorationtechnologies---version-04)
+    32. [JoolianDiscovery - version 0.8](#jooliandiscovery---version-08)
+    33. [LithobrakeExplorationTechnologies - version 0.4](#lithobrakeexplorationtechnologies---version-04)
     34. [ModularRocketSystem - version 1.13.2](#modularrocketsystem---version-1132)
     35. [Modular Rocket Systems LITE](#modular-rocket-systems-lite)
     36. [RealScaleBoosters - version 0.16](#realscaleboosters---version-016)
@@ -310,7 +310,7 @@
 
 
 
-### ==BurgerMod - version 0.4==
+### BurgerMod - version 0.4
 * license: CC-BY-NC-SA-3.0 ![][CC3]
 * [forum](http://forum.kerbalspaceprogram.com/index.php?/topic/85379-*)
 * Github - n/a
@@ -342,7 +342,7 @@
 * Curseforge: n/a
 * CKAN: DiscontinuedParts
 
-### ==ElephantEngine - version 0.2==
+### ElephantEngine - version 0.2
 * license: CC-BY-NC-SA ![][CC]
 * [forum](http://forum.kerbalspaceprogram.com/index.php?/topic/139162-*)
 * Github - n/a
@@ -366,7 +366,7 @@
 * [Curseforge](https://www.curseforge.com/kerbal/ksp-mods/fuel-tanks-plus)
 * CKAN: FuelTanksPlus
 
-### ==JoolianDiscovery - version 0.8==
+### JoolianDiscovery - version 0.8
 * license: CC-BY-NC-SA ![][CC]
 * [forum](http://forum.kerbalspaceprogram.com/index.php?/topic/86030-*)
 * Github - n/a
@@ -374,7 +374,7 @@
 * [Curseforge](https://www.curseforge.com/kerbal/ksp-mods/joolian-discovery)
 * CKAN: JoolianDiscovery
 
-### ==LithobrakeExplorationTechnologies - version 0.4==
+### LithobrakeExplorationTechnologies - version 0.4
 * license: CC-BY-NC-SA-4.0 ![][CC4]
 * [forum](https://forum.kerbalspaceprogram.com/index.php?/topic/117527-*)
 * Github - n/a
