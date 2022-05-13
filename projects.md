@@ -281,8 +281,16 @@
   <summary>NecroBones</summary>
 
 ### [The Burger Mod (BURG)](https://github.com/zer0Kerbal/BurgerMod)
-![](https://github.com/zer0Kerbal/BurgerMod/actions/workflows/greetings.yml/badge.svg) ![](https://github.com/zer0Kerbal/BurgerMod/actions/workflows/AVC-VersionFileValidator.yml/badge.svg?branch=master)
-![](https://img.shields.io/github/downloads/zer0Kerbal/BurgerMod/total?style=plastic) ![](https://img.shields.io/github/repo-size/zer0Kerbal/BurgerMod?style=plastic) ![](https://img.shields.io/github/contributors/zer0kerbal/BurgerMod?style=plastic) ![](https://img.shields.io/github/release-date/zer0kerbal/BurgerMod?style=plastic) ![](https://img.shields.io/github/release-date-pre/zer0kerbal/BurgerMod?style=plastic)
+
+* license: CC-BY-NC-SA-3.0 ![][CC3]
+* [forum](http://forum.kerbalspaceprogram.com/index.php?/topic/85379-*)
+* Github - n/a
+* [spacedock](https://spacedock.info/mod/96)
+* [Curseforge](https://www.curseforge.com/kerbal/ksp-mods/burger-mod)
+* CKAN: BurgerMod
+
+![The Burger Mod](https://github.com/zer0Kerbal/BurgerMod/actions/workflows/greetings.yml/badge.svg) ![The Burger Mod](https://github.com/zer0Kerbal/BurgerMod/actions/workflows/AVC-VersionFileValidator.yml/badge.svg?branch=master)
+![The Burger Mod](https://img.shields.io/github/downloads/zer0Kerbal/BurgerMod/total?style=plastic) ![The Burger Mod](https://img.shields.io/github/repo-size/zer0Kerbal/BurgerMod?style=plastic) ![The Burger Mod](https://img.shields.io/github/contributors/zer0kerbal/BurgerMod?style=plastic) ![The Burger Mod](https://img.shields.io/github/release-date/zer0kerbal/BurgerMod?style=plastic) ![The Burger Mod](https://img.shields.io/github/release-date-pre/zer0kerbal/BurgerMod?style=plastic)
 
 ### [The Elephant Engine (NBEE)](https://github.com/zer0Kerbal/ElephantEngine)
 
@@ -314,14 +322,6 @@
 ![SpaceY Expanded](https://github.com/zer0Kerbal/SpaceYExpanded/actions/workflows/greetings.yml/badge.svg) ![SpaceY Expanded](https://github.com/zer0Kerbal/SpaceYExpanded/actions/workflows/AVC-VersionFileValidator.yml/badge.svg?branch=master)
 ![SpaceY Expanded](https://img.shields.io/github/downloads/zer0Kerbal/SpaceYExpanded/total?style=plastic) ![SpaceY Expanded](https://img.shields.io/github/repo-size/zer0Kerbal/SpaceYExpanded?style=plastic) ![SpaceY Expanded](https://img.shields.io/github/contributors/zer0kerbal/SpaceYExpanded?style=plastic) ![SpaceY Expanded](https://img.shields.io/github/release-date/zer0kerbal/SpaceYExpanded?style=plastic) ![SpaceY Expanded](https://img.shields.io/github/release-date-pre/zer0kerbal/SpaceYExpanded?style=plastic)
 
-### BurgerMod
-
-* license: CC-BY-NC-SA-3.0 ![][CC3]
-* [forum](http://forum.kerbalspaceprogram.com/index.php?/topic/85379-*)
-* Github - n/a
-* [spacedock](https://spacedock.info/mod/96)
-* [Curseforge](https://www.curseforge.com/kerbal/ksp-mods/burger-mod)
-* CKAN: BurgerMod
 
 ### ColorCodedCans
 
