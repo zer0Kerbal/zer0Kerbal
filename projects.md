@@ -301,13 +301,14 @@
 ![](https://img.shields.io/github/downloads/zer0Kerbal/FuelTanksPlus/total?style=plastic) ![](https://img.shields.io/github/repo-size/zer0Kerbal/FuelTanksPlus?style=plastic) ![](https://img.shields.io/github/contributors/zer0kerbal/FuelTanksPlus?style=plastic) ![](https://img.shields.io/github/release-date/zer0kerbal/FuelTanksPlus?style=plastic) ![](https://img.shields.io/github/release-date-pre/zer0kerbal/FuelTanksPlus?style=plastic)
 
 ### [SpaceY Heavy Lifters (SYHL)](https://github.com/zer0Kerbal/SpaceY-Lifters)
-![](https://github.com/zer0Kerbal/SpaceY-Lifters/actions/workflows/greetings.yml/badge.svg) ![](https://github.com/zer0Kerbal/SpaceY-Lifters/actions/workflows/AVC-VersionFileValidator.yml/badge.svg?branch=master)
-![](https://img.shields.io/github/downloads/zer0Kerbal/SpaceY-Lifters/total?style=plastic) ![](https://img.shields.io/github/repo-size/zer0Kerbal/SpaceY-Lifters?style=plastic) ![](https://img.shields.io/github/contributors/zer0kerbal/SpaceY-Lifters?style=plastic) ![](https://img.shields.io/github/release-date/zer0kerbal/SpaceY-Lifters?style=plastic) ![](https://img.shields.io/github/release-date-pre/zer0kerbal/SpaceY-Lifters?style=plastic)
 
-### [SpaceYExpanded (SPY)](https://github.com/zer0Kerbal/SpaceYExpanded)
-![](https://github.com/zer0Kerbal/SpaceYExpanded/actions/workflows/greetings.yml/badge.svg) ![](https://github.com/zer0Kerbal/SpaceYExpanded/actions/workflows/AVC-VersionFileValidator.yml/badge.svg?branch=master)
-![](https://img.shields.io/github/downloads/zer0Kerbal/SpaceYExpanded/total?style=plastic) ![](https://img.shields.io/github/repo-size/zer0Kerbal/SpaceYExpanded?style=plastic) ![](https://img.shields.io/github/contributors/zer0kerbal/SpaceYExpanded?style=plastic) ![](https://img.shields.io/github/release-date/zer0kerbal/SpaceYExpanded?style=plastic) ![](https://img.shields.io/github/release-date-pre/zer0kerbal/SpaceYExpanded?style=plastic)
+![SpaceY Heavy Lifters](https://github.com/zer0Kerbal/SpaceY-Lifters/actions/workflows/greetings.yml/badge.svg) ![SpaceY Heavy Lifters](https://github.com/zer0Kerbal/SpaceY-Lifters/actions/workflows/AVC-VersionFileValidator.yml/badge.svg?branch=master)
+![SpaceY Heavy Lifters](https://img.shields.io/github/downloads/zer0Kerbal/SpaceY-Lifters/total?style=plastic) ![SpaceY Heavy Lifters](https://img.shields.io/github/repo-size/zer0Kerbal/SpaceY-Lifters?style=plastic) ![SpaceY Heavy Lifters](https://img.shields.io/github/contributors/zer0kerbal/SpaceY-Lifters?style=plastic) ![SpaceY Heavy Lifters](https://img.shields.io/github/release-date/zer0kerbal/SpaceY-Lifters?style=plastic) ![SpaceY Heavy Lifters](https://img.shields.io/github/release-date-pre/zer0kerbal/SpaceY-Lifters?style=plastic)
 
+### [SpaceY Expanded (SPY)](https://github.com/zer0Kerbal/SpaceYExpanded)
+
+![SpaceY Expanded](https://github.com/zer0Kerbal/SpaceYExpanded/actions/workflows/greetings.yml/badge.svg) ![SpaceY Expanded](https://github.com/zer0Kerbal/SpaceYExpanded/actions/workflows/AVC-VersionFileValidator.yml/badge.svg?branch=master)
+![SpaceY Expanded](https://img.shields.io/github/downloads/zer0Kerbal/SpaceYExpanded/total?style=plastic) ![SpaceY Expanded](https://img.shields.io/github/repo-size/zer0Kerbal/SpaceYExpanded?style=plastic) ![SpaceY Expanded](https://img.shields.io/github/contributors/zer0kerbal/SpaceYExpanded?style=plastic) ![SpaceY Expanded](https://img.shields.io/github/release-date/zer0kerbal/SpaceYExpanded?style=plastic) ![SpaceY Expanded](https://img.shields.io/github/release-date-pre/zer0kerbal/SpaceYExpanded?style=plastic)
 
 ### BurgerMod
 
