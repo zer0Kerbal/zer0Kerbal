@@ -311,150 +311,150 @@
 
 
 ### ==BurgerMod - version 0.4==
-- license: CC-BY-NC-SA-3.0 ![][CC3]
-- [forum](http://forum.kerbalspaceprogram.com/index.php?/topic/85379-*)
-- Github - n/a
-- [spacedock](https://spacedock.info/mod/96)
-- [Curseforge](https://www.curseforge.com/kerbal/ksp-mods/burger-mod)
-- CKAN: BurgerMod
+* license: CC-BY-NC-SA-3.0 ![][CC3]
+* [forum](http://forum.kerbalspaceprogram.com/index.php?/topic/85379-*)
+* Github - n/a
+* [spacedock](https://spacedock.info/mod/96)
+* [Curseforge](https://www.curseforge.com/kerbal/ksp-mods/burger-mod)
+* CKAN: BurgerMod
 
 ### ColorCodedCans - version 2.0.1
-- license: CC-BY-NC-SA ![][CC]
-- [forum](https://forum.kerbalspaceprogram.com/index.php?/topic/94336-*)
-- Github - n/a
-- [spacedock](https://spacedock.info/mod/91)
-- [Curseforge](https://www.curseforge.com/kerbal/ksp-mods/color-coded-canisters)
-- CKAN: ColorCodedCans
+* license: CC-BY-NC-SA ![][CC]
+* [forum](https://forum.kerbalspaceprogram.com/index.php?/topic/94336-*)
+* Github - n/a
+* [spacedock](https://spacedock.info/mod/91)
+* [Curseforge](https://www.curseforge.com/kerbal/ksp-mods/color-coded-canisters)
+* CKAN: ColorCodedCans
 
 ### ColorfulFuelLines - version 0.3.3
-- license: CC-BY-NC-SA ![][CC]
-- [forum](http://forum.kerbalspaceprogram.com/index.php?/topic/115315-*)
-- Github - n/a
-- [spacedock](https://spacedock.info/mod/94)
-- Curseforge: n/a
-- CKAN: ColorfulFuelLines
+* license: CC-BY-NC-SA ![][CC]
+* [forum](http://forum.kerbalspaceprogram.com/index.php?/topic/115315-*)
+* Github - n/a
+* [spacedock](https://spacedock.info/mod/94)
+* Curseforge: n/a
+* CKAN: ColorfulFuelLines
 
 ### DiscontinuedParts - version 0.4
-- license: CC-BY-NC-SA ![][CC]
-- forum - n/a
-- Github - n/a
-- [spacedock](https://spacedock.info/mod/137)
-- Curseforge: n/a
-- CKAN: DiscontinuedParts
+* license: CC-BY-NC-SA ![][CC]
+* forum - n/a
+* Github - n/a
+* [spacedock](https://spacedock.info/mod/137)
+* Curseforge: n/a
+* CKAN: DiscontinuedParts
 
 ### ==ElephantEngine - version 0.2==
-- license: CC-BY-NC-SA ![][CC]
-- [forum](http://forum.kerbalspaceprogram.com/index.php?/topic/139162-*)
-- Github - n/a
-- [spacedock](https://spacedock.info/mod/664)
-- Curseforge: n/a
-- CKAN: ElephantEngine
+* license: CC-BY-NC-SA ![][CC]
+* [forum](http://forum.kerbalspaceprogram.com/index.php?/topic/139162-*)
+* Github - n/a
+* [spacedock](https://spacedock.info/mod/664)
+* Curseforge: n/a
+* CKAN: ElephantEngine
 
 ### FTPDeprecated - version 1.0
-- license: CC-BY-NC-SA ![][CC]
-- [forum](http://forum.kerbalspaceprogram.com/index.php?/topic/97541-*)
-- Github - n/a
-- [spacedock](https://spacedock.info/mod/387)
-- Curseforge: n/a
-- CKAN: FTPDeprecated
+* license: CC-BY-NC-SA ![][CC]
+* [forum](http://forum.kerbalspaceprogram.com/index.php?/topic/97541-*)
+* Github - n/a
+* [spacedock](https://spacedock.info/mod/387)
+* Curseforge: n/a
+* CKAN: FTPDeprecated
 
 ### FuelTanksPlus - version 2.0.2
-- license: CC-BY-NC-SA ![][CC]
-- [forum](http://forum.kerbalspaceprogram.com/index.php?/topic/97541-*)
-- Github - n/a
-- [spacedock](https://spacedock.info/mod/92)
-- [Curseforge](https://www.curseforge.com/kerbal/ksp-mods/fuel-tanks-plus)
-- CKAN: FuelTanksPlus
+* license: CC-BY-NC-SA ![][CC]
+* [forum](http://forum.kerbalspaceprogram.com/index.php?/topic/97541-*)
+* Github - n/a
+* [spacedock](https://spacedock.info/mod/92)
+* [Curseforge](https://www.curseforge.com/kerbal/ksp-mods/fuel-tanks-plus)
+* CKAN: FuelTanksPlus
 
 ### ==JoolianDiscovery - version 0.8==
-- license: CC-BY-NC-SA ![][CC]
-- [forum](http://forum.kerbalspaceprogram.com/index.php?/topic/86030-*)
-- Github - n/a
-- [spacedock](https://spacedock.info/mod/95)
-- [Curseforge](https://www.curseforge.com/kerbal/ksp-mods/joolian-discovery)
-- CKAN: JoolianDiscovery
+* license: CC-BY-NC-SA ![][CC]
+* [forum](http://forum.kerbalspaceprogram.com/index.php?/topic/86030-*)
+* Github - n/a
+* [spacedock](https://spacedock.info/mod/95)
+* [Curseforge](https://www.curseforge.com/kerbal/ksp-mods/joolian-discovery)
+* CKAN: JoolianDiscovery
 
 ### ==LithobrakeExplorationTechnologies - version 0.4==
-- license: CC-BY-NC-SA-4.0 ![][CC4]
-- [forum](https://forum.kerbalspaceprogram.com/index.php?/topic/117527-*)
-- Github - n/a
-- [spacedock](https://spacedock.info/mod/93)
-- Curseforge: n/a
-- CKAN: LithobrakeExplorationTechnologies
+* license: CC-BY-NC-SA-4.0 ![][CC4]
+* [forum](https://forum.kerbalspaceprogram.com/index.php?/topic/117527-*)
+* Github - n/a
+* [spacedock](https://spacedock.info/mod/93)
+* Curseforge: n/a
+* CKAN: LithobrakeExplorationTechnologies
 
 ### ModularRocketSystem - version 1.13.2
-- license: CC-BY-NC-SA ![][CC]
-- [forum](http://forum.kerbalspaceprogram.com/index.php?/topic/83959-*)
-- Github - n/a
-- [spacedock](https://spacedock.info/mod/86)
-- [Curseforge](https://www.curseforge.com/kerbal/ksp-mods/modular-rocket-systems-stock-alike-parts-mod)
-- CKAN: ModularRocketSystem
+* license: CC-BY-NC-SA ![][CC]
+* [forum](http://forum.kerbalspaceprogram.com/index.php?/topic/83959-*)
+* Github - n/a
+* [spacedock](https://spacedock.info/mod/86)
+* [Curseforge](https://www.curseforge.com/kerbal/ksp-mods/modular-rocket-systems-stock-alike-parts-mod)
+* CKAN: ModularRocketSystem
 
 ### Modular Rocket Systems LITE
-- license: CC-BY-NC-SA-4.0 ![][CC4]
-- [forum](http://forum.kerbalspaceprogram.com/index.php?/topic/83959-*)
-- Github - n/a
-- [spacedock](https://spacedock.info/mod/87)
-- [Curseforge](https://www.curseforge.com/kerbal/ksp-mods/modular-rocket-systems-lite)
-- CKAN: ModularRocketSystemsLITE
+* license: CC-BY-NC-SA-4.0 ![][CC4]
+* [forum](http://forum.kerbalspaceprogram.com/index.php?/topic/83959-*)
+* Github - n/a
+* [spacedock](https://spacedock.info/mod/87)
+* [Curseforge](https://www.curseforge.com/kerbal/ksp-mods/modular-rocket-systems-lite)
+* CKAN: ModularRocketSystemsLITE
 
 ### RealScaleBoosters - version 0.16
-- license: CC-BY-NC-SA ![][CC]
-- [forum](http://forum.kerbalspaceprogram.com/index.php?/topic/130776-*)
-- Github - n/a
-- [spacedock](https://spacedock.info/mod/90)
-- [Curseforge](https://www.curseforge.com/kerbal/ksp-mods/real-scale-boosters)
-- CKAN: RealScaleBoosters
+* license: CC-BY-NC-SA ![][CC]
+* [forum](http://forum.kerbalspaceprogram.com/index.php?/topic/130776-*)
+* Github - n/a
+* [spacedock](https://spacedock.info/mod/90)
+* [Curseforge](https://www.curseforge.com/kerbal/ksp-mods/real-scale-boosters)
+* CKAN: RealScaleBoosters
 
 ### RealScaleBoostersStockalike - version 0.4
-- license: CC-BY-NC-SA-4.0 ![][CC4]
-- [forum](http://forum.kerbalspaceprogram.com/index.php?/topic/130776-*)
-- Github - n/a
-- [spacedock](https://spacedock.info/mod/561)
-- Curseforge: n/a
-- CKAN: RealScaleBoostersStockalike
+* license: CC-BY-NC-SA-4.0 ![][CC4]
+* [forum](http://forum.kerbalspaceprogram.com/index.php?/topic/130776-*)
+* Github - n/a
+* [spacedock](https://spacedock.info/mod/561)
+* Curseforge: n/a
+* CKAN: RealScaleBoostersStockalike
 
 ### RSSeaDragon - version 0.3.4
-- license: CC-BY-NC-SA-4.0 ![][CC4]
-- [forum](http://forum.kerbalspaceprogram.com/index.php?/topic/134934-*)
-- Github - n/a
-- [spacedock](https://spacedock.info/mod/440)
-- Curseforge: n/a
-- CKAN: RSSeaDragon
+* license: CC-BY-NC-SA-4.0 ![][CC4]
+* [forum](http://forum.kerbalspaceprogram.com/index.php?/topic/134934-*)
+* Github - n/a
+* [spacedock](https://spacedock.info/mod/440)
+* Curseforge: n/a
+* CKAN: RSSeaDragon
 
 ### SpaceY-Expanded - version 1.4
-- license: CC-BY-NC-SA-4.0 ![][CC4]
-- [forum](http://forum.kerbalspaceprogram.com/index.php?/topic/120012-*)
-- Github - n/a
-- [spacedock](https://spacedock.info/mod/89)
-- [Curseforge](https://www.curseforge.com/kerbal/ksp-mods/spacey-expanded)
-- CKAN: SpaceY-Expanded
+* license: CC-BY-NC-SA-4.0 ![][CC4]
+* [forum](http://forum.kerbalspaceprogram.com/index.php?/topic/120012-*)
+* Github - n/a
+* [spacedock](https://spacedock.info/mod/89)
+* [Curseforge](https://www.curseforge.com/kerbal/ksp-mods/spacey-expanded)
+* CKAN: SpaceY-Expanded
 
 ### SpaceY-Lifters - version 1.17.2
-- license: CC-BY-NC-SA-4.0 ![][CC4]
-- [forum](http://forum.kerbalspaceprogram.com/index.php?/topic/90545-*)
-- Github - n/a
-- [spacedock](https://spacedock.info/mod/88)
-- [Curseforge](https://www.curseforge.com/kerbal/ksp-mods/spacey-heavy-lifters-parts-pack)
-- CKAN: SpaceY-Lifters
+* license: CC-BY-NC-SA-4.0 ![][CC4]
+* [forum](http://forum.kerbalspaceprogram.com/index.php?/topic/90545-*)
+* Github - n/a
+* [spacedock](https://spacedock.info/mod/88)
+* [Curseforge](https://www.curseforge.com/kerbal/ksp-mods/spacey-heavy-lifters-parts-pack)
+* CKAN: SpaceY-Lifters
 
 ### Zero Point Inline Fairings - version 1.0.2
-- license: CC-BY-NC-SA ![][CC]
-- [forum](http://forum.kerbalspaceprogram.com/index.php?/topic/85178-*)
-- Github - n/a
-- [spacedock](https://spacedock.info/mod/97)
-- [Curseforge](https://www.curseforge.com/kerbal/ksp-mods/zero-point-inline-fairings)
-- CKAN: ZeroPointInlineFairings
+* license: CC-BY-NC-SA ![][CC]
+* [forum](http://forum.kerbalspaceprogram.com/index.php?/topic/85178-*)
+* Github - n/a
+* [spacedock](https://spacedock.info/mod/97)
+* [Curseforge](https://www.curseforge.com/kerbal/ksp-mods/zero-point-inline-fairings)
+* CKAN: ZeroPointInlineFairings
 
 ### Zero Point Inline Fairings LITE (retired)
-- LITE [Curseforge](https://www.curseforge.com/kerbal/ksp-mods/zero-point-inline-fairings-lite)
+* LITE [Curseforge](https://www.curseforge.com/kerbal/ksp-mods/zero-point-inline-fairings-lite)
 
 ### RealScaleBoosters-Patches
-- license: CC0 1.0 Universal ![][CC0]
-- forum - n/a
-- [Github](https://github.com/NecroBones/RealScaleBoosters-Patches)
-- spacedock - n/a
-- Curseforge: n/a
+* license: CC0 1.0 Universal ![][CC0]
+* forum - n/a
+* [Github](https://github.com/NecroBones/RealScaleBoosters-Patches)
+* spacedock - n/a
+* Curseforge: n/a
 
 </details>
 
@@ -534,7 +534,7 @@
   <summary>VanguardAstrodynamics</summary>
 
 * VXSeriesI
-~~* VXSeriesII~~
+* ~~VXSeriesII~~
 * Rodent
 * KickbackBoosterSegments
 * VanguardAstrodynamics
