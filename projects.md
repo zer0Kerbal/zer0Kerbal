@@ -71,7 +71,7 @@
     59. [Special Parts Division (KM/SPD)](#special-parts-division-kmspd)
 
 <details>
-    <summary>Additional Cards</summary>
+  <summary>Additional Cards</summary>
 
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zer0Kerbal&repo=Pteron)](https://github.com/zer0Kerbal/Pteron)
 
@@ -185,7 +185,7 @@
 ## DaMichel's Parts Pack (DM)
 
 <details>
-   <summary>DaMichel's</summary>
+  <summary>DaMichel's</summary>
 
    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zer0Kerbal&repo=DaMichel)](https://github.com/zer0Kerbal/DaMichel)   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zer0Kerbal&repo=AeroRadial)](https://github.com/zer0Kerbal/AeroRadial) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zer0Kerbal&repo=Fuselage)](https://github.com/zer0Kerbal/Fuselage) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zer0Kerbal&repo=SphericalTanks)](https://github.com/zer0Kerbal/SphericalTanks) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zer0Kerbal&repo=Cargobays)](https://github.com/zer0Kerbal/CargoBays)
 
@@ -224,7 +224,7 @@
 ## Holdiay/Event
 
 <details>
- <summary>Holiday</summary>
+  <summary>Holiday</summary>
 
 ### [JackOLantern](https://github.com/zer0Kerbal/JackOLantern)
 
@@ -238,6 +238,11 @@
 
 </details>
 
+## MoarKerbals
+
+<details>
+  <summary>MoarKerbals</summary>
+
 ### [MoarKerbals! (MOAR)](https://github.com/zer0Kerbal/MoarKerbals)
 ![](https://github.com/zer0Kerbal/MoarKerbals/actions/workflows/greetings.yml/badge.svg) ![](https://github.com/zer0Kerbal/MoarKerbals/actions/workflows/AVC-VersionFileValidator.yml/badge.svg?branch=master)
 ![](https://img.shields.io/github/downloads/zer0Kerbal/MoarKerbals/total?style=plastic) ![](https://img.shields.io/github/repo-size/zer0Kerbal/MoarKerbals?style=plastic) ![](https://img.shields.io/github/contributors/zer0kerbal/MoarKerbals?style=plastic) ![](https://img.shields.io/github/release-date/zer0kerbal/MoarKerbals?style=plastic) ![](https://img.shields.io/github/release-date-pre/zer0kerbal/MoarKerbals?style=plastic)
@@ -245,6 +250,8 @@
 ### [MoarKerbalsParts! (MOARP)](https://github.com/zer0Kerbal/MoarKerbalsParts)
 ![](https://github.com/zer0Kerbal/MoarKerbalsParts/actions/workflows/greetings.yml/badge.svg) ![](https://github.com/zer0Kerbal/MoarKerbalsParts/actions/workflows/AVC-VersionFileValidator.yml/badge.svg?branch=master)
 ![](https://img.shields.io/github/downloads/zer0Kerbal/MoarKerbalsParts/total?style=plastic) ![](https://img.shields.io/github/repo-size/zer0Kerbal/MoarKerbalsParts?style=plastic) ![](https://img.shields.io/github/contributors/zer0kerbal/MoarKerbalsParts?style=plastic) ![](https://img.shields.io/github/release-date/zer0kerbal/MoarKerbalsParts?style=plastic) ![](https://img.shields.io/github/release-date-pre/zer0kerbal/MoarKerbalsParts?style=plastic)
+
+</details>
 
 ### [Surface Experiment Pack! (SEP)](https://github.com/zer0Kerbal/SurfaceExperimentPack)
 ![](https://github.com/zer0Kerbal/SurfaceExperimentPack/actions/workflows/greetings.yml/badge.svg) ![](https://github.com/zer0Kerbal/SurfaceExperimentPack/actions/workflows/AVC-VersionFileValidator.yml/badge.svg?branch=master)
@@ -254,8 +261,10 @@
 ![](https://github.com/zer0Kerbal/CoyoteCargoFreighter/actions/workflows/greetings.yml/badge.svg) ![](https://github.com/zer0Kerbal/CoyoteCargoFreighter/actions/workflows/AVC-VersionFileValidator.yml/badge.svg?branch=master)
 ![](https://img.shields.io/github/downloads/zer0Kerbal/CoyoteCargoFreighter/total?style=plastic) ![](https://img.shields.io/github/repo-size/zer0Kerbal/CoyoteCargoFreighter?style=plastic) ![](https://img.shields.io/github/contributors/zer0kerbal/CoyoteCargoFreighter?style=plastic) ![](https://img.shields.io/github/release-date/zer0kerbal/CoyoteCargoFreighter?style=plastic) ![](https://img.shields.io/github/release-date-pre/zer0kerbal/CoyoteCargoFreighter?style=plastic)
 
- <details>
-   <summary>NecroBones</summary>
+## NecroBones
+
+<details>
+  <summary>NecroBones</summary>
 
 ### [The Burger Mod (BURG)](https://github.com/zer0Kerbal/BurgerMod)
 ![](https://github.com/zer0Kerbal/BurgerMod/actions/workflows/greetings.yml/badge.svg) ![](https://github.com/zer0Kerbal/BurgerMod/actions/workflows/AVC-VersionFileValidator.yml/badge.svg?branch=master)
@@ -447,8 +456,8 @@
 ![](https://github.com/zer0Kerbal/MiniSampleReturnCapsule/actions/workflows/greetings.yml/badge.svg) ![](https://github.com/zer0Kerbal/MiniSampleReturnCapsule/actions/workflows/AVC-VersionFileValidator.yml/badge.svg?branch=master)
 ![](https://img.shields.io/github/downloads/zer0Kerbal/MiniSampleReturnCapsule/total?style=plastic) ![](https://img.shields.io/github/repo-size/zer0Kerbal/MiniSampleReturnCapsule?style=plastic) ![](https://img.shields.io/github/contributors/zer0kerbal/MiniSampleReturnCapsule?style=plastic) ![](https://img.shields.io/github/release-date/zer0kerbal/MiniSampleReturnCapsule?style=plastic) ![](https://img.shields.io/github/release-date-pre/zer0kerbal/MiniSampleReturnCapsule?style=plastic)
 
- <details>
-   <summary>Simple series of mods</summary>
+<details>
+  <summary>Simple series of mods</summary>
 
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zer0Kerbal&repo=SimpleConstruction)](https://github.com/zer0Kerbal/SimpleConstruction) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zer0Kerbal&repo=SimpleLogistics)](https://github.com/zer0Kerbal/SimpleLogistics)
    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zer0Kerbal&repo=SimpleLife)](https://github.com/zer0Kerbal/SimpleLife) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zer0Kerbal&repo=Notes)](https://github.com/zer0Kerbal/Notes)
@@ -474,8 +483,8 @@
    ![](https://img.shields.io/github/downloads/zer0Kerbal/Notes/total?style=plastic) ![](https://img.shields.io/github/repo-size/zer0Kerbal/Notes?style=plastic) ![](https://img.shields.io/github/contributors/zer0kerbal/Notes?style=plastic) ![](https://img.shields.io/github/release-date/zer0kerbal/Notes?style=plastic) ![](https://img.shields.io/github/release-date-pre/zer0kerbal/Notes?style=plastic)
 </details>
 
- <details>
-   <summary>More: series of mods</summary>
+<details>
+  <summary>More: series of mods</summary>
 
 ### [More: Hitchhikers! (MHH)](https://github.com/zer0Kerbal/MoreHitchhikers)
 ![](https://github.com/zer0Kerbal/MoreHitchhikers/actions/workflows/greetings.yml/badge.svg) ![](https://github.com/zer0Kerbal/MoreHitchhikers/actions/workflows/AVC-VersionFileValidator.yml/badge.svg?branch=master)
@@ -497,8 +506,8 @@
 
   ### VanguardAstrodynamics
 
- <details>
-   <summary>VanguardAstrodynamics</summary>
+<details>
+  <summary>VanguardAstrodynamics</summary>
 
 * VXSeriesI
 * VXSeriesII
@@ -515,8 +524,8 @@
 
     ### dtobi's Klockheed Martian
 
- <details>
-   <summary>Klockheed Martian</summary>
+<details>
+  <summary>Klockheed Martian</summary>
 
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zer0Kerbal&repo=KlockheedMartian)](https://github.com/zer0Kerbal/KlockheedMartian)  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zer0Kerbal&repo=SpaceShuttleEngines)](https://github.com/zer0Kerbal/SpaceShuttleEngines)
 
