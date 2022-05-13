@@ -1,6 +1,6 @@
 # [README](README.md)
 
-[TOC]
+## TOC
  1. [Plugin Addons](#plugin-addons)
     1. [ODFCr (ODFC)](#odfcr-odfc)
     2. [Biomatic (BIO)](#biomatic-bio)
@@ -81,10 +81,12 @@
 ---
 ## Plugin Addons
 
+[TOC/top](#TOC)
+
 <details>
   <summary>Plugins</summary>
 
-### [Biomatic (BIO)](https://github.com/zer0Kerbal/Biomatic)
+* [Biomatic (BIO)](https://github.com/zer0Kerbal/Biomatic)
 
 ![Biomatic](https://img.shields.io/github/v/release/zer0Kerbal/Biomatic?include_prereleases?style=plastic)
 ![Biomatic](https://github.com/zer0Kerbal/Komplexity/actions/workflows/AVC-VersionFileValidator.yml/badge.svg?branch=main "https://github.com/zer0Kerbal/Komplexity/actions/workflows/AVC-VersionFileValidator.yml" )
@@ -96,7 +98,7 @@
 ![Biomatic](https://img.shields.io/github/release-date/zer0kerbal/Biomatic?style=plastic)
 ![Biomatic](https://img.shields.io/github/release-date-pre/zer0kerbal/Biomatic?style=plastic)
 
-### [KaboOom! (BOOM)](https://github.com/zer0Kerbal/Kaboom)
+* [KaboOom! (BOOM)](https://github.com/zer0Kerbal/Kaboom)
 
 ![Kaboom](https://github.com/zer0Kerbal/Kaboom/actions/workflows/greetings.yml/badge.svg) ![Kaboom](https://github.com/zer0Kerbal/Kaboom/actions/workflows/AVC-VersionFileValidator.yml/badge.svg?branch=master)
 ![Kaboom](https://img.shields.io/github/downloads/zer0Kerbal/Kaboom/total?style=plastic) ![Kaboom](https://img.shields.io/github/repo-size/zer0Kerbal/Kaboom?style=plastic) ![Kaboom](https://img.shields.io/github/contributors/zer0kerbal/Kaboom?style=plastic) ![Kaboom](https://img.shields.io/github/release-date/zer0kerbal/Kaboom?style=plastic) ![Kaboom](https://img.shields.io/github/release-date-pre/zer0kerbal/Kaboom?style=plastic)
