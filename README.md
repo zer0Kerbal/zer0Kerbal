@@ -45,16 +45,16 @@
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#29](https://github.com/zer0Kerbal/Fuselage/pull/29) in [zer0Kerbal/Fuselage](https://github.com/zer0Kerbal/Fuselage)
-2. ❗️ Opened issue [#28](https://github.com/zer0Kerbal/Fuselage/issues/28) in [zer0Kerbal/Fuselage](https://github.com/zer0Kerbal/Fuselage)
-3. ❗️ Opened issue [#27](https://github.com/zer0Kerbal/Fuselage/issues/27) in [zer0Kerbal/Fuselage](https://github.com/zer0Kerbal/Fuselage)
-4. 🎉 Merged PR [#27](https://github.com/zer0Kerbal/CargoBays/pull/27) in [zer0Kerbal/CargoBays](https://github.com/zer0Kerbal/CargoBays)
-5. 🗣 Commented on [#9122](https://github.com/KSP-CKAN/NetKAN/issues/9122) in [KSP-CKAN/NetKAN](https://github.com/KSP-CKAN/NetKAN)
-6. ❗️ Opened issue [#31](https://github.com/zer0Kerbal/TransparentPods/issues/31) in [zer0Kerbal/TransparentPods](https://github.com/zer0Kerbal/TransparentPods)
-7. ❗️ Opened issue [#32](https://github.com/zer0Kerbal/TransparentPods/issues/32) in [zer0Kerbal/TransparentPods](https://github.com/zer0Kerbal/TransparentPods)
-8. ❗️ Opened issue [#30](https://github.com/zer0Kerbal/TransparentPods/issues/30) in [zer0Kerbal/TransparentPods](https://github.com/zer0Kerbal/TransparentPods)
-9. ❗️ Opened issue [#29](https://github.com/zer0Kerbal/TransparentPods/issues/29) in [zer0Kerbal/TransparentPods](https://github.com/zer0Kerbal/TransparentPods)
-10. ❗️ Opened issue [#27](https://github.com/zer0Kerbal/TransparentPods/issues/27) in [zer0Kerbal/TransparentPods](https://github.com/zer0Kerbal/TransparentPods)
+1. 🎉 Merged PR [#33](https://github.com/zer0Kerbal/Fuselage/pull/33) in [zer0Kerbal/Fuselage](https://github.com/zer0Kerbal/Fuselage)
+2. ❗️ Closed issue [#27](https://github.com/zer0Kerbal/Fuselage/issues/27) in [zer0Kerbal/Fuselage](https://github.com/zer0Kerbal/Fuselage)
+3. ❗️ Closed issue [#24](https://github.com/zer0Kerbal/Fuselage/issues/24) in [zer0Kerbal/Fuselage](https://github.com/zer0Kerbal/Fuselage)
+4. 💪 Opened PR [#33](https://github.com/zer0Kerbal/Fuselage/pull/33) in [zer0Kerbal/Fuselage](https://github.com/zer0Kerbal/Fuselage)
+5. 🎉 Merged PR [#31](https://github.com/zer0Kerbal/Fuselage/pull/31) in [zer0Kerbal/Fuselage](https://github.com/zer0Kerbal/Fuselage)
+6. ❗️ Closed issue [#26](https://github.com/zer0Kerbal/Fuselage/issues/26) in [zer0Kerbal/Fuselage](https://github.com/zer0Kerbal/Fuselage)
+7. 💪 Opened PR [#31](https://github.com/zer0Kerbal/Fuselage/pull/31) in [zer0Kerbal/Fuselage](https://github.com/zer0Kerbal/Fuselage)
+8. ❗️ Closed issue [#25](https://github.com/zer0Kerbal/Fuselage/issues/25) in [zer0Kerbal/Fuselage](https://github.com/zer0Kerbal/Fuselage)
+9. 🎉 Merged PR [#29](https://github.com/zer0Kerbal/Fuselage/pull/29) in [zer0Kerbal/Fuselage](https://github.com/zer0Kerbal/Fuselage)
+10. ❗️ Closed issue [#7](https://github.com/zer0Kerbal/Fuselage/issues/7) in [zer0Kerbal/Fuselage](https://github.com/zer0Kerbal/Fuselage)
 <!--END_SECTION:activity-->
 
 </details
