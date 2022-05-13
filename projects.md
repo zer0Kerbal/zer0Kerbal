@@ -206,8 +206,8 @@
 
 ### [Fuselage (DMFS)](https://github.com/zer0Kerbal/Fuselage)
   
-  ![](https://github.com/zer0Kerbal/Fuselage/actions/workflows/greetings.yml/badge.svg) ![](https://github.com/zer0Kerbal/Fuselage/actions/workflows/AVC-VersionFileValidator.yml/badge.svg?branch=master) 
-  ![](https://img.shields.io/github/downloads/zer0Kerbal/Fuselage/total?style=plastic) ![](https://img.shields.io/github/repo-size/zer0Kerbal/Fuselage?style=plastic) ![](https://img.shields.io/github/contributors/zer0kerbal/Fuselage?style=plastic) ![](https://img.shields.io/github/release-date/zer0kerbal/Fuselage?style=plastic) ![](https://img.shields.io/github/release-date-pre/zer0kerbal/Fuselage?style=plastic)
+  ![Fuselage](https://github.com/zer0Kerbal/Fuselage/actions/workflows/greetings.yml/badge.svg) ![Fuselage](https://github.com/zer0Kerbal/Fuselage/actions/workflows/AVC-VersionFileValidator.yml/badge.svg?branch=master) 
+  ![Fuselage](https://img.shields.io/github/downloads/zer0Kerbal/Fuselage/total?style=plastic) ![Fuselage](https://img.shields.io/github/repo-size/zer0Kerbal/Fuselage?style=plastic) ![Fuselage](https://img.shields.io/github/contributors/zer0kerbal/Fuselage?style=plastic) ![Fuselage](https://img.shields.io/github/release-date/zer0kerbal/Fuselage?style=plastic) ![Fuselage](https://img.shields.io/github/release-date-pre/zer0kerbal/Fuselage?style=plastic)
 
 ### [CargoBays (DMCB)](https://github.com/zer0Kerbal/CargoBays)
   
