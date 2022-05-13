@@ -211,8 +211,8 @@
 
 ### [CargoBays (DMCB)](https://github.com/zer0Kerbal/CargoBays)
   
-  ![](https://github.com/zer0Kerbal/CargoBays/actions/workflows/greetings.yml/badge.svg) ![](https://github.com/zer0Kerbal/CargoBays/actions/workflows/AVC-VersionFileValidator.yml/badge.svg?branch=master) 
-  ![](https://img.shields.io/github/downloads/zer0Kerbal/CargoBays/total?style=plastic) ![](https://img.shields.io/github/repo-size/zer0Kerbal/CargoBays?style=plastic) ![](https://img.shields.io/github/contributors/zer0kerbal/CargoBays?style=plastic) ![](https://img.shields.io/github/release-date/zer0kerbal/CargoBays?style=plastic) ![](https://img.shields.io/github/release-date-pre/zer0kerbal/CargoBays?style=plastic)
+  ![CargoBays](https://github.com/zer0Kerbal/CargoBays/actions/workflows/greetings.yml/badge.svg) ![CargoBays](https://github.com/zer0Kerbal/CargoBays/actions/workflows/AVC-VersionFileValidator.yml/badge.svg?branch=master) 
+  ![CargoBays](https://img.shields.io/github/downloads/zer0Kerbal/CargoBays/total?style=plastic) ![CargoBays](https://img.shields.io/github/repo-size/zer0Kerbal/CargoBays?style=plastic) ![CargoBays](https://img.shields.io/github/contributors/zer0kerbal/CargoBays?style=plastic) ![CargoBays](https://img.shields.io/github/release-date/zer0kerbal/CargoBays?style=plastic) ![CargoBays](https://img.shields.io/github/release-date-pre/zer0kerbal/CargoBays?style=plastic)
 
 ### [Spherical Tanks (DMST)](https://github.com/zer0Kerbal/SphericalTanks)
   
