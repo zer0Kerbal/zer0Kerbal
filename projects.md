@@ -285,12 +285,14 @@
 ![](https://img.shields.io/github/downloads/zer0Kerbal/BurgerMod/total?style=plastic) ![](https://img.shields.io/github/repo-size/zer0Kerbal/BurgerMod?style=plastic) ![](https://img.shields.io/github/contributors/zer0kerbal/BurgerMod?style=plastic) ![](https://img.shields.io/github/release-date/zer0kerbal/BurgerMod?style=plastic) ![](https://img.shields.io/github/release-date-pre/zer0kerbal/BurgerMod?style=plastic)
 
 ### [The Elephant Engine (NBEE)](https://github.com/zer0Kerbal/ElephantEngine)
-![](https://github.com/zer0Kerbal/ElephantEngine/actions/workflows/greetings.yml/badge.svg) ![](https://github.com/zer0Kerbal/ElephantEngine/actions/workflows/AVC-VersionFileValidator.yml/badge.svg?branch=master)
-![](https://img.shields.io/github/downloads/zer0Kerbal/ElephantEngine/total?style=plastic) ![](https://img.shields.io/github/repo-size/zer0Kerbal/ElephantEngine?style=plastic) ![](https://img.shields.io/github/contributors/zer0kerbal/ElephantEngine?style=plastic) ![](https://img.shields.io/github/release-date/zer0kerbal/ElephantEngine?style=plastic) ![](https://img.shields.io/github/release-date-pre/zer0kerbal/ElephantEngine?style=plastic)
+
+![The Elephant Engine](https://github.com/zer0Kerbal/ElephantEngine/actions/workflows/greetings.yml/badge.svg) ![The Elephant Engine](https://github.com/zer0Kerbal/ElephantEngine/actions/workflows/AVC-VersionFileValidator.yml/badge.svg?branch=master)
+![The Elephant Engine](https://img.shields.io/github/downloads/zer0Kerbal/ElephantEngine/total?style=plastic) ![The Elephant Engine](https://img.shields.io/github/repo-size/zer0Kerbal/ElephantEngine?style=plastic) ![The Elephant Engine](https://img.shields.io/github/contributors/zer0kerbal/ElephantEngine?style=plastic) ![The Elephant Engine](https://img.shields.io/github/release-date/zer0kerbal/ElephantEngine?style=plastic) ![The Elephant Engine](https://img.shields.io/github/release-date-pre/zer0kerbal/ElephantEngine?style=plastic)
 
 ### [Joolian Discovery (NBJD)](https://github.com/zer0Kerbal/JoolianDiscovery)
-![](https://github.com/zer0Kerbal/JoolianDiscovery/actions/workflows/greetings.yml/badge.svg) ![](https://github.com/zer0Kerbal/JoolianDiscovery/actions/workflows/AVC-VersionFileValidator.yml/badge.svg?branch=master)
-![](https://img.shields.io/github/downloads/zer0Kerbal/JoolianDiscovery/total?style=plastic) ![](https://img.shields.io/github/repo-size/zer0Kerbal/JoolianDiscovery?style=plastic) ![](https://img.shields.io/github/contributors/zer0kerbal/JoolianDiscovery?style=plastic) ![](https://img.shields.io/github/release-date/zer0kerbal/JoolianDiscovery?style=plastic) ![](https://img.shields.io/github/release-date-pre/zer0kerbal/JoolianDiscovery?style=plastic)
+
+![Joolian Discovery](https://github.com/zer0Kerbal/JoolianDiscovery/actions/workflows/greetings.yml/badge.svg) ![Joolian Discovery](https://github.com/zer0Kerbal/JoolianDiscovery/actions/workflows/AVC-VersionFileValidator.yml/badge.svg?branch=master)
+![Joolian Discovery](https://img.shields.io/github/downloads/zer0Kerbal/JoolianDiscovery/total?style=plastic) ![Joolian Discovery](https://img.shields.io/github/repo-size/zer0Kerbal/JoolianDiscovery?style=plastic) ![Joolian Discovery](https://img.shields.io/github/contributors/zer0kerbal/JoolianDiscovery?style=plastic) ![Joolian Discovery](https://img.shields.io/github/release-date/zer0kerbal/JoolianDiscovery?style=plastic) ![Joolian Discovery](https://img.shields.io/github/release-date-pre/zer0kerbal/JoolianDiscovery?style=plastic)
 
 ### [Lithobrake Exploration Technologies (LET)(LETech)](https://github.com/zer0Kerbal/LithobrakeExplorationTechnologies)
 
