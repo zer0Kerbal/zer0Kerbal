@@ -45,11 +45,11 @@
 <!-- > SimpleLogistics is a Polyglot! It now twelve languages.   -->
 > *Additions and corrections solicited and welcome!*  
 
-See the [README in the Localization folder][LINK:localization] for instructions for adding or improving translations for languages other than English. GitHub push is the best way to contribute.
+See the [README in the Localization folder][lreadme] for instructions for adding or improving translations for languages other than English. GitHub push is the best way to contribute.
 
 <!-- Localization -->
-[LINK:localization]: https://github.com/zer0Kerbal/zer0Kerbal/blob/zed'K/GameData/ScrapYard/Localization/readme.md "Localization"
-[LINK:localization]: https://github.com/zer0Kerbal/zer0Kerbal/blob/zed'K/GameData/ScrapYard/Localization/quickstart.md "Localization"
+[lreadme]: https://github.com/zer0Kerbal/zer0Kerbal/blob/master/Localization/readme.md "Localization Readme"
+[qstart]: https://github.com/zer0Kerbal/zer0Kerbal/blob/master/Localization/quickstart.md "Quickstart"
 
 [EN]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/EN.png "English"  
 [BR]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/BR.png "Português Brasil"
