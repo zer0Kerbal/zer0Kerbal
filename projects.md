@@ -164,6 +164,8 @@
 
 </details>
 
+---
+
 ## Holiday/Event
 
 [TOC/top](#TOC)
@@ -183,6 +185,8 @@
 
 </details>
 
+---
+
 ## MoarKerbals
 
 [TOC/top](#TOC)
@@ -200,6 +204,8 @@
 
 </details>
 
+---
+
 ### [Surface Experiment Pack! (SEP)](https://github.com/zer0Kerbal/SurfaceExperimentPack)
 ![](https://github.com/zer0Kerbal/SurfaceExperimentPack/actions/workflows/greetings.yml/badge.svg) ![](https://github.com/zer0Kerbal/SurfaceExperimentPack/actions/workflows/AVC-VersionFileValidator.yml/badge.svg?branch=master)
 ![](https://img.shields.io/github/downloads/zer0Kerbal/SurfaceExperimentPack/total?style=plastic) ![](https://img.shields.io/github/repo-size/zer0Kerbal/SurfaceExperimentPack?style=plastic) ![](https://img.shields.io/github/contributors/zer0kerbal/SurfaceExperimentPack?style=plastic) ![](https://img.shields.io/github/release-date/zer0kerbal/SurfaceExperimentPack?style=plastic) ![](https://img.shields.io/github/release-date-pre/zer0kerbal/SurfaceExperimentPack?style=plastic)
@@ -207,6 +213,20 @@
 ### [Coyote Cargo Freighter (CCF)](https://github.com/zer0Kerbal/CoyoteCargoFreighter)
 ![](https://github.com/zer0Kerbal/CoyoteCargoFreighter/actions/workflows/greetings.yml/badge.svg) ![](https://github.com/zer0Kerbal/CoyoteCargoFreighter/actions/workflows/AVC-VersionFileValidator.yml/badge.svg?branch=master)
 ![](https://img.shields.io/github/downloads/zer0Kerbal/CoyoteCargoFreighter/total?style=plastic) ![](https://img.shields.io/github/repo-size/zer0Kerbal/CoyoteCargoFreighter?style=plastic) ![](https://img.shields.io/github/contributors/zer0kerbal/CoyoteCargoFreighter?style=plastic) ![](https://img.shields.io/github/release-date/zer0kerbal/CoyoteCargoFreighter?style=plastic) ![](https://img.shields.io/github/release-date-pre/zer0kerbal/CoyoteCargoFreighter?style=plastic)
+
+### [Taerobee (TBEE)](https://github.com/zer0Kerbal/Taerobee)
+![](https://github.com/zer0Kerbal/Taerobee/actions/workflows/greetings.yml/badge.svg) ![](https://github.com/zer0Kerbal/Taerobee/actions/workflows/AVC-VersionFileValidator.yml/badge.svg?branch=master)
+![](https://img.shields.io/github/downloads/zer0Kerbal/Taerobee/total?style=plastic) ![](https://img.shields.io/github/repo-size/zer0Kerbal/Taerobee?style=plastic) ![](https://img.shields.io/github/contributors/zer0kerbal/Taerobee?style=plastic) ![](https://img.shields.io/github/release-date/zer0kerbal/Taerobee?style=plastic) ![](https://img.shields.io/github/release-date-pre/zer0kerbal/Taerobee?style=plastic)
+
+### [KustomKerbals ()](https://github.com/zer0Kerbal/KustomKerbals)
+![](https://github.com/zer0Kerbal/KustomKerbals/actions/workflows/greetings.yml/badge.svg) ![](https://github.com/zer0Kerbal/KustomKerbals/actions/workflows/AVC-VersionFileValidator.yml/badge.svg?branch=master)
+![](https://img.shields.io/github/downloads/zer0Kerbal/KustomKerbals/total?style=plastic) ![](https://img.shields.io/github/repo-size/zer0Kerbal/KustomKerbals?style=plastic) ![](https://img.shields.io/github/contributors/zer0kerbal/KustomKerbals?style=plastic) ![](https://img.shields.io/github/release-date/zer0kerbal/KustomKerbals?style=plastic) ![](https://img.shields.io/github/release-date-pre/zer0kerbal/KustomKerbals?style=plastic)
+
+### [MiniSampleReturnCapsule (MSRC)](https://github.com/zer0Kerbal/MiniSampleReturnCapsule)
+![](https://github.com/zer0Kerbal/MiniSampleReturnCapsule/actions/workflows/greetings.yml/badge.svg) ![](https://github.com/zer0Kerbal/MiniSampleReturnCapsule/actions/workflows/AVC-VersionFileValidator.yml/badge.svg?branch=master)
+![](https://img.shields.io/github/downloads/zer0Kerbal/MiniSampleReturnCapsule/total?style=plastic) ![](https://img.shields.io/github/repo-size/zer0Kerbal/MiniSampleReturnCapsule?style=plastic) ![](https://img.shields.io/github/contributors/zer0kerbal/MiniSampleReturnCapsule?style=plastic) ![](https://img.shields.io/github/release-date/zer0kerbal/MiniSampleReturnCapsule?style=plastic) ![](https://img.shields.io/github/release-date-pre/zer0kerbal/MiniSampleReturnCapsule?style=plastic)
+
+---
 
 ## NecroBones
 
@@ -415,18 +435,6 @@
 * Curseforge: n/a
 
 </details>
-
-### [Taerobee (TBEE)](https://github.com/zer0Kerbal/Taerobee)
-![](https://github.com/zer0Kerbal/Taerobee/actions/workflows/greetings.yml/badge.svg) ![](https://github.com/zer0Kerbal/Taerobee/actions/workflows/AVC-VersionFileValidator.yml/badge.svg?branch=master)
-![](https://img.shields.io/github/downloads/zer0Kerbal/Taerobee/total?style=plastic) ![](https://img.shields.io/github/repo-size/zer0Kerbal/Taerobee?style=plastic) ![](https://img.shields.io/github/contributors/zer0kerbal/Taerobee?style=plastic) ![](https://img.shields.io/github/release-date/zer0kerbal/Taerobee?style=plastic) ![](https://img.shields.io/github/release-date-pre/zer0kerbal/Taerobee?style=plastic)
-
-### [KustomKerbals ()](https://github.com/zer0Kerbal/KustomKerbals)
-![](https://github.com/zer0Kerbal/KustomKerbals/actions/workflows/greetings.yml/badge.svg) ![](https://github.com/zer0Kerbal/KustomKerbals/actions/workflows/AVC-VersionFileValidator.yml/badge.svg?branch=master)
-![](https://img.shields.io/github/downloads/zer0Kerbal/KustomKerbals/total?style=plastic) ![](https://img.shields.io/github/repo-size/zer0Kerbal/KustomKerbals?style=plastic) ![](https://img.shields.io/github/contributors/zer0kerbal/KustomKerbals?style=plastic) ![](https://img.shields.io/github/release-date/zer0kerbal/KustomKerbals?style=plastic) ![](https://img.shields.io/github/release-date-pre/zer0kerbal/KustomKerbals?style=plastic)
-
-### [MiniSampleReturnCapsule (MSRC)](https://github.com/zer0Kerbal/MiniSampleReturnCapsule)
-![](https://github.com/zer0Kerbal/MiniSampleReturnCapsule/actions/workflows/greetings.yml/badge.svg) ![](https://github.com/zer0Kerbal/MiniSampleReturnCapsule/actions/workflows/AVC-VersionFileValidator.yml/badge.svg?branch=master)
-![](https://img.shields.io/github/downloads/zer0Kerbal/MiniSampleReturnCapsule/total?style=plastic) ![](https://img.shields.io/github/repo-size/zer0Kerbal/MiniSampleReturnCapsule?style=plastic) ![](https://img.shields.io/github/contributors/zer0kerbal/MiniSampleReturnCapsule?style=plastic) ![](https://img.shields.io/github/release-date/zer0kerbal/MiniSampleReturnCapsule?style=plastic) ![](https://img.shields.io/github/release-date-pre/zer0kerbal/MiniSampleReturnCapsule?style=plastic)
 
 # KerbSimpCo
 
