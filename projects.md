@@ -1,83 +1,7 @@
 # [README](README.md) <!-- omit in toc -->
 
+<!-- omit in toc -->
 ## TOC
-1. [README](#readme)
-   1. [TOC](#toc)
-   2. [Plugin Addons](#plugin-addons)
-      1. [Biomatic (BIO)](#biomatic-bio)
-      2. [KaboOom! (BOOM)](#kabooom-boom)
-      3. [On Demand Fuel Cells (ODFC)](#on-demand-fuel-cells-odfc)
-   3. [Moho HVAC](#moho-hvac)
-      1. [Radial Heat Shields (RHS)](#radial-heat-shields-rhs)
-      2. [Oblivion Aerospace (AOP)](#oblivion-aerospace-aop)
-      3. [Art of Reentry (AoR)](#art-of-reentry-aor)
-      4. [Adept (AALT)](#adept-aalt)
-   4. [Axial Aerospace](#axial-aerospace)
-      1. [Axial Aerospace Ltd (AA/L)](#axial-aerospace-ltd-aal)
-      2. [Axial Aerospace Parts Pack (AA/PP)](#axial-aerospace-part-pack-aapp)
-      3. [WhimChaser (WHIM)](#whimchaser-whim)
-      4. [Simple Cargo Solutions (ASC)](#simple-cargo-solutions-asc)
-      5. [LanderTek (ALT)](#landertek-alt)
-   5. [DaMichel's Parts Pack (DM)](#damichels-parts-pack-dm)
-      1. [DaMichel Ltd (DM/L)](#damichel-ltd-dml)
-      2. [DaMichel Parts Pack (DM/PP)](#damichel-part-pack-dmpp)
-      3. [AeroRadial (DMAR)](#aeroradial-dmar)
-      4. [Fuselage (DMFS)](#fuselage-dmfs)
-      5. [CargoBays (DMCB)](#cargobays-dmcb)
-      6. [Spherical Tanks (DMST)](#spherical-tanks-dmst)
-   6. [Holdiay/Event](#holdiayevent)
-      1. [JackOLantern](#jackolantern)
-      2. [Halloween](#halloween)
-   7. [MoarKerbals](#moarkerbals)
-      1. [MoarKerbals! (MOAR)](#moarkerbals-moar)
-      2. [MoarKerbalsParts! (MOARP)](#moarkerbalsparts-moarp)
-      3. [Surface Experiment Pack! (SEP)](#surface-experiment-pack-sep)
-      4. [Coyote Cargo Freighter (CCF)](#coyote-cargo-freighter-ccf)
-   8. [NecroBones](#necrobones)
-      1. [The Burger Mod (BURG)](#the-burger-mod-burg)
-      2. [The Elephant Engine (NBEE)](#the-elephant-engine-nbee)
-      3. [Joolian Discovery (NBJD)](#joolian-discovery-nbjd)
-      4. [Lithobrake Exploration Technologies (LET)(LETech)](#lithobrake-exploration-technologies-letletech)
-      5. [Fuel Tanks Plus (FTP)](#fuel-tanks-plus-ftp)
-      6. [SpaceY Heavy Lifters (SYHL)](#spacey-heavy-lifters-syhl)
-      7. [SpaceY Expanded (SPY)](#spacey-expanded-spy)
-      8. [ColorCodedCans](#colorcodedcans)
-      9. [ColorfulFuelLines](#colorfulfuellines)
-      10. [DiscontinuedParts](#discontinuedparts)
-      11. [ElephantEngine](#elephantengine)
-      12. [FTPDeprecated](#ftpdeprecated)
-      13. [FuelTanksPlus](#fueltanksplus)
-      14. [JoolianDiscovery](#jooliandiscovery)
-      15. [Lithobrake Exploration Technologies](#lithobrake-exploration-technologies)
-      16. [Modular Rocket System](#modular-rocket-system)
-      17. [Modular Rocket Systems LITE](#modular-rocket-systems-lite)
-      18. [Real Scale Boosters](#real-scale-boosters)
-      19. [RealScale Boosters Stockalike](#realscale-boosters-stockalike)
-      20. [RSSeaDragon](#rsseadragon)
-      21. [SpaceY-Expanded](#spacey-expanded)
-      22. [SpaceY-Lifters](#spacey-lifters)
-      23. [Zero Point Inline Fairings](#zero-point-inline-fairings)
-      24. [Zero Point Inline Fairings LITE (retired)](#zero-point-inline-fairings-lite-retired)
-      25. [RealScaleBoosters-Patches](#realscaleboosters-patches)
-      26. [Taerobee (TBEE)](#taerobee-tbee)
-      27. [KustomKerbals ()](#kustomkerbals-)
-      28. [MiniSampleReturnCapsule (MSRC)](#minisamplereturncapsule-msrc)
-2. [KerbSimpCo](#kerbsimpco)
-      1. [SimpleConstruction! (SCON!)](#simpleconstruction-scon)
-      2. [SimpleLogistics! (SLOG!)](#simplelogistics-slog)
-      3. [SimpleLife! (SLIF!)](#simplelife-slif)
-      4. [SimpleNotes! (SNOTE)](#simplenotes-snote)
-   1. [KerbMoarCo](#kerbmoarco)
-      1. [More: Hitchhikers! (MHH)](#more-hitchhikers-mhh)
-      2. [More: Cupolas! (MCP)](#more-cupolas-mcp)
-      3. [More: ServiceBays! (MSB)](#more-servicebays-msb)
-      4. [KSPChromaControl (KCC)](#kspchromacontrol-kcc)
-   2. [Vanguard Astrodynamics (VA)](#vanguard-astrodynamics-va)
-   3. [Klockheed Martian](#klockheed-martian)
-      1. [Klockheed Martian(KM)](#klockheed-martiankm)
-      2. [Space Shuttle Engines (SSE)](#space-shuttle-engines-sse)
-      3. [AsteroidCities (LMAC))](#asteroidcities-lmac)
-      4. [Special Parts Division (KM/SPD)](#special-parts-division-kmspd)
 
 <details>
   <summary>Additional Cards</summary>
@@ -88,7 +12,7 @@
 </details>
 
 ---
-## Plugin Addons
+## Plugins
 
 [TOC/top](#TOC)
 
@@ -139,23 +63,23 @@
 
 ### [Radial Heat Shields (RHS)](https://github.com/zer0Kerbal/Dreamer)
 
-  ![](https://github.com/zer0Kerbal/Dreamer/actions/workflows/greetings.yml/badge.svg) ![](https://github.com/zer0Kerbal/Dreamer/actions/workflows/AVC-VersionFileValidator.yml/badge.svg?branch=master)
-  ![](https://img.shields.io/github/downloads/zer0Kerbal/Dreamer/total?style=plastic) ![](https://img.shields.io/github/repo-size/zer0Kerbal/Dreamer?style=plastic) ![](https://img.shields.io/github/contributors/zer0kerbal/Dreamer?style=plastic) ![](https://img.shields.io/github/release-date/zer0kerbal/Dreamer?style=plastic) ![](https://img.shields.io/github/release-date-pre/zer0kerbal/Dreamer?style=plastic)
+  ![Radial Heat Shields](https://github.com/zer0Kerbal/Dreamer/actions/workflows/greetings.yml/badge.svg) ![Radial Heat Shields](https://github.com/zer0Kerbal/Dreamer/actions/workflows/AVC-VersionFileValidator.yml/badge.svg?branch=master)
+  ![Radial Heat Shields](https://img.shields.io/github/downloads/zer0Kerbal/Dreamer/total?style=plastic) ![Radial Heat Shields](https://img.shields.io/github/repo-size/zer0Kerbal/Dreamer?style=plastic) ![Radial Heat Shields](https://img.shields.io/github/contributors/zer0kerbal/Dreamer?style=plastic) ![Radial Heat Shields](https://img.shields.io/github/release-date/zer0kerbal/Dreamer?style=plastic) ![Radial Heat Shields](https://img.shields.io/github/release-date-pre/zer0kerbal/Dreamer?style=plastic)
 
 ### [Oblivion Aerospace (AOP)](https://github.com/zer0Kerbal/OblivionAerospace)
 
-  ![](https://github.com/zer0Kerbal/OblivionAerospace/actions/workflows/greetings.yml/badge.svg) ![](https://github.com/zer0Kerbal/OblivionAerospace/actions/workflows/AVC-VersionFileValidator.yml/badge.svg?branch=master)
-  ![](https://img.shields.io/github/downloads/zer0Kerbal/OblivionAerospace/total?style=plastic) ![](https://img.shields.io/github/repo-size/zer0Kerbal/OblivionAerospace?style=plastic) ![](https://img.shields.io/github/contributors/zer0kerbal/OblivionAerospace?style=plastic) ![](https://img.shields.io/github/release-date/zer0kerbal/OblivionAerospace?style=plastic) ![](https://img.shields.io/github/release-date-pre/zer0kerbal/OblivionAerospace?style=plastic)
+  ![Oblivion Aerospace](https://github.com/zer0Kerbal/OblivionAerospace/actions/workflows/greetings.yml/badge.svg) ![Oblivion Aerospace](https://github.com/zer0Kerbal/OblivionAerospace/actions/workflows/AVC-VersionFileValidator.yml/badge.svg?branch=master)
+  ![Oblivion Aerospace](https://img.shields.io/github/downloads/zer0Kerbal/OblivionAerospace/total?style=plastic) ![Oblivion Aerospace](https://img.shields.io/github/repo-size/zer0Kerbal/OblivionAerospace?style=plastic) ![Oblivion Aerospace](https://img.shields.io/github/contributors/zer0kerbal/OblivionAerospace?style=plastic) ![Oblivion Aerospace](https://img.shields.io/github/release-date/zer0kerbal/OblivionAerospace?style=plastic) ![Oblivion Aerospace](https://img.shields.io/github/release-date-pre/zer0kerbal/OblivionAerospace?style=plastic)
 
 ### [Art of Reentry (AoR)](https://github.com/zer0Kerbal/ArtofReentry)
 
-  ![](https://github.com/zer0Kerbal/ArtofReentry/actions/workflows/greetings.yml/badge.svg) ![](https://github.com/zer0Kerbal/ArtofReentry/actions/workflows/AVC-VersionFileValidator.yml/badge.svg?branch=master)
-  ![](https://img.shields.io/github/downloads/zer0Kerbal/ArtofReentry/total?style=plastic) ![](https://img.shields.io/github/repo-size/zer0Kerbal/ArtofReentry?style=plastic) ![](https://img.shields.io/github/contributors/zer0kerbal/ArtofReentry?style=plastic) ![](https://img.shields.io/github/release-date/zer0kerbal/ArtofReentry?style=plastic) ![](https://img.shields.io/github/release-date-pre/zer0kerbal/ArtofReentry?style=plastic)
+  ![Art of Reentry](https://github.com/zer0Kerbal/ArtofReentry/actions/workflows/greetings.yml/badge.svg) ![Art of Reentry](https://github.com/zer0Kerbal/ArtofReentry/actions/workflows/AVC-VersionFileValidator.yml/badge.svg?branch=master)
+  ![Art of Reentry](https://img.shields.io/github/downloads/zer0Kerbal/ArtofReentry/total?style=plastic) ![Art of Reentry](https://img.shields.io/github/repo-size/zer0Kerbal/ArtofReentry?style=plastic) ![Art of Reentry](https://img.shields.io/github/contributors/zer0kerbal/ArtofReentry?style=plastic) ![Art of Reentry](https://img.shields.io/github/release-date/zer0kerbal/ArtofReentry?style=plastic) ![Art of Reentry](https://img.shields.io/github/release-date-pre/zer0kerbal/ArtofReentry?style=plastic)
 
 ### [Adept (AALT)](https://github.com/zer0Kerbal/Adept)
 
-  ![](https://github.com/zer0Kerbal/Adept/actions/workflows/greetings.yml/badge.svg) ![](https://github.com/zer0Kerbal/Adept/actions/workflows/AVC-VersionFileValidator.yml/badge.svg?branch=master)
-  ![](https://img.shields.io/github/downloads/zer0Kerbal/Adept/total?style=plastic) ![](https://img.shields.io/github/repo-size/zer0Kerbal/Adept?style=plastic) ![](https://img.shields.io/github/contributors/zer0kerbal/Adept?style=plastic) ![](https://img.shields.io/github/release-date/zer0kerbal/Adept?style=plastic) ![](https://img.shields.io/github/release-date-pre/zer0kerbal/Adept?style=plastic)
+  ![Adept[(https://github.com/zer0Kerbal/Adept/actions/workflows/greetings.yml/badge.svg) ![Adept[(https://github.com/zer0Kerbal/Adept/actions/workflows/AVC-VersionFileValidator.yml/badge.svg?branch=master)
+  ![Adept[(https://img.shields.io/github/downloads/zer0Kerbal/Adept/total?style=plastic) ![Adept[(https://img.shields.io/github/repo-size/zer0Kerbal/Adept?style=plastic) ![Adept[(https://img.shields.io/github/contributors/zer0kerbal/Adept?style=plastic) ![Adept[(https://img.shields.io/github/release-date/zer0kerbal/Adept?style=plastic) ![Adept[(https://img.shields.io/github/release-date-pre/zer0kerbal/Adept?style=plastic)
 
 </details>
 
@@ -177,8 +101,8 @@
 
 ### [Axial Aerospace Parts Pack (AA/PP)](https://github.com/zer0Kerbal/[AxialAerospace])
 
-  ![AxialAerospace](https://github.com/zer0Kerbal/[AxialAerospace]/actions/workflows/greetings.yml/badge.svg) ![AxialAerospace](https://github.com/zer0Kerbal/[AxialAerospace]/actions/workflows/AVC-VersionFileValidator.yml/badge.svg?branch=master)
-  ![AxialAerospace](https://img.shields.io/github/downloads/zer0Kerbal/[AxialAerospace]/total?style=plastic) ![AxialAerospace](https://img.shields.io/github/repo-size/zer0Kerbal/[AxialAerospace]?style=plastic) ![AxialAerospace](https://img.shields.io/github/contributors/zer0kerbal/[AxialAerospace]?style=plastic) ![AxialAerospace](https://img.shields.io/github/release-date/zer0kerbal/[AxialAerospace]?style=plastic) ![AxialAerospace](https://img.shields.io/github/release-date-pre/zer0kerbal/[AxialAerospace]?style=plastic)
+  ![AxialAerospace](https://github.com/zer0Kerbal/AxialAerospace/actions/workflows/greetings.yml/badge.svg) ![AxialAerospace](https://github.com/zer0Kerbal/AxialAerospace/actions/workflows/AVC-VersionFileValidator.yml/badge.svg?branch=master)
+  ![AxialAerospace](https://img.shields.io/github/downloads/zer0Kerbal/AxialAerospace/total?style=plastic) ![AxialAerospace](https://img.shields.io/github/repo-size/zer0Kerbal/[AxialAerospace]?style=plastic) ![AxialAerospace](https://img.shields.io/github/contributors/zer0kerbal/[AxialAerospace]?style=plastic) ![AxialAerospace](https://img.shields.io/github/release-date/zer0kerbal/[AxialAerospace]?style=plastic) ![AxialAerospace](https://img.shields.io/github/release-date-pre/zer0kerbal/[AxialAerospace]?style=plastic)
 
 ### [WhimChaser (WHIM)](https://github.com/zer0Kerbal/WhimChaser)
 
@@ -238,7 +162,7 @@
 
 </details>
 
-## Holdiay/Event
+## Holiday/Event
 
 [TOC/top](#TOC)
 
