@@ -45,16 +45,16 @@
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#30](https://github.com/zer0Kerbal/SphericalTanks/issues/30) in [zer0Kerbal/SphericalTanks](https://github.com/zer0Kerbal/SphericalTanks)
-2. 🗣 Commented on [#40](https://github.com/zer0Kerbal/SimpleConstruction/issues/40) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
-3. ❗️ Opened issue [#29](https://github.com/zer0Kerbal/SphericalTanks/issues/29) in [zer0Kerbal/SphericalTanks](https://github.com/zer0Kerbal/SphericalTanks)
-4. ❗️ Opened issue [#28](https://github.com/zer0Kerbal/SphericalTanks/issues/28) in [zer0Kerbal/SphericalTanks](https://github.com/zer0Kerbal/SphericalTanks)
-5. ❗️ Opened issue [#29](https://github.com/zer0Kerbal/ProbiTronics/issues/29) in [zer0Kerbal/ProbiTronics](https://github.com/zer0Kerbal/ProbiTronics)
-6. ❗️ Opened issue [#28](https://github.com/zer0Kerbal/ProbiTronics/issues/28) in [zer0Kerbal/ProbiTronics](https://github.com/zer0Kerbal/ProbiTronics)
-7. ❗️ Opened issue [#27](https://github.com/zer0Kerbal/ProbiTronics/issues/27) in [zer0Kerbal/ProbiTronics](https://github.com/zer0Kerbal/ProbiTronics)
-8. ❗️ Opened issue [#26](https://github.com/zer0Kerbal/ProbiTronics/issues/26) in [zer0Kerbal/ProbiTronics](https://github.com/zer0Kerbal/ProbiTronics)
-9. ❗️ Opened issue [#25](https://github.com/zer0Kerbal/ProbiTronics/issues/25) in [zer0Kerbal/ProbiTronics](https://github.com/zer0Kerbal/ProbiTronics)
-10. ❗️ Opened issue [#24](https://github.com/zer0Kerbal/ProbiTronics/issues/24) in [zer0Kerbal/ProbiTronics](https://github.com/zer0Kerbal/ProbiTronics)
+1. 🎉 Merged PR [#32](https://github.com/zer0Kerbal/SphericalTanks/pull/32) in [zer0Kerbal/SphericalTanks](https://github.com/zer0Kerbal/SphericalTanks)
+2. ❗️ Closed issue [#27](https://github.com/zer0Kerbal/SphericalTanks/issues/27) in [zer0Kerbal/SphericalTanks](https://github.com/zer0Kerbal/SphericalTanks)
+3. ❗️ Closed issue [#30](https://github.com/zer0Kerbal/SphericalTanks/issues/30) in [zer0Kerbal/SphericalTanks](https://github.com/zer0Kerbal/SphericalTanks)
+4. ❗️ Closed issue [#11](https://github.com/zer0Kerbal/SphericalTanks/issues/11) in [zer0Kerbal/SphericalTanks](https://github.com/zer0Kerbal/SphericalTanks)
+5. 💪 Opened PR [#32](https://github.com/zer0Kerbal/SphericalTanks/pull/32) in [zer0Kerbal/SphericalTanks](https://github.com/zer0Kerbal/SphericalTanks)
+6. ❗️ Opened issue [#31](https://github.com/zer0Kerbal/SphericalTanks/issues/31) in [zer0Kerbal/SphericalTanks](https://github.com/zer0Kerbal/SphericalTanks)
+7. ❗️ Opened issue [#30](https://github.com/zer0Kerbal/SphericalTanks/issues/30) in [zer0Kerbal/SphericalTanks](https://github.com/zer0Kerbal/SphericalTanks)
+8. 🗣 Commented on [#40](https://github.com/zer0Kerbal/SimpleConstruction/issues/40) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
+9. ❗️ Opened issue [#29](https://github.com/zer0Kerbal/SphericalTanks/issues/29) in [zer0Kerbal/SphericalTanks](https://github.com/zer0Kerbal/SphericalTanks)
+10. ❗️ Opened issue [#28](https://github.com/zer0Kerbal/SphericalTanks/issues/28) in [zer0Kerbal/SphericalTanks](https://github.com/zer0Kerbal/SphericalTanks)
 <!--END_SECTION:activity-->
 
 </details
