@@ -45,16 +45,16 @@
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#36](https://github.com/zer0Kerbal/TransparentPods/pull/36) in [zer0Kerbal/TransparentPods](https://github.com/zer0Kerbal/TransparentPods)
-2. 💪 Opened PR [#36](https://github.com/zer0Kerbal/TransparentPods/pull/36) in [zer0Kerbal/TransparentPods](https://github.com/zer0Kerbal/TransparentPods)
-3. 🎉 Merged PR [#35](https://github.com/zer0Kerbal/TransparentPods/pull/35) in [zer0Kerbal/TransparentPods](https://github.com/zer0Kerbal/TransparentPods)
-4. 💪 Opened PR [#35](https://github.com/zer0Kerbal/TransparentPods/pull/35) in [zer0Kerbal/TransparentPods](https://github.com/zer0Kerbal/TransparentPods)
-5. ❗️ Opened issue [#34](https://github.com/zer0Kerbal/TransparentPods/issues/34) in [zer0Kerbal/TransparentPods](https://github.com/zer0Kerbal/TransparentPods)
-6. ❗️ Opened issue [#33](https://github.com/zer0Kerbal/TransparentPods/issues/33) in [zer0Kerbal/TransparentPods](https://github.com/zer0Kerbal/TransparentPods)
-7. 🗣 Commented on [#122](https://github.com/zer0Kerbal/SimpleConstruction/issues/122) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
-8. 🎉 Merged PR [#32](https://github.com/zer0Kerbal/SphericalTanks/pull/32) in [zer0Kerbal/SphericalTanks](https://github.com/zer0Kerbal/SphericalTanks)
-9. ❗️ Closed issue [#27](https://github.com/zer0Kerbal/SphericalTanks/issues/27) in [zer0Kerbal/SphericalTanks](https://github.com/zer0Kerbal/SphericalTanks)
-10. ❗️ Closed issue [#30](https://github.com/zer0Kerbal/SphericalTanks/issues/30) in [zer0Kerbal/SphericalTanks](https://github.com/zer0Kerbal/SphericalTanks)
+1. ❗️ Closed issue [#12](https://github.com/zer0Kerbal/TransparentPods/issues/12) in [zer0Kerbal/TransparentPods](https://github.com/zer0Kerbal/TransparentPods)
+2. ❗️ Closed issue [#11](https://github.com/zer0Kerbal/TransparentPods/issues/11) in [zer0Kerbal/TransparentPods](https://github.com/zer0Kerbal/TransparentPods)
+3. 🎉 Merged PR [#38](https://github.com/zer0Kerbal/TransparentPods/pull/38) in [zer0Kerbal/TransparentPods](https://github.com/zer0Kerbal/TransparentPods)
+4. ❗️ Closed issue [#14](https://github.com/zer0Kerbal/TransparentPods/issues/14) in [zer0Kerbal/TransparentPods](https://github.com/zer0Kerbal/TransparentPods)
+5. ❗️ Closed issue [#16](https://github.com/zer0Kerbal/TransparentPods/issues/16) in [zer0Kerbal/TransparentPods](https://github.com/zer0Kerbal/TransparentPods)
+6. ❗️ Closed issue [#13](https://github.com/zer0Kerbal/TransparentPods/issues/13) in [zer0Kerbal/TransparentPods](https://github.com/zer0Kerbal/TransparentPods)
+7. ❗️ Closed issue [#5](https://github.com/zer0Kerbal/TransparentPods/issues/5) in [zer0Kerbal/TransparentPods](https://github.com/zer0Kerbal/TransparentPods)
+8. ❗️ Closed issue [#33](https://github.com/zer0Kerbal/TransparentPods/issues/33) in [zer0Kerbal/TransparentPods](https://github.com/zer0Kerbal/TransparentPods)
+9. ❗️ Closed issue [#6](https://github.com/zer0Kerbal/TransparentPods/issues/6) in [zer0Kerbal/TransparentPods](https://github.com/zer0Kerbal/TransparentPods)
+10. ❗️ Closed issue [#32](https://github.com/zer0Kerbal/TransparentPods/issues/32) in [zer0Kerbal/TransparentPods](https://github.com/zer0Kerbal/TransparentPods)
 <!--END_SECTION:activity-->
 
 </details
