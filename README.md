@@ -45,16 +45,16 @@
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#33](https://github.com/zer0Kerbal/ProbiTronics/pull/33) in [zer0Kerbal/ProbiTronics](https://github.com/zer0Kerbal/ProbiTronics)
-2. ❗️ Closed issue [#29](https://github.com/zer0Kerbal/ProbiTronics/issues/29) in [zer0Kerbal/ProbiTronics](https://github.com/zer0Kerbal/ProbiTronics)
-3. 💪 Opened PR [#33](https://github.com/zer0Kerbal/ProbiTronics/pull/33) in [zer0Kerbal/ProbiTronics](https://github.com/zer0Kerbal/ProbiTronics)
-4. 🎉 Merged PR [#31](https://github.com/zer0Kerbal/ProbiTronics/pull/31) in [zer0Kerbal/ProbiTronics](https://github.com/zer0Kerbal/ProbiTronics)
-5. ❗️ Closed issue [#27](https://github.com/zer0Kerbal/ProbiTronics/issues/27) in [zer0Kerbal/ProbiTronics](https://github.com/zer0Kerbal/ProbiTronics)
-6. ❗️ Closed issue [#25](https://github.com/zer0Kerbal/ProbiTronics/issues/25) in [zer0Kerbal/ProbiTronics](https://github.com/zer0Kerbal/ProbiTronics)
-7. 💪 Opened PR [#31](https://github.com/zer0Kerbal/ProbiTronics/pull/31) in [zer0Kerbal/ProbiTronics](https://github.com/zer0Kerbal/ProbiTronics)
-8. 🎉 Merged PR [#30](https://github.com/zer0Kerbal/ProbiTronics/pull/30) in [zer0Kerbal/ProbiTronics](https://github.com/zer0Kerbal/ProbiTronics)
-9. ❗️ Closed issue [#26](https://github.com/zer0Kerbal/ProbiTronics/issues/26) in [zer0Kerbal/ProbiTronics](https://github.com/zer0Kerbal/ProbiTronics)
-10. 💪 Opened PR [#30](https://github.com/zer0Kerbal/ProbiTronics/pull/30) in [zer0Kerbal/ProbiTronics](https://github.com/zer0Kerbal/ProbiTronics)
+1. 🎉 Merged PR [#37](https://github.com/zer0Kerbal/ProbiTronics/pull/37) in [zer0Kerbal/ProbiTronics](https://github.com/zer0Kerbal/ProbiTronics)
+2. 💪 Opened PR [#37](https://github.com/zer0Kerbal/ProbiTronics/pull/37) in [zer0Kerbal/ProbiTronics](https://github.com/zer0Kerbal/ProbiTronics)
+3. 🎉 Merged PR [#36](https://github.com/zer0Kerbal/ProbiTronics/pull/36) in [zer0Kerbal/ProbiTronics](https://github.com/zer0Kerbal/ProbiTronics)
+4. 💪 Opened PR [#36](https://github.com/zer0Kerbal/ProbiTronics/pull/36) in [zer0Kerbal/ProbiTronics](https://github.com/zer0Kerbal/ProbiTronics)
+5. 🎉 Merged PR [#35](https://github.com/zer0Kerbal/ProbiTronics/pull/35) in [zer0Kerbal/ProbiTronics](https://github.com/zer0Kerbal/ProbiTronics)
+6. ❗️ Closed issue [#34](https://github.com/zer0Kerbal/ProbiTronics/issues/34) in [zer0Kerbal/ProbiTronics](https://github.com/zer0Kerbal/ProbiTronics)
+7. 💪 Opened PR [#35](https://github.com/zer0Kerbal/ProbiTronics/pull/35) in [zer0Kerbal/ProbiTronics](https://github.com/zer0Kerbal/ProbiTronics)
+8. ❗️ Opened issue [#34](https://github.com/zer0Kerbal/ProbiTronics/issues/34) in [zer0Kerbal/ProbiTronics](https://github.com/zer0Kerbal/ProbiTronics)
+9. 🎉 Merged PR [#33](https://github.com/zer0Kerbal/ProbiTronics/pull/33) in [zer0Kerbal/ProbiTronics](https://github.com/zer0Kerbal/ProbiTronics)
+10. ❗️ Closed issue [#29](https://github.com/zer0Kerbal/ProbiTronics/issues/29) in [zer0Kerbal/ProbiTronics](https://github.com/zer0Kerbal/ProbiTronics)
 <!--END_SECTION:activity-->
 
 </details
