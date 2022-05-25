@@ -45,16 +45,16 @@
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#2](https://github.com/zer0Kerbal/BehemothAerospaceEngineering/pull/2) in [zer0Kerbal/BehemothAerospaceEngineering](https://github.com/zer0Kerbal/BehemothAerospaceEngineering)
-2. ❗️ Opened issue [#18](https://github.com/zer0Kerbal/BehemothAerospaceEngineering/issues/18) in [zer0Kerbal/BehemothAerospaceEngineering](https://github.com/zer0Kerbal/BehemothAerospaceEngineering)
-3. ❗️ Opened issue [#43](https://github.com/zer0Kerbal/ProbiTronics/issues/43) in [zer0Kerbal/ProbiTronics](https://github.com/zer0Kerbal/ProbiTronics)
-4. ❗️ Opened issue [#42](https://github.com/zer0Kerbal/ProbiTronics/issues/42) in [zer0Kerbal/ProbiTronics](https://github.com/zer0Kerbal/ProbiTronics)
-5. ❗️ Opened issue [#41](https://github.com/zer0Kerbal/ProbiTronics/issues/41) in [zer0Kerbal/ProbiTronics](https://github.com/zer0Kerbal/ProbiTronics)
-6. ❗️ Opened issue [#40](https://github.com/zer0Kerbal/ProbiTronics/issues/40) in [zer0Kerbal/ProbiTronics](https://github.com/zer0Kerbal/ProbiTronics)
-7. 🎉 Merged PR [#38](https://github.com/zer0Kerbal/ProbiTronics/pull/38) in [zer0Kerbal/ProbiTronics](https://github.com/zer0Kerbal/ProbiTronics)
-8. ❗️ Closed issue [#28](https://github.com/zer0Kerbal/ProbiTronics/issues/28) in [zer0Kerbal/ProbiTronics](https://github.com/zer0Kerbal/ProbiTronics)
-9. ❗️ Closed issue [#5](https://github.com/zer0Kerbal/ProbiTronics/issues/5) in [zer0Kerbal/ProbiTronics](https://github.com/zer0Kerbal/ProbiTronics)
-10. ❗️ Closed issue [#6](https://github.com/zer0Kerbal/ProbiTronics/issues/6) in [zer0Kerbal/ProbiTronics](https://github.com/zer0Kerbal/ProbiTronics)
+1. 🗣 Commented on [#9135](https://github.com/KSP-CKAN/NetKAN/issues/9135) in [KSP-CKAN/NetKAN](https://github.com/KSP-CKAN/NetKAN)
+2. ❌ Closed PR [#2](https://github.com/zer0Kerbal/BehemothAerospaceEngineering/pull/2) in [zer0Kerbal/BehemothAerospaceEngineering](https://github.com/zer0Kerbal/BehemothAerospaceEngineering)
+3. ❗️ Opened issue [#18](https://github.com/zer0Kerbal/BehemothAerospaceEngineering/issues/18) in [zer0Kerbal/BehemothAerospaceEngineering](https://github.com/zer0Kerbal/BehemothAerospaceEngineering)
+4. ❗️ Opened issue [#43](https://github.com/zer0Kerbal/ProbiTronics/issues/43) in [zer0Kerbal/ProbiTronics](https://github.com/zer0Kerbal/ProbiTronics)
+5. ❗️ Opened issue [#42](https://github.com/zer0Kerbal/ProbiTronics/issues/42) in [zer0Kerbal/ProbiTronics](https://github.com/zer0Kerbal/ProbiTronics)
+6. ❗️ Opened issue [#41](https://github.com/zer0Kerbal/ProbiTronics/issues/41) in [zer0Kerbal/ProbiTronics](https://github.com/zer0Kerbal/ProbiTronics)
+7. ❗️ Opened issue [#40](https://github.com/zer0Kerbal/ProbiTronics/issues/40) in [zer0Kerbal/ProbiTronics](https://github.com/zer0Kerbal/ProbiTronics)
+8. 🎉 Merged PR [#38](https://github.com/zer0Kerbal/ProbiTronics/pull/38) in [zer0Kerbal/ProbiTronics](https://github.com/zer0Kerbal/ProbiTronics)
+9. ❗️ Closed issue [#28](https://github.com/zer0Kerbal/ProbiTronics/issues/28) in [zer0Kerbal/ProbiTronics](https://github.com/zer0Kerbal/ProbiTronics)
+10. ❗️ Closed issue [#5](https://github.com/zer0Kerbal/ProbiTronics/issues/5) in [zer0Kerbal/ProbiTronics](https://github.com/zer0Kerbal/ProbiTronics)
 <!--END_SECTION:activity-->
 
 </details
