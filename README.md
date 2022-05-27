@@ -45,16 +45,16 @@
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#75](https://github.com/zer0Kerbal/BehemothAerospaceEngineering/pull/75) in [zer0Kerbal/BehemothAerospaceEngineering](https://github.com/zer0Kerbal/BehemothAerospaceEngineering)
-2. 🎉 Merged PR [#74](https://github.com/zer0Kerbal/BehemothAerospaceEngineering/pull/74) in [zer0Kerbal/BehemothAerospaceEngineering](https://github.com/zer0Kerbal/BehemothAerospaceEngineering)
-3. ❗️ Closed issue [#38](https://github.com/zer0Kerbal/BehemothAerospaceEngineering/issues/38) in [zer0Kerbal/BehemothAerospaceEngineering](https://github.com/zer0Kerbal/BehemothAerospaceEngineering)
-4. 💪 Opened PR [#74](https://github.com/zer0Kerbal/BehemothAerospaceEngineering/pull/74) in [zer0Kerbal/BehemothAerospaceEngineering](https://github.com/zer0Kerbal/BehemothAerospaceEngineering)
-5. 🎉 Merged PR [#73](https://github.com/zer0Kerbal/BehemothAerospaceEngineering/pull/73) in [zer0Kerbal/BehemothAerospaceEngineering](https://github.com/zer0Kerbal/BehemothAerospaceEngineering)
-6. ❗️ Closed issue [#37](https://github.com/zer0Kerbal/BehemothAerospaceEngineering/issues/37) in [zer0Kerbal/BehemothAerospaceEngineering](https://github.com/zer0Kerbal/BehemothAerospaceEngineering)
-7. 💪 Opened PR [#73](https://github.com/zer0Kerbal/BehemothAerospaceEngineering/pull/73) in [zer0Kerbal/BehemothAerospaceEngineering](https://github.com/zer0Kerbal/BehemothAerospaceEngineering)
-8. 🎉 Merged PR [#72](https://github.com/zer0Kerbal/BehemothAerospaceEngineering/pull/72) in [zer0Kerbal/BehemothAerospaceEngineering](https://github.com/zer0Kerbal/BehemothAerospaceEngineering)
-9. ❗️ Closed issue [#36](https://github.com/zer0Kerbal/BehemothAerospaceEngineering/issues/36) in [zer0Kerbal/BehemothAerospaceEngineering](https://github.com/zer0Kerbal/BehemothAerospaceEngineering)
-10. 💪 Opened PR [#72](https://github.com/zer0Kerbal/BehemothAerospaceEngineering/pull/72) in [zer0Kerbal/BehemothAerospaceEngineering](https://github.com/zer0Kerbal/BehemothAerospaceEngineering)
+1. ❗️ Closed issue [#40](https://github.com/zer0Kerbal/BehemothAerospaceEngineering/issues/40) in [zer0Kerbal/BehemothAerospaceEngineering](https://github.com/zer0Kerbal/BehemothAerospaceEngineering)
+2. 🎉 Merged PR [#76](https://github.com/zer0Kerbal/BehemothAerospaceEngineering/pull/76) in [zer0Kerbal/BehemothAerospaceEngineering](https://github.com/zer0Kerbal/BehemothAerospaceEngineering)
+3. ❗️ Closed issue [#19](https://github.com/zer0Kerbal/BehemothAerospaceEngineering/issues/19) in [zer0Kerbal/BehemothAerospaceEngineering](https://github.com/zer0Kerbal/BehemothAerospaceEngineering)
+4. 💪 Opened PR [#76](https://github.com/zer0Kerbal/BehemothAerospaceEngineering/pull/76) in [zer0Kerbal/BehemothAerospaceEngineering](https://github.com/zer0Kerbal/BehemothAerospaceEngineering)
+5. 🎉 Merged PR [#75](https://github.com/zer0Kerbal/BehemothAerospaceEngineering/pull/75) in [zer0Kerbal/BehemothAerospaceEngineering](https://github.com/zer0Kerbal/BehemothAerospaceEngineering)
+6. ❗️ Closed issue [#39](https://github.com/zer0Kerbal/BehemothAerospaceEngineering/issues/39) in [zer0Kerbal/BehemothAerospaceEngineering](https://github.com/zer0Kerbal/BehemothAerospaceEngineering)
+7. 💪 Opened PR [#75](https://github.com/zer0Kerbal/BehemothAerospaceEngineering/pull/75) in [zer0Kerbal/BehemothAerospaceEngineering](https://github.com/zer0Kerbal/BehemothAerospaceEngineering)
+8. 🎉 Merged PR [#74](https://github.com/zer0Kerbal/BehemothAerospaceEngineering/pull/74) in [zer0Kerbal/BehemothAerospaceEngineering](https://github.com/zer0Kerbal/BehemothAerospaceEngineering)
+9. ❗️ Closed issue [#38](https://github.com/zer0Kerbal/BehemothAerospaceEngineering/issues/38) in [zer0Kerbal/BehemothAerospaceEngineering](https://github.com/zer0Kerbal/BehemothAerospaceEngineering)
+10. 💪 Opened PR [#74](https://github.com/zer0Kerbal/BehemothAerospaceEngineering/pull/74) in [zer0Kerbal/BehemothAerospaceEngineering](https://github.com/zer0Kerbal/BehemothAerospaceEngineering)
 <!--END_SECTION:activity-->
 
 </details
