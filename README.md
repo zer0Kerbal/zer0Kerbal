@@ -45,16 +45,16 @@
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#26](https://github.com/net-lisias-ksp/GPOSpeedPump/issues/26) in [net-lisias-ksp/GPOSpeedPump](https://github.com/net-lisias-ksp/GPOSpeedPump)
-2. 💪 Opened PR [#26](https://github.com/net-lisias-ksp/GPOSpeedPump/pull/26) in [net-lisias-ksp/GPOSpeedPump](https://github.com/net-lisias-ksp/GPOSpeedPump)
-3. ❗️ Closed issue [#6](https://github.com/zer0Kerbal/GPOSpeedPump/issues/6) in [zer0Kerbal/GPOSpeedPump](https://github.com/zer0Kerbal/GPOSpeedPump)
-4. ❗️ Closed issue [#5](https://github.com/zer0Kerbal/GPOSpeedPump/issues/5) in [zer0Kerbal/GPOSpeedPump](https://github.com/zer0Kerbal/GPOSpeedPump)
-5. ❗️ Closed issue [#4](https://github.com/zer0Kerbal/GPOSpeedPump/issues/4) in [zer0Kerbal/GPOSpeedPump](https://github.com/zer0Kerbal/GPOSpeedPump)
-6. ❗️ Closed issue [#3](https://github.com/zer0Kerbal/GPOSpeedPump/issues/3) in [zer0Kerbal/GPOSpeedPump](https://github.com/zer0Kerbal/GPOSpeedPump)
-7. ❗️ Closed issue [#9](https://github.com/zer0Kerbal/GPOSpeedPump/issues/9) in [zer0Kerbal/GPOSpeedPump](https://github.com/zer0Kerbal/GPOSpeedPump)
-8. ❗️ Opened issue [#25](https://github.com/net-lisias-ksp/GPOSpeedPump/issues/25) in [net-lisias-ksp/GPOSpeedPump](https://github.com/net-lisias-ksp/GPOSpeedPump)
-9. ❗️ Closed issue [#10](https://github.com/zer0Kerbal/GPOSpeedPump/issues/10) in [zer0Kerbal/GPOSpeedPump](https://github.com/zer0Kerbal/GPOSpeedPump)
-10. ❗️ Opened issue [#24](https://github.com/net-lisias-ksp/GPOSpeedPump/issues/24) in [net-lisias-ksp/GPOSpeedPump](https://github.com/net-lisias-ksp/GPOSpeedPump)
+1. ❗️ Opened issue [#1](https://github.com/zer0Kerbal/ChopShop/issues/1) in [zer0Kerbal/ChopShop](https://github.com/zer0Kerbal/ChopShop)
+2. 🗣 Commented on [#26](https://github.com/net-lisias-ksp/GPOSpeedPump/issues/26) in [net-lisias-ksp/GPOSpeedPump](https://github.com/net-lisias-ksp/GPOSpeedPump)
+3. 💪 Opened PR [#26](https://github.com/net-lisias-ksp/GPOSpeedPump/pull/26) in [net-lisias-ksp/GPOSpeedPump](https://github.com/net-lisias-ksp/GPOSpeedPump)
+4. ❗️ Closed issue [#6](https://github.com/zer0Kerbal/GPOSpeedPump/issues/6) in [zer0Kerbal/GPOSpeedPump](https://github.com/zer0Kerbal/GPOSpeedPump)
+5. ❗️ Closed issue [#5](https://github.com/zer0Kerbal/GPOSpeedPump/issues/5) in [zer0Kerbal/GPOSpeedPump](https://github.com/zer0Kerbal/GPOSpeedPump)
+6. ❗️ Closed issue [#4](https://github.com/zer0Kerbal/GPOSpeedPump/issues/4) in [zer0Kerbal/GPOSpeedPump](https://github.com/zer0Kerbal/GPOSpeedPump)
+7. ❗️ Closed issue [#3](https://github.com/zer0Kerbal/GPOSpeedPump/issues/3) in [zer0Kerbal/GPOSpeedPump](https://github.com/zer0Kerbal/GPOSpeedPump)
+8. ❗️ Closed issue [#9](https://github.com/zer0Kerbal/GPOSpeedPump/issues/9) in [zer0Kerbal/GPOSpeedPump](https://github.com/zer0Kerbal/GPOSpeedPump)
+9. ❗️ Opened issue [#25](https://github.com/net-lisias-ksp/GPOSpeedPump/issues/25) in [net-lisias-ksp/GPOSpeedPump](https://github.com/net-lisias-ksp/GPOSpeedPump)
+10. ❗️ Closed issue [#10](https://github.com/zer0Kerbal/GPOSpeedPump/issues/10) in [zer0Kerbal/GPOSpeedPump](https://github.com/zer0Kerbal/GPOSpeedPump)
 <!--END_SECTION:activity-->
 
 </details
