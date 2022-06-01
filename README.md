@@ -45,16 +45,16 @@
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#182](https://github.com/taniwha/Extraplanetary-Launchpads/issues/182) in [taniwha/Extraplanetary-Launchpads](https://github.com/taniwha/Extraplanetary-Launchpads)
-2. 🗣 Commented on [#186](https://github.com/taniwha/Extraplanetary-Launchpads/issues/186) in [taniwha/Extraplanetary-Launchpads](https://github.com/taniwha/Extraplanetary-Launchpads)
-3. ❗️ Opened issue [#186](https://github.com/taniwha/Extraplanetary-Launchpads/issues/186) in [taniwha/Extraplanetary-Launchpads](https://github.com/taniwha/Extraplanetary-Launchpads)
-4. 🗣 Commented on [#25](https://github.com/zer0Kerbal/ScrapYard/issues/25) in [zer0Kerbal/ScrapYard](https://github.com/zer0Kerbal/ScrapYard)
-5. 🎉 Merged PR [#64](https://github.com/zer0Kerbal/OnDemandFuelCells/pull/64) in [zer0Kerbal/OnDemandFuelCells](https://github.com/zer0Kerbal/OnDemandFuelCells)
-6. ❌ Closed PR [#63](https://github.com/zer0Kerbal/OnDemandFuelCells/pull/63) in [zer0Kerbal/OnDemandFuelCells](https://github.com/zer0Kerbal/OnDemandFuelCells)
-7. 🗣 Commented on [#25](https://github.com/zer0Kerbal/ScrapYard/issues/25) in [zer0Kerbal/ScrapYard](https://github.com/zer0Kerbal/ScrapYard)
-8. 🎉 Merged PR [#25](https://github.com/zer0Kerbal/ChopShop/pull/25) in [zer0Kerbal/ChopShop](https://github.com/zer0Kerbal/ChopShop)
-9. ❗️ Closed issue [#24](https://github.com/zer0Kerbal/ChopShop/issues/24) in [zer0Kerbal/ChopShop](https://github.com/zer0Kerbal/ChopShop)
-10. 💪 Opened PR [#25](https://github.com/zer0Kerbal/ChopShop/pull/25) in [zer0Kerbal/ChopShop](https://github.com/zer0Kerbal/ChopShop)
+1. 🎉 Merged PR [#59](https://github.com/zer0Kerbal/NotSoSimpleConstruction/pull/59) in [zer0Kerbal/NotSoSimpleConstruction](https://github.com/zer0Kerbal/NotSoSimpleConstruction)
+2. 🗣 Commented on [#182](https://github.com/taniwha/Extraplanetary-Launchpads/issues/182) in [taniwha/Extraplanetary-Launchpads](https://github.com/taniwha/Extraplanetary-Launchpads)
+3. 🗣 Commented on [#186](https://github.com/taniwha/Extraplanetary-Launchpads/issues/186) in [taniwha/Extraplanetary-Launchpads](https://github.com/taniwha/Extraplanetary-Launchpads)
+4. ❗️ Opened issue [#186](https://github.com/taniwha/Extraplanetary-Launchpads/issues/186) in [taniwha/Extraplanetary-Launchpads](https://github.com/taniwha/Extraplanetary-Launchpads)
+5. 🗣 Commented on [#25](https://github.com/zer0Kerbal/ScrapYard/issues/25) in [zer0Kerbal/ScrapYard](https://github.com/zer0Kerbal/ScrapYard)
+6. 🎉 Merged PR [#64](https://github.com/zer0Kerbal/OnDemandFuelCells/pull/64) in [zer0Kerbal/OnDemandFuelCells](https://github.com/zer0Kerbal/OnDemandFuelCells)
+7. ❌ Closed PR [#63](https://github.com/zer0Kerbal/OnDemandFuelCells/pull/63) in [zer0Kerbal/OnDemandFuelCells](https://github.com/zer0Kerbal/OnDemandFuelCells)
+8. 🗣 Commented on [#25](https://github.com/zer0Kerbal/ScrapYard/issues/25) in [zer0Kerbal/ScrapYard](https://github.com/zer0Kerbal/ScrapYard)
+9. 🎉 Merged PR [#25](https://github.com/zer0Kerbal/ChopShop/pull/25) in [zer0Kerbal/ChopShop](https://github.com/zer0Kerbal/ChopShop)
+10. ❗️ Closed issue [#24](https://github.com/zer0Kerbal/ChopShop/issues/24) in [zer0Kerbal/ChopShop](https://github.com/zer0Kerbal/ChopShop)
 <!--END_SECTION:activity-->
 
 </details
