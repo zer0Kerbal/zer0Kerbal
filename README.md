@@ -45,16 +45,16 @@
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#59](https://github.com/zer0Kerbal/NotSoSimpleConstruction/pull/59) in [zer0Kerbal/NotSoSimpleConstruction](https://github.com/zer0Kerbal/NotSoSimpleConstruction)
-2. 🗣 Commented on [#182](https://github.com/taniwha/Extraplanetary-Launchpads/issues/182) in [taniwha/Extraplanetary-Launchpads](https://github.com/taniwha/Extraplanetary-Launchpads)
-3. 🗣 Commented on [#186](https://github.com/taniwha/Extraplanetary-Launchpads/issues/186) in [taniwha/Extraplanetary-Launchpads](https://github.com/taniwha/Extraplanetary-Launchpads)
-4. ❗️ Opened issue [#186](https://github.com/taniwha/Extraplanetary-Launchpads/issues/186) in [taniwha/Extraplanetary-Launchpads](https://github.com/taniwha/Extraplanetary-Launchpads)
-5. 🗣 Commented on [#25](https://github.com/zer0Kerbal/ScrapYard/issues/25) in [zer0Kerbal/ScrapYard](https://github.com/zer0Kerbal/ScrapYard)
-6. 🎉 Merged PR [#64](https://github.com/zer0Kerbal/OnDemandFuelCells/pull/64) in [zer0Kerbal/OnDemandFuelCells](https://github.com/zer0Kerbal/OnDemandFuelCells)
-7. ❌ Closed PR [#63](https://github.com/zer0Kerbal/OnDemandFuelCells/pull/63) in [zer0Kerbal/OnDemandFuelCells](https://github.com/zer0Kerbal/OnDemandFuelCells)
-8. 🗣 Commented on [#25](https://github.com/zer0Kerbal/ScrapYard/issues/25) in [zer0Kerbal/ScrapYard](https://github.com/zer0Kerbal/ScrapYard)
-9. 🎉 Merged PR [#25](https://github.com/zer0Kerbal/ChopShop/pull/25) in [zer0Kerbal/ChopShop](https://github.com/zer0Kerbal/ChopShop)
-10. ❗️ Closed issue [#24](https://github.com/zer0Kerbal/ChopShop/issues/24) in [zer0Kerbal/ChopShop](https://github.com/zer0Kerbal/ChopShop)
+1. ❗️ Opened issue [#61](https://github.com/zer0Kerbal/NotSoSimpleConstruction/issues/61) in [zer0Kerbal/NotSoSimpleConstruction](https://github.com/zer0Kerbal/NotSoSimpleConstruction)
+2. 🎉 Merged PR [#60](https://github.com/zer0Kerbal/NotSoSimpleConstruction/pull/60) in [zer0Kerbal/NotSoSimpleConstruction](https://github.com/zer0Kerbal/NotSoSimpleConstruction)
+3. ❗️ Closed issue [#57](https://github.com/zer0Kerbal/NotSoSimpleConstruction/issues/57) in [zer0Kerbal/NotSoSimpleConstruction](https://github.com/zer0Kerbal/NotSoSimpleConstruction)
+4. ❗️ Closed issue [#58](https://github.com/zer0Kerbal/NotSoSimpleConstruction/issues/58) in [zer0Kerbal/NotSoSimpleConstruction](https://github.com/zer0Kerbal/NotSoSimpleConstruction)
+5. ❗️ Closed issue [#56](https://github.com/zer0Kerbal/NotSoSimpleConstruction/issues/56) in [zer0Kerbal/NotSoSimpleConstruction](https://github.com/zer0Kerbal/NotSoSimpleConstruction)
+6. ❗️ Closed issue [#55](https://github.com/zer0Kerbal/NotSoSimpleConstruction/issues/55) in [zer0Kerbal/NotSoSimpleConstruction](https://github.com/zer0Kerbal/NotSoSimpleConstruction)
+7. ❗️ Closed issue [#21](https://github.com/zer0Kerbal/NotSoSimpleConstruction/issues/21) in [zer0Kerbal/NotSoSimpleConstruction](https://github.com/zer0Kerbal/NotSoSimpleConstruction)
+8. 💪 Opened PR [#60](https://github.com/zer0Kerbal/NotSoSimpleConstruction/pull/60) in [zer0Kerbal/NotSoSimpleConstruction](https://github.com/zer0Kerbal/NotSoSimpleConstruction)
+9. 🎉 Merged PR [#54](https://github.com/zer0Kerbal/NotSoSimpleConstruction/pull/54) in [zer0Kerbal/NotSoSimpleConstruction](https://github.com/zer0Kerbal/NotSoSimpleConstruction)
+10. 🎉 Merged PR [#59](https://github.com/zer0Kerbal/NotSoSimpleConstruction/pull/59) in [zer0Kerbal/NotSoSimpleConstruction](https://github.com/zer0Kerbal/NotSoSimpleConstruction)
 <!--END_SECTION:activity-->
 
 </details
