@@ -45,16 +45,16 @@
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#4](https://github.com/zer0Kerbal/SurfaceExperimentPackage/pull/4) in [zer0Kerbal/SurfaceExperimentPackage](https://github.com/zer0Kerbal/SurfaceExperimentPackage)
-2. ❗️ Opened issue [#61](https://github.com/zer0Kerbal/NotSoSimpleConstruction/issues/61) in [zer0Kerbal/NotSoSimpleConstruction](https://github.com/zer0Kerbal/NotSoSimpleConstruction)
-3. 🎉 Merged PR [#60](https://github.com/zer0Kerbal/NotSoSimpleConstruction/pull/60) in [zer0Kerbal/NotSoSimpleConstruction](https://github.com/zer0Kerbal/NotSoSimpleConstruction)
-4. ❗️ Closed issue [#57](https://github.com/zer0Kerbal/NotSoSimpleConstruction/issues/57) in [zer0Kerbal/NotSoSimpleConstruction](https://github.com/zer0Kerbal/NotSoSimpleConstruction)
-5. ❗️ Closed issue [#58](https://github.com/zer0Kerbal/NotSoSimpleConstruction/issues/58) in [zer0Kerbal/NotSoSimpleConstruction](https://github.com/zer0Kerbal/NotSoSimpleConstruction)
-6. ❗️ Closed issue [#56](https://github.com/zer0Kerbal/NotSoSimpleConstruction/issues/56) in [zer0Kerbal/NotSoSimpleConstruction](https://github.com/zer0Kerbal/NotSoSimpleConstruction)
-7. ❗️ Closed issue [#55](https://github.com/zer0Kerbal/NotSoSimpleConstruction/issues/55) in [zer0Kerbal/NotSoSimpleConstruction](https://github.com/zer0Kerbal/NotSoSimpleConstruction)
-8. ❗️ Closed issue [#21](https://github.com/zer0Kerbal/NotSoSimpleConstruction/issues/21) in [zer0Kerbal/NotSoSimpleConstruction](https://github.com/zer0Kerbal/NotSoSimpleConstruction)
-9. 💪 Opened PR [#60](https://github.com/zer0Kerbal/NotSoSimpleConstruction/pull/60) in [zer0Kerbal/NotSoSimpleConstruction](https://github.com/zer0Kerbal/NotSoSimpleConstruction)
-10. 🎉 Merged PR [#54](https://github.com/zer0Kerbal/NotSoSimpleConstruction/pull/54) in [zer0Kerbal/NotSoSimpleConstruction](https://github.com/zer0Kerbal/NotSoSimpleConstruction)
+1. 🗣 Commented on [#50](https://github.com/zer0Kerbal/SurfaceExperimentPackage/issues/50) in [zer0Kerbal/SurfaceExperimentPackage](https://github.com/zer0Kerbal/SurfaceExperimentPackage)
+2. 🗣 Commented on [#50](https://github.com/zer0Kerbal/SurfaceExperimentPackage/issues/50) in [zer0Kerbal/SurfaceExperimentPackage](https://github.com/zer0Kerbal/SurfaceExperimentPackage)
+3. ❗️ Opened issue [#49](https://github.com/zer0Kerbal/SurfaceExperimentPackage/issues/49) in [zer0Kerbal/SurfaceExperimentPackage](https://github.com/zer0Kerbal/SurfaceExperimentPackage)
+4. 🗣 Commented on [#49](https://github.com/zer0Kerbal/SurfaceExperimentPackage/issues/49) in [zer0Kerbal/SurfaceExperimentPackage](https://github.com/zer0Kerbal/SurfaceExperimentPackage)
+5. ❗️ Opened issue [#50](https://github.com/zer0Kerbal/SurfaceExperimentPackage/issues/50) in [zer0Kerbal/SurfaceExperimentPackage](https://github.com/zer0Kerbal/SurfaceExperimentPackage)
+6. 🗣 Commented on [#49](https://github.com/zer0Kerbal/SurfaceExperimentPackage/issues/49) in [zer0Kerbal/SurfaceExperimentPackage](https://github.com/zer0Kerbal/SurfaceExperimentPackage)
+7. 🗣 Commented on [#48](https://github.com/zer0Kerbal/SurfaceExperimentPackage/issues/48) in [zer0Kerbal/SurfaceExperimentPackage](https://github.com/zer0Kerbal/SurfaceExperimentPackage)
+8. ❗️ Opened issue [#48](https://github.com/zer0Kerbal/SurfaceExperimentPackage/issues/48) in [zer0Kerbal/SurfaceExperimentPackage](https://github.com/zer0Kerbal/SurfaceExperimentPackage)
+9. ❗️ Opened issue [#47](https://github.com/zer0Kerbal/SurfaceExperimentPackage/issues/47) in [zer0Kerbal/SurfaceExperimentPackage](https://github.com/zer0Kerbal/SurfaceExperimentPackage)
+10. ❗️ Opened issue [#46](https://github.com/zer0Kerbal/SurfaceExperimentPackage/issues/46) in [zer0Kerbal/SurfaceExperimentPackage](https://github.com/zer0Kerbal/SurfaceExperimentPackage)
 <!--END_SECTION:activity-->
 
 </details
