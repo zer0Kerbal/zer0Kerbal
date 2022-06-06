@@ -45,16 +45,16 @@
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#9153](https://github.com/KSP-CKAN/NetKAN/pull/9153) in [KSP-CKAN/NetKAN](https://github.com/KSP-CKAN/NetKAN)
-2. 💪 Opened PR [#9152](https://github.com/KSP-CKAN/NetKAN/pull/9152) in [KSP-CKAN/NetKAN](https://github.com/KSP-CKAN/NetKAN)
-3. ❌ Closed PR [#9151](https://github.com/KSP-CKAN/NetKAN/pull/9151) in [KSP-CKAN/NetKAN](https://github.com/KSP-CKAN/NetKAN)
-4. 💪 Opened PR [#9151](https://github.com/KSP-CKAN/NetKAN/pull/9151) in [KSP-CKAN/NetKAN](https://github.com/KSP-CKAN/NetKAN)
-5. 🗣 Commented on [#9135](https://github.com/KSP-CKAN/NetKAN/issues/9135) in [KSP-CKAN/NetKAN](https://github.com/KSP-CKAN/NetKAN)
+1. ❌ Closed PR [#2](https://github.com/zer0Kerbal/IrradiatedParts/pull/2) in [zer0Kerbal/IrradiatedParts](https://github.com/zer0Kerbal/IrradiatedParts)
+2. 💪 Opened PR [#9153](https://github.com/KSP-CKAN/NetKAN/pull/9153) in [KSP-CKAN/NetKAN](https://github.com/KSP-CKAN/NetKAN)
+3. 💪 Opened PR [#9152](https://github.com/KSP-CKAN/NetKAN/pull/9152) in [KSP-CKAN/NetKAN](https://github.com/KSP-CKAN/NetKAN)
+4. ❌ Closed PR [#9151](https://github.com/KSP-CKAN/NetKAN/pull/9151) in [KSP-CKAN/NetKAN](https://github.com/KSP-CKAN/NetKAN)
+5. 💪 Opened PR [#9151](https://github.com/KSP-CKAN/NetKAN/pull/9151) in [KSP-CKAN/NetKAN](https://github.com/KSP-CKAN/NetKAN)
 6. 🗣 Commented on [#9135](https://github.com/KSP-CKAN/NetKAN/issues/9135) in [KSP-CKAN/NetKAN](https://github.com/KSP-CKAN/NetKAN)
-7. ❗️ Opened issue [#51](https://github.com/zer0Kerbal/ProbiTronics/issues/51) in [zer0Kerbal/ProbiTronics](https://github.com/zer0Kerbal/ProbiTronics)
-8. ❗️ Opened issue [#50](https://github.com/zer0Kerbal/ProbiTronics/issues/50) in [zer0Kerbal/ProbiTronics](https://github.com/zer0Kerbal/ProbiTronics)
-9. ❗️ Opened issue [#49](https://github.com/zer0Kerbal/ProbiTronics/issues/49) in [zer0Kerbal/ProbiTronics](https://github.com/zer0Kerbal/ProbiTronics)
-10. ❗️ Opened issue [#48](https://github.com/zer0Kerbal/ProbiTronics/issues/48) in [zer0Kerbal/ProbiTronics](https://github.com/zer0Kerbal/ProbiTronics)
+7. 🗣 Commented on [#9135](https://github.com/KSP-CKAN/NetKAN/issues/9135) in [KSP-CKAN/NetKAN](https://github.com/KSP-CKAN/NetKAN)
+8. ❗️ Opened issue [#51](https://github.com/zer0Kerbal/ProbiTronics/issues/51) in [zer0Kerbal/ProbiTronics](https://github.com/zer0Kerbal/ProbiTronics)
+9. ❗️ Opened issue [#50](https://github.com/zer0Kerbal/ProbiTronics/issues/50) in [zer0Kerbal/ProbiTronics](https://github.com/zer0Kerbal/ProbiTronics)
+10. ❗️ Opened issue [#49](https://github.com/zer0Kerbal/ProbiTronics/issues/49) in [zer0Kerbal/ProbiTronics](https://github.com/zer0Kerbal/ProbiTronics)
 <!--END_SECTION:activity-->
 
 </details
