@@ -45,16 +45,16 @@
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#2](https://github.com/zer0Kerbal/IrradiatedParts/pull/2) in [zer0Kerbal/IrradiatedParts](https://github.com/zer0Kerbal/IrradiatedParts)
-2. 💪 Opened PR [#9153](https://github.com/KSP-CKAN/NetKAN/pull/9153) in [KSP-CKAN/NetKAN](https://github.com/KSP-CKAN/NetKAN)
-3. 💪 Opened PR [#9152](https://github.com/KSP-CKAN/NetKAN/pull/9152) in [KSP-CKAN/NetKAN](https://github.com/KSP-CKAN/NetKAN)
-4. ❌ Closed PR [#9151](https://github.com/KSP-CKAN/NetKAN/pull/9151) in [KSP-CKAN/NetKAN](https://github.com/KSP-CKAN/NetKAN)
-5. 💪 Opened PR [#9151](https://github.com/KSP-CKAN/NetKAN/pull/9151) in [KSP-CKAN/NetKAN](https://github.com/KSP-CKAN/NetKAN)
-6. 🗣 Commented on [#9135](https://github.com/KSP-CKAN/NetKAN/issues/9135) in [KSP-CKAN/NetKAN](https://github.com/KSP-CKAN/NetKAN)
-7. 🗣 Commented on [#9135](https://github.com/KSP-CKAN/NetKAN/issues/9135) in [KSP-CKAN/NetKAN](https://github.com/KSP-CKAN/NetKAN)
-8. ❗️ Opened issue [#51](https://github.com/zer0Kerbal/ProbiTronics/issues/51) in [zer0Kerbal/ProbiTronics](https://github.com/zer0Kerbal/ProbiTronics)
-9. ❗️ Opened issue [#50](https://github.com/zer0Kerbal/ProbiTronics/issues/50) in [zer0Kerbal/ProbiTronics](https://github.com/zer0Kerbal/ProbiTronics)
-10. ❗️ Opened issue [#49](https://github.com/zer0Kerbal/ProbiTronics/issues/49) in [zer0Kerbal/ProbiTronics](https://github.com/zer0Kerbal/ProbiTronics)
+1. ❗️ Opened issue [#26](https://github.com/zer0Kerbal/IrradiatedParts/issues/26) in [zer0Kerbal/IrradiatedParts](https://github.com/zer0Kerbal/IrradiatedParts)
+2. ❗️ Opened issue [#25](https://github.com/zer0Kerbal/IrradiatedParts/issues/25) in [zer0Kerbal/IrradiatedParts](https://github.com/zer0Kerbal/IrradiatedParts)
+3. ❗️ Opened issue [#24](https://github.com/zer0Kerbal/IrradiatedParts/issues/24) in [zer0Kerbal/IrradiatedParts](https://github.com/zer0Kerbal/IrradiatedParts)
+4. ❗️ Opened issue [#23](https://github.com/zer0Kerbal/IrradiatedParts/issues/23) in [zer0Kerbal/IrradiatedParts](https://github.com/zer0Kerbal/IrradiatedParts)
+5. ❗️ Opened issue [#22](https://github.com/zer0Kerbal/IrradiatedParts/issues/22) in [zer0Kerbal/IrradiatedParts](https://github.com/zer0Kerbal/IrradiatedParts)
+6. ❗️ Opened issue [#21](https://github.com/zer0Kerbal/IrradiatedParts/issues/21) in [zer0Kerbal/IrradiatedParts](https://github.com/zer0Kerbal/IrradiatedParts)
+7. ❗️ Opened issue [#20](https://github.com/zer0Kerbal/IrradiatedParts/issues/20) in [zer0Kerbal/IrradiatedParts](https://github.com/zer0Kerbal/IrradiatedParts)
+8. ❗️ Opened issue [#19](https://github.com/zer0Kerbal/IrradiatedParts/issues/19) in [zer0Kerbal/IrradiatedParts](https://github.com/zer0Kerbal/IrradiatedParts)
+9. ❗️ Opened issue [#18](https://github.com/zer0Kerbal/IrradiatedParts/issues/18) in [zer0Kerbal/IrradiatedParts](https://github.com/zer0Kerbal/IrradiatedParts)
+10. ❗️ Opened issue [#17](https://github.com/zer0Kerbal/IrradiatedParts/issues/17) in [zer0Kerbal/IrradiatedParts](https://github.com/zer0Kerbal/IrradiatedParts)
 <!--END_SECTION:activity-->
 
 </details
