@@ -30,11 +30,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Add on / mod testing:[Rover Anti Gravity System &lpar;RUGS&rpar;]](https://www.youtube.com/watch?v=3vx80qaI-OI)
+- [Add on / mod testing:[Rover Anti Gravity System &lpar;RUGS&rpar;]](https://www.youtube.com/watch?v=GLQqNlzc4N0)
 - [Highlight: Add on / mod testing:[Transparent Pods &lpar;PODS&rpar;]](https://www.youtube.com/watch?v=I2oJ13PjHtI)
 - [Add on / mod testing:[Adjustable Mod Panel &lpar;KAMP&rpar; and Precise Maneuver &lpar;KPM&rpar; and Notes! &lpar;NOTE&rpar;]](https://www.youtube.com/watch?v=LQuuWlecPEc)
 - [Add on / mod testing:[Taerobee]](https://www.youtube.com/watch?v=-c0VDbEmb40)
-- [Please Stand By](https://www.youtube.com/watch?v=jkUy_I7vqc8)
-- [All nominal....wait...KSC we have an issue](https://www.youtube.com/watch?v=RWdrVfEaQOU)
 <!-- YOUTUBE:END -->
 
 ---
