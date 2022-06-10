@@ -45,16 +45,16 @@
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#29](https://github.com/zer0Kerbal/AntiGravRoom/issues/29) in [zer0Kerbal/AntiGravRoom](https://github.com/zer0Kerbal/AntiGravRoom)
-2. ❗️ Opened issue [#28](https://github.com/zer0Kerbal/AntiGravRoom/issues/28) in [zer0Kerbal/AntiGravRoom](https://github.com/zer0Kerbal/AntiGravRoom)
-3. ❗️ Opened issue [#27](https://github.com/zer0Kerbal/AntiGravRoom/issues/27) in [zer0Kerbal/AntiGravRoom](https://github.com/zer0Kerbal/AntiGravRoom)
-4. ❗️ Opened issue [#26](https://github.com/zer0Kerbal/AntiGravRoom/issues/26) in [zer0Kerbal/AntiGravRoom](https://github.com/zer0Kerbal/AntiGravRoom)
-5. ❗️ Opened issue [#25](https://github.com/zer0Kerbal/AntiGravRoom/issues/25) in [zer0Kerbal/AntiGravRoom](https://github.com/zer0Kerbal/AntiGravRoom)
-6. ❗️ Opened issue [#24](https://github.com/zer0Kerbal/AntiGravRoom/issues/24) in [zer0Kerbal/AntiGravRoom](https://github.com/zer0Kerbal/AntiGravRoom)
-7. ❗️ Opened issue [#23](https://github.com/zer0Kerbal/AntiGravRoom/issues/23) in [zer0Kerbal/AntiGravRoom](https://github.com/zer0Kerbal/AntiGravRoom)
-8. ❗️ Opened issue [#22](https://github.com/zer0Kerbal/AntiGravRoom/issues/22) in [zer0Kerbal/AntiGravRoom](https://github.com/zer0Kerbal/AntiGravRoom)
-9. ❗️ Opened issue [#21](https://github.com/zer0Kerbal/AntiGravRoom/issues/21) in [zer0Kerbal/AntiGravRoom](https://github.com/zer0Kerbal/AntiGravRoom)
-10. ❗️ Opened issue [#20](https://github.com/zer0Kerbal/AntiGravRoom/issues/20) in [zer0Kerbal/AntiGravRoom](https://github.com/zer0Kerbal/AntiGravRoom)
+1. 🗣 Commented on [#178](https://github.com/taniwha/Extraplanetary-Launchpads/issues/178) in [taniwha/Extraplanetary-Launchpads](https://github.com/taniwha/Extraplanetary-Launchpads)
+2. 🗣 Commented on [#176](https://github.com/taniwha/Extraplanetary-Launchpads/issues/176) in [taniwha/Extraplanetary-Launchpads](https://github.com/taniwha/Extraplanetary-Launchpads)
+3. ❗️ Opened issue [#29](https://github.com/zer0Kerbal/AntiGravRoom/issues/29) in [zer0Kerbal/AntiGravRoom](https://github.com/zer0Kerbal/AntiGravRoom)
+4. ❗️ Opened issue [#28](https://github.com/zer0Kerbal/AntiGravRoom/issues/28) in [zer0Kerbal/AntiGravRoom](https://github.com/zer0Kerbal/AntiGravRoom)
+5. ❗️ Opened issue [#27](https://github.com/zer0Kerbal/AntiGravRoom/issues/27) in [zer0Kerbal/AntiGravRoom](https://github.com/zer0Kerbal/AntiGravRoom)
+6. ❗️ Opened issue [#26](https://github.com/zer0Kerbal/AntiGravRoom/issues/26) in [zer0Kerbal/AntiGravRoom](https://github.com/zer0Kerbal/AntiGravRoom)
+7. ❗️ Opened issue [#25](https://github.com/zer0Kerbal/AntiGravRoom/issues/25) in [zer0Kerbal/AntiGravRoom](https://github.com/zer0Kerbal/AntiGravRoom)
+8. ❗️ Opened issue [#24](https://github.com/zer0Kerbal/AntiGravRoom/issues/24) in [zer0Kerbal/AntiGravRoom](https://github.com/zer0Kerbal/AntiGravRoom)
+9. ❗️ Opened issue [#23](https://github.com/zer0Kerbal/AntiGravRoom/issues/23) in [zer0Kerbal/AntiGravRoom](https://github.com/zer0Kerbal/AntiGravRoom)
+10. ❗️ Opened issue [#22](https://github.com/zer0Kerbal/AntiGravRoom/issues/22) in [zer0Kerbal/AntiGravRoom](https://github.com/zer0Kerbal/AntiGravRoom)
 <!--END_SECTION:activity-->
 
 </details
