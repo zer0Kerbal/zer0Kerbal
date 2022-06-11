@@ -45,16 +45,16 @@
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/zer0Kerbal/KerbalKlinic/issues/2) in [zer0Kerbal/KerbalKlinic](https://github.com/zer0Kerbal/KerbalKlinic)
-2. 🗣 Commented on [#182](https://github.com/taniwha/Extraplanetary-Launchpads/issues/182) in [taniwha/Extraplanetary-Launchpads](https://github.com/taniwha/Extraplanetary-Launchpads)
-3. 🗣 Commented on [#176](https://github.com/taniwha/Extraplanetary-Launchpads/issues/176) in [taniwha/Extraplanetary-Launchpads](https://github.com/taniwha/Extraplanetary-Launchpads)
-4. 🗣 Commented on [#2](https://github.com/zer0Kerbal/KerbalKlinic/issues/2) in [zer0Kerbal/KerbalKlinic](https://github.com/zer0Kerbal/KerbalKlinic)
-5. 🗣 Commented on [#2](https://github.com/zer0Kerbal/KerbalKlinic/issues/2) in [zer0Kerbal/KerbalKlinic](https://github.com/zer0Kerbal/KerbalKlinic)
-6. ❗️ Opened issue [#2](https://github.com/zer0Kerbal/KerbalKlinic/issues/2) in [zer0Kerbal/KerbalKlinic](https://github.com/zer0Kerbal/KerbalKlinic)
-7. 🗣 Commented on [#139](https://github.com/zer0Kerbal/FuelTanksPlus/issues/139) in [zer0Kerbal/FuelTanksPlus](https://github.com/zer0Kerbal/FuelTanksPlus)
-8. 🗣 Commented on [#178](https://github.com/taniwha/Extraplanetary-Launchpads/issues/178) in [taniwha/Extraplanetary-Launchpads](https://github.com/taniwha/Extraplanetary-Launchpads)
-9. 🗣 Commented on [#176](https://github.com/taniwha/Extraplanetary-Launchpads/issues/176) in [taniwha/Extraplanetary-Launchpads](https://github.com/taniwha/Extraplanetary-Launchpads)
-10. ❗️ Opened issue [#29](https://github.com/zer0Kerbal/AntiGravRoom/issues/29) in [zer0Kerbal/AntiGravRoom](https://github.com/zer0Kerbal/AntiGravRoom)
+1. ❗️ Opened issue [#22](https://github.com/zer0Kerbal/KerbalKlinic/issues/22) in [zer0Kerbal/KerbalKlinic](https://github.com/zer0Kerbal/KerbalKlinic)
+2. ❗️ Opened issue [#21](https://github.com/zer0Kerbal/KerbalKlinic/issues/21) in [zer0Kerbal/KerbalKlinic](https://github.com/zer0Kerbal/KerbalKlinic)
+3. ❗️ Opened issue [#20](https://github.com/zer0Kerbal/KerbalKlinic/issues/20) in [zer0Kerbal/KerbalKlinic](https://github.com/zer0Kerbal/KerbalKlinic)
+4. ❗️ Opened issue [#19](https://github.com/zer0Kerbal/KerbalKlinic/issues/19) in [zer0Kerbal/KerbalKlinic](https://github.com/zer0Kerbal/KerbalKlinic)
+5. ❗️ Opened issue [#18](https://github.com/zer0Kerbal/KerbalKlinic/issues/18) in [zer0Kerbal/KerbalKlinic](https://github.com/zer0Kerbal/KerbalKlinic)
+6. ❗️ Opened issue [#17](https://github.com/zer0Kerbal/KerbalKlinic/issues/17) in [zer0Kerbal/KerbalKlinic](https://github.com/zer0Kerbal/KerbalKlinic)
+7. ❗️ Opened issue [#16](https://github.com/zer0Kerbal/KerbalKlinic/issues/16) in [zer0Kerbal/KerbalKlinic](https://github.com/zer0Kerbal/KerbalKlinic)
+8. ❗️ Opened issue [#15](https://github.com/zer0Kerbal/KerbalKlinic/issues/15) in [zer0Kerbal/KerbalKlinic](https://github.com/zer0Kerbal/KerbalKlinic)
+9. ❗️ Opened issue [#14](https://github.com/zer0Kerbal/KerbalKlinic/issues/14) in [zer0Kerbal/KerbalKlinic](https://github.com/zer0Kerbal/KerbalKlinic)
+10. ❗️ Opened issue [#13](https://github.com/zer0Kerbal/KerbalKlinic/issues/13) in [zer0Kerbal/KerbalKlinic](https://github.com/zer0Kerbal/KerbalKlinic)
 <!--END_SECTION:activity-->
 
 </details
