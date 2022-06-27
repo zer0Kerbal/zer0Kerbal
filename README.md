@@ -45,16 +45,16 @@
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#189](https://github.com/taniwha/Extraplanetary-Launchpads/pull/189) in [taniwha/Extraplanetary-Launchpads](https://github.com/taniwha/Extraplanetary-Launchpads)
-2. 🗣 Commented on [#63](https://github.com/zer0Kerbal/NotSoSimpleConstruction/issues/63) in [zer0Kerbal/NotSoSimpleConstruction](https://github.com/zer0Kerbal/NotSoSimpleConstruction)
-3. ❗️ Opened issue [#67](https://github.com/zer0Kerbal/NotSoSimpleConstruction/issues/67) in [zer0Kerbal/NotSoSimpleConstruction](https://github.com/zer0Kerbal/NotSoSimpleConstruction)
-4. ❗️ Opened issue [#66](https://github.com/zer0Kerbal/NotSoSimpleConstruction/issues/66) in [zer0Kerbal/NotSoSimpleConstruction](https://github.com/zer0Kerbal/NotSoSimpleConstruction)
-5. ❗️ Opened issue [#65](https://github.com/zer0Kerbal/NotSoSimpleConstruction/issues/65) in [zer0Kerbal/NotSoSimpleConstruction](https://github.com/zer0Kerbal/NotSoSimpleConstruction)
-6. ❗️ Opened issue [#64](https://github.com/zer0Kerbal/NotSoSimpleConstruction/issues/64) in [zer0Kerbal/NotSoSimpleConstruction](https://github.com/zer0Kerbal/NotSoSimpleConstruction)
-7. 🗣 Commented on [#63](https://github.com/zer0Kerbal/NotSoSimpleConstruction/issues/63) in [zer0Kerbal/NotSoSimpleConstruction](https://github.com/zer0Kerbal/NotSoSimpleConstruction)
-8. 🗣 Commented on [#63](https://github.com/zer0Kerbal/NotSoSimpleConstruction/issues/63) in [zer0Kerbal/NotSoSimpleConstruction](https://github.com/zer0Kerbal/NotSoSimpleConstruction)
-9. ❗️ Opened issue [#63](https://github.com/zer0Kerbal/NotSoSimpleConstruction/issues/63) in [zer0Kerbal/NotSoSimpleConstruction](https://github.com/zer0Kerbal/NotSoSimpleConstruction)
-10. 🎉 Merged PR [#129](https://github.com/zer0Kerbal/SimpleConstruction/pull/129) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
+1. 🎉 Merged PR [#68](https://github.com/zer0Kerbal/NotSoSimpleConstruction/pull/68) in [zer0Kerbal/NotSoSimpleConstruction](https://github.com/zer0Kerbal/NotSoSimpleConstruction)
+2. ❗️ Closed issue [#67](https://github.com/zer0Kerbal/NotSoSimpleConstruction/issues/67) in [zer0Kerbal/NotSoSimpleConstruction](https://github.com/zer0Kerbal/NotSoSimpleConstruction)
+3. ❗️ Closed issue [#65](https://github.com/zer0Kerbal/NotSoSimpleConstruction/issues/65) in [zer0Kerbal/NotSoSimpleConstruction](https://github.com/zer0Kerbal/NotSoSimpleConstruction)
+4. ❗️ Closed issue [#64](https://github.com/zer0Kerbal/NotSoSimpleConstruction/issues/64) in [zer0Kerbal/NotSoSimpleConstruction](https://github.com/zer0Kerbal/NotSoSimpleConstruction)
+5. ❗️ Closed issue [#66](https://github.com/zer0Kerbal/NotSoSimpleConstruction/issues/66) in [zer0Kerbal/NotSoSimpleConstruction](https://github.com/zer0Kerbal/NotSoSimpleConstruction)
+6. ❗️ Closed issue [#63](https://github.com/zer0Kerbal/NotSoSimpleConstruction/issues/63) in [zer0Kerbal/NotSoSimpleConstruction](https://github.com/zer0Kerbal/NotSoSimpleConstruction)
+7. 💪 Opened PR [#68](https://github.com/zer0Kerbal/NotSoSimpleConstruction/pull/68) in [zer0Kerbal/NotSoSimpleConstruction](https://github.com/zer0Kerbal/NotSoSimpleConstruction)
+8. 💪 Opened PR [#189](https://github.com/taniwha/Extraplanetary-Launchpads/pull/189) in [taniwha/Extraplanetary-Launchpads](https://github.com/taniwha/Extraplanetary-Launchpads)
+9. 🗣 Commented on [#63](https://github.com/zer0Kerbal/NotSoSimpleConstruction/issues/63) in [zer0Kerbal/NotSoSimpleConstruction](https://github.com/zer0Kerbal/NotSoSimpleConstruction)
+10. ❗️ Opened issue [#67](https://github.com/zer0Kerbal/NotSoSimpleConstruction/issues/67) in [zer0Kerbal/NotSoSimpleConstruction](https://github.com/zer0Kerbal/NotSoSimpleConstruction)
 <!--END_SECTION:activity-->
 
 </details
