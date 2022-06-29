@@ -45,16 +45,16 @@
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#34](https://github.com/zer0Kerbal/FieldTrainingLab/issues/34) in [zer0Kerbal/FieldTrainingLab](https://github.com/zer0Kerbal/FieldTrainingLab)
-2. ❗️ Opened issue [#33](https://github.com/zer0Kerbal/FieldTrainingLab/issues/33) in [zer0Kerbal/FieldTrainingLab](https://github.com/zer0Kerbal/FieldTrainingLab)
-3. ❗️ Opened issue [#32](https://github.com/zer0Kerbal/FieldTrainingLab/issues/32) in [zer0Kerbal/FieldTrainingLab](https://github.com/zer0Kerbal/FieldTrainingLab)
-4. ❗️ Closed issue [#8](https://github.com/zer0Kerbal/FieldTrainingLab/issues/8) in [zer0Kerbal/FieldTrainingLab](https://github.com/zer0Kerbal/FieldTrainingLab)
-5. ❗️ Opened issue [#31](https://github.com/zer0Kerbal/FieldTrainingLab/issues/31) in [zer0Kerbal/FieldTrainingLab](https://github.com/zer0Kerbal/FieldTrainingLab)
-6. ❗️ Opened issue [#30](https://github.com/zer0Kerbal/FieldTrainingLab/issues/30) in [zer0Kerbal/FieldTrainingLab](https://github.com/zer0Kerbal/FieldTrainingLab)
-7. ❗️ Opened issue [#29](https://github.com/zer0Kerbal/FieldTrainingLab/issues/29) in [zer0Kerbal/FieldTrainingLab](https://github.com/zer0Kerbal/FieldTrainingLab)
-8. ❗️ Opened issue [#28](https://github.com/zer0Kerbal/FieldTrainingLab/issues/28) in [zer0Kerbal/FieldTrainingLab](https://github.com/zer0Kerbal/FieldTrainingLab)
-9. ❗️ Opened issue [#27](https://github.com/zer0Kerbal/FieldTrainingLab/issues/27) in [zer0Kerbal/FieldTrainingLab](https://github.com/zer0Kerbal/FieldTrainingLab)
-10. ❗️ Opened issue [#26](https://github.com/zer0Kerbal/FieldTrainingLab/issues/26) in [zer0Kerbal/FieldTrainingLab](https://github.com/zer0Kerbal/FieldTrainingLab)
+1. 🎉 Merged PR [#37](https://github.com/zer0Kerbal/FieldTrainingLab/pull/37) in [zer0Kerbal/FieldTrainingLab](https://github.com/zer0Kerbal/FieldTrainingLab)
+2. 💪 Opened PR [#37](https://github.com/zer0Kerbal/FieldTrainingLab/pull/37) in [zer0Kerbal/FieldTrainingLab](https://github.com/zer0Kerbal/FieldTrainingLab)
+3. ❗️ Closed issue [#22](https://github.com/zer0Kerbal/FieldTrainingLab/issues/22) in [zer0Kerbal/FieldTrainingLab](https://github.com/zer0Kerbal/FieldTrainingLab)
+4. ❗️ Closed issue [#12](https://github.com/zer0Kerbal/FieldTrainingLab/issues/12) in [zer0Kerbal/FieldTrainingLab](https://github.com/zer0Kerbal/FieldTrainingLab)
+5. 🎉 Merged PR [#36](https://github.com/zer0Kerbal/FieldTrainingLab/pull/36) in [zer0Kerbal/FieldTrainingLab](https://github.com/zer0Kerbal/FieldTrainingLab)
+6. ❗️ Closed issue [#11](https://github.com/zer0Kerbal/FieldTrainingLab/issues/11) in [zer0Kerbal/FieldTrainingLab](https://github.com/zer0Kerbal/FieldTrainingLab)
+7. ❗️ Closed issue [#10](https://github.com/zer0Kerbal/FieldTrainingLab/issues/10) in [zer0Kerbal/FieldTrainingLab](https://github.com/zer0Kerbal/FieldTrainingLab)
+8. ❗️ Closed issue [#9](https://github.com/zer0Kerbal/FieldTrainingLab/issues/9) in [zer0Kerbal/FieldTrainingLab](https://github.com/zer0Kerbal/FieldTrainingLab)
+9. ❗️ Closed issue [#34](https://github.com/zer0Kerbal/FieldTrainingLab/issues/34) in [zer0Kerbal/FieldTrainingLab](https://github.com/zer0Kerbal/FieldTrainingLab)
+10. ❗️ Closed issue [#33](https://github.com/zer0Kerbal/FieldTrainingLab/issues/33) in [zer0Kerbal/FieldTrainingLab](https://github.com/zer0Kerbal/FieldTrainingLab)
 <!--END_SECTION:activity-->
 
 </details
