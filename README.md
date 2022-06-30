@@ -45,16 +45,16 @@
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#2](https://github.com/zer0Kerbal/SolarScience/pull/2) in [zer0Kerbal/SolarScience](https://github.com/zer0Kerbal/SolarScience)
-2. 🗣 Commented on [#6](https://github.com/KillaC999/Gett39/issues/6) in [KillaC999/Gett39](https://github.com/KillaC999/Gett39)
-3. ❗️ Closed issue [#18](https://github.com/zer0Kerbal/FieldTrainingFacility/issues/18) in [zer0Kerbal/FieldTrainingFacility](https://github.com/zer0Kerbal/FieldTrainingFacility)
-4. ❗️ Closed issue [#21](https://github.com/zer0Kerbal/FieldTrainingFacility/issues/21) in [zer0Kerbal/FieldTrainingFacility](https://github.com/zer0Kerbal/FieldTrainingFacility)
-5. 🎉 Merged PR [#45](https://github.com/zer0Kerbal/FieldTrainingFacility/pull/45) in [zer0Kerbal/FieldTrainingFacility](https://github.com/zer0Kerbal/FieldTrainingFacility)
-6. ❗️ Closed issue [#42](https://github.com/zer0Kerbal/FieldTrainingFacility/issues/42) in [zer0Kerbal/FieldTrainingFacility](https://github.com/zer0Kerbal/FieldTrainingFacility)
-7. ❗️ Closed issue [#20](https://github.com/zer0Kerbal/FieldTrainingFacility/issues/20) in [zer0Kerbal/FieldTrainingFacility](https://github.com/zer0Kerbal/FieldTrainingFacility)
-8. ❗️ Closed issue [#19](https://github.com/zer0Kerbal/FieldTrainingFacility/issues/19) in [zer0Kerbal/FieldTrainingFacility](https://github.com/zer0Kerbal/FieldTrainingFacility)
-9. ❗️ Closed issue [#31](https://github.com/zer0Kerbal/FieldTrainingFacility/issues/31) in [zer0Kerbal/FieldTrainingFacility](https://github.com/zer0Kerbal/FieldTrainingFacility)
-10. ❗️ Closed issue [#16](https://github.com/zer0Kerbal/FieldTrainingFacility/issues/16) in [zer0Kerbal/FieldTrainingFacility](https://github.com/zer0Kerbal/FieldTrainingFacility)
+1. ❗️ Opened issue [#26](https://github.com/zer0Kerbal/SolarScience/issues/26) in [zer0Kerbal/SolarScience](https://github.com/zer0Kerbal/SolarScience)
+2. ❗️ Opened issue [#25](https://github.com/zer0Kerbal/SolarScience/issues/25) in [zer0Kerbal/SolarScience](https://github.com/zer0Kerbal/SolarScience)
+3. ❗️ Opened issue [#24](https://github.com/zer0Kerbal/SolarScience/issues/24) in [zer0Kerbal/SolarScience](https://github.com/zer0Kerbal/SolarScience)
+4. ❗️ Opened issue [#23](https://github.com/zer0Kerbal/SolarScience/issues/23) in [zer0Kerbal/SolarScience](https://github.com/zer0Kerbal/SolarScience)
+5. ❌ Closed PR [#2](https://github.com/zer0Kerbal/SolarScience/pull/2) in [zer0Kerbal/SolarScience](https://github.com/zer0Kerbal/SolarScience)
+6. 🗣 Commented on [#6](https://github.com/KillaC999/Gett39/issues/6) in [KillaC999/Gett39](https://github.com/KillaC999/Gett39)
+7. ❗️ Closed issue [#18](https://github.com/zer0Kerbal/FieldTrainingFacility/issues/18) in [zer0Kerbal/FieldTrainingFacility](https://github.com/zer0Kerbal/FieldTrainingFacility)
+8. ❗️ Closed issue [#21](https://github.com/zer0Kerbal/FieldTrainingFacility/issues/21) in [zer0Kerbal/FieldTrainingFacility](https://github.com/zer0Kerbal/FieldTrainingFacility)
+9. 🎉 Merged PR [#45](https://github.com/zer0Kerbal/FieldTrainingFacility/pull/45) in [zer0Kerbal/FieldTrainingFacility](https://github.com/zer0Kerbal/FieldTrainingFacility)
+10. ❗️ Closed issue [#42](https://github.com/zer0Kerbal/FieldTrainingFacility/issues/42) in [zer0Kerbal/FieldTrainingFacility](https://github.com/zer0Kerbal/FieldTrainingFacility)
 <!--END_SECTION:activity-->
 
 </details
