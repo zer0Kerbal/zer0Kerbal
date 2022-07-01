@@ -45,16 +45,16 @@
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#26](https://github.com/zer0Kerbal/SolarScience/issues/26) in [zer0Kerbal/SolarScience](https://github.com/zer0Kerbal/SolarScience)
-2. ❗️ Closed issue [#28](https://github.com/zer0Kerbal/SolarScience/issues/28) in [zer0Kerbal/SolarScience](https://github.com/zer0Kerbal/SolarScience)
-3. ❗️ Closed issue [#25](https://github.com/zer0Kerbal/SolarScience/issues/25) in [zer0Kerbal/SolarScience](https://github.com/zer0Kerbal/SolarScience)
-4. ❗️ Closed issue [#24](https://github.com/zer0Kerbal/SolarScience/issues/24) in [zer0Kerbal/SolarScience](https://github.com/zer0Kerbal/SolarScience)
-5. ❗️ Closed issue [#23](https://github.com/zer0Kerbal/SolarScience/issues/23) in [zer0Kerbal/SolarScience](https://github.com/zer0Kerbal/SolarScience)
-6. ❗️ Closed issue [#6](https://github.com/zer0Kerbal/SolarScience/issues/6) in [zer0Kerbal/SolarScience](https://github.com/zer0Kerbal/SolarScience)
-7. ❗️ Closed issue [#5](https://github.com/zer0Kerbal/SolarScience/issues/5) in [zer0Kerbal/SolarScience](https://github.com/zer0Kerbal/SolarScience)
-8. 🎉 Merged PR [#30](https://github.com/zer0Kerbal/SolarScience/pull/30) in [zer0Kerbal/SolarScience](https://github.com/zer0Kerbal/SolarScience)
-9. ❗️ Closed issue [#29](https://github.com/zer0Kerbal/SolarScience/issues/29) in [zer0Kerbal/SolarScience](https://github.com/zer0Kerbal/SolarScience)
-10. 💪 Opened PR [#30](https://github.com/zer0Kerbal/SolarScience/pull/30) in [zer0Kerbal/SolarScience](https://github.com/zer0Kerbal/SolarScience)
+1. ❗️ Closed issue [#14](https://github.com/zer0Kerbal/KeridianDynamics/issues/14) in [zer0Kerbal/KeridianDynamics](https://github.com/zer0Kerbal/KeridianDynamics)
+2. 💪 Opened PR [#34](https://github.com/zer0Kerbal/KeridianDynamics/pull/34) in [zer0Kerbal/KeridianDynamics](https://github.com/zer0Kerbal/KeridianDynamics)
+3. ❗️ Closed issue [#26](https://github.com/zer0Kerbal/SolarScience/issues/26) in [zer0Kerbal/SolarScience](https://github.com/zer0Kerbal/SolarScience)
+4. ❗️ Closed issue [#28](https://github.com/zer0Kerbal/SolarScience/issues/28) in [zer0Kerbal/SolarScience](https://github.com/zer0Kerbal/SolarScience)
+5. ❗️ Closed issue [#25](https://github.com/zer0Kerbal/SolarScience/issues/25) in [zer0Kerbal/SolarScience](https://github.com/zer0Kerbal/SolarScience)
+6. ❗️ Closed issue [#24](https://github.com/zer0Kerbal/SolarScience/issues/24) in [zer0Kerbal/SolarScience](https://github.com/zer0Kerbal/SolarScience)
+7. ❗️ Closed issue [#23](https://github.com/zer0Kerbal/SolarScience/issues/23) in [zer0Kerbal/SolarScience](https://github.com/zer0Kerbal/SolarScience)
+8. ❗️ Closed issue [#6](https://github.com/zer0Kerbal/SolarScience/issues/6) in [zer0Kerbal/SolarScience](https://github.com/zer0Kerbal/SolarScience)
+9. ❗️ Closed issue [#5](https://github.com/zer0Kerbal/SolarScience/issues/5) in [zer0Kerbal/SolarScience](https://github.com/zer0Kerbal/SolarScience)
+10. 🎉 Merged PR [#30](https://github.com/zer0Kerbal/SolarScience/pull/30) in [zer0Kerbal/SolarScience](https://github.com/zer0Kerbal/SolarScience)
 <!--END_SECTION:activity-->
 
 </details
