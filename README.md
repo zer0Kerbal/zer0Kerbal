@@ -45,16 +45,16 @@
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#31](https://github.com/zer0Kerbal/GoodspeedAerospace/issues/31) in [zer0Kerbal/GoodspeedAerospace](https://github.com/zer0Kerbal/GoodspeedAerospace)
-2. 🎉 Merged PR [#132](https://github.com/zer0Kerbal/SimpleConstruction/pull/132) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
-3. 🗣 Commented on [#131](https://github.com/zer0Kerbal/SimpleConstruction/issues/131) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
-4. 🗣 Commented on [#131](https://github.com/zer0Kerbal/SimpleConstruction/issues/131) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
-5. 🗣 Commented on [#131](https://github.com/zer0Kerbal/SimpleConstruction/issues/131) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
+1. 🎉 Merged PR [#32](https://github.com/zer0Kerbal/GoodspeedAerospace/pull/32) in [zer0Kerbal/GoodspeedAerospace](https://github.com/zer0Kerbal/GoodspeedAerospace)
+2. ❗️ Closed issue [#31](https://github.com/zer0Kerbal/GoodspeedAerospace/issues/31) in [zer0Kerbal/GoodspeedAerospace](https://github.com/zer0Kerbal/GoodspeedAerospace)
+3. 💪 Opened PR [#32](https://github.com/zer0Kerbal/GoodspeedAerospace/pull/32) in [zer0Kerbal/GoodspeedAerospace](https://github.com/zer0Kerbal/GoodspeedAerospace)
+4. ❗️ Opened issue [#31](https://github.com/zer0Kerbal/GoodspeedAerospace/issues/31) in [zer0Kerbal/GoodspeedAerospace](https://github.com/zer0Kerbal/GoodspeedAerospace)
+5. 🎉 Merged PR [#132](https://github.com/zer0Kerbal/SimpleConstruction/pull/132) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
 6. 🗣 Commented on [#131](https://github.com/zer0Kerbal/SimpleConstruction/issues/131) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
-7. ❗️ Opened issue [#131](https://github.com/zer0Kerbal/SimpleConstruction/issues/131) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
-8. 🗣 Commented on [#44](https://github.com/zer0Kerbal/KeridianDynamics/issues/44) in [zer0Kerbal/KeridianDynamics](https://github.com/zer0Kerbal/KeridianDynamics)
-9. 🗣 Commented on [#44](https://github.com/zer0Kerbal/KeridianDynamics/issues/44) in [zer0Kerbal/KeridianDynamics](https://github.com/zer0Kerbal/KeridianDynamics)
-10. 🗣 Commented on [#44](https://github.com/zer0Kerbal/KeridianDynamics/issues/44) in [zer0Kerbal/KeridianDynamics](https://github.com/zer0Kerbal/KeridianDynamics)
+7. 🗣 Commented on [#131](https://github.com/zer0Kerbal/SimpleConstruction/issues/131) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
+8. 🗣 Commented on [#131](https://github.com/zer0Kerbal/SimpleConstruction/issues/131) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
+9. 🗣 Commented on [#131](https://github.com/zer0Kerbal/SimpleConstruction/issues/131) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
+10. ❗️ Opened issue [#131](https://github.com/zer0Kerbal/SimpleConstruction/issues/131) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
 <!--END_SECTION:activity-->
 
 </details
