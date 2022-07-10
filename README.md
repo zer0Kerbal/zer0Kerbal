@@ -45,16 +45,16 @@
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#137](https://github.com/zer0Kerbal/SimpleConstruction/pull/137) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
-2. ❗️ Closed issue [#136](https://github.com/zer0Kerbal/SimpleConstruction/issues/136) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
-3. ❗️ Closed issue [#135](https://github.com/zer0Kerbal/SimpleConstruction/issues/135) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
-4. ❗️ Closed issue [#31](https://github.com/zer0Kerbal/SimpleConstruction/issues/31) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
-5. ❗️ Closed issue [#134](https://github.com/zer0Kerbal/SimpleConstruction/issues/134) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
-6. ❗️ Closed issue [#111](https://github.com/zer0Kerbal/SimpleConstruction/issues/111) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
-7. ❗️ Closed issue [#133](https://github.com/zer0Kerbal/SimpleConstruction/issues/133) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
-8. ❗️ Closed issue [#131](https://github.com/zer0Kerbal/SimpleConstruction/issues/131) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
-9. 💪 Opened PR [#137](https://github.com/zer0Kerbal/SimpleConstruction/pull/137) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
-10. ❗️ Opened issue [#136](https://github.com/zer0Kerbal/SimpleConstruction/issues/136) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
+1. ❗️ Opened issue [#7](https://github.com/zer0Kerbal/DockingPortDescriptions/issues/7) in [zer0Kerbal/DockingPortDescriptions](https://github.com/zer0Kerbal/DockingPortDescriptions)
+2. ❌ Closed PR [#5](https://github.com/zer0Kerbal/DockingPortDescriptions/pull/5) in [zer0Kerbal/DockingPortDescriptions](https://github.com/zer0Kerbal/DockingPortDescriptions)
+3. 🎉 Merged PR [#137](https://github.com/zer0Kerbal/SimpleConstruction/pull/137) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
+4. ❗️ Closed issue [#136](https://github.com/zer0Kerbal/SimpleConstruction/issues/136) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
+5. ❗️ Closed issue [#135](https://github.com/zer0Kerbal/SimpleConstruction/issues/135) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
+6. ❗️ Closed issue [#31](https://github.com/zer0Kerbal/SimpleConstruction/issues/31) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
+7. ❗️ Closed issue [#134](https://github.com/zer0Kerbal/SimpleConstruction/issues/134) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
+8. ❗️ Closed issue [#111](https://github.com/zer0Kerbal/SimpleConstruction/issues/111) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
+9. ❗️ Closed issue [#133](https://github.com/zer0Kerbal/SimpleConstruction/issues/133) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
+10. ❗️ Closed issue [#131](https://github.com/zer0Kerbal/SimpleConstruction/issues/131) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
 <!--END_SECTION:activity-->
 
 </details
