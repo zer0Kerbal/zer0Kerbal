@@ -45,16 +45,16 @@
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#37](https://github.com/zer0Kerbal/DockingPortDescriptions/issues/37) in [zer0Kerbal/DockingPortDescriptions](https://github.com/zer0Kerbal/DockingPortDescriptions)
-2. ❗️ Opened issue [#36](https://github.com/zer0Kerbal/DockingPortDescriptions/issues/36) in [zer0Kerbal/DockingPortDescriptions](https://github.com/zer0Kerbal/DockingPortDescriptions)
-3. ❗️ Opened issue [#35](https://github.com/zer0Kerbal/DockingPortDescriptions/issues/35) in [zer0Kerbal/DockingPortDescriptions](https://github.com/zer0Kerbal/DockingPortDescriptions)
-4. ❗️ Opened issue [#34](https://github.com/zer0Kerbal/DockingPortDescriptions/issues/34) in [zer0Kerbal/DockingPortDescriptions](https://github.com/zer0Kerbal/DockingPortDescriptions)
-5. ❗️ Opened issue [#33](https://github.com/zer0Kerbal/DockingPortDescriptions/issues/33) in [zer0Kerbal/DockingPortDescriptions](https://github.com/zer0Kerbal/DockingPortDescriptions)
-6. ❗️ Opened issue [#32](https://github.com/zer0Kerbal/DockingPortDescriptions/issues/32) in [zer0Kerbal/DockingPortDescriptions](https://github.com/zer0Kerbal/DockingPortDescriptions)
-7. ❗️ Opened issue [#31](https://github.com/zer0Kerbal/DockingPortDescriptions/issues/31) in [zer0Kerbal/DockingPortDescriptions](https://github.com/zer0Kerbal/DockingPortDescriptions)
-8. ❗️ Opened issue [#30](https://github.com/zer0Kerbal/DockingPortDescriptions/issues/30) in [zer0Kerbal/DockingPortDescriptions](https://github.com/zer0Kerbal/DockingPortDescriptions)
-9. ❗️ Opened issue [#29](https://github.com/zer0Kerbal/DockingPortDescriptions/issues/29) in [zer0Kerbal/DockingPortDescriptions](https://github.com/zer0Kerbal/DockingPortDescriptions)
-10. ❗️ Opened issue [#28](https://github.com/zer0Kerbal/DockingPortDescriptions/issues/28) in [zer0Kerbal/DockingPortDescriptions](https://github.com/zer0Kerbal/DockingPortDescriptions)
+1. ❗️ Closed issue [#10](https://github.com/zer0Kerbal/DockingPortDescriptions/issues/10) in [zer0Kerbal/DockingPortDescriptions](https://github.com/zer0Kerbal/DockingPortDescriptions)
+2. 🎉 Merged PR [#42](https://github.com/zer0Kerbal/DockingPortDescriptions/pull/42) in [zer0Kerbal/DockingPortDescriptions](https://github.com/zer0Kerbal/DockingPortDescriptions)
+3. ❗️ Closed issue [#40](https://github.com/zer0Kerbal/DockingPortDescriptions/issues/40) in [zer0Kerbal/DockingPortDescriptions](https://github.com/zer0Kerbal/DockingPortDescriptions)
+4. ❗️ Closed issue [#41](https://github.com/zer0Kerbal/DockingPortDescriptions/issues/41) in [zer0Kerbal/DockingPortDescriptions](https://github.com/zer0Kerbal/DockingPortDescriptions)
+5. ❗️ Closed issue [#39](https://github.com/zer0Kerbal/DockingPortDescriptions/issues/39) in [zer0Kerbal/DockingPortDescriptions](https://github.com/zer0Kerbal/DockingPortDescriptions)
+6. ❗️ Closed issue [#13](https://github.com/zer0Kerbal/DockingPortDescriptions/issues/13) in [zer0Kerbal/DockingPortDescriptions](https://github.com/zer0Kerbal/DockingPortDescriptions)
+7. ❗️ Closed issue [#38](https://github.com/zer0Kerbal/DockingPortDescriptions/issues/38) in [zer0Kerbal/DockingPortDescriptions](https://github.com/zer0Kerbal/DockingPortDescriptions)
+8. ❗️ Closed issue [#12](https://github.com/zer0Kerbal/DockingPortDescriptions/issues/12) in [zer0Kerbal/DockingPortDescriptions](https://github.com/zer0Kerbal/DockingPortDescriptions)
+9. ❗️ Closed issue [#11](https://github.com/zer0Kerbal/DockingPortDescriptions/issues/11) in [zer0Kerbal/DockingPortDescriptions](https://github.com/zer0Kerbal/DockingPortDescriptions)
+10. ❗️ Closed issue [#37](https://github.com/zer0Kerbal/DockingPortDescriptions/issues/37) in [zer0Kerbal/DockingPortDescriptions](https://github.com/zer0Kerbal/DockingPortDescriptions)
 <!--END_SECTION:activity-->
 
 </details
