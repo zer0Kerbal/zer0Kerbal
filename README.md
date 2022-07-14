@@ -45,16 +45,16 @@
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#34](https://github.com/zer0Kerbal/ShieldedPicoPort/issues/34) in [zer0Kerbal/ShieldedPicoPort](https://github.com/zer0Kerbal/ShieldedPicoPort)
-2. ❗️ Opened issue [#62](https://github.com/zer0Kerbal/ProbiTronics/issues/62) in [zer0Kerbal/ProbiTronics](https://github.com/zer0Kerbal/ProbiTronics)
-3. ❗️ Opened issue [#61](https://github.com/zer0Kerbal/ProbiTronics/issues/61) in [zer0Kerbal/ProbiTronics](https://github.com/zer0Kerbal/ProbiTronics)
-4. ❗️ Opened issue [#60](https://github.com/zer0Kerbal/ProbiTronics/issues/60) in [zer0Kerbal/ProbiTronics](https://github.com/zer0Kerbal/ProbiTronics)
-5. ❗️ Opened issue [#59](https://github.com/zer0Kerbal/ProbiTronics/issues/59) in [zer0Kerbal/ProbiTronics](https://github.com/zer0Kerbal/ProbiTronics)
-6. 🗣 Commented on [#58](https://github.com/zer0Kerbal/ProbiTronics/issues/58) in [zer0Kerbal/ProbiTronics](https://github.com/zer0Kerbal/ProbiTronics)
-7. ❗️ Opened issue [#58](https://github.com/zer0Kerbal/ProbiTronics/issues/58) in [zer0Kerbal/ProbiTronics](https://github.com/zer0Kerbal/ProbiTronics)
-8. 🗣 Commented on [#57](https://github.com/zer0Kerbal/ProbiTronics/issues/57) in [zer0Kerbal/ProbiTronics](https://github.com/zer0Kerbal/ProbiTronics)
-9. ❗️ Opened issue [#57](https://github.com/zer0Kerbal/ProbiTronics/issues/57) in [zer0Kerbal/ProbiTronics](https://github.com/zer0Kerbal/ProbiTronics)
-10. ❗️ Opened issue [#33](https://github.com/zer0Kerbal/ShieldedPicoPort/issues/33) in [zer0Kerbal/ShieldedPicoPort](https://github.com/zer0Kerbal/ShieldedPicoPort)
+1. ❗️ Opened issue [#34](https://github.com/zer0Kerbal/WernhersOldStuff/issues/34) in [zer0Kerbal/WernhersOldStuff](https://github.com/zer0Kerbal/WernhersOldStuff)
+2. ❗️ Closed issue [#29](https://github.com/zer0Kerbal/WernhersOldStuff/issues/29) in [zer0Kerbal/WernhersOldStuff](https://github.com/zer0Kerbal/WernhersOldStuff)
+3. ❗️ Opened issue [#34](https://github.com/zer0Kerbal/ShieldedPicoPort/issues/34) in [zer0Kerbal/ShieldedPicoPort](https://github.com/zer0Kerbal/ShieldedPicoPort)
+4. ❗️ Opened issue [#62](https://github.com/zer0Kerbal/ProbiTronics/issues/62) in [zer0Kerbal/ProbiTronics](https://github.com/zer0Kerbal/ProbiTronics)
+5. ❗️ Opened issue [#61](https://github.com/zer0Kerbal/ProbiTronics/issues/61) in [zer0Kerbal/ProbiTronics](https://github.com/zer0Kerbal/ProbiTronics)
+6. ❗️ Opened issue [#60](https://github.com/zer0Kerbal/ProbiTronics/issues/60) in [zer0Kerbal/ProbiTronics](https://github.com/zer0Kerbal/ProbiTronics)
+7. ❗️ Opened issue [#59](https://github.com/zer0Kerbal/ProbiTronics/issues/59) in [zer0Kerbal/ProbiTronics](https://github.com/zer0Kerbal/ProbiTronics)
+8. 🗣 Commented on [#58](https://github.com/zer0Kerbal/ProbiTronics/issues/58) in [zer0Kerbal/ProbiTronics](https://github.com/zer0Kerbal/ProbiTronics)
+9. ❗️ Opened issue [#58](https://github.com/zer0Kerbal/ProbiTronics/issues/58) in [zer0Kerbal/ProbiTronics](https://github.com/zer0Kerbal/ProbiTronics)
+10. 🗣 Commented on [#57](https://github.com/zer0Kerbal/ProbiTronics/issues/57) in [zer0Kerbal/ProbiTronics](https://github.com/zer0Kerbal/ProbiTronics)
 <!--END_SECTION:activity-->
 
 </details
