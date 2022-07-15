@@ -45,16 +45,16 @@
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#26](https://github.com/zer0Kerbal/InflatablePicoPorts/pull/26) in [zer0Kerbal/InflatablePicoPorts](https://github.com/zer0Kerbal/InflatablePicoPorts)
-2. 💪 Opened PR [#26](https://github.com/zer0Kerbal/InflatablePicoPorts/pull/26) in [zer0Kerbal/InflatablePicoPorts](https://github.com/zer0Kerbal/InflatablePicoPorts)
-3. ❗️ Opened issue [#25](https://github.com/zer0Kerbal/InflatablePicoPorts/issues/25) in [zer0Kerbal/InflatablePicoPorts](https://github.com/zer0Kerbal/InflatablePicoPorts)
-4. ❗️ Opened issue [#24](https://github.com/zer0Kerbal/InflatablePicoPorts/issues/24) in [zer0Kerbal/InflatablePicoPorts](https://github.com/zer0Kerbal/InflatablePicoPorts)
-5. ❗️ Opened issue [#23](https://github.com/zer0Kerbal/InflatablePicoPorts/issues/23) in [zer0Kerbal/InflatablePicoPorts](https://github.com/zer0Kerbal/InflatablePicoPorts)
-6. ❗️ Opened issue [#22](https://github.com/zer0Kerbal/InflatablePicoPorts/issues/22) in [zer0Kerbal/InflatablePicoPorts](https://github.com/zer0Kerbal/InflatablePicoPorts)
-7. ❗️ Opened issue [#21](https://github.com/zer0Kerbal/InflatablePicoPorts/issues/21) in [zer0Kerbal/InflatablePicoPorts](https://github.com/zer0Kerbal/InflatablePicoPorts)
-8. ❗️ Opened issue [#20](https://github.com/zer0Kerbal/InflatablePicoPorts/issues/20) in [zer0Kerbal/InflatablePicoPorts](https://github.com/zer0Kerbal/InflatablePicoPorts)
-9. ❗️ Opened issue [#19](https://github.com/zer0Kerbal/InflatablePicoPorts/issues/19) in [zer0Kerbal/InflatablePicoPorts](https://github.com/zer0Kerbal/InflatablePicoPorts)
-10. ❗️ Opened issue [#18](https://github.com/zer0Kerbal/InflatablePicoPorts/issues/18) in [zer0Kerbal/InflatablePicoPorts](https://github.com/zer0Kerbal/InflatablePicoPorts)
+1. ❗️ Opened issue [#27](https://github.com/zer0Kerbal/InflatablePicoPorts/issues/27) in [zer0Kerbal/InflatablePicoPorts](https://github.com/zer0Kerbal/InflatablePicoPorts)
+2. 🎉 Merged PR [#26](https://github.com/zer0Kerbal/InflatablePicoPorts/pull/26) in [zer0Kerbal/InflatablePicoPorts](https://github.com/zer0Kerbal/InflatablePicoPorts)
+3. 💪 Opened PR [#26](https://github.com/zer0Kerbal/InflatablePicoPorts/pull/26) in [zer0Kerbal/InflatablePicoPorts](https://github.com/zer0Kerbal/InflatablePicoPorts)
+4. ❗️ Opened issue [#25](https://github.com/zer0Kerbal/InflatablePicoPorts/issues/25) in [zer0Kerbal/InflatablePicoPorts](https://github.com/zer0Kerbal/InflatablePicoPorts)
+5. ❗️ Opened issue [#24](https://github.com/zer0Kerbal/InflatablePicoPorts/issues/24) in [zer0Kerbal/InflatablePicoPorts](https://github.com/zer0Kerbal/InflatablePicoPorts)
+6. ❗️ Opened issue [#23](https://github.com/zer0Kerbal/InflatablePicoPorts/issues/23) in [zer0Kerbal/InflatablePicoPorts](https://github.com/zer0Kerbal/InflatablePicoPorts)
+7. ❗️ Opened issue [#22](https://github.com/zer0Kerbal/InflatablePicoPorts/issues/22) in [zer0Kerbal/InflatablePicoPorts](https://github.com/zer0Kerbal/InflatablePicoPorts)
+8. ❗️ Opened issue [#21](https://github.com/zer0Kerbal/InflatablePicoPorts/issues/21) in [zer0Kerbal/InflatablePicoPorts](https://github.com/zer0Kerbal/InflatablePicoPorts)
+9. ❗️ Opened issue [#20](https://github.com/zer0Kerbal/InflatablePicoPorts/issues/20) in [zer0Kerbal/InflatablePicoPorts](https://github.com/zer0Kerbal/InflatablePicoPorts)
+10. ❗️ Opened issue [#19](https://github.com/zer0Kerbal/InflatablePicoPorts/issues/19) in [zer0Kerbal/InflatablePicoPorts](https://github.com/zer0Kerbal/InflatablePicoPorts)
 <!--END_SECTION:activity-->
 
 </details
