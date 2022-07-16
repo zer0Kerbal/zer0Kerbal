@@ -45,16 +45,16 @@
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#48](https://github.com/zer0Kerbal/Komplexity/issues/48) in [zer0Kerbal/Komplexity](https://github.com/zer0Kerbal/Komplexity)
-2. ❗️ Opened issue [#49](https://github.com/zer0Kerbal/Komplexity/issues/49) in [zer0Kerbal/Komplexity](https://github.com/zer0Kerbal/Komplexity)
-3. 🗣 Commented on [#48](https://github.com/zer0Kerbal/Komplexity/issues/48) in [zer0Kerbal/Komplexity](https://github.com/zer0Kerbal/Komplexity)
-4. ❗️ Opened issue [#47](https://github.com/zer0Kerbal/Komplexity/issues/47) in [zer0Kerbal/Komplexity](https://github.com/zer0Kerbal/Komplexity)
-5. ❗️ Opened issue [#30](https://github.com/zer0Kerbal/InflatablePicoPorts/issues/30) in [zer0Kerbal/InflatablePicoPorts](https://github.com/zer0Kerbal/InflatablePicoPorts)
-6. 🎉 Merged PR [#35](https://github.com/zer0Kerbal/ShieldedPicoPorts/pull/35) in [zer0Kerbal/ShieldedPicoPorts](https://github.com/zer0Kerbal/ShieldedPicoPorts)
-7. ❗️ Closed issue [#12](https://github.com/zer0Kerbal/ShieldedPicoPorts/issues/12) in [zer0Kerbal/ShieldedPicoPorts](https://github.com/zer0Kerbal/ShieldedPicoPorts)
-8. ❗️ Closed issue [#11](https://github.com/zer0Kerbal/ShieldedPicoPorts/issues/11) in [zer0Kerbal/ShieldedPicoPorts](https://github.com/zer0Kerbal/ShieldedPicoPorts)
-9. ❗️ Closed issue [#13](https://github.com/zer0Kerbal/ShieldedPicoPorts/issues/13) in [zer0Kerbal/ShieldedPicoPorts](https://github.com/zer0Kerbal/ShieldedPicoPorts)
-10. ❗️ Closed issue [#10](https://github.com/zer0Kerbal/ShieldedPicoPorts/issues/10) in [zer0Kerbal/ShieldedPicoPorts](https://github.com/zer0Kerbal/ShieldedPicoPorts)
+1. ❗️ Opened issue [#25](https://github.com/zer0Kerbal/KerbalKlinic/issues/25) in [zer0Kerbal/KerbalKlinic](https://github.com/zer0Kerbal/KerbalKlinic)
+2. 🎉 Merged PR [#24](https://github.com/zer0Kerbal/KerbalKlinic/pull/24) in [zer0Kerbal/KerbalKlinic](https://github.com/zer0Kerbal/KerbalKlinic)
+3. 🎉 Merged PR [#30](https://github.com/zer0Kerbal/KGEx/pull/30) in [zer0Kerbal/KGEx](https://github.com/zer0Kerbal/KGEx)
+4. 💪 Opened PR [#30](https://github.com/zer0Kerbal/KGEx/pull/30) in [zer0Kerbal/KGEx](https://github.com/zer0Kerbal/KGEx)
+5. ❗️ Opened issue [#29](https://github.com/zer0Kerbal/KGEx/issues/29) in [zer0Kerbal/KGEx](https://github.com/zer0Kerbal/KGEx)
+6. ❗️ Opened issue [#28](https://github.com/zer0Kerbal/KGEx/issues/28) in [zer0Kerbal/KGEx](https://github.com/zer0Kerbal/KGEx)
+7. ❗️ Opened issue [#27](https://github.com/zer0Kerbal/KGEx/issues/27) in [zer0Kerbal/KGEx](https://github.com/zer0Kerbal/KGEx)
+8. ❗️ Opened issue [#26](https://github.com/zer0Kerbal/KGEx/issues/26) in [zer0Kerbal/KGEx](https://github.com/zer0Kerbal/KGEx)
+9. ❗️ Opened issue [#25](https://github.com/zer0Kerbal/KGEx/issues/25) in [zer0Kerbal/KGEx](https://github.com/zer0Kerbal/KGEx)
+10. ❗️ Opened issue [#24](https://github.com/zer0Kerbal/KGEx/issues/24) in [zer0Kerbal/KGEx](https://github.com/zer0Kerbal/KGEx)
 <!--END_SECTION:activity-->
 
 </details
