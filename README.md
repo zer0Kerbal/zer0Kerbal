@@ -45,16 +45,16 @@
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/zer0Kerbal/KerbalKlinic/issues/2) in [zer0Kerbal/KerbalKlinic](https://github.com/zer0Kerbal/KerbalKlinic)
-2. 🎉 Merged PR [#26](https://github.com/zer0Kerbal/KerbalKlinic/pull/26) in [zer0Kerbal/KerbalKlinic](https://github.com/zer0Kerbal/KerbalKlinic)
-3. ❗️ Opened issue [#25](https://github.com/zer0Kerbal/KerbalKlinic/issues/25) in [zer0Kerbal/KerbalKlinic](https://github.com/zer0Kerbal/KerbalKlinic)
-4. 🎉 Merged PR [#24](https://github.com/zer0Kerbal/KerbalKlinic/pull/24) in [zer0Kerbal/KerbalKlinic](https://github.com/zer0Kerbal/KerbalKlinic)
-5. 🎉 Merged PR [#30](https://github.com/zer0Kerbal/KGEx/pull/30) in [zer0Kerbal/KGEx](https://github.com/zer0Kerbal/KGEx)
-6. 💪 Opened PR [#30](https://github.com/zer0Kerbal/KGEx/pull/30) in [zer0Kerbal/KGEx](https://github.com/zer0Kerbal/KGEx)
-7. ❗️ Opened issue [#29](https://github.com/zer0Kerbal/KGEx/issues/29) in [zer0Kerbal/KGEx](https://github.com/zer0Kerbal/KGEx)
-8. ❗️ Opened issue [#28](https://github.com/zer0Kerbal/KGEx/issues/28) in [zer0Kerbal/KGEx](https://github.com/zer0Kerbal/KGEx)
-9. ❗️ Opened issue [#27](https://github.com/zer0Kerbal/KGEx/issues/27) in [zer0Kerbal/KGEx](https://github.com/zer0Kerbal/KGEx)
-10. ❗️ Opened issue [#26](https://github.com/zer0Kerbal/KGEx/issues/26) in [zer0Kerbal/KGEx](https://github.com/zer0Kerbal/KGEx)
+1. ❗️ Opened issue [#27](https://github.com/zer0Kerbal/KerbalKlinic/issues/27) in [zer0Kerbal/KerbalKlinic](https://github.com/zer0Kerbal/KerbalKlinic)
+2. 🗣 Commented on [#2](https://github.com/zer0Kerbal/KerbalKlinic/issues/2) in [zer0Kerbal/KerbalKlinic](https://github.com/zer0Kerbal/KerbalKlinic)
+3. 🎉 Merged PR [#26](https://github.com/zer0Kerbal/KerbalKlinic/pull/26) in [zer0Kerbal/KerbalKlinic](https://github.com/zer0Kerbal/KerbalKlinic)
+4. ❗️ Opened issue [#25](https://github.com/zer0Kerbal/KerbalKlinic/issues/25) in [zer0Kerbal/KerbalKlinic](https://github.com/zer0Kerbal/KerbalKlinic)
+5. 🎉 Merged PR [#24](https://github.com/zer0Kerbal/KerbalKlinic/pull/24) in [zer0Kerbal/KerbalKlinic](https://github.com/zer0Kerbal/KerbalKlinic)
+6. 🎉 Merged PR [#30](https://github.com/zer0Kerbal/KGEx/pull/30) in [zer0Kerbal/KGEx](https://github.com/zer0Kerbal/KGEx)
+7. 💪 Opened PR [#30](https://github.com/zer0Kerbal/KGEx/pull/30) in [zer0Kerbal/KGEx](https://github.com/zer0Kerbal/KGEx)
+8. ❗️ Opened issue [#29](https://github.com/zer0Kerbal/KGEx/issues/29) in [zer0Kerbal/KGEx](https://github.com/zer0Kerbal/KGEx)
+9. ❗️ Opened issue [#28](https://github.com/zer0Kerbal/KGEx/issues/28) in [zer0Kerbal/KGEx](https://github.com/zer0Kerbal/KGEx)
+10. ❗️ Opened issue [#27](https://github.com/zer0Kerbal/KGEx/issues/27) in [zer0Kerbal/KGEx](https://github.com/zer0Kerbal/KGEx)
 <!--END_SECTION:activity-->
 
 </details
