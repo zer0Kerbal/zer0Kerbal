@@ -45,16 +45,16 @@
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#36](https://github.com/zer0Kerbal/WernhersOldStuff/issues/36) in [zer0Kerbal/WernhersOldStuff](https://github.com/zer0Kerbal/WernhersOldStuff)
-2. ❗️ Closed issue [#9](https://github.com/zer0Kerbal/KGEx/issues/9) in [zer0Kerbal/KGEx](https://github.com/zer0Kerbal/KGEx)
-3. ❗️ Closed issue [#28](https://github.com/zer0Kerbal/KGEx/issues/28) in [zer0Kerbal/KGEx](https://github.com/zer0Kerbal/KGEx)
-4. ❗️ Closed issue [#8](https://github.com/zer0Kerbal/KGEx/issues/8) in [zer0Kerbal/KGEx](https://github.com/zer0Kerbal/KGEx)
-5. ❗️ Closed issue [#7](https://github.com/zer0Kerbal/KGEx/issues/7) in [zer0Kerbal/KGEx](https://github.com/zer0Kerbal/KGEx)
-6. 🎉 Merged PR [#31](https://github.com/zer0Kerbal/KGEx/pull/31) in [zer0Kerbal/KGEx](https://github.com/zer0Kerbal/KGEx)
-7. ❗️ Closed issue [#29](https://github.com/zer0Kerbal/KGEx/issues/29) in [zer0Kerbal/KGEx](https://github.com/zer0Kerbal/KGEx)
-8. ❗️ Closed issue [#11](https://github.com/zer0Kerbal/KGEx/issues/11) in [zer0Kerbal/KGEx](https://github.com/zer0Kerbal/KGEx)
-9. ❗️ Closed issue [#6](https://github.com/zer0Kerbal/KGEx/issues/6) in [zer0Kerbal/KGEx](https://github.com/zer0Kerbal/KGEx)
-10. 💪 Opened PR [#31](https://github.com/zer0Kerbal/KGEx/pull/31) in [zer0Kerbal/KGEx](https://github.com/zer0Kerbal/KGEx)
+1. ❗️ Opened issue [#42](https://github.com/zer0Kerbal/WernhersOldStuff/issues/42) in [zer0Kerbal/WernhersOldStuff](https://github.com/zer0Kerbal/WernhersOldStuff)
+2. ❗️ Opened issue [#41](https://github.com/zer0Kerbal/WernhersOldStuff/issues/41) in [zer0Kerbal/WernhersOldStuff](https://github.com/zer0Kerbal/WernhersOldStuff)
+3. ❗️ Opened issue [#40](https://github.com/zer0Kerbal/WernhersOldStuff/issues/40) in [zer0Kerbal/WernhersOldStuff](https://github.com/zer0Kerbal/WernhersOldStuff)
+4. ❗️ Opened issue [#39](https://github.com/zer0Kerbal/WernhersOldStuff/issues/39) in [zer0Kerbal/WernhersOldStuff](https://github.com/zer0Kerbal/WernhersOldStuff)
+5. ❗️ Closed issue [#10](https://github.com/zer0Kerbal/WernhersOldStuff/issues/10) in [zer0Kerbal/WernhersOldStuff](https://github.com/zer0Kerbal/WernhersOldStuff)
+6. ❗️ Closed issue [#8](https://github.com/zer0Kerbal/WernhersOldStuff/issues/8) in [zer0Kerbal/WernhersOldStuff](https://github.com/zer0Kerbal/WernhersOldStuff)
+7. ❗️ Closed issue [#9](https://github.com/zer0Kerbal/WernhersOldStuff/issues/9) in [zer0Kerbal/WernhersOldStuff](https://github.com/zer0Kerbal/WernhersOldStuff)
+8. ❗️ Closed issue [#34](https://github.com/zer0Kerbal/WernhersOldStuff/issues/34) in [zer0Kerbal/WernhersOldStuff](https://github.com/zer0Kerbal/WernhersOldStuff)
+9. 🎉 Merged PR [#37](https://github.com/zer0Kerbal/WernhersOldStuff/pull/37) in [zer0Kerbal/WernhersOldStuff](https://github.com/zer0Kerbal/WernhersOldStuff)
+10. ❗️ Closed issue [#11](https://github.com/zer0Kerbal/WernhersOldStuff/issues/11) in [zer0Kerbal/WernhersOldStuff](https://github.com/zer0Kerbal/WernhersOldStuff)
 <!--END_SECTION:activity-->
 
 </details
