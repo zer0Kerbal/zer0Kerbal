@@ -45,16 +45,16 @@
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#9](https://github.com/zer0Kerbal/KGEx/issues/9) in [zer0Kerbal/KGEx](https://github.com/zer0Kerbal/KGEx)
-2. ❗️ Closed issue [#28](https://github.com/zer0Kerbal/KGEx/issues/28) in [zer0Kerbal/KGEx](https://github.com/zer0Kerbal/KGEx)
-3. ❗️ Closed issue [#8](https://github.com/zer0Kerbal/KGEx/issues/8) in [zer0Kerbal/KGEx](https://github.com/zer0Kerbal/KGEx)
-4. ❗️ Closed issue [#7](https://github.com/zer0Kerbal/KGEx/issues/7) in [zer0Kerbal/KGEx](https://github.com/zer0Kerbal/KGEx)
-5. 🎉 Merged PR [#31](https://github.com/zer0Kerbal/KGEx/pull/31) in [zer0Kerbal/KGEx](https://github.com/zer0Kerbal/KGEx)
-6. ❗️ Closed issue [#29](https://github.com/zer0Kerbal/KGEx/issues/29) in [zer0Kerbal/KGEx](https://github.com/zer0Kerbal/KGEx)
-7. ❗️ Closed issue [#11](https://github.com/zer0Kerbal/KGEx/issues/11) in [zer0Kerbal/KGEx](https://github.com/zer0Kerbal/KGEx)
-8. ❗️ Closed issue [#6](https://github.com/zer0Kerbal/KGEx/issues/6) in [zer0Kerbal/KGEx](https://github.com/zer0Kerbal/KGEx)
-9. 💪 Opened PR [#31](https://github.com/zer0Kerbal/KGEx/pull/31) in [zer0Kerbal/KGEx](https://github.com/zer0Kerbal/KGEx)
-10. 🗣 Commented on [#1](https://github.com/chillfun420/HelloWorld/issues/1) in [chillfun420/HelloWorld](https://github.com/chillfun420/HelloWorld)
+1. ❗️ Opened issue [#36](https://github.com/zer0Kerbal/WernhersOldStuff/issues/36) in [zer0Kerbal/WernhersOldStuff](https://github.com/zer0Kerbal/WernhersOldStuff)
+2. ❗️ Closed issue [#9](https://github.com/zer0Kerbal/KGEx/issues/9) in [zer0Kerbal/KGEx](https://github.com/zer0Kerbal/KGEx)
+3. ❗️ Closed issue [#28](https://github.com/zer0Kerbal/KGEx/issues/28) in [zer0Kerbal/KGEx](https://github.com/zer0Kerbal/KGEx)
+4. ❗️ Closed issue [#8](https://github.com/zer0Kerbal/KGEx/issues/8) in [zer0Kerbal/KGEx](https://github.com/zer0Kerbal/KGEx)
+5. ❗️ Closed issue [#7](https://github.com/zer0Kerbal/KGEx/issues/7) in [zer0Kerbal/KGEx](https://github.com/zer0Kerbal/KGEx)
+6. 🎉 Merged PR [#31](https://github.com/zer0Kerbal/KGEx/pull/31) in [zer0Kerbal/KGEx](https://github.com/zer0Kerbal/KGEx)
+7. ❗️ Closed issue [#29](https://github.com/zer0Kerbal/KGEx/issues/29) in [zer0Kerbal/KGEx](https://github.com/zer0Kerbal/KGEx)
+8. ❗️ Closed issue [#11](https://github.com/zer0Kerbal/KGEx/issues/11) in [zer0Kerbal/KGEx](https://github.com/zer0Kerbal/KGEx)
+9. ❗️ Closed issue [#6](https://github.com/zer0Kerbal/KGEx/issues/6) in [zer0Kerbal/KGEx](https://github.com/zer0Kerbal/KGEx)
+10. 💪 Opened PR [#31](https://github.com/zer0Kerbal/KGEx/pull/31) in [zer0Kerbal/KGEx](https://github.com/zer0Kerbal/KGEx)
 <!--END_SECTION:activity-->
 
 </details
