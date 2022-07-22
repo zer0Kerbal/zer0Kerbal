@@ -45,16 +45,16 @@
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#28](https://github.com/zer0Kerbal/JX2Antenna/issues/28) in [zer0Kerbal/JX2Antenna](https://github.com/zer0Kerbal/JX2Antenna)
-2. 🎉 Merged PR [#36](https://github.com/zer0Kerbal/JX2Antenna/pull/36) in [zer0Kerbal/JX2Antenna](https://github.com/zer0Kerbal/JX2Antenna)
-3. 💪 Opened PR [#36](https://github.com/zer0Kerbal/JX2Antenna/pull/36) in [zer0Kerbal/JX2Antenna](https://github.com/zer0Kerbal/JX2Antenna)
-4. ❗️ Opened issue [#35](https://github.com/zer0Kerbal/JX2Antenna/issues/35) in [zer0Kerbal/JX2Antenna](https://github.com/zer0Kerbal/JX2Antenna)
-5. ❗️ Opened issue [#34](https://github.com/zer0Kerbal/JX2Antenna/issues/34) in [zer0Kerbal/JX2Antenna](https://github.com/zer0Kerbal/JX2Antenna)
-6. ❗️ Opened issue [#33](https://github.com/zer0Kerbal/JX2Antenna/issues/33) in [zer0Kerbal/JX2Antenna](https://github.com/zer0Kerbal/JX2Antenna)
-7. ❗️ Opened issue [#32](https://github.com/zer0Kerbal/JX2Antenna/issues/32) in [zer0Kerbal/JX2Antenna](https://github.com/zer0Kerbal/JX2Antenna)
-8. ❗️ Opened issue [#31](https://github.com/zer0Kerbal/JX2Antenna/issues/31) in [zer0Kerbal/JX2Antenna](https://github.com/zer0Kerbal/JX2Antenna)
-9. ❗️ Opened issue [#30](https://github.com/zer0Kerbal/JX2Antenna/issues/30) in [zer0Kerbal/JX2Antenna](https://github.com/zer0Kerbal/JX2Antenna)
-10. ❗️ Opened issue [#29](https://github.com/zer0Kerbal/JX2Antenna/issues/29) in [zer0Kerbal/JX2Antenna](https://github.com/zer0Kerbal/JX2Antenna)
+1. ❗️ Closed issue [#4](https://github.com/zer0Kerbal/JX2Antenna/issues/4) in [zer0Kerbal/JX2Antenna](https://github.com/zer0Kerbal/JX2Antenna)
+2. ❗️ Closed issue [#35](https://github.com/zer0Kerbal/JX2Antenna/issues/35) in [zer0Kerbal/JX2Antenna](https://github.com/zer0Kerbal/JX2Antenna)
+3. 🎉 Merged PR [#43](https://github.com/zer0Kerbal/JX2Antenna/pull/43) in [zer0Kerbal/JX2Antenna](https://github.com/zer0Kerbal/JX2Antenna)
+4. 💪 Opened PR [#43](https://github.com/zer0Kerbal/JX2Antenna/pull/43) in [zer0Kerbal/JX2Antenna](https://github.com/zer0Kerbal/JX2Antenna)
+5. ❗️ Closed issue [#34](https://github.com/zer0Kerbal/JX2Antenna/issues/34) in [zer0Kerbal/JX2Antenna](https://github.com/zer0Kerbal/JX2Antenna)
+6. 🎉 Merged PR [#42](https://github.com/zer0Kerbal/JX2Antenna/pull/42) in [zer0Kerbal/JX2Antenna](https://github.com/zer0Kerbal/JX2Antenna)
+7. 💪 Opened PR [#42](https://github.com/zer0Kerbal/JX2Antenna/pull/42) in [zer0Kerbal/JX2Antenna](https://github.com/zer0Kerbal/JX2Antenna)
+8. ❗️ Closed issue [#33](https://github.com/zer0Kerbal/JX2Antenna/issues/33) in [zer0Kerbal/JX2Antenna](https://github.com/zer0Kerbal/JX2Antenna)
+9. 🎉 Merged PR [#41](https://github.com/zer0Kerbal/JX2Antenna/pull/41) in [zer0Kerbal/JX2Antenna](https://github.com/zer0Kerbal/JX2Antenna)
+10. 💪 Opened PR [#41](https://github.com/zer0Kerbal/JX2Antenna/pull/41) in [zer0Kerbal/JX2Antenna](https://github.com/zer0Kerbal/JX2Antenna)
 <!--END_SECTION:activity-->
 
 </details
