@@ -45,16 +45,16 @@
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#48](https://github.com/zer0Kerbal/Komplexity/issues/48) in [zer0Kerbal/Komplexity](https://github.com/zer0Kerbal/Komplexity)
-2. ❗️ Opened issue [#54](https://github.com/zer0Kerbal/Komplexity/issues/54) in [zer0Kerbal/Komplexity](https://github.com/zer0Kerbal/Komplexity)
-3. ❗️ Opened issue [#53](https://github.com/zer0Kerbal/Komplexity/issues/53) in [zer0Kerbal/Komplexity](https://github.com/zer0Kerbal/Komplexity)
-4. ❗️ Opened issue [#52](https://github.com/zer0Kerbal/Komplexity/issues/52) in [zer0Kerbal/Komplexity](https://github.com/zer0Kerbal/Komplexity)
-5. ❗️ Opened issue [#51](https://github.com/zer0Kerbal/Komplexity/issues/51) in [zer0Kerbal/Komplexity](https://github.com/zer0Kerbal/Komplexity)
-6. 🗣 Commented on [#49](https://github.com/zer0Kerbal/Komplexity/issues/49) in [zer0Kerbal/Komplexity](https://github.com/zer0Kerbal/Komplexity)
-7. 🗣 Commented on [#48](https://github.com/zer0Kerbal/Komplexity/issues/48) in [zer0Kerbal/Komplexity](https://github.com/zer0Kerbal/Komplexity)
-8. ❗️ Opened issue [#50](https://github.com/zer0Kerbal/Komplexity/issues/50) in [zer0Kerbal/Komplexity](https://github.com/zer0Kerbal/Komplexity)
-9. ❗️ Closed issue [#142](https://github.com/zer0Kerbal/SimpleConstruction/issues/142) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
-10. ❗️ Closed issue [#141](https://github.com/zer0Kerbal/SimpleConstruction/issues/141) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
+1. 💪 Opened PR [#3](https://github.com/zer0Kerbal/JX2Antenna/pull/3) in [zer0Kerbal/JX2Antenna](https://github.com/zer0Kerbal/JX2Antenna)
+2. 💪 Opened PR [#2](https://github.com/zer0Kerbal/JX2Antenna/pull/2) in [zer0Kerbal/JX2Antenna](https://github.com/zer0Kerbal/JX2Antenna)
+3. 🗣 Commented on [#48](https://github.com/zer0Kerbal/Komplexity/issues/48) in [zer0Kerbal/Komplexity](https://github.com/zer0Kerbal/Komplexity)
+4. ❗️ Opened issue [#54](https://github.com/zer0Kerbal/Komplexity/issues/54) in [zer0Kerbal/Komplexity](https://github.com/zer0Kerbal/Komplexity)
+5. ❗️ Opened issue [#53](https://github.com/zer0Kerbal/Komplexity/issues/53) in [zer0Kerbal/Komplexity](https://github.com/zer0Kerbal/Komplexity)
+6. ❗️ Opened issue [#52](https://github.com/zer0Kerbal/Komplexity/issues/52) in [zer0Kerbal/Komplexity](https://github.com/zer0Kerbal/Komplexity)
+7. ❗️ Opened issue [#51](https://github.com/zer0Kerbal/Komplexity/issues/51) in [zer0Kerbal/Komplexity](https://github.com/zer0Kerbal/Komplexity)
+8. 🗣 Commented on [#49](https://github.com/zer0Kerbal/Komplexity/issues/49) in [zer0Kerbal/Komplexity](https://github.com/zer0Kerbal/Komplexity)
+9. 🗣 Commented on [#48](https://github.com/zer0Kerbal/Komplexity/issues/48) in [zer0Kerbal/Komplexity](https://github.com/zer0Kerbal/Komplexity)
+10. ❗️ Opened issue [#50](https://github.com/zer0Kerbal/Komplexity/issues/50) in [zer0Kerbal/Komplexity](https://github.com/zer0Kerbal/Komplexity)
 <!--END_SECTION:activity-->
 
 </details
