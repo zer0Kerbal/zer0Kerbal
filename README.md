@@ -45,16 +45,16 @@
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#34](https://github.com/zer0Kerbal/SphericalTanks/issues/34) in [zer0Kerbal/SphericalTanks](https://github.com/zer0Kerbal/SphericalTanks)
-2. ❗️ Closed issue [#28](https://github.com/zer0Kerbal/CargoBays/issues/28) in [zer0Kerbal/CargoBays](https://github.com/zer0Kerbal/CargoBays)
-3. ❗️ Closed issue [#5](https://github.com/zer0Kerbal/CargoBays/issues/5) in [zer0Kerbal/CargoBays](https://github.com/zer0Kerbal/CargoBays)
-4. ❗️ Closed issue [#4](https://github.com/zer0Kerbal/CargoBays/issues/4) in [zer0Kerbal/CargoBays](https://github.com/zer0Kerbal/CargoBays)
-5. ❗️ Closed issue [#3](https://github.com/zer0Kerbal/CargoBays/issues/3) in [zer0Kerbal/CargoBays](https://github.com/zer0Kerbal/CargoBays)
-6. ❗️ Closed issue [#2](https://github.com/zer0Kerbal/CargoBays/issues/2) in [zer0Kerbal/CargoBays](https://github.com/zer0Kerbal/CargoBays)
-7. ❗️ Closed issue [#37](https://github.com/zer0Kerbal/CargoBays/issues/37) in [zer0Kerbal/CargoBays](https://github.com/zer0Kerbal/CargoBays)
-8. ❗️ Closed issue [#36](https://github.com/zer0Kerbal/CargoBays/issues/36) in [zer0Kerbal/CargoBays](https://github.com/zer0Kerbal/CargoBays)
-9. ❗️ Closed issue [#23](https://github.com/zer0Kerbal/CargoBays/issues/23) in [zer0Kerbal/CargoBays](https://github.com/zer0Kerbal/CargoBays)
-10. ❗️ Closed issue [#35](https://github.com/zer0Kerbal/CargoBays/issues/35) in [zer0Kerbal/CargoBays](https://github.com/zer0Kerbal/CargoBays)
+1. 💪 Opened PR [#35](https://github.com/zer0Kerbal/SphericalTanks/pull/35) in [zer0Kerbal/SphericalTanks](https://github.com/zer0Kerbal/SphericalTanks)
+2. ❗️ Opened issue [#34](https://github.com/zer0Kerbal/SphericalTanks/issues/34) in [zer0Kerbal/SphericalTanks](https://github.com/zer0Kerbal/SphericalTanks)
+3. ❗️ Closed issue [#28](https://github.com/zer0Kerbal/CargoBays/issues/28) in [zer0Kerbal/CargoBays](https://github.com/zer0Kerbal/CargoBays)
+4. ❗️ Closed issue [#5](https://github.com/zer0Kerbal/CargoBays/issues/5) in [zer0Kerbal/CargoBays](https://github.com/zer0Kerbal/CargoBays)
+5. ❗️ Closed issue [#4](https://github.com/zer0Kerbal/CargoBays/issues/4) in [zer0Kerbal/CargoBays](https://github.com/zer0Kerbal/CargoBays)
+6. ❗️ Closed issue [#3](https://github.com/zer0Kerbal/CargoBays/issues/3) in [zer0Kerbal/CargoBays](https://github.com/zer0Kerbal/CargoBays)
+7. ❗️ Closed issue [#2](https://github.com/zer0Kerbal/CargoBays/issues/2) in [zer0Kerbal/CargoBays](https://github.com/zer0Kerbal/CargoBays)
+8. ❗️ Closed issue [#37](https://github.com/zer0Kerbal/CargoBays/issues/37) in [zer0Kerbal/CargoBays](https://github.com/zer0Kerbal/CargoBays)
+9. ❗️ Closed issue [#36](https://github.com/zer0Kerbal/CargoBays/issues/36) in [zer0Kerbal/CargoBays](https://github.com/zer0Kerbal/CargoBays)
+10. ❗️ Closed issue [#23](https://github.com/zer0Kerbal/CargoBays/issues/23) in [zer0Kerbal/CargoBays](https://github.com/zer0Kerbal/CargoBays)
 <!--END_SECTION:activity-->
 
 </details
