@@ -45,16 +45,16 @@
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#33](https://github.com/zer0Kerbal/SpaceShuttleRCSNosecones/issues/33) in [zer0Kerbal/SpaceShuttleRCSNosecones](https://github.com/zer0Kerbal/SpaceShuttleRCSNosecones)
-2. ❗️ Opened issue [#32](https://github.com/zer0Kerbal/SpaceShuttleRCSNosecones/issues/32) in [zer0Kerbal/SpaceShuttleRCSNosecones](https://github.com/zer0Kerbal/SpaceShuttleRCSNosecones)
-3. ❗️ Opened issue [#30](https://github.com/zer0Kerbal/SpaceShuttleRCSNosecone/issues/30) in [zer0Kerbal/SpaceShuttleRCSNosecone](https://github.com/zer0Kerbal/SpaceShuttleRCSNosecone)
-4. ❗️ Opened issue [#29](https://github.com/zer0Kerbal/SpaceShuttleRCSNosecone/issues/29) in [zer0Kerbal/SpaceShuttleRCSNosecone](https://github.com/zer0Kerbal/SpaceShuttleRCSNosecone)
-5. ❗️ Opened issue [#28](https://github.com/zer0Kerbal/SpaceShuttleRCSNosecone/issues/28) in [zer0Kerbal/SpaceShuttleRCSNosecone](https://github.com/zer0Kerbal/SpaceShuttleRCSNosecone)
-6. ❗️ Opened issue [#27](https://github.com/zer0Kerbal/SpaceShuttleRCSNosecone/issues/27) in [zer0Kerbal/SpaceShuttleRCSNosecone](https://github.com/zer0Kerbal/SpaceShuttleRCSNosecone)
-7. ❗️ Closed issue [#6](https://github.com/zer0Kerbal/SpaceShuttleRCSNosecone/issues/6) in [zer0Kerbal/SpaceShuttleRCSNosecone](https://github.com/zer0Kerbal/SpaceShuttleRCSNosecone)
-8. 🎉 Merged PR [#26](https://github.com/zer0Kerbal/SpaceShuttleRCSNosecone/pull/26) in [zer0Kerbal/SpaceShuttleRCSNosecone](https://github.com/zer0Kerbal/SpaceShuttleRCSNosecone)
-9. 💪 Opened PR [#26](https://github.com/zer0Kerbal/SpaceShuttleRCSNosecone/pull/26) in [zer0Kerbal/SpaceShuttleRCSNosecone](https://github.com/zer0Kerbal/SpaceShuttleRCSNosecone)
-10. ❗️ Opened issue [#194](https://github.com/taniwha/Extraplanetary-Launchpads/issues/194) in [taniwha/Extraplanetary-Launchpads](https://github.com/taniwha/Extraplanetary-Launchpads)
+1. ❗️ Closed issue [#4](https://github.com/zer0Kerbal/SpaceShuttleRCSNosecones/issues/4) in [zer0Kerbal/SpaceShuttleRCSNosecones](https://github.com/zer0Kerbal/SpaceShuttleRCSNosecones)
+2. ❗️ Closed issue [#3](https://github.com/zer0Kerbal/SpaceShuttleRCSNosecones/issues/3) in [zer0Kerbal/SpaceShuttleRCSNosecones](https://github.com/zer0Kerbal/SpaceShuttleRCSNosecones)
+3. ❗️ Closed issue [#2](https://github.com/zer0Kerbal/SpaceShuttleRCSNosecones/issues/2) in [zer0Kerbal/SpaceShuttleRCSNosecones](https://github.com/zer0Kerbal/SpaceShuttleRCSNosecones)
+4. 🗣 Commented on [#34](https://github.com/zer0Kerbal/SpaceShuttleRCSNosecones/issues/34) in [zer0Kerbal/SpaceShuttleRCSNosecones](https://github.com/zer0Kerbal/SpaceShuttleRCSNosecones)
+5. ❗️ Closed issue [#1](https://github.com/zer0Kerbal/SpaceShuttleRCSNosecones/issues/1) in [zer0Kerbal/SpaceShuttleRCSNosecones](https://github.com/zer0Kerbal/SpaceShuttleRCSNosecones)
+6. ❗️ Closed issue [#30](https://github.com/zer0Kerbal/SpaceShuttleRCSNosecones/issues/30) in [zer0Kerbal/SpaceShuttleRCSNosecones](https://github.com/zer0Kerbal/SpaceShuttleRCSNosecones)
+7. ❗️ Closed issue [#32](https://github.com/zer0Kerbal/SpaceShuttleRCSNosecones/issues/32) in [zer0Kerbal/SpaceShuttleRCSNosecones](https://github.com/zer0Kerbal/SpaceShuttleRCSNosecones)
+8. ❗️ Closed issue [#33](https://github.com/zer0Kerbal/SpaceShuttleRCSNosecones/issues/33) in [zer0Kerbal/SpaceShuttleRCSNosecones](https://github.com/zer0Kerbal/SpaceShuttleRCSNosecones)
+9. ❗️ Closed issue [#27](https://github.com/zer0Kerbal/SpaceShuttleRCSNosecones/issues/27) in [zer0Kerbal/SpaceShuttleRCSNosecones](https://github.com/zer0Kerbal/SpaceShuttleRCSNosecones)
+10. ❗️ Closed issue [#29](https://github.com/zer0Kerbal/SpaceShuttleRCSNosecones/issues/29) in [zer0Kerbal/SpaceShuttleRCSNosecones](https://github.com/zer0Kerbal/SpaceShuttleRCSNosecones)
 <!--END_SECTION:activity-->
 
 </details
