@@ -45,16 +45,16 @@
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#194](https://github.com/taniwha/Extraplanetary-Launchpads/issues/194) in [taniwha/Extraplanetary-Launchpads](https://github.com/taniwha/Extraplanetary-Launchpads)
-2. 🗣 Commented on [#189](https://github.com/taniwha/Extraplanetary-Launchpads/issues/189) in [taniwha/Extraplanetary-Launchpads](https://github.com/taniwha/Extraplanetary-Launchpads)
-3. ❗️ Opened issue [#25](https://github.com/zer0Kerbal/SpaceShuttleRCSNosecone/issues/25) in [zer0Kerbal/SpaceShuttleRCSNosecone](https://github.com/zer0Kerbal/SpaceShuttleRCSNosecone)
-4. ❗️ Opened issue [#24](https://github.com/zer0Kerbal/SpaceShuttleRCSNosecone/issues/24) in [zer0Kerbal/SpaceShuttleRCSNosecone](https://github.com/zer0Kerbal/SpaceShuttleRCSNosecone)
-5. ❗️ Opened issue [#23](https://github.com/zer0Kerbal/SpaceShuttleRCSNosecone/issues/23) in [zer0Kerbal/SpaceShuttleRCSNosecone](https://github.com/zer0Kerbal/SpaceShuttleRCSNosecone)
-6. ❗️ Opened issue [#22](https://github.com/zer0Kerbal/SpaceShuttleRCSNosecone/issues/22) in [zer0Kerbal/SpaceShuttleRCSNosecone](https://github.com/zer0Kerbal/SpaceShuttleRCSNosecone)
-7. ❗️ Opened issue [#21](https://github.com/zer0Kerbal/SpaceShuttleRCSNosecone/issues/21) in [zer0Kerbal/SpaceShuttleRCSNosecone](https://github.com/zer0Kerbal/SpaceShuttleRCSNosecone)
-8. ❗️ Opened issue [#20](https://github.com/zer0Kerbal/SpaceShuttleRCSNosecone/issues/20) in [zer0Kerbal/SpaceShuttleRCSNosecone](https://github.com/zer0Kerbal/SpaceShuttleRCSNosecone)
-9. ❗️ Opened issue [#19](https://github.com/zer0Kerbal/SpaceShuttleRCSNosecone/issues/19) in [zer0Kerbal/SpaceShuttleRCSNosecone](https://github.com/zer0Kerbal/SpaceShuttleRCSNosecone)
-10. ❗️ Opened issue [#18](https://github.com/zer0Kerbal/SpaceShuttleRCSNosecone/issues/18) in [zer0Kerbal/SpaceShuttleRCSNosecone](https://github.com/zer0Kerbal/SpaceShuttleRCSNosecone)
+1. ❗️ Opened issue [#30](https://github.com/zer0Kerbal/SpaceShuttleRCSNosecone/issues/30) in [zer0Kerbal/SpaceShuttleRCSNosecone](https://github.com/zer0Kerbal/SpaceShuttleRCSNosecone)
+2. ❗️ Opened issue [#29](https://github.com/zer0Kerbal/SpaceShuttleRCSNosecone/issues/29) in [zer0Kerbal/SpaceShuttleRCSNosecone](https://github.com/zer0Kerbal/SpaceShuttleRCSNosecone)
+3. ❗️ Opened issue [#28](https://github.com/zer0Kerbal/SpaceShuttleRCSNosecone/issues/28) in [zer0Kerbal/SpaceShuttleRCSNosecone](https://github.com/zer0Kerbal/SpaceShuttleRCSNosecone)
+4. ❗️ Opened issue [#27](https://github.com/zer0Kerbal/SpaceShuttleRCSNosecone/issues/27) in [zer0Kerbal/SpaceShuttleRCSNosecone](https://github.com/zer0Kerbal/SpaceShuttleRCSNosecone)
+5. ❗️ Closed issue [#6](https://github.com/zer0Kerbal/SpaceShuttleRCSNosecone/issues/6) in [zer0Kerbal/SpaceShuttleRCSNosecone](https://github.com/zer0Kerbal/SpaceShuttleRCSNosecone)
+6. 🎉 Merged PR [#26](https://github.com/zer0Kerbal/SpaceShuttleRCSNosecone/pull/26) in [zer0Kerbal/SpaceShuttleRCSNosecone](https://github.com/zer0Kerbal/SpaceShuttleRCSNosecone)
+7. 💪 Opened PR [#26](https://github.com/zer0Kerbal/SpaceShuttleRCSNosecone/pull/26) in [zer0Kerbal/SpaceShuttleRCSNosecone](https://github.com/zer0Kerbal/SpaceShuttleRCSNosecone)
+8. ❗️ Opened issue [#194](https://github.com/taniwha/Extraplanetary-Launchpads/issues/194) in [taniwha/Extraplanetary-Launchpads](https://github.com/taniwha/Extraplanetary-Launchpads)
+9. 🗣 Commented on [#189](https://github.com/taniwha/Extraplanetary-Launchpads/issues/189) in [taniwha/Extraplanetary-Launchpads](https://github.com/taniwha/Extraplanetary-Launchpads)
+10. ❗️ Opened issue [#25](https://github.com/zer0Kerbal/SpaceShuttleRCSNosecone/issues/25) in [zer0Kerbal/SpaceShuttleRCSNosecone](https://github.com/zer0Kerbal/SpaceShuttleRCSNosecone)
 <!--END_SECTION:activity-->
 
 </details
