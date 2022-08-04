@@ -45,16 +45,16 @@
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/zer0Kerbal/B9StockPatches/pull/1) in [zer0Kerbal/B9StockPatches](https://github.com/zer0Kerbal/B9StockPatches)
-2. 🎉 Merged PR [#36](https://github.com/zer0Kerbal/SpaceShuttleRCSNosecones/pull/36) in [zer0Kerbal/SpaceShuttleRCSNosecones](https://github.com/zer0Kerbal/SpaceShuttleRCSNosecones)
-3. ❗️ Closed issue [#4](https://github.com/zer0Kerbal/SpaceShuttleRCSNosecones/issues/4) in [zer0Kerbal/SpaceShuttleRCSNosecones](https://github.com/zer0Kerbal/SpaceShuttleRCSNosecones)
-4. ❗️ Closed issue [#3](https://github.com/zer0Kerbal/SpaceShuttleRCSNosecones/issues/3) in [zer0Kerbal/SpaceShuttleRCSNosecones](https://github.com/zer0Kerbal/SpaceShuttleRCSNosecones)
-5. ❗️ Closed issue [#2](https://github.com/zer0Kerbal/SpaceShuttleRCSNosecones/issues/2) in [zer0Kerbal/SpaceShuttleRCSNosecones](https://github.com/zer0Kerbal/SpaceShuttleRCSNosecones)
-6. 🗣 Commented on [#34](https://github.com/zer0Kerbal/SpaceShuttleRCSNosecones/issues/34) in [zer0Kerbal/SpaceShuttleRCSNosecones](https://github.com/zer0Kerbal/SpaceShuttleRCSNosecones)
-7. ❗️ Closed issue [#1](https://github.com/zer0Kerbal/SpaceShuttleRCSNosecones/issues/1) in [zer0Kerbal/SpaceShuttleRCSNosecones](https://github.com/zer0Kerbal/SpaceShuttleRCSNosecones)
-8. ❗️ Closed issue [#30](https://github.com/zer0Kerbal/SpaceShuttleRCSNosecones/issues/30) in [zer0Kerbal/SpaceShuttleRCSNosecones](https://github.com/zer0Kerbal/SpaceShuttleRCSNosecones)
-9. ❗️ Closed issue [#32](https://github.com/zer0Kerbal/SpaceShuttleRCSNosecones/issues/32) in [zer0Kerbal/SpaceShuttleRCSNosecones](https://github.com/zer0Kerbal/SpaceShuttleRCSNosecones)
-10. ❗️ Closed issue [#33](https://github.com/zer0Kerbal/SpaceShuttleRCSNosecones/issues/33) in [zer0Kerbal/SpaceShuttleRCSNosecones](https://github.com/zer0Kerbal/SpaceShuttleRCSNosecones)
+1. ❗️ Opened issue [#26](https://github.com/zer0Kerbal/B9StockPatches/issues/26) in [zer0Kerbal/B9StockPatches](https://github.com/zer0Kerbal/B9StockPatches)
+2. ❗️ Opened issue [#25](https://github.com/zer0Kerbal/B9StockPatches/issues/25) in [zer0Kerbal/B9StockPatches](https://github.com/zer0Kerbal/B9StockPatches)
+3. ❗️ Opened issue [#24](https://github.com/zer0Kerbal/B9StockPatches/issues/24) in [zer0Kerbal/B9StockPatches](https://github.com/zer0Kerbal/B9StockPatches)
+4. ❗️ Opened issue [#23](https://github.com/zer0Kerbal/B9StockPatches/issues/23) in [zer0Kerbal/B9StockPatches](https://github.com/zer0Kerbal/B9StockPatches)
+5. ❗️ Opened issue [#22](https://github.com/zer0Kerbal/B9StockPatches/issues/22) in [zer0Kerbal/B9StockPatches](https://github.com/zer0Kerbal/B9StockPatches)
+6. ❗️ Opened issue [#21](https://github.com/zer0Kerbal/B9StockPatches/issues/21) in [zer0Kerbal/B9StockPatches](https://github.com/zer0Kerbal/B9StockPatches)
+7. ❗️ Opened issue [#20](https://github.com/zer0Kerbal/B9StockPatches/issues/20) in [zer0Kerbal/B9StockPatches](https://github.com/zer0Kerbal/B9StockPatches)
+8. ❗️ Opened issue [#19](https://github.com/zer0Kerbal/B9StockPatches/issues/19) in [zer0Kerbal/B9StockPatches](https://github.com/zer0Kerbal/B9StockPatches)
+9. ❗️ Opened issue [#18](https://github.com/zer0Kerbal/B9StockPatches/issues/18) in [zer0Kerbal/B9StockPatches](https://github.com/zer0Kerbal/B9StockPatches)
+10. ❗️ Opened issue [#17](https://github.com/zer0Kerbal/B9StockPatches/issues/17) in [zer0Kerbal/B9StockPatches](https://github.com/zer0Kerbal/B9StockPatches)
 <!--END_SECTION:activity-->
 
 </details
