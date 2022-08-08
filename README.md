@@ -45,16 +45,16 @@
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#194](https://github.com/taniwha/Extraplanetary-Launchpads/issues/194) in [taniwha/Extraplanetary-Launchpads](https://github.com/taniwha/Extraplanetary-Launchpads)
-2. ❗️ Opened issue [#154](https://github.com/zer0Kerbal/SimpleConstruction/issues/154) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
-3. ❗️ Opened issue [#97](https://github.com/zer0Kerbal/OnDemandFuelCells/issues/97) in [zer0Kerbal/OnDemandFuelCells](https://github.com/zer0Kerbal/OnDemandFuelCells)
-4. ❗️ Opened issue [#96](https://github.com/zer0Kerbal/OnDemandFuelCells/issues/96) in [zer0Kerbal/OnDemandFuelCells](https://github.com/zer0Kerbal/OnDemandFuelCells)
-5. ❗️ Opened issue [#95](https://github.com/zer0Kerbal/OnDemandFuelCells/issues/95) in [zer0Kerbal/OnDemandFuelCells](https://github.com/zer0Kerbal/OnDemandFuelCells)
-6. ❗️ Opened issue [#94](https://github.com/zer0Kerbal/OnDemandFuelCells/issues/94) in [zer0Kerbal/OnDemandFuelCells](https://github.com/zer0Kerbal/OnDemandFuelCells)
-7. ❗️ Opened issue [#92](https://github.com/zer0Kerbal/OnDemandFuelCells/issues/92) in [zer0Kerbal/OnDemandFuelCells](https://github.com/zer0Kerbal/OnDemandFuelCells)
-8. ❗️ Opened issue [#91](https://github.com/zer0Kerbal/OnDemandFuelCells/issues/91) in [zer0Kerbal/OnDemandFuelCells](https://github.com/zer0Kerbal/OnDemandFuelCells)
-9. ❗️ Opened issue [#90](https://github.com/zer0Kerbal/OnDemandFuelCells/issues/90) in [zer0Kerbal/OnDemandFuelCells](https://github.com/zer0Kerbal/OnDemandFuelCells)
-10. ❗️ Closed issue [#68](https://github.com/zer0Kerbal/OnDemandFuelCells/issues/68) in [zer0Kerbal/OnDemandFuelCells](https://github.com/zer0Kerbal/OnDemandFuelCells)
+1. ❗️ Closed issue [#151](https://github.com/zer0Kerbal/SimpleConstruction/issues/151) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
+2. ❗️ Closed issue [#153](https://github.com/zer0Kerbal/SimpleConstruction/issues/153) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
+3. ❗️ Closed issue [#152](https://github.com/zer0Kerbal/SimpleConstruction/issues/152) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
+4. ❗️ Closed issue [#150](https://github.com/zer0Kerbal/SimpleConstruction/issues/150) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
+5. ❗️ Closed issue [#24](https://github.com/zer0Kerbal/SimpleConstruction/issues/24) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
+6. ❗️ Closed issue [#154](https://github.com/zer0Kerbal/SimpleConstruction/issues/154) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
+7. 🎉 Merged PR [#156](https://github.com/zer0Kerbal/SimpleConstruction/pull/156) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
+8. 💪 Opened PR [#156](https://github.com/zer0Kerbal/SimpleConstruction/pull/156) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
+9. 🗣 Commented on [#194](https://github.com/taniwha/Extraplanetary-Launchpads/issues/194) in [taniwha/Extraplanetary-Launchpads](https://github.com/taniwha/Extraplanetary-Launchpads)
+10. ❗️ Opened issue [#154](https://github.com/zer0Kerbal/SimpleConstruction/issues/154) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
 <!--END_SECTION:activity-->
 
 </details
