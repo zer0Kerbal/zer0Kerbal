@@ -45,16 +45,16 @@
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#62](https://github.com/zer0Kerbal/WhimChaser/issues/62) in [zer0Kerbal/WhimChaser](https://github.com/zer0Kerbal/WhimChaser)
-2. ❗️ Opened issue [#61](https://github.com/zer0Kerbal/WhimChaser/issues/61) in [zer0Kerbal/WhimChaser](https://github.com/zer0Kerbal/WhimChaser)
-3. ❗️ Opened issue [#60](https://github.com/zer0Kerbal/WhimChaser/issues/60) in [zer0Kerbal/WhimChaser](https://github.com/zer0Kerbal/WhimChaser)
-4. ❗️ Opened issue [#59](https://github.com/zer0Kerbal/WhimChaser/issues/59) in [zer0Kerbal/WhimChaser](https://github.com/zer0Kerbal/WhimChaser)
-5. ❗️ Opened issue [#58](https://github.com/zer0Kerbal/WhimChaser/issues/58) in [zer0Kerbal/WhimChaser](https://github.com/zer0Kerbal/WhimChaser)
-6. ❗️ Opened issue [#57](https://github.com/zer0Kerbal/WhimChaser/issues/57) in [zer0Kerbal/WhimChaser](https://github.com/zer0Kerbal/WhimChaser)
-7. 🗣 Commented on [#49](https://github.com/zer0Kerbal/OhScrap/issues/49) in [zer0Kerbal/OhScrap](https://github.com/zer0Kerbal/OhScrap)
-8. ❗️ Opened issue [#55](https://github.com/zer0Kerbal/WhimChaser/issues/55) in [zer0Kerbal/WhimChaser](https://github.com/zer0Kerbal/WhimChaser)
-9. ❗️ Opened issue [#54](https://github.com/zer0Kerbal/WhimChaser/issues/54) in [zer0Kerbal/WhimChaser](https://github.com/zer0Kerbal/WhimChaser)
-10. ❗️ Opened issue [#53](https://github.com/zer0Kerbal/WhimChaser/issues/53) in [zer0Kerbal/WhimChaser](https://github.com/zer0Kerbal/WhimChaser)
+1. 🎉 Merged PR [#53](https://github.com/zer0Kerbal/ScrapYard/pull/53) in [zer0Kerbal/ScrapYard](https://github.com/zer0Kerbal/ScrapYard)
+2. ❗️ Opened issue [#62](https://github.com/zer0Kerbal/WhimChaser/issues/62) in [zer0Kerbal/WhimChaser](https://github.com/zer0Kerbal/WhimChaser)
+3. ❗️ Opened issue [#61](https://github.com/zer0Kerbal/WhimChaser/issues/61) in [zer0Kerbal/WhimChaser](https://github.com/zer0Kerbal/WhimChaser)
+4. ❗️ Opened issue [#60](https://github.com/zer0Kerbal/WhimChaser/issues/60) in [zer0Kerbal/WhimChaser](https://github.com/zer0Kerbal/WhimChaser)
+5. ❗️ Opened issue [#59](https://github.com/zer0Kerbal/WhimChaser/issues/59) in [zer0Kerbal/WhimChaser](https://github.com/zer0Kerbal/WhimChaser)
+6. ❗️ Opened issue [#58](https://github.com/zer0Kerbal/WhimChaser/issues/58) in [zer0Kerbal/WhimChaser](https://github.com/zer0Kerbal/WhimChaser)
+7. ❗️ Opened issue [#57](https://github.com/zer0Kerbal/WhimChaser/issues/57) in [zer0Kerbal/WhimChaser](https://github.com/zer0Kerbal/WhimChaser)
+8. 🗣 Commented on [#49](https://github.com/zer0Kerbal/OhScrap/issues/49) in [zer0Kerbal/OhScrap](https://github.com/zer0Kerbal/OhScrap)
+9. ❗️ Opened issue [#55](https://github.com/zer0Kerbal/WhimChaser/issues/55) in [zer0Kerbal/WhimChaser](https://github.com/zer0Kerbal/WhimChaser)
+10. ❗️ Opened issue [#54](https://github.com/zer0Kerbal/WhimChaser/issues/54) in [zer0Kerbal/WhimChaser](https://github.com/zer0Kerbal/WhimChaser)
 <!--END_SECTION:activity-->
 
 </details
