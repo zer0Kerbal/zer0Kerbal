@@ -45,16 +45,16 @@
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#5](https://github.com/zer0Kerbal/AxialAerospaceLtd/issues/5) in [zer0Kerbal/AxialAerospaceLtd](https://github.com/zer0Kerbal/AxialAerospaceLtd)
-2. ❗️ Closed issue [#4](https://github.com/zer0Kerbal/AxialAerospaceLtd/issues/4) in [zer0Kerbal/AxialAerospaceLtd](https://github.com/zer0Kerbal/AxialAerospaceLtd)
-3. ❗️ Closed issue [#3](https://github.com/zer0Kerbal/AxialAerospaceLtd/issues/3) in [zer0Kerbal/AxialAerospaceLtd](https://github.com/zer0Kerbal/AxialAerospaceLtd)
-4. ❗️ Closed issue [#2](https://github.com/zer0Kerbal/AxialAerospaceLtd/issues/2) in [zer0Kerbal/AxialAerospaceLtd](https://github.com/zer0Kerbal/AxialAerospaceLtd)
-5. ❗️ Closed issue [#26](https://github.com/zer0Kerbal/AxialAerospaceLtd/issues/26) in [zer0Kerbal/AxialAerospaceLtd](https://github.com/zer0Kerbal/AxialAerospaceLtd)
-6. ❗️ Closed issue [#27](https://github.com/zer0Kerbal/AxialAerospaceLtd/issues/27) in [zer0Kerbal/AxialAerospaceLtd](https://github.com/zer0Kerbal/AxialAerospaceLtd)
-7. ❗️ Closed issue [#7](https://github.com/zer0Kerbal/AxialAerospaceLtd/issues/7) in [zer0Kerbal/AxialAerospaceLtd](https://github.com/zer0Kerbal/AxialAerospaceLtd)
-8. ❗️ Closed issue [#25](https://github.com/zer0Kerbal/AxialAerospaceLtd/issues/25) in [zer0Kerbal/AxialAerospaceLtd](https://github.com/zer0Kerbal/AxialAerospaceLtd)
-9. ❗️ Closed issue [#24](https://github.com/zer0Kerbal/AxialAerospaceLtd/issues/24) in [zer0Kerbal/AxialAerospaceLtd](https://github.com/zer0Kerbal/AxialAerospaceLtd)
-10. 🎉 Merged PR [#28](https://github.com/zer0Kerbal/AxialAerospaceLtd/pull/28) in [zer0Kerbal/AxialAerospaceLtd](https://github.com/zer0Kerbal/AxialAerospaceLtd)
+1. ❗️ Opened issue [#69](https://github.com/zer0Kerbal/OhScrap/issues/69) in [zer0Kerbal/OhScrap](https://github.com/zer0Kerbal/OhScrap)
+2. ❗️ Opened issue [#68](https://github.com/zer0Kerbal/OhScrap/issues/68) in [zer0Kerbal/OhScrap](https://github.com/zer0Kerbal/OhScrap)
+3. ❗️ Opened issue [#67](https://github.com/zer0Kerbal/OhScrap/issues/67) in [zer0Kerbal/OhScrap](https://github.com/zer0Kerbal/OhScrap)
+4. ❗️ Opened issue [#66](https://github.com/zer0Kerbal/OhScrap/issues/66) in [zer0Kerbal/OhScrap](https://github.com/zer0Kerbal/OhScrap)
+5. ❗️ Opened issue [#65](https://github.com/zer0Kerbal/OhScrap/issues/65) in [zer0Kerbal/OhScrap](https://github.com/zer0Kerbal/OhScrap)
+6. ❗️ Opened issue [#64](https://github.com/zer0Kerbal/OhScrap/issues/64) in [zer0Kerbal/OhScrap](https://github.com/zer0Kerbal/OhScrap)
+7. ❗️ Opened issue [#63](https://github.com/zer0Kerbal/OhScrap/issues/63) in [zer0Kerbal/OhScrap](https://github.com/zer0Kerbal/OhScrap)
+8. ❗️ Opened issue [#62](https://github.com/zer0Kerbal/OhScrap/issues/62) in [zer0Kerbal/OhScrap](https://github.com/zer0Kerbal/OhScrap)
+9. ❗️ Opened issue [#61](https://github.com/zer0Kerbal/OhScrap/issues/61) in [zer0Kerbal/OhScrap](https://github.com/zer0Kerbal/OhScrap)
+10. ❗️ Opened issue [#60](https://github.com/zer0Kerbal/OhScrap/issues/60) in [zer0Kerbal/OhScrap](https://github.com/zer0Kerbal/OhScrap)
 <!--END_SECTION:activity-->
 
 </details
