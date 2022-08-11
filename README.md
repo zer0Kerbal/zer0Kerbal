@@ -45,16 +45,16 @@
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#29](https://github.com/zer0Kerbal/DaMichelLtd/issues/29) in [zer0Kerbal/DaMichelLtd](https://github.com/zer0Kerbal/DaMichelLtd)
-2. ❗️ Opened issue [#27](https://github.com/zer0Kerbal/AxialAerospaceLtd/issues/27) in [zer0Kerbal/AxialAerospaceLtd](https://github.com/zer0Kerbal/AxialAerospaceLtd)
-3. ❗️ Closed issue [#28](https://github.com/zer0Kerbal/DaMichelLtd/issues/28) in [zer0Kerbal/DaMichelLtd](https://github.com/zer0Kerbal/DaMichelLtd)
-4. ❗️ Opened issue [#26](https://github.com/zer0Kerbal/AxialAerospaceLtd/issues/26) in [zer0Kerbal/AxialAerospaceLtd](https://github.com/zer0Kerbal/AxialAerospaceLtd)
-5. ❗️ Opened issue [#29](https://github.com/zer0Kerbal/DaMichelLtd/issues/29) in [zer0Kerbal/DaMichelLtd](https://github.com/zer0Kerbal/DaMichelLtd)
-6. ❗️ Opened issue [#28](https://github.com/zer0Kerbal/DaMichelLtd/issues/28) in [zer0Kerbal/DaMichelLtd](https://github.com/zer0Kerbal/DaMichelLtd)
-7. ❗️ Opened issue [#25](https://github.com/zer0Kerbal/AxialAerospaceLtd/issues/25) in [zer0Kerbal/AxialAerospaceLtd](https://github.com/zer0Kerbal/AxialAerospaceLtd)
-8. ❗️ Opened issue [#24](https://github.com/zer0Kerbal/AxialAerospaceLtd/issues/24) in [zer0Kerbal/AxialAerospaceLtd](https://github.com/zer0Kerbal/AxialAerospaceLtd)
-9. ❗️ Opened issue [#23](https://github.com/zer0Kerbal/AxialAerospaceLtd/issues/23) in [zer0Kerbal/AxialAerospaceLtd](https://github.com/zer0Kerbal/AxialAerospaceLtd)
-10. ❗️ Opened issue [#22](https://github.com/zer0Kerbal/AxialAerospaceLtd/issues/22) in [zer0Kerbal/AxialAerospaceLtd](https://github.com/zer0Kerbal/AxialAerospaceLtd)
+1. ❗️ Closed issue [#5](https://github.com/zer0Kerbal/AxialAerospaceLtd/issues/5) in [zer0Kerbal/AxialAerospaceLtd](https://github.com/zer0Kerbal/AxialAerospaceLtd)
+2. ❗️ Closed issue [#4](https://github.com/zer0Kerbal/AxialAerospaceLtd/issues/4) in [zer0Kerbal/AxialAerospaceLtd](https://github.com/zer0Kerbal/AxialAerospaceLtd)
+3. ❗️ Closed issue [#3](https://github.com/zer0Kerbal/AxialAerospaceLtd/issues/3) in [zer0Kerbal/AxialAerospaceLtd](https://github.com/zer0Kerbal/AxialAerospaceLtd)
+4. ❗️ Closed issue [#2](https://github.com/zer0Kerbal/AxialAerospaceLtd/issues/2) in [zer0Kerbal/AxialAerospaceLtd](https://github.com/zer0Kerbal/AxialAerospaceLtd)
+5. ❗️ Closed issue [#26](https://github.com/zer0Kerbal/AxialAerospaceLtd/issues/26) in [zer0Kerbal/AxialAerospaceLtd](https://github.com/zer0Kerbal/AxialAerospaceLtd)
+6. ❗️ Closed issue [#27](https://github.com/zer0Kerbal/AxialAerospaceLtd/issues/27) in [zer0Kerbal/AxialAerospaceLtd](https://github.com/zer0Kerbal/AxialAerospaceLtd)
+7. ❗️ Closed issue [#7](https://github.com/zer0Kerbal/AxialAerospaceLtd/issues/7) in [zer0Kerbal/AxialAerospaceLtd](https://github.com/zer0Kerbal/AxialAerospaceLtd)
+8. ❗️ Closed issue [#25](https://github.com/zer0Kerbal/AxialAerospaceLtd/issues/25) in [zer0Kerbal/AxialAerospaceLtd](https://github.com/zer0Kerbal/AxialAerospaceLtd)
+9. ❗️ Closed issue [#24](https://github.com/zer0Kerbal/AxialAerospaceLtd/issues/24) in [zer0Kerbal/AxialAerospaceLtd](https://github.com/zer0Kerbal/AxialAerospaceLtd)
+10. 🎉 Merged PR [#28](https://github.com/zer0Kerbal/AxialAerospaceLtd/pull/28) in [zer0Kerbal/AxialAerospaceLtd](https://github.com/zer0Kerbal/AxialAerospaceLtd)
 <!--END_SECTION:activity-->
 
 </details
