@@ -45,16 +45,16 @@
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#69](https://github.com/zer0Kerbal/OhScrap/issues/69) in [zer0Kerbal/OhScrap](https://github.com/zer0Kerbal/OhScrap)
-2. ❗️ Opened issue [#68](https://github.com/zer0Kerbal/OhScrap/issues/68) in [zer0Kerbal/OhScrap](https://github.com/zer0Kerbal/OhScrap)
-3. ❗️ Opened issue [#67](https://github.com/zer0Kerbal/OhScrap/issues/67) in [zer0Kerbal/OhScrap](https://github.com/zer0Kerbal/OhScrap)
-4. ❗️ Opened issue [#66](https://github.com/zer0Kerbal/OhScrap/issues/66) in [zer0Kerbal/OhScrap](https://github.com/zer0Kerbal/OhScrap)
-5. ❗️ Opened issue [#65](https://github.com/zer0Kerbal/OhScrap/issues/65) in [zer0Kerbal/OhScrap](https://github.com/zer0Kerbal/OhScrap)
-6. ❗️ Opened issue [#64](https://github.com/zer0Kerbal/OhScrap/issues/64) in [zer0Kerbal/OhScrap](https://github.com/zer0Kerbal/OhScrap)
-7. ❗️ Opened issue [#63](https://github.com/zer0Kerbal/OhScrap/issues/63) in [zer0Kerbal/OhScrap](https://github.com/zer0Kerbal/OhScrap)
-8. ❗️ Opened issue [#62](https://github.com/zer0Kerbal/OhScrap/issues/62) in [zer0Kerbal/OhScrap](https://github.com/zer0Kerbal/OhScrap)
-9. ❗️ Opened issue [#61](https://github.com/zer0Kerbal/OhScrap/issues/61) in [zer0Kerbal/OhScrap](https://github.com/zer0Kerbal/OhScrap)
-10. ❗️ Opened issue [#60](https://github.com/zer0Kerbal/OhScrap/issues/60) in [zer0Kerbal/OhScrap](https://github.com/zer0Kerbal/OhScrap)
+1. ❗️ Opened issue [#50](https://github.com/zer0Kerbal/WernhersOldStuff/issues/50) in [zer0Kerbal/WernhersOldStuff](https://github.com/zer0Kerbal/WernhersOldStuff)
+2. ❗️ Opened issue [#49](https://github.com/zer0Kerbal/WernhersOldStuff/issues/49) in [zer0Kerbal/WernhersOldStuff](https://github.com/zer0Kerbal/WernhersOldStuff)
+3. ❗️ Opened issue [#47](https://github.com/zer0Kerbal/WernhersOldStuff/issues/47) in [zer0Kerbal/WernhersOldStuff](https://github.com/zer0Kerbal/WernhersOldStuff)
+4. ❗️ Opened issue [#48](https://github.com/zer0Kerbal/WernhersOldStuff/issues/48) in [zer0Kerbal/WernhersOldStuff](https://github.com/zer0Kerbal/WernhersOldStuff)
+5. ❗️ Closed issue [#42](https://github.com/zer0Kerbal/WernhersOldStuff/issues/42) in [zer0Kerbal/WernhersOldStuff](https://github.com/zer0Kerbal/WernhersOldStuff)
+6. ❗️ Closed issue [#41](https://github.com/zer0Kerbal/WernhersOldStuff/issues/41) in [zer0Kerbal/WernhersOldStuff](https://github.com/zer0Kerbal/WernhersOldStuff)
+7. ❗️ Closed issue [#40](https://github.com/zer0Kerbal/WernhersOldStuff/issues/40) in [zer0Kerbal/WernhersOldStuff](https://github.com/zer0Kerbal/WernhersOldStuff)
+8. ❗️ Closed issue [#39](https://github.com/zer0Kerbal/WernhersOldStuff/issues/39) in [zer0Kerbal/WernhersOldStuff](https://github.com/zer0Kerbal/WernhersOldStuff)
+9. ❗️ Closed issue [#43](https://github.com/zer0Kerbal/WernhersOldStuff/issues/43) in [zer0Kerbal/WernhersOldStuff](https://github.com/zer0Kerbal/WernhersOldStuff)
+10. 🎉 Merged PR [#45](https://github.com/zer0Kerbal/WernhersOldStuff/pull/45) in [zer0Kerbal/WernhersOldStuff](https://github.com/zer0Kerbal/WernhersOldStuff)
 <!--END_SECTION:activity-->
 
 </details
