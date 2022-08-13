@@ -45,16 +45,16 @@
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#32](https://github.com/zer0Kerbal/DropTankWrapper/issues/32) in [zer0Kerbal/DropTankWrapper](https://github.com/zer0Kerbal/DropTankWrapper)
-2. ❗️ Opened issue [#31](https://github.com/zer0Kerbal/DropTankWrapper/issues/31) in [zer0Kerbal/DropTankWrapper](https://github.com/zer0Kerbal/DropTankWrapper)
-3. ❗️ Opened issue [#30](https://github.com/zer0Kerbal/DropTankWrapper/issues/30) in [zer0Kerbal/DropTankWrapper](https://github.com/zer0Kerbal/DropTankWrapper)
-4. ❗️ Opened issue [#29](https://github.com/zer0Kerbal/DropTankWrapper/issues/29) in [zer0Kerbal/DropTankWrapper](https://github.com/zer0Kerbal/DropTankWrapper)
-5. ❗️ Opened issue [#28](https://github.com/zer0Kerbal/DropTankWrapper/issues/28) in [zer0Kerbal/DropTankWrapper](https://github.com/zer0Kerbal/DropTankWrapper)
-6. ❗️ Opened issue [#27](https://github.com/zer0Kerbal/DropTankWrapper/issues/27) in [zer0Kerbal/DropTankWrapper](https://github.com/zer0Kerbal/DropTankWrapper)
-7. ❗️ Opened issue [#26](https://github.com/zer0Kerbal/DropTankWrapper/issues/26) in [zer0Kerbal/DropTankWrapper](https://github.com/zer0Kerbal/DropTankWrapper)
-8. ❗️ Opened issue [#25](https://github.com/zer0Kerbal/DropTankWrapper/issues/25) in [zer0Kerbal/DropTankWrapper](https://github.com/zer0Kerbal/DropTankWrapper)
-9. ❗️ Opened issue [#24](https://github.com/zer0Kerbal/DropTankWrapper/issues/24) in [zer0Kerbal/DropTankWrapper](https://github.com/zer0Kerbal/DropTankWrapper)
-10. ❗️ Opened issue [#23](https://github.com/zer0Kerbal/DropTankWrapper/issues/23) in [zer0Kerbal/DropTankWrapper](https://github.com/zer0Kerbal/DropTankWrapper)
+1. ❗️ Opened issue [#38](https://github.com/zer0Kerbal/DropTankWrapper/issues/38) in [zer0Kerbal/DropTankWrapper](https://github.com/zer0Kerbal/DropTankWrapper)
+2. ❗️ Opened issue [#37](https://github.com/zer0Kerbal/DropTankWrapper/issues/37) in [zer0Kerbal/DropTankWrapper](https://github.com/zer0Kerbal/DropTankWrapper)
+3. ❗️ Opened issue [#36](https://github.com/zer0Kerbal/DropTankWrapper/issues/36) in [zer0Kerbal/DropTankWrapper](https://github.com/zer0Kerbal/DropTankWrapper)
+4. ❗️ Opened issue [#35](https://github.com/zer0Kerbal/DropTankWrapper/issues/35) in [zer0Kerbal/DropTankWrapper](https://github.com/zer0Kerbal/DropTankWrapper)
+5. ❗️ Closed issue [#2](https://github.com/zer0Kerbal/DropTankWrapper/issues/2) in [zer0Kerbal/DropTankWrapper](https://github.com/zer0Kerbal/DropTankWrapper)
+6. ❗️ Closed issue [#6](https://github.com/zer0Kerbal/DropTankWrapper/issues/6) in [zer0Kerbal/DropTankWrapper](https://github.com/zer0Kerbal/DropTankWrapper)
+7. ❗️ Closed issue [#5](https://github.com/zer0Kerbal/DropTankWrapper/issues/5) in [zer0Kerbal/DropTankWrapper](https://github.com/zer0Kerbal/DropTankWrapper)
+8. ❗️ Closed issue [#4](https://github.com/zer0Kerbal/DropTankWrapper/issues/4) in [zer0Kerbal/DropTankWrapper](https://github.com/zer0Kerbal/DropTankWrapper)
+9. ❗️ Closed issue [#3](https://github.com/zer0Kerbal/DropTankWrapper/issues/3) in [zer0Kerbal/DropTankWrapper](https://github.com/zer0Kerbal/DropTankWrapper)
+10. 🎉 Merged PR [#33](https://github.com/zer0Kerbal/DropTankWrapper/pull/33) in [zer0Kerbal/DropTankWrapper](https://github.com/zer0Kerbal/DropTankWrapper)
 <!--END_SECTION:activity-->
 
 </details
