@@ -45,16 +45,16 @@
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#29](https://github.com/zer0Kerbal/NukesUnlimited/issues/29) in [zer0Kerbal/NukesUnlimited](https://github.com/zer0Kerbal/NukesUnlimited)
-2. ❗️ Opened issue [#28](https://github.com/zer0Kerbal/NukesUnlimited/issues/28) in [zer0Kerbal/NukesUnlimited](https://github.com/zer0Kerbal/NukesUnlimited)
-3. ❗️ Opened issue [#27](https://github.com/zer0Kerbal/NukesUnlimited/issues/27) in [zer0Kerbal/NukesUnlimited](https://github.com/zer0Kerbal/NukesUnlimited)
-4. ❗️ Opened issue [#26](https://github.com/zer0Kerbal/NukesUnlimited/issues/26) in [zer0Kerbal/NukesUnlimited](https://github.com/zer0Kerbal/NukesUnlimited)
-5. ❗️ Opened issue [#25](https://github.com/zer0Kerbal/NukesUnlimited/issues/25) in [zer0Kerbal/NukesUnlimited](https://github.com/zer0Kerbal/NukesUnlimited)
-6. ❗️ Opened issue [#24](https://github.com/zer0Kerbal/NukesUnlimited/issues/24) in [zer0Kerbal/NukesUnlimited](https://github.com/zer0Kerbal/NukesUnlimited)
-7. ❗️ Opened issue [#23](https://github.com/zer0Kerbal/NukesUnlimited/issues/23) in [zer0Kerbal/NukesUnlimited](https://github.com/zer0Kerbal/NukesUnlimited)
-8. ❗️ Opened issue [#22](https://github.com/zer0Kerbal/NukesUnlimited/issues/22) in [zer0Kerbal/NukesUnlimited](https://github.com/zer0Kerbal/NukesUnlimited)
-9. ❗️ Opened issue [#21](https://github.com/zer0Kerbal/NukesUnlimited/issues/21) in [zer0Kerbal/NukesUnlimited](https://github.com/zer0Kerbal/NukesUnlimited)
-10. ❗️ Opened issue [#20](https://github.com/zer0Kerbal/NukesUnlimited/issues/20) in [zer0Kerbal/NukesUnlimited](https://github.com/zer0Kerbal/NukesUnlimited)
+1. ❗️ Closed issue [#4](https://github.com/zer0Kerbal/NukesUnlimited/issues/4) in [zer0Kerbal/NukesUnlimited](https://github.com/zer0Kerbal/NukesUnlimited)
+2. ❗️ Closed issue [#3](https://github.com/zer0Kerbal/NukesUnlimited/issues/3) in [zer0Kerbal/NukesUnlimited](https://github.com/zer0Kerbal/NukesUnlimited)
+3. ❗️ Closed issue [#2](https://github.com/zer0Kerbal/NukesUnlimited/issues/2) in [zer0Kerbal/NukesUnlimited](https://github.com/zer0Kerbal/NukesUnlimited)
+4. ❗️ Closed issue [#1](https://github.com/zer0Kerbal/NukesUnlimited/issues/1) in [zer0Kerbal/NukesUnlimited](https://github.com/zer0Kerbal/NukesUnlimited)
+5. ❗️ Closed issue [#5](https://github.com/zer0Kerbal/NukesUnlimited/issues/5) in [zer0Kerbal/NukesUnlimited](https://github.com/zer0Kerbal/NukesUnlimited)
+6. ❗️ Closed issue [#9](https://github.com/zer0Kerbal/NukesUnlimited/issues/9) in [zer0Kerbal/NukesUnlimited](https://github.com/zer0Kerbal/NukesUnlimited)
+7. ❗️ Closed issue [#7](https://github.com/zer0Kerbal/NukesUnlimited/issues/7) in [zer0Kerbal/NukesUnlimited](https://github.com/zer0Kerbal/NukesUnlimited)
+8. ❗️ Closed issue [#6](https://github.com/zer0Kerbal/NukesUnlimited/issues/6) in [zer0Kerbal/NukesUnlimited](https://github.com/zer0Kerbal/NukesUnlimited)
+9. 🎉 Merged PR [#30](https://github.com/zer0Kerbal/NukesUnlimited/pull/30) in [zer0Kerbal/NukesUnlimited](https://github.com/zer0Kerbal/NukesUnlimited)
+10. 💪 Opened PR [#30](https://github.com/zer0Kerbal/NukesUnlimited/pull/30) in [zer0Kerbal/NukesUnlimited](https://github.com/zer0Kerbal/NukesUnlimited)
 <!--END_SECTION:activity-->
 
 </details
