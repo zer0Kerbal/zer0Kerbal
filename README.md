@@ -45,16 +45,16 @@
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#114](https://github.com/zer0Kerbal/LithobrakeExplorationTechnologies/issues/114) in [zer0Kerbal/LithobrakeExplorationTechnologies](https://github.com/zer0Kerbal/LithobrakeExplorationTechnologies)
-2. ❗️ Opened issue [#113](https://github.com/zer0Kerbal/LithobrakeExplorationTechnologies/issues/113) in [zer0Kerbal/LithobrakeExplorationTechnologies](https://github.com/zer0Kerbal/LithobrakeExplorationTechnologies)
-3. ❗️ Opened issue [#112](https://github.com/zer0Kerbal/LithobrakeExplorationTechnologies/issues/112) in [zer0Kerbal/LithobrakeExplorationTechnologies](https://github.com/zer0Kerbal/LithobrakeExplorationTechnologies)
-4. ❗️ Opened issue [#111](https://github.com/zer0Kerbal/LithobrakeExplorationTechnologies/issues/111) in [zer0Kerbal/LithobrakeExplorationTechnologies](https://github.com/zer0Kerbal/LithobrakeExplorationTechnologies)
-5. ❗️ Opened issue [#110](https://github.com/zer0Kerbal/LithobrakeExplorationTechnologies/issues/110) in [zer0Kerbal/LithobrakeExplorationTechnologies](https://github.com/zer0Kerbal/LithobrakeExplorationTechnologies)
-6. 🎉 Merged PR [#8](https://github.com/zer0Kerbal/SimpleMissionFlags/pull/8) in [zer0Kerbal/SimpleMissionFlags](https://github.com/zer0Kerbal/SimpleMissionFlags)
-7. ❗️ Closed issue [#5](https://github.com/zer0Kerbal/SimpleMissionFlags/issues/5) in [zer0Kerbal/SimpleMissionFlags](https://github.com/zer0Kerbal/SimpleMissionFlags)
-8. 🎉 Merged PR [#6](https://github.com/zer0Kerbal/SimpleMissionFlags/pull/6) in [zer0Kerbal/SimpleMissionFlags](https://github.com/zer0Kerbal/SimpleMissionFlags)
-9. 💪 Opened PR [#6](https://github.com/zer0Kerbal/SimpleMissionFlags/pull/6) in [zer0Kerbal/SimpleMissionFlags](https://github.com/zer0Kerbal/SimpleMissionFlags)
-10. ❗️ Opened issue [#5](https://github.com/zer0Kerbal/SimpleMissionFlags/issues/5) in [zer0Kerbal/SimpleMissionFlags](https://github.com/zer0Kerbal/SimpleMissionFlags)
+1. ❗️ Opened issue [#29](https://github.com/zer0Kerbal/NukesUnlimited/issues/29) in [zer0Kerbal/NukesUnlimited](https://github.com/zer0Kerbal/NukesUnlimited)
+2. ❗️ Opened issue [#28](https://github.com/zer0Kerbal/NukesUnlimited/issues/28) in [zer0Kerbal/NukesUnlimited](https://github.com/zer0Kerbal/NukesUnlimited)
+3. ❗️ Opened issue [#27](https://github.com/zer0Kerbal/NukesUnlimited/issues/27) in [zer0Kerbal/NukesUnlimited](https://github.com/zer0Kerbal/NukesUnlimited)
+4. ❗️ Opened issue [#26](https://github.com/zer0Kerbal/NukesUnlimited/issues/26) in [zer0Kerbal/NukesUnlimited](https://github.com/zer0Kerbal/NukesUnlimited)
+5. ❗️ Opened issue [#25](https://github.com/zer0Kerbal/NukesUnlimited/issues/25) in [zer0Kerbal/NukesUnlimited](https://github.com/zer0Kerbal/NukesUnlimited)
+6. ❗️ Opened issue [#24](https://github.com/zer0Kerbal/NukesUnlimited/issues/24) in [zer0Kerbal/NukesUnlimited](https://github.com/zer0Kerbal/NukesUnlimited)
+7. ❗️ Opened issue [#23](https://github.com/zer0Kerbal/NukesUnlimited/issues/23) in [zer0Kerbal/NukesUnlimited](https://github.com/zer0Kerbal/NukesUnlimited)
+8. ❗️ Opened issue [#22](https://github.com/zer0Kerbal/NukesUnlimited/issues/22) in [zer0Kerbal/NukesUnlimited](https://github.com/zer0Kerbal/NukesUnlimited)
+9. ❗️ Opened issue [#21](https://github.com/zer0Kerbal/NukesUnlimited/issues/21) in [zer0Kerbal/NukesUnlimited](https://github.com/zer0Kerbal/NukesUnlimited)
+10. ❗️ Opened issue [#20](https://github.com/zer0Kerbal/NukesUnlimited/issues/20) in [zer0Kerbal/NukesUnlimited](https://github.com/zer0Kerbal/NukesUnlimited)
 <!--END_SECTION:activity-->
 
 </details
