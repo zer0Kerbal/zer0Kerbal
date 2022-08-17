@@ -45,16 +45,16 @@
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#29](https://github.com/zer0Kerbal/NukesTinyGirder/issues/29) in [zer0Kerbal/NukesTinyGirder](https://github.com/zer0Kerbal/NukesTinyGirder)
-2. ❗️ Opened issue [#28](https://github.com/zer0Kerbal/NukesTinyGirder/issues/28) in [zer0Kerbal/NukesTinyGirder](https://github.com/zer0Kerbal/NukesTinyGirder)
-3. ❗️ Opened issue [#27](https://github.com/zer0Kerbal/NukesTinyGirder/issues/27) in [zer0Kerbal/NukesTinyGirder](https://github.com/zer0Kerbal/NukesTinyGirder)
-4. ❗️ Opened issue [#26](https://github.com/zer0Kerbal/NukesTinyGirder/issues/26) in [zer0Kerbal/NukesTinyGirder](https://github.com/zer0Kerbal/NukesTinyGirder)
-5. ❗️ Opened issue [#25](https://github.com/zer0Kerbal/NukesTinyGirder/issues/25) in [zer0Kerbal/NukesTinyGirder](https://github.com/zer0Kerbal/NukesTinyGirder)
-6. ❗️ Opened issue [#24](https://github.com/zer0Kerbal/NukesTinyGirder/issues/24) in [zer0Kerbal/NukesTinyGirder](https://github.com/zer0Kerbal/NukesTinyGirder)
-7. ❗️ Opened issue [#23](https://github.com/zer0Kerbal/NukesTinyGirder/issues/23) in [zer0Kerbal/NukesTinyGirder](https://github.com/zer0Kerbal/NukesTinyGirder)
-8. ❗️ Opened issue [#22](https://github.com/zer0Kerbal/NukesTinyGirder/issues/22) in [zer0Kerbal/NukesTinyGirder](https://github.com/zer0Kerbal/NukesTinyGirder)
-9. ❗️ Opened issue [#21](https://github.com/zer0Kerbal/NukesTinyGirder/issues/21) in [zer0Kerbal/NukesTinyGirder](https://github.com/zer0Kerbal/NukesTinyGirder)
-10. ❗️ Opened issue [#20](https://github.com/zer0Kerbal/NukesTinyGirder/issues/20) in [zer0Kerbal/NukesTinyGirder](https://github.com/zer0Kerbal/NukesTinyGirder)
+1. ❗️ Closed issue [#4](https://github.com/zer0Kerbal/NukesTinyGirders/issues/4) in [zer0Kerbal/NukesTinyGirders](https://github.com/zer0Kerbal/NukesTinyGirders)
+2. ❗️ Closed issue [#3](https://github.com/zer0Kerbal/NukesTinyGirders/issues/3) in [zer0Kerbal/NukesTinyGirders](https://github.com/zer0Kerbal/NukesTinyGirders)
+3. ❗️ Closed issue [#2](https://github.com/zer0Kerbal/NukesTinyGirders/issues/2) in [zer0Kerbal/NukesTinyGirders](https://github.com/zer0Kerbal/NukesTinyGirders)
+4. ❗️ Closed issue [#1](https://github.com/zer0Kerbal/NukesTinyGirders/issues/1) in [zer0Kerbal/NukesTinyGirders](https://github.com/zer0Kerbal/NukesTinyGirders)
+5. ❗️ Closed issue [#29](https://github.com/zer0Kerbal/NukesTinyGirders/issues/29) in [zer0Kerbal/NukesTinyGirders](https://github.com/zer0Kerbal/NukesTinyGirders)
+6. ❗️ Closed issue [#27](https://github.com/zer0Kerbal/NukesTinyGirders/issues/27) in [zer0Kerbal/NukesTinyGirders](https://github.com/zer0Kerbal/NukesTinyGirders)
+7. ❗️ Closed issue [#28](https://github.com/zer0Kerbal/NukesTinyGirders/issues/28) in [zer0Kerbal/NukesTinyGirders](https://github.com/zer0Kerbal/NukesTinyGirders)
+8. ❗️ Closed issue [#25](https://github.com/zer0Kerbal/NukesTinyGirders/issues/25) in [zer0Kerbal/NukesTinyGirders](https://github.com/zer0Kerbal/NukesTinyGirders)
+9. ❗️ Closed issue [#6](https://github.com/zer0Kerbal/NukesTinyGirders/issues/6) in [zer0Kerbal/NukesTinyGirders](https://github.com/zer0Kerbal/NukesTinyGirders)
+10. ❗️ Closed issue [#26](https://github.com/zer0Kerbal/NukesTinyGirders/issues/26) in [zer0Kerbal/NukesTinyGirders](https://github.com/zer0Kerbal/NukesTinyGirders)
 <!--END_SECTION:activity-->
 
 </details
