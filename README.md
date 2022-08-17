@@ -45,16 +45,16 @@
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/zer0Kerbal/RustyStarRockets/pull/1) in [zer0Kerbal/RustyStarRockets](https://github.com/zer0Kerbal/RustyStarRockets)
-2. ❗️ Opened issue [#23](https://github.com/zer0Kerbal/NukesTinyPods/issues/23) in [zer0Kerbal/NukesTinyPods](https://github.com/zer0Kerbal/NukesTinyPods)
-3. ❗️ Opened issue [#22](https://github.com/zer0Kerbal/NukesTinyPods/issues/22) in [zer0Kerbal/NukesTinyPods](https://github.com/zer0Kerbal/NukesTinyPods)
-4. ❗️ Opened issue [#21](https://github.com/zer0Kerbal/NukesTinyPods/issues/21) in [zer0Kerbal/NukesTinyPods](https://github.com/zer0Kerbal/NukesTinyPods)
-5. ❗️ Opened issue [#20](https://github.com/zer0Kerbal/NukesTinyPods/issues/20) in [zer0Kerbal/NukesTinyPods](https://github.com/zer0Kerbal/NukesTinyPods)
-6. ❗️ Opened issue [#19](https://github.com/zer0Kerbal/NukesTinyPods/issues/19) in [zer0Kerbal/NukesTinyPods](https://github.com/zer0Kerbal/NukesTinyPods)
-7. ❗️ Opened issue [#18](https://github.com/zer0Kerbal/NukesTinyPods/issues/18) in [zer0Kerbal/NukesTinyPods](https://github.com/zer0Kerbal/NukesTinyPods)
-8. ❗️ Opened issue [#17](https://github.com/zer0Kerbal/NukesTinyPods/issues/17) in [zer0Kerbal/NukesTinyPods](https://github.com/zer0Kerbal/NukesTinyPods)
-9. ❗️ Opened issue [#16](https://github.com/zer0Kerbal/NukesTinyPods/issues/16) in [zer0Kerbal/NukesTinyPods](https://github.com/zer0Kerbal/NukesTinyPods)
-10. ❗️ Opened issue [#15](https://github.com/zer0Kerbal/NukesTinyPods/issues/15) in [zer0Kerbal/NukesTinyPods](https://github.com/zer0Kerbal/NukesTinyPods)
+1. ❌ Closed PR [#2](https://github.com/zer0Kerbal/RustyStarRockets/pull/2) in [zer0Kerbal/RustyStarRockets](https://github.com/zer0Kerbal/RustyStarRockets)
+2. ❌ Closed PR [#1](https://github.com/zer0Kerbal/RustyStarRockets/pull/1) in [zer0Kerbal/RustyStarRockets](https://github.com/zer0Kerbal/RustyStarRockets)
+3. ❗️ Opened issue [#23](https://github.com/zer0Kerbal/NukesTinyPods/issues/23) in [zer0Kerbal/NukesTinyPods](https://github.com/zer0Kerbal/NukesTinyPods)
+4. ❗️ Opened issue [#22](https://github.com/zer0Kerbal/NukesTinyPods/issues/22) in [zer0Kerbal/NukesTinyPods](https://github.com/zer0Kerbal/NukesTinyPods)
+5. ❗️ Opened issue [#21](https://github.com/zer0Kerbal/NukesTinyPods/issues/21) in [zer0Kerbal/NukesTinyPods](https://github.com/zer0Kerbal/NukesTinyPods)
+6. ❗️ Opened issue [#20](https://github.com/zer0Kerbal/NukesTinyPods/issues/20) in [zer0Kerbal/NukesTinyPods](https://github.com/zer0Kerbal/NukesTinyPods)
+7. ❗️ Opened issue [#19](https://github.com/zer0Kerbal/NukesTinyPods/issues/19) in [zer0Kerbal/NukesTinyPods](https://github.com/zer0Kerbal/NukesTinyPods)
+8. ❗️ Opened issue [#18](https://github.com/zer0Kerbal/NukesTinyPods/issues/18) in [zer0Kerbal/NukesTinyPods](https://github.com/zer0Kerbal/NukesTinyPods)
+9. ❗️ Opened issue [#17](https://github.com/zer0Kerbal/NukesTinyPods/issues/17) in [zer0Kerbal/NukesTinyPods](https://github.com/zer0Kerbal/NukesTinyPods)
+10. ❗️ Opened issue [#16](https://github.com/zer0Kerbal/NukesTinyPods/issues/16) in [zer0Kerbal/NukesTinyPods](https://github.com/zer0Kerbal/NukesTinyPods)
 <!--END_SECTION:activity-->
 
 </details
