@@ -45,16 +45,16 @@
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#42](https://github.com/zer0Kerbal/RustyStarRockets/issues/42) in [zer0Kerbal/RustyStarRockets](https://github.com/zer0Kerbal/RustyStarRockets)
-2. 🎉 Merged PR [#55](https://github.com/zer0Kerbal/RustyStarRockets/pull/55) in [zer0Kerbal/RustyStarRockets](https://github.com/zer0Kerbal/RustyStarRockets)
-3. 💪 Opened PR [#55](https://github.com/zer0Kerbal/RustyStarRockets/pull/55) in [zer0Kerbal/RustyStarRockets](https://github.com/zer0Kerbal/RustyStarRockets)
-4. ❗️ Closed issue [#40](https://github.com/zer0Kerbal/RustyStarRockets/issues/40) in [zer0Kerbal/RustyStarRockets](https://github.com/zer0Kerbal/RustyStarRockets)
-5. 🎉 Merged PR [#54](https://github.com/zer0Kerbal/RustyStarRockets/pull/54) in [zer0Kerbal/RustyStarRockets](https://github.com/zer0Kerbal/RustyStarRockets)
-6. 💪 Opened PR [#54](https://github.com/zer0Kerbal/RustyStarRockets/pull/54) in [zer0Kerbal/RustyStarRockets](https://github.com/zer0Kerbal/RustyStarRockets)
-7. ❗️ Closed issue [#39](https://github.com/zer0Kerbal/RustyStarRockets/issues/39) in [zer0Kerbal/RustyStarRockets](https://github.com/zer0Kerbal/RustyStarRockets)
-8. 🎉 Merged PR [#53](https://github.com/zer0Kerbal/RustyStarRockets/pull/53) in [zer0Kerbal/RustyStarRockets](https://github.com/zer0Kerbal/RustyStarRockets)
-9. 💪 Opened PR [#53](https://github.com/zer0Kerbal/RustyStarRockets/pull/53) in [zer0Kerbal/RustyStarRockets](https://github.com/zer0Kerbal/RustyStarRockets)
-10. ❗️ Closed issue [#38](https://github.com/zer0Kerbal/RustyStarRockets/issues/38) in [zer0Kerbal/RustyStarRockets](https://github.com/zer0Kerbal/RustyStarRockets)
+1. ❗️ Closed issue [#43](https://github.com/zer0Kerbal/RustyStarRockets/issues/43) in [zer0Kerbal/RustyStarRockets](https://github.com/zer0Kerbal/RustyStarRockets)
+2. 🎉 Merged PR [#56](https://github.com/zer0Kerbal/RustyStarRockets/pull/56) in [zer0Kerbal/RustyStarRockets](https://github.com/zer0Kerbal/RustyStarRockets)
+3. 💪 Opened PR [#56](https://github.com/zer0Kerbal/RustyStarRockets/pull/56) in [zer0Kerbal/RustyStarRockets](https://github.com/zer0Kerbal/RustyStarRockets)
+4. ❗️ Closed issue [#42](https://github.com/zer0Kerbal/RustyStarRockets/issues/42) in [zer0Kerbal/RustyStarRockets](https://github.com/zer0Kerbal/RustyStarRockets)
+5. 🎉 Merged PR [#55](https://github.com/zer0Kerbal/RustyStarRockets/pull/55) in [zer0Kerbal/RustyStarRockets](https://github.com/zer0Kerbal/RustyStarRockets)
+6. 💪 Opened PR [#55](https://github.com/zer0Kerbal/RustyStarRockets/pull/55) in [zer0Kerbal/RustyStarRockets](https://github.com/zer0Kerbal/RustyStarRockets)
+7. ❗️ Closed issue [#40](https://github.com/zer0Kerbal/RustyStarRockets/issues/40) in [zer0Kerbal/RustyStarRockets](https://github.com/zer0Kerbal/RustyStarRockets)
+8. 🎉 Merged PR [#54](https://github.com/zer0Kerbal/RustyStarRockets/pull/54) in [zer0Kerbal/RustyStarRockets](https://github.com/zer0Kerbal/RustyStarRockets)
+9. 💪 Opened PR [#54](https://github.com/zer0Kerbal/RustyStarRockets/pull/54) in [zer0Kerbal/RustyStarRockets](https://github.com/zer0Kerbal/RustyStarRockets)
+10. ❗️ Closed issue [#39](https://github.com/zer0Kerbal/RustyStarRockets/issues/39) in [zer0Kerbal/RustyStarRockets](https://github.com/zer0Kerbal/RustyStarRockets)
 <!--END_SECTION:activity-->
 
 </details
