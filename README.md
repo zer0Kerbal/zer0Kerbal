@@ -45,16 +45,16 @@
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#61](https://github.com/zer0Kerbal/Komplexity/issues/61) in [zer0Kerbal/Komplexity](https://github.com/zer0Kerbal/Komplexity)
-2. ❗️ Opened issue [#60](https://github.com/zer0Kerbal/Komplexity/issues/60) in [zer0Kerbal/Komplexity](https://github.com/zer0Kerbal/Komplexity)
-3. ❗️ Opened issue [#59](https://github.com/zer0Kerbal/Komplexity/issues/59) in [zer0Kerbal/Komplexity](https://github.com/zer0Kerbal/Komplexity)
-4. ❗️ Opened issue [#58](https://github.com/zer0Kerbal/Komplexity/issues/58) in [zer0Kerbal/Komplexity](https://github.com/zer0Kerbal/Komplexity)
-5. ❗️ Opened issue [#96](https://github.com/jrossignol/Strategia/issues/96) in [jrossignol/Strategia](https://github.com/jrossignol/Strategia)
-6. 🗣 Commented on [#57](https://github.com/zer0Kerbal/Komplexity/issues/57) in [zer0Kerbal/Komplexity](https://github.com/zer0Kerbal/Komplexity)
-7. ❗️ Opened issue [#36](https://github.com/zer0Kerbal/NukesTinyGirders/issues/36) in [zer0Kerbal/NukesTinyGirders](https://github.com/zer0Kerbal/NukesTinyGirders)
-8. 🎉 Merged PR [#99](https://github.com/zer0Kerbal/MoarKerbals/pull/99) in [zer0Kerbal/MoarKerbals](https://github.com/zer0Kerbal/MoarKerbals)
-9. ❗️ Opened issue [#98](https://github.com/zer0Kerbal/MoarKerbals/issues/98) in [zer0Kerbal/MoarKerbals](https://github.com/zer0Kerbal/MoarKerbals)
-10. 🎉 Merged PR [#58](https://github.com/zer0Kerbal/RustyStarRockets/pull/58) in [zer0Kerbal/RustyStarRockets](https://github.com/zer0Kerbal/RustyStarRockets)
+1. 🗣 Commented on [#57](https://github.com/zer0Kerbal/Komplexity/issues/57) in [zer0Kerbal/Komplexity](https://github.com/zer0Kerbal/Komplexity)
+2. 🗣 Commented on [#57](https://github.com/zer0Kerbal/Komplexity/issues/57) in [zer0Kerbal/Komplexity](https://github.com/zer0Kerbal/Komplexity)
+3. ❗️ Opened issue [#61](https://github.com/zer0Kerbal/Komplexity/issues/61) in [zer0Kerbal/Komplexity](https://github.com/zer0Kerbal/Komplexity)
+4. ❗️ Opened issue [#60](https://github.com/zer0Kerbal/Komplexity/issues/60) in [zer0Kerbal/Komplexity](https://github.com/zer0Kerbal/Komplexity)
+5. ❗️ Opened issue [#59](https://github.com/zer0Kerbal/Komplexity/issues/59) in [zer0Kerbal/Komplexity](https://github.com/zer0Kerbal/Komplexity)
+6. ❗️ Opened issue [#58](https://github.com/zer0Kerbal/Komplexity/issues/58) in [zer0Kerbal/Komplexity](https://github.com/zer0Kerbal/Komplexity)
+7. ❗️ Opened issue [#96](https://github.com/jrossignol/Strategia/issues/96) in [jrossignol/Strategia](https://github.com/jrossignol/Strategia)
+8. 🗣 Commented on [#57](https://github.com/zer0Kerbal/Komplexity/issues/57) in [zer0Kerbal/Komplexity](https://github.com/zer0Kerbal/Komplexity)
+9. ❗️ Opened issue [#36](https://github.com/zer0Kerbal/NukesTinyGirders/issues/36) in [zer0Kerbal/NukesTinyGirders](https://github.com/zer0Kerbal/NukesTinyGirders)
+10. 🎉 Merged PR [#99](https://github.com/zer0Kerbal/MoarKerbals/pull/99) in [zer0Kerbal/MoarKerbals](https://github.com/zer0Kerbal/MoarKerbals)
 <!--END_SECTION:activity-->
 
 </details
