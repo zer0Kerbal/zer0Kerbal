@@ -45,16 +45,16 @@
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/zer0Kerbal/RustyStarShipyards/pull/1) in [zer0Kerbal/RustyStarShipyards](https://github.com/zer0Kerbal/RustyStarShipyards)
-2. ❗️ Opened issue [#8](https://github.com/zer0Kerbal/RustyStarShipyards/issues/8) in [zer0Kerbal/RustyStarShipyards](https://github.com/zer0Kerbal/RustyStarShipyards)
-3. ❗️ Opened issue [#7](https://github.com/zer0Kerbal/RustyStarShipyards/issues/7) in [zer0Kerbal/RustyStarShipyards](https://github.com/zer0Kerbal/RustyStarShipyards)
-4. ❗️ Opened issue [#6](https://github.com/zer0Kerbal/RustyStarShipyards/issues/6) in [zer0Kerbal/RustyStarShipyards](https://github.com/zer0Kerbal/RustyStarShipyards)
-5. ❗️ Opened issue [#5](https://github.com/zer0Kerbal/RustyStarShipyards/issues/5) in [zer0Kerbal/RustyStarShipyards](https://github.com/zer0Kerbal/RustyStarShipyards)
-6. ❗️ Opened issue [#4](https://github.com/zer0Kerbal/RustyStarShipyards/issues/4) in [zer0Kerbal/RustyStarShipyards](https://github.com/zer0Kerbal/RustyStarShipyards)
-7. ❗️ Opened issue [#3](https://github.com/zer0Kerbal/RustyStarShipyards/issues/3) in [zer0Kerbal/RustyStarShipyards](https://github.com/zer0Kerbal/RustyStarShipyards)
-8. ❗️ Opened issue [#2](https://github.com/zer0Kerbal/RustyStarShipyards/issues/2) in [zer0Kerbal/RustyStarShipyards](https://github.com/zer0Kerbal/RustyStarShipyards)
-9. 💪 Opened PR [#1](https://github.com/zer0Kerbal/RustyStarShipyards/pull/1) in [zer0Kerbal/RustyStarShipyards](https://github.com/zer0Kerbal/RustyStarShipyards)
-10. ❗️ Opened issue [#60](https://github.com/zer0Kerbal/RustyStarRockets/issues/60) in [zer0Kerbal/RustyStarRockets](https://github.com/zer0Kerbal/RustyStarRockets)
+1. ❗️ Opened issue [#33](https://github.com/zer0Kerbal/RustyStarShipyards/issues/33) in [zer0Kerbal/RustyStarShipyards](https://github.com/zer0Kerbal/RustyStarShipyards)
+2. ❗️ Opened issue [#32](https://github.com/zer0Kerbal/RustyStarShipyards/issues/32) in [zer0Kerbal/RustyStarShipyards](https://github.com/zer0Kerbal/RustyStarShipyards)
+3. ❗️ Opened issue [#31](https://github.com/zer0Kerbal/RustyStarShipyards/issues/31) in [zer0Kerbal/RustyStarShipyards](https://github.com/zer0Kerbal/RustyStarShipyards)
+4. ❗️ Opened issue [#30](https://github.com/zer0Kerbal/RustyStarShipyards/issues/30) in [zer0Kerbal/RustyStarShipyards](https://github.com/zer0Kerbal/RustyStarShipyards)
+5. ❗️ Closed issue [#2](https://github.com/zer0Kerbal/RustyStarShipyards/issues/2) in [zer0Kerbal/RustyStarShipyards](https://github.com/zer0Kerbal/RustyStarShipyards)
+6. ❗️ Closed issue [#3](https://github.com/zer0Kerbal/RustyStarShipyards/issues/3) in [zer0Kerbal/RustyStarShipyards](https://github.com/zer0Kerbal/RustyStarShipyards)
+7. ❗️ Closed issue [#4](https://github.com/zer0Kerbal/RustyStarShipyards/issues/4) in [zer0Kerbal/RustyStarShipyards](https://github.com/zer0Kerbal/RustyStarShipyards)
+8. ❗️ Closed issue [#8](https://github.com/zer0Kerbal/RustyStarShipyards/issues/8) in [zer0Kerbal/RustyStarShipyards](https://github.com/zer0Kerbal/RustyStarShipyards)
+9. ❗️ Closed issue [#5](https://github.com/zer0Kerbal/RustyStarShipyards/issues/5) in [zer0Kerbal/RustyStarShipyards](https://github.com/zer0Kerbal/RustyStarShipyards)
+10. ❗️ Closed issue [#11](https://github.com/zer0Kerbal/RustyStarShipyards/issues/11) in [zer0Kerbal/RustyStarShipyards](https://github.com/zer0Kerbal/RustyStarShipyards)
 <!--END_SECTION:activity-->
 
 </details
