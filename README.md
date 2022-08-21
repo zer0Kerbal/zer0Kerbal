@@ -45,16 +45,16 @@
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#60](https://github.com/zer0Kerbal/RustyStarRockets/issues/60) in [zer0Kerbal/RustyStarRockets](https://github.com/zer0Kerbal/RustyStarRockets)
-2. 🗣 Commented on [#39](https://github.com/zer0Kerbal/SpaceY-Lifters/issues/39) in [zer0Kerbal/SpaceY-Lifters](https://github.com/zer0Kerbal/SpaceY-Lifters)
-3. 🗣 Commented on [#57](https://github.com/zer0Kerbal/Komplexity/issues/57) in [zer0Kerbal/Komplexity](https://github.com/zer0Kerbal/Komplexity)
-4. 🗣 Commented on [#57](https://github.com/zer0Kerbal/Komplexity/issues/57) in [zer0Kerbal/Komplexity](https://github.com/zer0Kerbal/Komplexity)
-5. ❗️ Opened issue [#61](https://github.com/zer0Kerbal/Komplexity/issues/61) in [zer0Kerbal/Komplexity](https://github.com/zer0Kerbal/Komplexity)
-6. ❗️ Opened issue [#60](https://github.com/zer0Kerbal/Komplexity/issues/60) in [zer0Kerbal/Komplexity](https://github.com/zer0Kerbal/Komplexity)
-7. ❗️ Opened issue [#59](https://github.com/zer0Kerbal/Komplexity/issues/59) in [zer0Kerbal/Komplexity](https://github.com/zer0Kerbal/Komplexity)
-8. ❗️ Opened issue [#58](https://github.com/zer0Kerbal/Komplexity/issues/58) in [zer0Kerbal/Komplexity](https://github.com/zer0Kerbal/Komplexity)
-9. ❗️ Opened issue [#96](https://github.com/jrossignol/Strategia/issues/96) in [jrossignol/Strategia](https://github.com/jrossignol/Strategia)
-10. 🗣 Commented on [#57](https://github.com/zer0Kerbal/Komplexity/issues/57) in [zer0Kerbal/Komplexity](https://github.com/zer0Kerbal/Komplexity)
+1. ❌ Closed PR [#1](https://github.com/zer0Kerbal/RustyStarShipyards/pull/1) in [zer0Kerbal/RustyStarShipyards](https://github.com/zer0Kerbal/RustyStarShipyards)
+2. ❗️ Opened issue [#8](https://github.com/zer0Kerbal/RustyStarShipyards/issues/8) in [zer0Kerbal/RustyStarShipyards](https://github.com/zer0Kerbal/RustyStarShipyards)
+3. ❗️ Opened issue [#7](https://github.com/zer0Kerbal/RustyStarShipyards/issues/7) in [zer0Kerbal/RustyStarShipyards](https://github.com/zer0Kerbal/RustyStarShipyards)
+4. ❗️ Opened issue [#6](https://github.com/zer0Kerbal/RustyStarShipyards/issues/6) in [zer0Kerbal/RustyStarShipyards](https://github.com/zer0Kerbal/RustyStarShipyards)
+5. ❗️ Opened issue [#5](https://github.com/zer0Kerbal/RustyStarShipyards/issues/5) in [zer0Kerbal/RustyStarShipyards](https://github.com/zer0Kerbal/RustyStarShipyards)
+6. ❗️ Opened issue [#4](https://github.com/zer0Kerbal/RustyStarShipyards/issues/4) in [zer0Kerbal/RustyStarShipyards](https://github.com/zer0Kerbal/RustyStarShipyards)
+7. ❗️ Opened issue [#3](https://github.com/zer0Kerbal/RustyStarShipyards/issues/3) in [zer0Kerbal/RustyStarShipyards](https://github.com/zer0Kerbal/RustyStarShipyards)
+8. ❗️ Opened issue [#2](https://github.com/zer0Kerbal/RustyStarShipyards/issues/2) in [zer0Kerbal/RustyStarShipyards](https://github.com/zer0Kerbal/RustyStarShipyards)
+9. 💪 Opened PR [#1](https://github.com/zer0Kerbal/RustyStarShipyards/pull/1) in [zer0Kerbal/RustyStarShipyards](https://github.com/zer0Kerbal/RustyStarShipyards)
+10. ❗️ Opened issue [#60](https://github.com/zer0Kerbal/RustyStarRockets/issues/60) in [zer0Kerbal/RustyStarRockets](https://github.com/zer0Kerbal/RustyStarRockets)
 <!--END_SECTION:activity-->
 
 </details
