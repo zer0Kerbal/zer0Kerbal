@@ -46,15 +46,15 @@
   
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#57](https://github.com/zer0Kerbal/Komplexity/issues/57) in [zer0Kerbal/Komplexity](https://github.com/zer0Kerbal/Komplexity)
-2. 🗣 Commented on [#66](https://github.com/jrossignol/Strategia/issues/66) in [jrossignol/Strategia](https://github.com/jrossignol/Strategia)
-3. 🗣 Commented on [#96](https://github.com/jrossignol/Strategia/issues/96) in [jrossignol/Strategia](https://github.com/jrossignol/Strategia)
-4. 🗣 Commented on [#57](https://github.com/zer0Kerbal/Komplexity/issues/57) in [zer0Kerbal/Komplexity](https://github.com/zer0Kerbal/Komplexity)
+2. 🗣 Commented on [#57](https://github.com/zer0Kerbal/Komplexity/issues/57) in [zer0Kerbal/Komplexity](https://github.com/zer0Kerbal/Komplexity)
+3. 🗣 Commented on [#66](https://github.com/jrossignol/Strategia/issues/66) in [jrossignol/Strategia](https://github.com/jrossignol/Strategia)
+4. 🗣 Commented on [#96](https://github.com/jrossignol/Strategia/issues/96) in [jrossignol/Strategia](https://github.com/jrossignol/Strategia)
 5. 🗣 Commented on [#57](https://github.com/zer0Kerbal/Komplexity/issues/57) in [zer0Kerbal/Komplexity](https://github.com/zer0Kerbal/Komplexity)
-6. ❗️ Opened issue [#49](https://github.com/zer0Kerbal/Foundations/issues/49) in [zer0Kerbal/Foundations](https://github.com/zer0Kerbal/Foundations)
-7. ❗️ Opened issue [#48](https://github.com/zer0Kerbal/Foundations/issues/48) in [zer0Kerbal/Foundations](https://github.com/zer0Kerbal/Foundations)
-8. ❗️ Opened issue [#47](https://github.com/zer0Kerbal/Foundations/issues/47) in [zer0Kerbal/Foundations](https://github.com/zer0Kerbal/Foundations)
-9. ❗️ Opened issue [#46](https://github.com/zer0Kerbal/Foundations/issues/46) in [zer0Kerbal/Foundations](https://github.com/zer0Kerbal/Foundations)
-10. ❗️ Opened issue [#45](https://github.com/zer0Kerbal/Foundations/issues/45) in [zer0Kerbal/Foundations](https://github.com/zer0Kerbal/Foundations)
+6. 🗣 Commented on [#57](https://github.com/zer0Kerbal/Komplexity/issues/57) in [zer0Kerbal/Komplexity](https://github.com/zer0Kerbal/Komplexity)
+7. ❗️ Opened issue [#49](https://github.com/zer0Kerbal/Foundations/issues/49) in [zer0Kerbal/Foundations](https://github.com/zer0Kerbal/Foundations)
+8. ❗️ Opened issue [#48](https://github.com/zer0Kerbal/Foundations/issues/48) in [zer0Kerbal/Foundations](https://github.com/zer0Kerbal/Foundations)
+9. ❗️ Opened issue [#47](https://github.com/zer0Kerbal/Foundations/issues/47) in [zer0Kerbal/Foundations](https://github.com/zer0Kerbal/Foundations)
+10. ❗️ Opened issue [#46](https://github.com/zer0Kerbal/Foundations/issues/46) in [zer0Kerbal/Foundations](https://github.com/zer0Kerbal/Foundations)
 <!--END_SECTION:activity-->
 
 </details
