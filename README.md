@@ -45,16 +45,16 @@
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#49](https://github.com/zer0Kerbal/Foundations/issues/49) in [zer0Kerbal/Foundations](https://github.com/zer0Kerbal/Foundations)
-2. ❗️ Opened issue [#48](https://github.com/zer0Kerbal/Foundations/issues/48) in [zer0Kerbal/Foundations](https://github.com/zer0Kerbal/Foundations)
-3. ❗️ Opened issue [#47](https://github.com/zer0Kerbal/Foundations/issues/47) in [zer0Kerbal/Foundations](https://github.com/zer0Kerbal/Foundations)
-4. ❗️ Opened issue [#46](https://github.com/zer0Kerbal/Foundations/issues/46) in [zer0Kerbal/Foundations](https://github.com/zer0Kerbal/Foundations)
-5. ❗️ Opened issue [#45](https://github.com/zer0Kerbal/Foundations/issues/45) in [zer0Kerbal/Foundations](https://github.com/zer0Kerbal/Foundations)
-6. ❗️ Opened issue [#44](https://github.com/zer0Kerbal/Foundations/issues/44) in [zer0Kerbal/Foundations](https://github.com/zer0Kerbal/Foundations)
-7. ❗️ Opened issue [#43](https://github.com/zer0Kerbal/Foundations/issues/43) in [zer0Kerbal/Foundations](https://github.com/zer0Kerbal/Foundations)
-8. ❗️ Opened issue [#42](https://github.com/zer0Kerbal/Foundations/issues/42) in [zer0Kerbal/Foundations](https://github.com/zer0Kerbal/Foundations)
-9. ❗️ Opened issue [#41](https://github.com/zer0Kerbal/Foundations/issues/41) in [zer0Kerbal/Foundations](https://github.com/zer0Kerbal/Foundations)
-10. ❗️ Opened issue [#40](https://github.com/zer0Kerbal/Foundations/issues/40) in [zer0Kerbal/Foundations](https://github.com/zer0Kerbal/Foundations)
+1. 🗣 Commented on [#57](https://github.com/zer0Kerbal/Komplexity/issues/57) in [zer0Kerbal/Komplexity](https://github.com/zer0Kerbal/Komplexity)
+2. ❗️ Opened issue [#49](https://github.com/zer0Kerbal/Foundations/issues/49) in [zer0Kerbal/Foundations](https://github.com/zer0Kerbal/Foundations)
+3. ❗️ Opened issue [#48](https://github.com/zer0Kerbal/Foundations/issues/48) in [zer0Kerbal/Foundations](https://github.com/zer0Kerbal/Foundations)
+4. ❗️ Opened issue [#47](https://github.com/zer0Kerbal/Foundations/issues/47) in [zer0Kerbal/Foundations](https://github.com/zer0Kerbal/Foundations)
+5. ❗️ Opened issue [#46](https://github.com/zer0Kerbal/Foundations/issues/46) in [zer0Kerbal/Foundations](https://github.com/zer0Kerbal/Foundations)
+6. ❗️ Opened issue [#45](https://github.com/zer0Kerbal/Foundations/issues/45) in [zer0Kerbal/Foundations](https://github.com/zer0Kerbal/Foundations)
+7. ❗️ Opened issue [#44](https://github.com/zer0Kerbal/Foundations/issues/44) in [zer0Kerbal/Foundations](https://github.com/zer0Kerbal/Foundations)
+8. ❗️ Opened issue [#43](https://github.com/zer0Kerbal/Foundations/issues/43) in [zer0Kerbal/Foundations](https://github.com/zer0Kerbal/Foundations)
+9. ❗️ Opened issue [#42](https://github.com/zer0Kerbal/Foundations/issues/42) in [zer0Kerbal/Foundations](https://github.com/zer0Kerbal/Foundations)
+10. ❗️ Opened issue [#41](https://github.com/zer0Kerbal/Foundations/issues/41) in [zer0Kerbal/Foundations](https://github.com/zer0Kerbal/Foundations)
 <!--END_SECTION:activity-->
 
 </details
