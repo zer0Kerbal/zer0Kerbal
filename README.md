@@ -45,16 +45,16 @@
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#57](https://github.com/zer0Kerbal/Komplexity/issues/57) in [zer0Kerbal/Komplexity](https://github.com/zer0Kerbal/Komplexity)
-2. 🗣 Commented on [#57](https://github.com/zer0Kerbal/Komplexity/issues/57) in [zer0Kerbal/Komplexity](https://github.com/zer0Kerbal/Komplexity)
-3. 🗣 Commented on [#66](https://github.com/jrossignol/Strategia/issues/66) in [jrossignol/Strategia](https://github.com/jrossignol/Strategia)
-4. 🗣 Commented on [#96](https://github.com/jrossignol/Strategia/issues/96) in [jrossignol/Strategia](https://github.com/jrossignol/Strategia)
-5. 🗣 Commented on [#57](https://github.com/zer0Kerbal/Komplexity/issues/57) in [zer0Kerbal/Komplexity](https://github.com/zer0Kerbal/Komplexity)
-6. 🗣 Commented on [#57](https://github.com/zer0Kerbal/Komplexity/issues/57) in [zer0Kerbal/Komplexity](https://github.com/zer0Kerbal/Komplexity)
-7. ❗️ Opened issue [#49](https://github.com/zer0Kerbal/Foundations/issues/49) in [zer0Kerbal/Foundations](https://github.com/zer0Kerbal/Foundations)
-8. ❗️ Opened issue [#48](https://github.com/zer0Kerbal/Foundations/issues/48) in [zer0Kerbal/Foundations](https://github.com/zer0Kerbal/Foundations)
-9. ❗️ Opened issue [#47](https://github.com/zer0Kerbal/Foundations/issues/47) in [zer0Kerbal/Foundations](https://github.com/zer0Kerbal/Foundations)
-10. ❗️ Opened issue [#46](https://github.com/zer0Kerbal/Foundations/issues/46) in [zer0Kerbal/Foundations](https://github.com/zer0Kerbal/Foundations)
+1. ❗️ Closed issue [#6](https://github.com/zer0Kerbal/RustyStarRockets/issues/6) in [zer0Kerbal/RustyStarRockets](https://github.com/zer0Kerbal/RustyStarRockets)
+2. ❗️ Closed issue [#5](https://github.com/zer0Kerbal/RustyStarRockets/issues/5) in [zer0Kerbal/RustyStarRockets](https://github.com/zer0Kerbal/RustyStarRockets)
+3. ❗️ Closed issue [#4](https://github.com/zer0Kerbal/RustyStarRockets/issues/4) in [zer0Kerbal/RustyStarRockets](https://github.com/zer0Kerbal/RustyStarRockets)
+4. ❗️ Closed issue [#3](https://github.com/zer0Kerbal/RustyStarRockets/issues/3) in [zer0Kerbal/RustyStarRockets](https://github.com/zer0Kerbal/RustyStarRockets)
+5. ❗️ Closed issue [#7](https://github.com/zer0Kerbal/RustyStarRockets/issues/7) in [zer0Kerbal/RustyStarRockets](https://github.com/zer0Kerbal/RustyStarRockets)
+6. ❗️ Closed issue [#46](https://github.com/zer0Kerbal/RustyStarRockets/issues/46) in [zer0Kerbal/RustyStarRockets](https://github.com/zer0Kerbal/RustyStarRockets)
+7. ❗️ Closed issue [#10](https://github.com/zer0Kerbal/RustyStarRockets/issues/10) in [zer0Kerbal/RustyStarRockets](https://github.com/zer0Kerbal/RustyStarRockets)
+8. ❗️ Closed issue [#60](https://github.com/zer0Kerbal/RustyStarRockets/issues/60) in [zer0Kerbal/RustyStarRockets](https://github.com/zer0Kerbal/RustyStarRockets)
+9. ❗️ Closed issue [#8](https://github.com/zer0Kerbal/RustyStarRockets/issues/8) in [zer0Kerbal/RustyStarRockets](https://github.com/zer0Kerbal/RustyStarRockets)
+10. ❗️ Closed issue [#61](https://github.com/zer0Kerbal/RustyStarRockets/issues/61) in [zer0Kerbal/RustyStarRockets](https://github.com/zer0Kerbal/RustyStarRockets)
 <!--END_SECTION:activity-->
 
 </details
