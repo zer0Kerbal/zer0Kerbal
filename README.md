@@ -45,16 +45,16 @@
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#36](https://github.com/zer0Kerbal/OScienceLaboratories/issues/36) in [zer0Kerbal/OScienceLaboratories](https://github.com/zer0Kerbal/OScienceLaboratories)
-2. ❗️ Opened issue [#34](https://github.com/zer0Kerbal/OScienceLaboratories/issues/34) in [zer0Kerbal/OScienceLaboratories](https://github.com/zer0Kerbal/OScienceLaboratories)
-3. ❗️ Opened issue [#35](https://github.com/zer0Kerbal/OScienceLaboratories/issues/35) in [zer0Kerbal/OScienceLaboratories](https://github.com/zer0Kerbal/OScienceLaboratories)
-4. ❗️ Opened issue [#33](https://github.com/zer0Kerbal/OScienceLaboratories/issues/33) in [zer0Kerbal/OScienceLaboratories](https://github.com/zer0Kerbal/OScienceLaboratories)
-5. ❗️ Opened issue [#32](https://github.com/zer0Kerbal/OScienceLaboratories/issues/32) in [zer0Kerbal/OScienceLaboratories](https://github.com/zer0Kerbal/OScienceLaboratories)
-6. ❗️ Opened issue [#31](https://github.com/zer0Kerbal/OScienceLaboratories/issues/31) in [zer0Kerbal/OScienceLaboratories](https://github.com/zer0Kerbal/OScienceLaboratories)
-7. ❗️ Opened issue [#30](https://github.com/zer0Kerbal/OScienceLaboratories/issues/30) in [zer0Kerbal/OScienceLaboratories](https://github.com/zer0Kerbal/OScienceLaboratories)
-8. ❗️ Opened issue [#29](https://github.com/zer0Kerbal/OScienceLaboratories/issues/29) in [zer0Kerbal/OScienceLaboratories](https://github.com/zer0Kerbal/OScienceLaboratories)
-9. ❗️ Opened issue [#28](https://github.com/zer0Kerbal/OScienceLaboratories/issues/28) in [zer0Kerbal/OScienceLaboratories](https://github.com/zer0Kerbal/OScienceLaboratories)
-10. ❗️ Opened issue [#27](https://github.com/zer0Kerbal/OScienceLaboratories/issues/27) in [zer0Kerbal/OScienceLaboratories](https://github.com/zer0Kerbal/OScienceLaboratories)
+1. 💪 Opened PR [#44](https://github.com/zer0Kerbal/OScienceLaboratories/pull/44) in [zer0Kerbal/OScienceLaboratories](https://github.com/zer0Kerbal/OScienceLaboratories)
+2. ❗️ Closed issue [#35](https://github.com/zer0Kerbal/OScienceLaboratories/issues/35) in [zer0Kerbal/OScienceLaboratories](https://github.com/zer0Kerbal/OScienceLaboratories)
+3. 🎉 Merged PR [#41](https://github.com/zer0Kerbal/OScienceLaboratories/pull/41) in [zer0Kerbal/OScienceLaboratories](https://github.com/zer0Kerbal/OScienceLaboratories)
+4. 💪 Opened PR [#41](https://github.com/zer0Kerbal/OScienceLaboratories/pull/41) in [zer0Kerbal/OScienceLaboratories](https://github.com/zer0Kerbal/OScienceLaboratories)
+5. ❗️ Closed issue [#34](https://github.com/zer0Kerbal/OScienceLaboratories/issues/34) in [zer0Kerbal/OScienceLaboratories](https://github.com/zer0Kerbal/OScienceLaboratories)
+6. 🎉 Merged PR [#40](https://github.com/zer0Kerbal/OScienceLaboratories/pull/40) in [zer0Kerbal/OScienceLaboratories](https://github.com/zer0Kerbal/OScienceLaboratories)
+7. 💪 Opened PR [#40](https://github.com/zer0Kerbal/OScienceLaboratories/pull/40) in [zer0Kerbal/OScienceLaboratories](https://github.com/zer0Kerbal/OScienceLaboratories)
+8. ❗️ Closed issue [#33](https://github.com/zer0Kerbal/OScienceLaboratories/issues/33) in [zer0Kerbal/OScienceLaboratories](https://github.com/zer0Kerbal/OScienceLaboratories)
+9. 🎉 Merged PR [#39](https://github.com/zer0Kerbal/OScienceLaboratories/pull/39) in [zer0Kerbal/OScienceLaboratories](https://github.com/zer0Kerbal/OScienceLaboratories)
+10. 💪 Opened PR [#39](https://github.com/zer0Kerbal/OScienceLaboratories/pull/39) in [zer0Kerbal/OScienceLaboratories](https://github.com/zer0Kerbal/OScienceLaboratories)
 <!--END_SECTION:activity-->
 
 </details
