@@ -45,16 +45,16 @@
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#57](https://github.com/zer0Kerbal/Komplexity/issues/57) in [zer0Kerbal/Komplexity](https://github.com/zer0Kerbal/Komplexity)
-2. ❗️ Closed issue [#36](https://github.com/zer0Kerbal/OScienceLaboratories/issues/36) in [zer0Kerbal/OScienceLaboratories](https://github.com/zer0Kerbal/OScienceLaboratories)
-3. 🎉 Merged PR [#44](https://github.com/zer0Kerbal/OScienceLaboratories/pull/44) in [zer0Kerbal/OScienceLaboratories](https://github.com/zer0Kerbal/OScienceLaboratories)
-4. 💪 Opened PR [#44](https://github.com/zer0Kerbal/OScienceLaboratories/pull/44) in [zer0Kerbal/OScienceLaboratories](https://github.com/zer0Kerbal/OScienceLaboratories)
-5. ❗️ Closed issue [#35](https://github.com/zer0Kerbal/OScienceLaboratories/issues/35) in [zer0Kerbal/OScienceLaboratories](https://github.com/zer0Kerbal/OScienceLaboratories)
-6. 🎉 Merged PR [#41](https://github.com/zer0Kerbal/OScienceLaboratories/pull/41) in [zer0Kerbal/OScienceLaboratories](https://github.com/zer0Kerbal/OScienceLaboratories)
-7. 💪 Opened PR [#41](https://github.com/zer0Kerbal/OScienceLaboratories/pull/41) in [zer0Kerbal/OScienceLaboratories](https://github.com/zer0Kerbal/OScienceLaboratories)
-8. ❗️ Closed issue [#34](https://github.com/zer0Kerbal/OScienceLaboratories/issues/34) in [zer0Kerbal/OScienceLaboratories](https://github.com/zer0Kerbal/OScienceLaboratories)
-9. 🎉 Merged PR [#40](https://github.com/zer0Kerbal/OScienceLaboratories/pull/40) in [zer0Kerbal/OScienceLaboratories](https://github.com/zer0Kerbal/OScienceLaboratories)
-10. 💪 Opened PR [#40](https://github.com/zer0Kerbal/OScienceLaboratories/pull/40) in [zer0Kerbal/OScienceLaboratories](https://github.com/zer0Kerbal/OScienceLaboratories)
+1. ❗️ Opened issue [#26](https://github.com/zer0Kerbal/SpaceYCorp/issues/26) in [zer0Kerbal/SpaceYCorp](https://github.com/zer0Kerbal/SpaceYCorp)
+2. ❗️ Opened issue [#25](https://github.com/zer0Kerbal/SpaceYCorp/issues/25) in [zer0Kerbal/SpaceYCorp](https://github.com/zer0Kerbal/SpaceYCorp)
+3. ❗️ Opened issue [#24](https://github.com/zer0Kerbal/SpaceYCorp/issues/24) in [zer0Kerbal/SpaceYCorp](https://github.com/zer0Kerbal/SpaceYCorp)
+4. ❗️ Opened issue [#23](https://github.com/zer0Kerbal/SpaceYCorp/issues/23) in [zer0Kerbal/SpaceYCorp](https://github.com/zer0Kerbal/SpaceYCorp)
+5. ❗️ Opened issue [#22](https://github.com/zer0Kerbal/SpaceYCorp/issues/22) in [zer0Kerbal/SpaceYCorp](https://github.com/zer0Kerbal/SpaceYCorp)
+6. ❗️ Opened issue [#21](https://github.com/zer0Kerbal/SpaceYCorp/issues/21) in [zer0Kerbal/SpaceYCorp](https://github.com/zer0Kerbal/SpaceYCorp)
+7. ❗️ Opened issue [#20](https://github.com/zer0Kerbal/SpaceYCorp/issues/20) in [zer0Kerbal/SpaceYCorp](https://github.com/zer0Kerbal/SpaceYCorp)
+8. ❗️ Opened issue [#19](https://github.com/zer0Kerbal/SpaceYCorp/issues/19) in [zer0Kerbal/SpaceYCorp](https://github.com/zer0Kerbal/SpaceYCorp)
+9. ❗️ Opened issue [#18](https://github.com/zer0Kerbal/SpaceYCorp/issues/18) in [zer0Kerbal/SpaceYCorp](https://github.com/zer0Kerbal/SpaceYCorp)
+10. ❗️ Opened issue [#17](https://github.com/zer0Kerbal/SpaceYCorp/issues/17) in [zer0Kerbal/SpaceYCorp](https://github.com/zer0Kerbal/SpaceYCorp)
 <!--END_SECTION:activity-->
 
 </details
