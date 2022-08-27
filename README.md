@@ -45,16 +45,16 @@
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#4](https://github.com/zer0Kerbal/SpaceShuttleSystem/issues/4) in [zer0Kerbal/SpaceShuttleSystem](https://github.com/zer0Kerbal/SpaceShuttleSystem)
-2. ❌ Closed PR [#2](https://github.com/zer0Kerbal/SpaceShuttleSystem/pull/2) in [zer0Kerbal/SpaceShuttleSystem](https://github.com/zer0Kerbal/SpaceShuttleSystem)
-3. ❗️ Opened issue [#33](https://github.com/zer0Kerbal/SpaceYCorp/issues/33) in [zer0Kerbal/SpaceYCorp](https://github.com/zer0Kerbal/SpaceYCorp)
-4. ❗️ Opened issue [#32](https://github.com/zer0Kerbal/SpaceYCorp/issues/32) in [zer0Kerbal/SpaceYCorp](https://github.com/zer0Kerbal/SpaceYCorp)
-5. ❗️ Opened issue [#31](https://github.com/zer0Kerbal/SpaceYCorp/issues/31) in [zer0Kerbal/SpaceYCorp](https://github.com/zer0Kerbal/SpaceYCorp)
-6. ❗️ Opened issue [#30](https://github.com/zer0Kerbal/SpaceYCorp/issues/30) in [zer0Kerbal/SpaceYCorp](https://github.com/zer0Kerbal/SpaceYCorp)
-7. 🎉 Merged PR [#28](https://github.com/zer0Kerbal/SpaceYCorp/pull/28) in [zer0Kerbal/SpaceYCorp](https://github.com/zer0Kerbal/SpaceYCorp)
-8. 💪 Opened PR [#28](https://github.com/zer0Kerbal/SpaceYCorp/pull/28) in [zer0Kerbal/SpaceYCorp](https://github.com/zer0Kerbal/SpaceYCorp)
-9. ❗️ Closed issue [#4](https://github.com/zer0Kerbal/SpaceYCorp/issues/4) in [zer0Kerbal/SpaceYCorp](https://github.com/zer0Kerbal/SpaceYCorp)
-10. ❗️ Closed issue [#3](https://github.com/zer0Kerbal/SpaceYCorp/issues/3) in [zer0Kerbal/SpaceYCorp](https://github.com/zer0Kerbal/SpaceYCorp)
+1. ❗️ Opened issue [#37](https://github.com/zer0Kerbal/SpaceShuttleSystem/issues/37) in [zer0Kerbal/SpaceShuttleSystem](https://github.com/zer0Kerbal/SpaceShuttleSystem)
+2. ❗️ Opened issue [#36](https://github.com/zer0Kerbal/SpaceShuttleSystem/issues/36) in [zer0Kerbal/SpaceShuttleSystem](https://github.com/zer0Kerbal/SpaceShuttleSystem)
+3. ❗️ Opened issue [#35](https://github.com/zer0Kerbal/SpaceShuttleSystem/issues/35) in [zer0Kerbal/SpaceShuttleSystem](https://github.com/zer0Kerbal/SpaceShuttleSystem)
+4. ❗️ Opened issue [#34](https://github.com/zer0Kerbal/SpaceShuttleSystem/issues/34) in [zer0Kerbal/SpaceShuttleSystem](https://github.com/zer0Kerbal/SpaceShuttleSystem)
+5. ❗️ Opened issue [#33](https://github.com/zer0Kerbal/SpaceShuttleSystem/issues/33) in [zer0Kerbal/SpaceShuttleSystem](https://github.com/zer0Kerbal/SpaceShuttleSystem)
+6. ❗️ Opened issue [#32](https://github.com/zer0Kerbal/SpaceShuttleSystem/issues/32) in [zer0Kerbal/SpaceShuttleSystem](https://github.com/zer0Kerbal/SpaceShuttleSystem)
+7. ❗️ Opened issue [#31](https://github.com/zer0Kerbal/SpaceShuttleSystem/issues/31) in [zer0Kerbal/SpaceShuttleSystem](https://github.com/zer0Kerbal/SpaceShuttleSystem)
+8. ❗️ Opened issue [#30](https://github.com/zer0Kerbal/SpaceShuttleSystem/issues/30) in [zer0Kerbal/SpaceShuttleSystem](https://github.com/zer0Kerbal/SpaceShuttleSystem)
+9. ❗️ Opened issue [#29](https://github.com/zer0Kerbal/SpaceShuttleSystem/issues/29) in [zer0Kerbal/SpaceShuttleSystem](https://github.com/zer0Kerbal/SpaceShuttleSystem)
+10. ❗️ Opened issue [#28](https://github.com/zer0Kerbal/SpaceShuttleSystem/issues/28) in [zer0Kerbal/SpaceShuttleSystem](https://github.com/zer0Kerbal/SpaceShuttleSystem)
 <!--END_SECTION:activity-->
 
 </details
