@@ -45,16 +45,16 @@
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#3](https://github.com/zer0Kerbal/CoyoteCargoFreighter/issues/3) in [zer0Kerbal/CoyoteCargoFreighter](https://github.com/zer0Kerbal/CoyoteCargoFreighter)
-2. ❗️ Closed issue [#25](https://github.com/zer0Kerbal/CoyoteCargoFreighter/issues/25) in [zer0Kerbal/CoyoteCargoFreighter](https://github.com/zer0Kerbal/CoyoteCargoFreighter)
-3. ❗️ Closed issue [#4](https://github.com/zer0Kerbal/CoyoteCargoFreighter/issues/4) in [zer0Kerbal/CoyoteCargoFreighter](https://github.com/zer0Kerbal/CoyoteCargoFreighter)
-4. ❗️ Closed issue [#5](https://github.com/zer0Kerbal/CoyoteCargoFreighter/issues/5) in [zer0Kerbal/CoyoteCargoFreighter](https://github.com/zer0Kerbal/CoyoteCargoFreighter)
-5. ❗️ Closed issue [#62](https://github.com/zer0Kerbal/CoyoteCargoFreighter/issues/62) in [zer0Kerbal/CoyoteCargoFreighter](https://github.com/zer0Kerbal/CoyoteCargoFreighter)
-6. ❗️ Closed issue [#6](https://github.com/zer0Kerbal/CoyoteCargoFreighter/issues/6) in [zer0Kerbal/CoyoteCargoFreighter](https://github.com/zer0Kerbal/CoyoteCargoFreighter)
-7. ❗️ Closed issue [#66](https://github.com/zer0Kerbal/CoyoteCargoFreighter/issues/66) in [zer0Kerbal/CoyoteCargoFreighter](https://github.com/zer0Kerbal/CoyoteCargoFreighter)
-8. ❗️ Closed issue [#58](https://github.com/zer0Kerbal/CoyoteCargoFreighter/issues/58) in [zer0Kerbal/CoyoteCargoFreighter](https://github.com/zer0Kerbal/CoyoteCargoFreighter)
-9. ❗️ Closed issue [#73](https://github.com/zer0Kerbal/CoyoteCargoFreighter/issues/73) in [zer0Kerbal/CoyoteCargoFreighter](https://github.com/zer0Kerbal/CoyoteCargoFreighter)
-10. ❗️ Closed issue [#65](https://github.com/zer0Kerbal/CoyoteCargoFreighter/issues/65) in [zer0Kerbal/CoyoteCargoFreighter](https://github.com/zer0Kerbal/CoyoteCargoFreighter)
+1. ❗️ Closed issue [#7](https://github.com/zer0Kerbal/OScienceLaboratories/issues/7) in [zer0Kerbal/OScienceLaboratories](https://github.com/zer0Kerbal/OScienceLaboratories)
+2. ❗️ Opened issue [#111](https://github.com/zer0Kerbal/CoyoteCargoFreighter/issues/111) in [zer0Kerbal/CoyoteCargoFreighter](https://github.com/zer0Kerbal/CoyoteCargoFreighter)
+3. ❗️ Opened issue [#110](https://github.com/zer0Kerbal/CoyoteCargoFreighter/issues/110) in [zer0Kerbal/CoyoteCargoFreighter](https://github.com/zer0Kerbal/CoyoteCargoFreighter)
+4. ❗️ Opened issue [#109](https://github.com/zer0Kerbal/CoyoteCargoFreighter/issues/109) in [zer0Kerbal/CoyoteCargoFreighter](https://github.com/zer0Kerbal/CoyoteCargoFreighter)
+5. ❗️ Opened issue [#108](https://github.com/zer0Kerbal/CoyoteCargoFreighter/issues/108) in [zer0Kerbal/CoyoteCargoFreighter](https://github.com/zer0Kerbal/CoyoteCargoFreighter)
+6. ❗️ Closed issue [#38](https://github.com/zer0Kerbal/CoyoteCargoFreighter/issues/38) in [zer0Kerbal/CoyoteCargoFreighter](https://github.com/zer0Kerbal/CoyoteCargoFreighter)
+7. ❗️ Closed issue [#3](https://github.com/zer0Kerbal/CoyoteCargoFreighter/issues/3) in [zer0Kerbal/CoyoteCargoFreighter](https://github.com/zer0Kerbal/CoyoteCargoFreighter)
+8. ❗️ Closed issue [#25](https://github.com/zer0Kerbal/CoyoteCargoFreighter/issues/25) in [zer0Kerbal/CoyoteCargoFreighter](https://github.com/zer0Kerbal/CoyoteCargoFreighter)
+9. ❗️ Closed issue [#4](https://github.com/zer0Kerbal/CoyoteCargoFreighter/issues/4) in [zer0Kerbal/CoyoteCargoFreighter](https://github.com/zer0Kerbal/CoyoteCargoFreighter)
+10. ❗️ Closed issue [#5](https://github.com/zer0Kerbal/CoyoteCargoFreighter/issues/5) in [zer0Kerbal/CoyoteCargoFreighter](https://github.com/zer0Kerbal/CoyoteCargoFreighter)
 <!--END_SECTION:activity-->
 
 </details
