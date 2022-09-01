@@ -45,16 +45,16 @@
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#11](https://github.com/zer0Kerbal/SeaDragon/issues/11) in [zer0Kerbal/SeaDragon](https://github.com/zer0Kerbal/SeaDragon)
-2. ❗️ Opened issue [#10](https://github.com/zer0Kerbal/SeaDragon/issues/10) in [zer0Kerbal/SeaDragon](https://github.com/zer0Kerbal/SeaDragon)
-3. ❗️ Opened issue [#9](https://github.com/zer0Kerbal/SeaDragon/issues/9) in [zer0Kerbal/SeaDragon](https://github.com/zer0Kerbal/SeaDragon)
-4. ❗️ Opened issue [#8](https://github.com/zer0Kerbal/SeaDragon/issues/8) in [zer0Kerbal/SeaDragon](https://github.com/zer0Kerbal/SeaDragon)
-5. ❗️ Opened issue [#7](https://github.com/zer0Kerbal/SeaDragon/issues/7) in [zer0Kerbal/SeaDragon](https://github.com/zer0Kerbal/SeaDragon)
-6. ❗️ Opened issue [#6](https://github.com/zer0Kerbal/SeaDragon/issues/6) in [zer0Kerbal/SeaDragon](https://github.com/zer0Kerbal/SeaDragon)
-7. ❗️ Opened issue [#5](https://github.com/zer0Kerbal/SeaDragon/issues/5) in [zer0Kerbal/SeaDragon](https://github.com/zer0Kerbal/SeaDragon)
-8. ❗️ Opened issue [#4](https://github.com/zer0Kerbal/SeaDragon/issues/4) in [zer0Kerbal/SeaDragon](https://github.com/zer0Kerbal/SeaDragon)
-9. ❗️ Opened issue [#3](https://github.com/zer0Kerbal/SeaDragon/issues/3) in [zer0Kerbal/SeaDragon](https://github.com/zer0Kerbal/SeaDragon)
-10. ❗️ Opened issue [#1](https://github.com/zer0Kerbal/SeaDragon/issues/1) in [zer0Kerbal/SeaDragon](https://github.com/zer0Kerbal/SeaDragon)
+1. ❗️ Opened issue [#37](https://github.com/zer0Kerbal/SeaDragon/issues/37) in [zer0Kerbal/SeaDragon](https://github.com/zer0Kerbal/SeaDragon)
+2. ❗️ Opened issue [#36](https://github.com/zer0Kerbal/SeaDragon/issues/36) in [zer0Kerbal/SeaDragon](https://github.com/zer0Kerbal/SeaDragon)
+3. ❗️ Opened issue [#35](https://github.com/zer0Kerbal/SeaDragon/issues/35) in [zer0Kerbal/SeaDragon](https://github.com/zer0Kerbal/SeaDragon)
+4. ❗️ Closed issue [#24](https://github.com/zer0Kerbal/ScrapYard/issues/24) in [zer0Kerbal/ScrapYard](https://github.com/zer0Kerbal/ScrapYard)
+5. 🗣 Commented on [#24](https://github.com/zer0Kerbal/ScrapYard/issues/24) in [zer0Kerbal/ScrapYard](https://github.com/zer0Kerbal/ScrapYard)
+6. ❗️ Opened issue [#34](https://github.com/zer0Kerbal/SeaDragon/issues/34) in [zer0Kerbal/SeaDragon](https://github.com/zer0Kerbal/SeaDragon)
+7. ❗️ Opened issue [#33](https://github.com/zer0Kerbal/SeaDragon/issues/33) in [zer0Kerbal/SeaDragon](https://github.com/zer0Kerbal/SeaDragon)
+8. ❗️ Opened issue [#32](https://github.com/zer0Kerbal/SeaDragon/issues/32) in [zer0Kerbal/SeaDragon](https://github.com/zer0Kerbal/SeaDragon)
+9. ❗️ Opened issue [#31](https://github.com/zer0Kerbal/SeaDragon/issues/31) in [zer0Kerbal/SeaDragon](https://github.com/zer0Kerbal/SeaDragon)
+10. ❗️ Opened issue [#30](https://github.com/zer0Kerbal/SeaDragon/issues/30) in [zer0Kerbal/SeaDragon](https://github.com/zer0Kerbal/SeaDragon)
 <!--END_SECTION:activity-->
 
 </details
