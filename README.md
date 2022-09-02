@@ -45,16 +45,16 @@
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#7](https://github.com/zer0Kerbal/SeaDragon/issues/7) in [zer0Kerbal/SeaDragon](https://github.com/zer0Kerbal/SeaDragon)
-2. ❗️ Closed issue [#37](https://github.com/zer0Kerbal/SeaDragon/issues/37) in [zer0Kerbal/SeaDragon](https://github.com/zer0Kerbal/SeaDragon)
-3. 🎉 Merged PR [#44](https://github.com/zer0Kerbal/SeaDragon/pull/44) in [zer0Kerbal/SeaDragon](https://github.com/zer0Kerbal/SeaDragon)
-4. 💪 Opened PR [#44](https://github.com/zer0Kerbal/SeaDragon/pull/44) in [zer0Kerbal/SeaDragon](https://github.com/zer0Kerbal/SeaDragon)
-5. ❗️ Closed issue [#36](https://github.com/zer0Kerbal/SeaDragon/issues/36) in [zer0Kerbal/SeaDragon](https://github.com/zer0Kerbal/SeaDragon)
-6. 🎉 Merged PR [#43](https://github.com/zer0Kerbal/SeaDragon/pull/43) in [zer0Kerbal/SeaDragon](https://github.com/zer0Kerbal/SeaDragon)
-7. 💪 Opened PR [#43](https://github.com/zer0Kerbal/SeaDragon/pull/43) in [zer0Kerbal/SeaDragon](https://github.com/zer0Kerbal/SeaDragon)
-8. ❗️ Closed issue [#35](https://github.com/zer0Kerbal/SeaDragon/issues/35) in [zer0Kerbal/SeaDragon](https://github.com/zer0Kerbal/SeaDragon)
-9. 🎉 Merged PR [#42](https://github.com/zer0Kerbal/SeaDragon/pull/42) in [zer0Kerbal/SeaDragon](https://github.com/zer0Kerbal/SeaDragon)
-10. 💪 Opened PR [#42](https://github.com/zer0Kerbal/SeaDragon/pull/42) in [zer0Kerbal/SeaDragon](https://github.com/zer0Kerbal/SeaDragon)
+1. ❗️ Opened issue [#48](https://github.com/zer0Kerbal/SeaDragon/issues/48) in [zer0Kerbal/SeaDragon](https://github.com/zer0Kerbal/SeaDragon)
+2. ❗️ Opened issue [#47](https://github.com/zer0Kerbal/SeaDragon/issues/47) in [zer0Kerbal/SeaDragon](https://github.com/zer0Kerbal/SeaDragon)
+3. ❗️ Opened issue [#46](https://github.com/zer0Kerbal/SeaDragon/issues/46) in [zer0Kerbal/SeaDragon](https://github.com/zer0Kerbal/SeaDragon)
+4. ❗️ Closed issue [#7](https://github.com/zer0Kerbal/SeaDragon/issues/7) in [zer0Kerbal/SeaDragon](https://github.com/zer0Kerbal/SeaDragon)
+5. ❗️ Closed issue [#37](https://github.com/zer0Kerbal/SeaDragon/issues/37) in [zer0Kerbal/SeaDragon](https://github.com/zer0Kerbal/SeaDragon)
+6. 🎉 Merged PR [#44](https://github.com/zer0Kerbal/SeaDragon/pull/44) in [zer0Kerbal/SeaDragon](https://github.com/zer0Kerbal/SeaDragon)
+7. 💪 Opened PR [#44](https://github.com/zer0Kerbal/SeaDragon/pull/44) in [zer0Kerbal/SeaDragon](https://github.com/zer0Kerbal/SeaDragon)
+8. ❗️ Closed issue [#36](https://github.com/zer0Kerbal/SeaDragon/issues/36) in [zer0Kerbal/SeaDragon](https://github.com/zer0Kerbal/SeaDragon)
+9. 🎉 Merged PR [#43](https://github.com/zer0Kerbal/SeaDragon/pull/43) in [zer0Kerbal/SeaDragon](https://github.com/zer0Kerbal/SeaDragon)
+10. 💪 Opened PR [#43](https://github.com/zer0Kerbal/SeaDragon/pull/43) in [zer0Kerbal/SeaDragon](https://github.com/zer0Kerbal/SeaDragon)
 <!--END_SECTION:activity-->
 
 </details
