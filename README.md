@@ -45,16 +45,16 @@
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#5](https://github.com/zer0Kerbal/FTPLtd/issues/5) in [zer0Kerbal/FTPLtd](https://github.com/zer0Kerbal/FTPLtd)
-2. ❗️ Closed issue [#2](https://github.com/zer0Kerbal/FTPLtd/issues/2) in [zer0Kerbal/FTPLtd](https://github.com/zer0Kerbal/FTPLtd)
-3. ❗️ Closed issue [#4](https://github.com/zer0Kerbal/FTPLtd/issues/4) in [zer0Kerbal/FTPLtd](https://github.com/zer0Kerbal/FTPLtd)
-4. ❗️ Closed issue [#7](https://github.com/zer0Kerbal/FTPLtd/issues/7) in [zer0Kerbal/FTPLtd](https://github.com/zer0Kerbal/FTPLtd)
-5. ❗️ Closed issue [#3](https://github.com/zer0Kerbal/FTPLtd/issues/3) in [zer0Kerbal/FTPLtd](https://github.com/zer0Kerbal/FTPLtd)
-6. ❗️ Closed issue [#24](https://github.com/zer0Kerbal/FTPLtd/issues/24) in [zer0Kerbal/FTPLtd](https://github.com/zer0Kerbal/FTPLtd)
-7. ❗️ Closed issue [#26](https://github.com/zer0Kerbal/FTPLtd/issues/26) in [zer0Kerbal/FTPLtd](https://github.com/zer0Kerbal/FTPLtd)
-8. ❗️ Closed issue [#25](https://github.com/zer0Kerbal/FTPLtd/issues/25) in [zer0Kerbal/FTPLtd](https://github.com/zer0Kerbal/FTPLtd)
-9. 🎉 Merged PR [#27](https://github.com/zer0Kerbal/FTPLtd/pull/27) in [zer0Kerbal/FTPLtd](https://github.com/zer0Kerbal/FTPLtd)
-10. 💪 Opened PR [#27](https://github.com/zer0Kerbal/FTPLtd/pull/27) in [zer0Kerbal/FTPLtd](https://github.com/zer0Kerbal/FTPLtd)
+1. ❗️ Opened issue [#32](https://github.com/zer0Kerbal/FTPLtd/issues/32) in [zer0Kerbal/FTPLtd](https://github.com/zer0Kerbal/FTPLtd)
+2. ❗️ Opened issue [#31](https://github.com/zer0Kerbal/FTPLtd/issues/31) in [zer0Kerbal/FTPLtd](https://github.com/zer0Kerbal/FTPLtd)
+3. ❗️ Opened issue [#30](https://github.com/zer0Kerbal/FTPLtd/issues/30) in [zer0Kerbal/FTPLtd](https://github.com/zer0Kerbal/FTPLtd)
+4. ❗️ Opened issue [#29](https://github.com/zer0Kerbal/FTPLtd/issues/29) in [zer0Kerbal/FTPLtd](https://github.com/zer0Kerbal/FTPLtd)
+5. ❗️ Closed issue [#5](https://github.com/zer0Kerbal/FTPLtd/issues/5) in [zer0Kerbal/FTPLtd](https://github.com/zer0Kerbal/FTPLtd)
+6. ❗️ Closed issue [#2](https://github.com/zer0Kerbal/FTPLtd/issues/2) in [zer0Kerbal/FTPLtd](https://github.com/zer0Kerbal/FTPLtd)
+7. ❗️ Closed issue [#4](https://github.com/zer0Kerbal/FTPLtd/issues/4) in [zer0Kerbal/FTPLtd](https://github.com/zer0Kerbal/FTPLtd)
+8. ❗️ Closed issue [#7](https://github.com/zer0Kerbal/FTPLtd/issues/7) in [zer0Kerbal/FTPLtd](https://github.com/zer0Kerbal/FTPLtd)
+9. ❗️ Closed issue [#3](https://github.com/zer0Kerbal/FTPLtd/issues/3) in [zer0Kerbal/FTPLtd](https://github.com/zer0Kerbal/FTPLtd)
+10. ❗️ Closed issue [#24](https://github.com/zer0Kerbal/FTPLtd/issues/24) in [zer0Kerbal/FTPLtd](https://github.com/zer0Kerbal/FTPLtd)
 <!--END_SECTION:activity-->
 
 </details
