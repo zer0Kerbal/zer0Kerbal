@@ -45,16 +45,16 @@
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#31](https://github.com/zer0Kerbal/MIR/issues/31) in [zer0Kerbal/MIR](https://github.com/zer0Kerbal/MIR)
-2. ❗️ Opened issue [#30](https://github.com/zer0Kerbal/MIR/issues/30) in [zer0Kerbal/MIR](https://github.com/zer0Kerbal/MIR)
-3. ❗️ Opened issue [#29](https://github.com/zer0Kerbal/MIR/issues/29) in [zer0Kerbal/MIR](https://github.com/zer0Kerbal/MIR)
-4. ❗️ Opened issue [#28](https://github.com/zer0Kerbal/MIR/issues/28) in [zer0Kerbal/MIR](https://github.com/zer0Kerbal/MIR)
-5. ❗️ Opened issue [#27](https://github.com/zer0Kerbal/MIR/issues/27) in [zer0Kerbal/MIR](https://github.com/zer0Kerbal/MIR)
-6. ❗️ Opened issue [#26](https://github.com/zer0Kerbal/MIR/issues/26) in [zer0Kerbal/MIR](https://github.com/zer0Kerbal/MIR)
-7. ❗️ Opened issue [#25](https://github.com/zer0Kerbal/MIR/issues/25) in [zer0Kerbal/MIR](https://github.com/zer0Kerbal/MIR)
-8. ❗️ Opened issue [#24](https://github.com/zer0Kerbal/MIR/issues/24) in [zer0Kerbal/MIR](https://github.com/zer0Kerbal/MIR)
-9. ❗️ Opened issue [#23](https://github.com/zer0Kerbal/MIR/issues/23) in [zer0Kerbal/MIR](https://github.com/zer0Kerbal/MIR)
-10. ❗️ Opened issue [#22](https://github.com/zer0Kerbal/MIR/issues/22) in [zer0Kerbal/MIR](https://github.com/zer0Kerbal/MIR)
+1. ❗️ Closed issue [#31](https://github.com/zer0Kerbal/MIR/issues/31) in [zer0Kerbal/MIR](https://github.com/zer0Kerbal/MIR)
+2. ❗️ Closed issue [#7](https://github.com/zer0Kerbal/MIR/issues/7) in [zer0Kerbal/MIR](https://github.com/zer0Kerbal/MIR)
+3. 🎉 Merged PR [#32](https://github.com/zer0Kerbal/MIR/pull/32) in [zer0Kerbal/MIR](https://github.com/zer0Kerbal/MIR)
+4. 💪 Opened PR [#32](https://github.com/zer0Kerbal/MIR/pull/32) in [zer0Kerbal/MIR](https://github.com/zer0Kerbal/MIR)
+5. ❗️ Opened issue [#31](https://github.com/zer0Kerbal/MIR/issues/31) in [zer0Kerbal/MIR](https://github.com/zer0Kerbal/MIR)
+6. ❗️ Opened issue [#30](https://github.com/zer0Kerbal/MIR/issues/30) in [zer0Kerbal/MIR](https://github.com/zer0Kerbal/MIR)
+7. ❗️ Opened issue [#29](https://github.com/zer0Kerbal/MIR/issues/29) in [zer0Kerbal/MIR](https://github.com/zer0Kerbal/MIR)
+8. ❗️ Opened issue [#28](https://github.com/zer0Kerbal/MIR/issues/28) in [zer0Kerbal/MIR](https://github.com/zer0Kerbal/MIR)
+9. ❗️ Opened issue [#27](https://github.com/zer0Kerbal/MIR/issues/27) in [zer0Kerbal/MIR](https://github.com/zer0Kerbal/MIR)
+10. ❗️ Opened issue [#26](https://github.com/zer0Kerbal/MIR/issues/26) in [zer0Kerbal/MIR](https://github.com/zer0Kerbal/MIR)
 <!--END_SECTION:activity-->
 
 </details
