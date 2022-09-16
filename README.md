@@ -45,16 +45,16 @@
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#52](https://github.com/zer0Kerbal/ElephantEngine/issues/52) in [zer0Kerbal/ElephantEngine](https://github.com/zer0Kerbal/ElephantEngine)
-2. 🗣 Commented on [#42](https://github.com/zer0Kerbal/ElephantEngine/issues/42) in [zer0Kerbal/ElephantEngine](https://github.com/zer0Kerbal/ElephantEngine)
-3. ❗️ Opened issue [#51](https://github.com/zer0Kerbal/ElephantEngine/issues/51) in [zer0Kerbal/ElephantEngine](https://github.com/zer0Kerbal/ElephantEngine)
-4. ❗️ Opened issue [#50](https://github.com/zer0Kerbal/ElephantEngine/issues/50) in [zer0Kerbal/ElephantEngine](https://github.com/zer0Kerbal/ElephantEngine)
-5. ❗️ Opened issue [#49](https://github.com/zer0Kerbal/ElephantEngine/issues/49) in [zer0Kerbal/ElephantEngine](https://github.com/zer0Kerbal/ElephantEngine)
-6. ❗️ Opened issue [#48](https://github.com/zer0Kerbal/ElephantEngine/issues/48) in [zer0Kerbal/ElephantEngine](https://github.com/zer0Kerbal/ElephantEngine)
-7. ❗️ Opened issue [#46](https://github.com/zer0Kerbal/ElephantEngine/issues/46) in [zer0Kerbal/ElephantEngine](https://github.com/zer0Kerbal/ElephantEngine)
-8. ❗️ Closed issue [#36](https://github.com/zer0Kerbal/ElephantEngine/issues/36) in [zer0Kerbal/ElephantEngine](https://github.com/zer0Kerbal/ElephantEngine)
-9. ❗️ Closed issue [#37](https://github.com/zer0Kerbal/ElephantEngine/issues/37) in [zer0Kerbal/ElephantEngine](https://github.com/zer0Kerbal/ElephantEngine)
-10. ❗️ Closed issue [#34](https://github.com/zer0Kerbal/ElephantEngine/issues/34) in [zer0Kerbal/ElephantEngine](https://github.com/zer0Kerbal/ElephantEngine)
+1. ❗️ Opened issue [#53](https://github.com/zer0Kerbal/ElephantEngine/issues/53) in [zer0Kerbal/ElephantEngine](https://github.com/zer0Kerbal/ElephantEngine)
+2. ❗️ Opened issue [#52](https://github.com/zer0Kerbal/ElephantEngine/issues/52) in [zer0Kerbal/ElephantEngine](https://github.com/zer0Kerbal/ElephantEngine)
+3. 🗣 Commented on [#42](https://github.com/zer0Kerbal/ElephantEngine/issues/42) in [zer0Kerbal/ElephantEngine](https://github.com/zer0Kerbal/ElephantEngine)
+4. ❗️ Opened issue [#51](https://github.com/zer0Kerbal/ElephantEngine/issues/51) in [zer0Kerbal/ElephantEngine](https://github.com/zer0Kerbal/ElephantEngine)
+5. ❗️ Opened issue [#50](https://github.com/zer0Kerbal/ElephantEngine/issues/50) in [zer0Kerbal/ElephantEngine](https://github.com/zer0Kerbal/ElephantEngine)
+6. ❗️ Opened issue [#49](https://github.com/zer0Kerbal/ElephantEngine/issues/49) in [zer0Kerbal/ElephantEngine](https://github.com/zer0Kerbal/ElephantEngine)
+7. ❗️ Opened issue [#48](https://github.com/zer0Kerbal/ElephantEngine/issues/48) in [zer0Kerbal/ElephantEngine](https://github.com/zer0Kerbal/ElephantEngine)
+8. ❗️ Opened issue [#46](https://github.com/zer0Kerbal/ElephantEngine/issues/46) in [zer0Kerbal/ElephantEngine](https://github.com/zer0Kerbal/ElephantEngine)
+9. ❗️ Closed issue [#36](https://github.com/zer0Kerbal/ElephantEngine/issues/36) in [zer0Kerbal/ElephantEngine](https://github.com/zer0Kerbal/ElephantEngine)
+10. ❗️ Closed issue [#37](https://github.com/zer0Kerbal/ElephantEngine/issues/37) in [zer0Kerbal/ElephantEngine](https://github.com/zer0Kerbal/ElephantEngine)
 <!--END_SECTION:activity-->
 
 </details
