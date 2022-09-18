@@ -45,16 +45,16 @@
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#74](https://github.com/zer0Kerbal/NotSoSimpleConstruction/issues/74) in [zer0Kerbal/NotSoSimpleConstruction](https://github.com/zer0Kerbal/NotSoSimpleConstruction)
-2. ❗️ Opened issue [#73](https://github.com/zer0Kerbal/NotSoSimpleConstruction/issues/73) in [zer0Kerbal/NotSoSimpleConstruction](https://github.com/zer0Kerbal/NotSoSimpleConstruction)
-3. ❗️ Opened issue [#72](https://github.com/zer0Kerbal/NotSoSimpleConstruction/issues/72) in [zer0Kerbal/NotSoSimpleConstruction](https://github.com/zer0Kerbal/NotSoSimpleConstruction)
-4. ❗️ Opened issue [#71](https://github.com/zer0Kerbal/NotSoSimpleConstruction/issues/71) in [zer0Kerbal/NotSoSimpleConstruction](https://github.com/zer0Kerbal/NotSoSimpleConstruction)
-5. ❗️ Opened issue [#70](https://github.com/zer0Kerbal/NotSoSimpleConstruction/issues/70) in [zer0Kerbal/NotSoSimpleConstruction](https://github.com/zer0Kerbal/NotSoSimpleConstruction)
-6. 🗣 Commented on [#29](https://github.com/net-lisias-ksp/GPOSpeedPump/issues/29) in [net-lisias-ksp/GPOSpeedPump](https://github.com/net-lisias-ksp/GPOSpeedPump)
-7. 🗣 Commented on [#29](https://github.com/net-lisias-ksp/GPOSpeedPump/issues/29) in [net-lisias-ksp/GPOSpeedPump](https://github.com/net-lisias-ksp/GPOSpeedPump)
-8. 🗣 Commented on [#8](https://github.com/net-lisias-ksp/GPOSpeedPump/issues/8) in [net-lisias-ksp/GPOSpeedPump](https://github.com/net-lisias-ksp/GPOSpeedPump)
-9. ❗️ Opened issue [#53](https://github.com/zer0Kerbal/ElephantEngine/issues/53) in [zer0Kerbal/ElephantEngine](https://github.com/zer0Kerbal/ElephantEngine)
-10. ❗️ Opened issue [#52](https://github.com/zer0Kerbal/ElephantEngine/issues/52) in [zer0Kerbal/ElephantEngine](https://github.com/zer0Kerbal/ElephantEngine)
+1. ❗️ Opened issue [#80](https://github.com/zer0Kerbal/NotSoSimpleConstruction/issues/80) in [zer0Kerbal/NotSoSimpleConstruction](https://github.com/zer0Kerbal/NotSoSimpleConstruction)
+2. ❗️ Opened issue [#79](https://github.com/zer0Kerbal/NotSoSimpleConstruction/issues/79) in [zer0Kerbal/NotSoSimpleConstruction](https://github.com/zer0Kerbal/NotSoSimpleConstruction)
+3. ❗️ Opened issue [#78](https://github.com/zer0Kerbal/NotSoSimpleConstruction/issues/78) in [zer0Kerbal/NotSoSimpleConstruction](https://github.com/zer0Kerbal/NotSoSimpleConstruction)
+4. ❗️ Opened issue [#77](https://github.com/zer0Kerbal/NotSoSimpleConstruction/issues/77) in [zer0Kerbal/NotSoSimpleConstruction](https://github.com/zer0Kerbal/NotSoSimpleConstruction)
+5. ❗️ Closed issue [#73](https://github.com/zer0Kerbal/NotSoSimpleConstruction/issues/73) in [zer0Kerbal/NotSoSimpleConstruction](https://github.com/zer0Kerbal/NotSoSimpleConstruction)
+6. ❗️ Closed issue [#74](https://github.com/zer0Kerbal/NotSoSimpleConstruction/issues/74) in [zer0Kerbal/NotSoSimpleConstruction](https://github.com/zer0Kerbal/NotSoSimpleConstruction)
+7. ❗️ Closed issue [#72](https://github.com/zer0Kerbal/NotSoSimpleConstruction/issues/72) in [zer0Kerbal/NotSoSimpleConstruction](https://github.com/zer0Kerbal/NotSoSimpleConstruction)
+8. ❗️ Closed issue [#71](https://github.com/zer0Kerbal/NotSoSimpleConstruction/issues/71) in [zer0Kerbal/NotSoSimpleConstruction](https://github.com/zer0Kerbal/NotSoSimpleConstruction)
+9. 🎉 Merged PR [#75](https://github.com/zer0Kerbal/NotSoSimpleConstruction/pull/75) in [zer0Kerbal/NotSoSimpleConstruction](https://github.com/zer0Kerbal/NotSoSimpleConstruction)
+10. 💪 Opened PR [#75](https://github.com/zer0Kerbal/NotSoSimpleConstruction/pull/75) in [zer0Kerbal/NotSoSimpleConstruction](https://github.com/zer0Kerbal/NotSoSimpleConstruction)
 <!--END_SECTION:activity-->
 
 </details
