@@ -45,16 +45,16 @@
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#22](https://github.com/zer0Kerbal/BobCatInd/issues/22) in [zer0Kerbal/BobCatInd](https://github.com/zer0Kerbal/BobCatInd)
-2. ❗️ Opened issue [#21](https://github.com/zer0Kerbal/BobCatInd/issues/21) in [zer0Kerbal/BobCatInd](https://github.com/zer0Kerbal/BobCatInd)
-3. ❗️ Opened issue [#20](https://github.com/zer0Kerbal/BobCatInd/issues/20) in [zer0Kerbal/BobCatInd](https://github.com/zer0Kerbal/BobCatInd)
-4. ❗️ Opened issue [#19](https://github.com/zer0Kerbal/BobCatInd/issues/19) in [zer0Kerbal/BobCatInd](https://github.com/zer0Kerbal/BobCatInd)
-5. ❗️ Opened issue [#18](https://github.com/zer0Kerbal/BobCatInd/issues/18) in [zer0Kerbal/BobCatInd](https://github.com/zer0Kerbal/BobCatInd)
-6. ❗️ Opened issue [#17](https://github.com/zer0Kerbal/BobCatInd/issues/17) in [zer0Kerbal/BobCatInd](https://github.com/zer0Kerbal/BobCatInd)
-7. ❗️ Opened issue [#16](https://github.com/zer0Kerbal/BobCatInd/issues/16) in [zer0Kerbal/BobCatInd](https://github.com/zer0Kerbal/BobCatInd)
-8. ❗️ Opened issue [#15](https://github.com/zer0Kerbal/BobCatInd/issues/15) in [zer0Kerbal/BobCatInd](https://github.com/zer0Kerbal/BobCatInd)
-9. ❗️ Opened issue [#14](https://github.com/zer0Kerbal/BobCatInd/issues/14) in [zer0Kerbal/BobCatInd](https://github.com/zer0Kerbal/BobCatInd)
-10. ❗️ Opened issue [#13](https://github.com/zer0Kerbal/BobCatInd/issues/13) in [zer0Kerbal/BobCatInd](https://github.com/zer0Kerbal/BobCatInd)
+1. ❗️ Closed issue [#4](https://github.com/zer0Kerbal/BobCatInd/issues/4) in [zer0Kerbal/BobCatInd](https://github.com/zer0Kerbal/BobCatInd)
+2. ❗️ Closed issue [#3](https://github.com/zer0Kerbal/BobCatInd/issues/3) in [zer0Kerbal/BobCatInd](https://github.com/zer0Kerbal/BobCatInd)
+3. ❗️ Closed issue [#1](https://github.com/zer0Kerbal/BobCatInd/issues/1) in [zer0Kerbal/BobCatInd](https://github.com/zer0Kerbal/BobCatInd)
+4. ❗️ Closed issue [#2](https://github.com/zer0Kerbal/BobCatInd/issues/2) in [zer0Kerbal/BobCatInd](https://github.com/zer0Kerbal/BobCatInd)
+5. ❗️ Closed issue [#25](https://github.com/zer0Kerbal/BobCatInd/issues/25) in [zer0Kerbal/BobCatInd](https://github.com/zer0Kerbal/BobCatInd)
+6. ❗️ Closed issue [#24](https://github.com/zer0Kerbal/BobCatInd/issues/24) in [zer0Kerbal/BobCatInd](https://github.com/zer0Kerbal/BobCatInd)
+7. ❗️ Closed issue [#6](https://github.com/zer0Kerbal/BobCatInd/issues/6) in [zer0Kerbal/BobCatInd](https://github.com/zer0Kerbal/BobCatInd)
+8. ❗️ Closed issue [#23](https://github.com/zer0Kerbal/BobCatInd/issues/23) in [zer0Kerbal/BobCatInd](https://github.com/zer0Kerbal/BobCatInd)
+9. 🎉 Merged PR [#26](https://github.com/zer0Kerbal/BobCatInd/pull/26) in [zer0Kerbal/BobCatInd](https://github.com/zer0Kerbal/BobCatInd)
+10. 💪 Opened PR [#26](https://github.com/zer0Kerbal/BobCatInd/pull/26) in [zer0Kerbal/BobCatInd](https://github.com/zer0Kerbal/BobCatInd)
 <!--END_SECTION:activity-->
 
 </details
