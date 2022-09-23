@@ -45,16 +45,16 @@
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/zer0Kerbal/TweakScale/pull/1) in [zer0Kerbal/TweakScale](https://github.com/zer0Kerbal/TweakScale)
-2. 🗣 Commented on [#164](https://github.com/zer0Kerbal/SimpleConstruction/issues/164) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
-3. ❗️ Opened issue [#42](https://github.com/zer0Kerbal/ServiceCompartmentTubes/issues/42) in [zer0Kerbal/ServiceCompartmentTubes](https://github.com/zer0Kerbal/ServiceCompartmentTubes)
-4. ❗️ Opened issue [#41](https://github.com/zer0Kerbal/ServiceCompartmentTubes/issues/41) in [zer0Kerbal/ServiceCompartmentTubes](https://github.com/zer0Kerbal/ServiceCompartmentTubes)
-5. ❗️ Opened issue [#40](https://github.com/zer0Kerbal/ServiceCompartmentTubes/issues/40) in [zer0Kerbal/ServiceCompartmentTubes](https://github.com/zer0Kerbal/ServiceCompartmentTubes)
-6. ❗️ Opened issue [#39](https://github.com/zer0Kerbal/ServiceCompartmentTubes/issues/39) in [zer0Kerbal/ServiceCompartmentTubes](https://github.com/zer0Kerbal/ServiceCompartmentTubes)
-7. ❗️ Opened issue [#38](https://github.com/zer0Kerbal/ServiceCompartmentTubes/issues/38) in [zer0Kerbal/ServiceCompartmentTubes](https://github.com/zer0Kerbal/ServiceCompartmentTubes)
-8. ❗️ Opened issue [#37](https://github.com/zer0Kerbal/ServiceCompartmentTubes/issues/37) in [zer0Kerbal/ServiceCompartmentTubes](https://github.com/zer0Kerbal/ServiceCompartmentTubes)
-9. ❗️ Opened issue [#36](https://github.com/zer0Kerbal/ServiceCompartmentTubes/issues/36) in [zer0Kerbal/ServiceCompartmentTubes](https://github.com/zer0Kerbal/ServiceCompartmentTubes)
-10. ❗️ Opened issue [#35](https://github.com/zer0Kerbal/ServiceCompartmentTubes/issues/35) in [zer0Kerbal/ServiceCompartmentTubes](https://github.com/zer0Kerbal/ServiceCompartmentTubes)
+1. 🗣 Commented on [#164](https://github.com/zer0Kerbal/SimpleConstruction/issues/164) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
+2. ❌ Closed PR [#1](https://github.com/zer0Kerbal/TweakScale/pull/1) in [zer0Kerbal/TweakScale](https://github.com/zer0Kerbal/TweakScale)
+3. 🗣 Commented on [#164](https://github.com/zer0Kerbal/SimpleConstruction/issues/164) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
+4. ❗️ Opened issue [#42](https://github.com/zer0Kerbal/ServiceCompartmentTubes/issues/42) in [zer0Kerbal/ServiceCompartmentTubes](https://github.com/zer0Kerbal/ServiceCompartmentTubes)
+5. ❗️ Opened issue [#41](https://github.com/zer0Kerbal/ServiceCompartmentTubes/issues/41) in [zer0Kerbal/ServiceCompartmentTubes](https://github.com/zer0Kerbal/ServiceCompartmentTubes)
+6. ❗️ Opened issue [#40](https://github.com/zer0Kerbal/ServiceCompartmentTubes/issues/40) in [zer0Kerbal/ServiceCompartmentTubes](https://github.com/zer0Kerbal/ServiceCompartmentTubes)
+7. ❗️ Opened issue [#39](https://github.com/zer0Kerbal/ServiceCompartmentTubes/issues/39) in [zer0Kerbal/ServiceCompartmentTubes](https://github.com/zer0Kerbal/ServiceCompartmentTubes)
+8. ❗️ Opened issue [#38](https://github.com/zer0Kerbal/ServiceCompartmentTubes/issues/38) in [zer0Kerbal/ServiceCompartmentTubes](https://github.com/zer0Kerbal/ServiceCompartmentTubes)
+9. ❗️ Opened issue [#37](https://github.com/zer0Kerbal/ServiceCompartmentTubes/issues/37) in [zer0Kerbal/ServiceCompartmentTubes](https://github.com/zer0Kerbal/ServiceCompartmentTubes)
+10. ❗️ Opened issue [#36](https://github.com/zer0Kerbal/ServiceCompartmentTubes/issues/36) in [zer0Kerbal/ServiceCompartmentTubes](https://github.com/zer0Kerbal/ServiceCompartmentTubes)
 <!--END_SECTION:activity-->
 
 </details
