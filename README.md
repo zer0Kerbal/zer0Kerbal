@@ -45,16 +45,16 @@
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#62](https://github.com/zer0Kerbal/ScrapYard/issues/62) in [zer0Kerbal/ScrapYard](https://github.com/zer0Kerbal/ScrapYard)
-2. ❗️ Closed issue [#24](https://github.com/zer0Kerbal/Halloween/issues/24) in [zer0Kerbal/Halloween](https://github.com/zer0Kerbal/Halloween)
-3. ❌ Closed PR [#32](https://github.com/zer0Kerbal/Halloween/pull/32) in [zer0Kerbal/Halloween](https://github.com/zer0Kerbal/Halloween)
-4. 🗣 Commented on [#164](https://github.com/zer0Kerbal/SimpleConstruction/issues/164) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
-5. ❌ Closed PR [#1](https://github.com/zer0Kerbal/TweakScale/pull/1) in [zer0Kerbal/TweakScale](https://github.com/zer0Kerbal/TweakScale)
-6. 🗣 Commented on [#164](https://github.com/zer0Kerbal/SimpleConstruction/issues/164) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
-7. ❗️ Opened issue [#42](https://github.com/zer0Kerbal/ServiceCompartmentTubes/issues/42) in [zer0Kerbal/ServiceCompartmentTubes](https://github.com/zer0Kerbal/ServiceCompartmentTubes)
-8. ❗️ Opened issue [#41](https://github.com/zer0Kerbal/ServiceCompartmentTubes/issues/41) in [zer0Kerbal/ServiceCompartmentTubes](https://github.com/zer0Kerbal/ServiceCompartmentTubes)
-9. ❗️ Opened issue [#40](https://github.com/zer0Kerbal/ServiceCompartmentTubes/issues/40) in [zer0Kerbal/ServiceCompartmentTubes](https://github.com/zer0Kerbal/ServiceCompartmentTubes)
-10. ❗️ Opened issue [#39](https://github.com/zer0Kerbal/ServiceCompartmentTubes/issues/39) in [zer0Kerbal/ServiceCompartmentTubes](https://github.com/zer0Kerbal/ServiceCompartmentTubes)
+1. ❗️ Opened issue [#43](https://github.com/zer0Kerbal/EternoRest2000/issues/43) in [zer0Kerbal/EternoRest2000](https://github.com/zer0Kerbal/EternoRest2000)
+2. 🎉 Merged PR [#37](https://github.com/zer0Kerbal/EternoRest2000/pull/37) in [zer0Kerbal/EternoRest2000](https://github.com/zer0Kerbal/EternoRest2000)
+3. ❗️ Closed issue [#34](https://github.com/zer0Kerbal/EternoRest2000/issues/34) in [zer0Kerbal/EternoRest2000](https://github.com/zer0Kerbal/EternoRest2000)
+4. ❗️ Closed issue [#8](https://github.com/zer0Kerbal/EternoRest2000/issues/8) in [zer0Kerbal/EternoRest2000](https://github.com/zer0Kerbal/EternoRest2000)
+5. 🎉 Merged PR [#40](https://github.com/zer0Kerbal/EternoRest2000/pull/40) in [zer0Kerbal/EternoRest2000](https://github.com/zer0Kerbal/EternoRest2000)
+6. 💪 Opened PR [#40](https://github.com/zer0Kerbal/EternoRest2000/pull/40) in [zer0Kerbal/EternoRest2000](https://github.com/zer0Kerbal/EternoRest2000)
+7. ❗️ Closed issue [#33](https://github.com/zer0Kerbal/EternoRest2000/issues/33) in [zer0Kerbal/EternoRest2000](https://github.com/zer0Kerbal/EternoRest2000)
+8. 🎉 Merged PR [#39](https://github.com/zer0Kerbal/EternoRest2000/pull/39) in [zer0Kerbal/EternoRest2000](https://github.com/zer0Kerbal/EternoRest2000)
+9. 💪 Opened PR [#39](https://github.com/zer0Kerbal/EternoRest2000/pull/39) in [zer0Kerbal/EternoRest2000](https://github.com/zer0Kerbal/EternoRest2000)
+10. ❗️ Closed issue [#32](https://github.com/zer0Kerbal/EternoRest2000/issues/32) in [zer0Kerbal/EternoRest2000](https://github.com/zer0Kerbal/EternoRest2000)
 <!--END_SECTION:activity-->
 
 </details
