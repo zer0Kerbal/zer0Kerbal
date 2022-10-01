@@ -45,16 +45,16 @@
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#25](https://github.com/zer0Kerbal/PicknPull/issues/25) in [zer0Kerbal/PicknPull](https://github.com/zer0Kerbal/PicknPull)
-2. ❗️ Opened issue [#24](https://github.com/zer0Kerbal/PicknPull/issues/24) in [zer0Kerbal/PicknPull](https://github.com/zer0Kerbal/PicknPull)
-3. ❗️ Opened issue [#23](https://github.com/zer0Kerbal/PicknPull/issues/23) in [zer0Kerbal/PicknPull](https://github.com/zer0Kerbal/PicknPull)
-4. ❗️ Opened issue [#22](https://github.com/zer0Kerbal/PicknPull/issues/22) in [zer0Kerbal/PicknPull](https://github.com/zer0Kerbal/PicknPull)
-5. ❗️ Opened issue [#21](https://github.com/zer0Kerbal/PicknPull/issues/21) in [zer0Kerbal/PicknPull](https://github.com/zer0Kerbal/PicknPull)
-6. ❗️ Opened issue [#20](https://github.com/zer0Kerbal/PicknPull/issues/20) in [zer0Kerbal/PicknPull](https://github.com/zer0Kerbal/PicknPull)
-7. ❗️ Opened issue [#19](https://github.com/zer0Kerbal/PicknPull/issues/19) in [zer0Kerbal/PicknPull](https://github.com/zer0Kerbal/PicknPull)
-8. ❗️ Opened issue [#18](https://github.com/zer0Kerbal/PicknPull/issues/18) in [zer0Kerbal/PicknPull](https://github.com/zer0Kerbal/PicknPull)
-9. ❗️ Opened issue [#17](https://github.com/zer0Kerbal/PicknPull/issues/17) in [zer0Kerbal/PicknPull](https://github.com/zer0Kerbal/PicknPull)
-10. ❗️ Opened issue [#16](https://github.com/zer0Kerbal/PicknPull/issues/16) in [zer0Kerbal/PicknPull](https://github.com/zer0Kerbal/PicknPull)
+1. ❗️ Reopened issue [#8](https://github.com/zer0Kerbal/PicknPull/issues/8) in [zer0Kerbal/PicknPull](https://github.com/zer0Kerbal/PicknPull)
+2. ❗️ Closed issue [#9](https://github.com/zer0Kerbal/PicknPull/issues/9) in [zer0Kerbal/PicknPull](https://github.com/zer0Kerbal/PicknPull)
+3. ❗️ Closed issue [#4](https://github.com/zer0Kerbal/PicknPull/issues/4) in [zer0Kerbal/PicknPull](https://github.com/zer0Kerbal/PicknPull)
+4. ❗️ Closed issue [#3](https://github.com/zer0Kerbal/PicknPull/issues/3) in [zer0Kerbal/PicknPull](https://github.com/zer0Kerbal/PicknPull)
+5. ❗️ Closed issue [#2](https://github.com/zer0Kerbal/PicknPull/issues/2) in [zer0Kerbal/PicknPull](https://github.com/zer0Kerbal/PicknPull)
+6. ❗️ Closed issue [#1](https://github.com/zer0Kerbal/PicknPull/issues/1) in [zer0Kerbal/PicknPull](https://github.com/zer0Kerbal/PicknPull)
+7. ❗️ Closed issue [#5](https://github.com/zer0Kerbal/PicknPull/issues/5) in [zer0Kerbal/PicknPull](https://github.com/zer0Kerbal/PicknPull)
+8. ❗️ Closed issue [#7](https://github.com/zer0Kerbal/PicknPull/issues/7) in [zer0Kerbal/PicknPull](https://github.com/zer0Kerbal/PicknPull)
+9. 🎉 Merged PR [#28](https://github.com/zer0Kerbal/PicknPull/pull/28) in [zer0Kerbal/PicknPull](https://github.com/zer0Kerbal/PicknPull)
+10. ❗️ Closed issue [#8](https://github.com/zer0Kerbal/PicknPull/issues/8) in [zer0Kerbal/PicknPull](https://github.com/zer0Kerbal/PicknPull)
 <!--END_SECTION:activity-->
 
 </details
