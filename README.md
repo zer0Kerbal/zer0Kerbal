@@ -45,16 +45,16 @@
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#27](https://github.com/zer0Kerbal/ScrapYard/issues/27) in [zer0Kerbal/ScrapYard](https://github.com/zer0Kerbal/ScrapYard)
-2. 🗣 Commented on [#64](https://github.com/zer0Kerbal/ScrapYard/issues/64) in [zer0Kerbal/ScrapYard](https://github.com/zer0Kerbal/ScrapYard)
-3. ❗️ Opened issue [#68](https://github.com/zer0Kerbal/ScrapYard/issues/68) in [zer0Kerbal/ScrapYard](https://github.com/zer0Kerbal/ScrapYard)
-4. ❗️ Opened issue [#67](https://github.com/zer0Kerbal/ScrapYard/issues/67) in [zer0Kerbal/ScrapYard](https://github.com/zer0Kerbal/ScrapYard)
-5. ❗️ Opened issue [#66](https://github.com/zer0Kerbal/ScrapYard/issues/66) in [zer0Kerbal/ScrapYard](https://github.com/zer0Kerbal/ScrapYard)
-6. ❗️ Opened issue [#65](https://github.com/zer0Kerbal/ScrapYard/issues/65) in [zer0Kerbal/ScrapYard](https://github.com/zer0Kerbal/ScrapYard)
-7. 🗣 Commented on [#64](https://github.com/zer0Kerbal/ScrapYard/issues/64) in [zer0Kerbal/ScrapYard](https://github.com/zer0Kerbal/ScrapYard)
-8. ❗️ Opened issue [#64](https://github.com/zer0Kerbal/ScrapYard/issues/64) in [zer0Kerbal/ScrapYard](https://github.com/zer0Kerbal/ScrapYard)
-9. 🗣 Commented on [#74](https://github.com/zer0Kerbal/OhScrap/issues/74) in [zer0Kerbal/OhScrap](https://github.com/zer0Kerbal/OhScrap)
-10. ❗️ Closed issue [#39](https://github.com/zer0Kerbal/testbench/issues/39) in [zer0Kerbal/testbench](https://github.com/zer0Kerbal/testbench)
+1. ❗️ Closed issue [#68](https://github.com/zer0Kerbal/ScrapYard/issues/68) in [zer0Kerbal/ScrapYard](https://github.com/zer0Kerbal/ScrapYard)
+2. ❗️ Closed issue [#67](https://github.com/zer0Kerbal/ScrapYard/issues/67) in [zer0Kerbal/ScrapYard](https://github.com/zer0Kerbal/ScrapYard)
+3. ❗️ Closed issue [#66](https://github.com/zer0Kerbal/ScrapYard/issues/66) in [zer0Kerbal/ScrapYard](https://github.com/zer0Kerbal/ScrapYard)
+4. ❗️ Closed issue [#65](https://github.com/zer0Kerbal/ScrapYard/issues/65) in [zer0Kerbal/ScrapYard](https://github.com/zer0Kerbal/ScrapYard)
+5. ❗️ Closed issue [#64](https://github.com/zer0Kerbal/ScrapYard/issues/64) in [zer0Kerbal/ScrapYard](https://github.com/zer0Kerbal/ScrapYard)
+6. 🎉 Merged PR [#69](https://github.com/zer0Kerbal/ScrapYard/pull/69) in [zer0Kerbal/ScrapYard](https://github.com/zer0Kerbal/ScrapYard)
+7. 💪 Opened PR [#69](https://github.com/zer0Kerbal/ScrapYard/pull/69) in [zer0Kerbal/ScrapYard](https://github.com/zer0Kerbal/ScrapYard)
+8. 🗣 Commented on [#27](https://github.com/zer0Kerbal/ScrapYard/issues/27) in [zer0Kerbal/ScrapYard](https://github.com/zer0Kerbal/ScrapYard)
+9. 🗣 Commented on [#64](https://github.com/zer0Kerbal/ScrapYard/issues/64) in [zer0Kerbal/ScrapYard](https://github.com/zer0Kerbal/ScrapYard)
+10. ❗️ Opened issue [#68](https://github.com/zer0Kerbal/ScrapYard/issues/68) in [zer0Kerbal/ScrapYard](https://github.com/zer0Kerbal/ScrapYard)
 <!--END_SECTION:activity-->
 
 </details
