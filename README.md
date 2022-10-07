@@ -45,16 +45,16 @@
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#101](https://github.com/actions/first-interaction/issues/101) in [actions/first-interaction](https://github.com/actions/first-interaction)
-2. ❗️ Opened issue [#39](https://github.com/zer0Kerbal/RadialOmniSeparator/issues/39) in [zer0Kerbal/RadialOmniSeparator](https://github.com/zer0Kerbal/RadialOmniSeparator)
-3. ❗️ Opened issue [#38](https://github.com/zer0Kerbal/RadialOmniSeparator/issues/38) in [zer0Kerbal/RadialOmniSeparator](https://github.com/zer0Kerbal/RadialOmniSeparator)
-4. ❗️ Opened issue [#37](https://github.com/zer0Kerbal/RadialOmniSeparator/issues/37) in [zer0Kerbal/RadialOmniSeparator](https://github.com/zer0Kerbal/RadialOmniSeparator)
-5. ❗️ Opened issue [#36](https://github.com/zer0Kerbal/RadialOmniSeparator/issues/36) in [zer0Kerbal/RadialOmniSeparator](https://github.com/zer0Kerbal/RadialOmniSeparator)
-6. ❗️ Opened issue [#44](https://github.com/zer0Kerbal/Halloween/issues/44) in [zer0Kerbal/Halloween](https://github.com/zer0Kerbal/Halloween)
-7. ❗️ Opened issue [#43](https://github.com/zer0Kerbal/Halloween/issues/43) in [zer0Kerbal/Halloween](https://github.com/zer0Kerbal/Halloween)
-8. ❗️ Opened issue [#42](https://github.com/zer0Kerbal/Halloween/issues/42) in [zer0Kerbal/Halloween](https://github.com/zer0Kerbal/Halloween)
-9. ❗️ Opened issue [#41](https://github.com/zer0Kerbal/Halloween/issues/41) in [zer0Kerbal/Halloween](https://github.com/zer0Kerbal/Halloween)
-10. 🎉 Merged PR [#40](https://github.com/zer0Kerbal/Halloween/pull/40) in [zer0Kerbal/Halloween](https://github.com/zer0Kerbal/Halloween)
+1. ❗️ Closed issue [#39](https://github.com/zer0Kerbal/RadialOmniSeparator/issues/39) in [zer0Kerbal/RadialOmniSeparator](https://github.com/zer0Kerbal/RadialOmniSeparator)
+2. 🎉 Merged PR [#40](https://github.com/zer0Kerbal/RadialOmniSeparator/pull/40) in [zer0Kerbal/RadialOmniSeparator](https://github.com/zer0Kerbal/RadialOmniSeparator)
+3. ❗️ Closed issue [#38](https://github.com/zer0Kerbal/RadialOmniSeparator/issues/38) in [zer0Kerbal/RadialOmniSeparator](https://github.com/zer0Kerbal/RadialOmniSeparator)
+4. ❗️ Closed issue [#37](https://github.com/zer0Kerbal/RadialOmniSeparator/issues/37) in [zer0Kerbal/RadialOmniSeparator](https://github.com/zer0Kerbal/RadialOmniSeparator)
+5. ❗️ Closed issue [#36](https://github.com/zer0Kerbal/RadialOmniSeparator/issues/36) in [zer0Kerbal/RadialOmniSeparator](https://github.com/zer0Kerbal/RadialOmniSeparator)
+6. ❗️ Closed issue [#16](https://github.com/zer0Kerbal/RadialOmniSeparator/issues/16) in [zer0Kerbal/RadialOmniSeparator](https://github.com/zer0Kerbal/RadialOmniSeparator)
+7. 💪 Opened PR [#40](https://github.com/zer0Kerbal/RadialOmniSeparator/pull/40) in [zer0Kerbal/RadialOmniSeparator](https://github.com/zer0Kerbal/RadialOmniSeparator)
+8. 🗣 Commented on [#101](https://github.com/actions/first-interaction/issues/101) in [actions/first-interaction](https://github.com/actions/first-interaction)
+9. ❗️ Opened issue [#39](https://github.com/zer0Kerbal/RadialOmniSeparator/issues/39) in [zer0Kerbal/RadialOmniSeparator](https://github.com/zer0Kerbal/RadialOmniSeparator)
+10. ❗️ Opened issue [#38](https://github.com/zer0Kerbal/RadialOmniSeparator/issues/38) in [zer0Kerbal/RadialOmniSeparator](https://github.com/zer0Kerbal/RadialOmniSeparator)
 <!--END_SECTION:activity-->
 
 </details
