@@ -45,16 +45,16 @@
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#26](https://github.com/zer0Kerbal/JackOLantern/issues/26) in [zer0Kerbal/JackOLantern](https://github.com/zer0Kerbal/JackOLantern)
-2. 🎉 Merged PR [#51](https://github.com/zer0Kerbal/JackOLantern/pull/51) in [zer0Kerbal/JackOLantern](https://github.com/zer0Kerbal/JackOLantern)
-3. ❗️ Opened issue [#49](https://github.com/zer0Kerbal/JackOLantern/issues/49) in [zer0Kerbal/JackOLantern](https://github.com/zer0Kerbal/JackOLantern)
-4. ❗️ Opened issue [#48](https://github.com/zer0Kerbal/JackOLantern/issues/48) in [zer0Kerbal/JackOLantern](https://github.com/zer0Kerbal/JackOLantern)
-5. ❗️ Opened issue [#47](https://github.com/zer0Kerbal/JackOLantern/issues/47) in [zer0Kerbal/JackOLantern](https://github.com/zer0Kerbal/JackOLantern)
-6. ❗️ Opened issue [#46](https://github.com/zer0Kerbal/JackOLantern/issues/46) in [zer0Kerbal/JackOLantern](https://github.com/zer0Kerbal/JackOLantern)
-7. ❗️ Closed issue [#46](https://github.com/zer0Kerbal/RadialOmniSeparator/issues/46) in [zer0Kerbal/RadialOmniSeparator](https://github.com/zer0Kerbal/RadialOmniSeparator)
-8. ❗️ Closed issue [#45](https://github.com/zer0Kerbal/RadialOmniSeparator/issues/45) in [zer0Kerbal/RadialOmniSeparator](https://github.com/zer0Kerbal/RadialOmniSeparator)
-9. ❗️ Closed issue [#44](https://github.com/zer0Kerbal/RadialOmniSeparator/issues/44) in [zer0Kerbal/RadialOmniSeparator](https://github.com/zer0Kerbal/RadialOmniSeparator)
-10. ❗️ Closed issue [#43](https://github.com/zer0Kerbal/RadialOmniSeparator/issues/43) in [zer0Kerbal/RadialOmniSeparator](https://github.com/zer0Kerbal/RadialOmniSeparator)
+1. 🎉 Merged PR [#44](https://github.com/zer0Kerbal/EternoRest2000/pull/44) in [zer0Kerbal/EternoRest2000](https://github.com/zer0Kerbal/EternoRest2000)
+2. 🗣 Commented on [#26](https://github.com/zer0Kerbal/JackOLantern/issues/26) in [zer0Kerbal/JackOLantern](https://github.com/zer0Kerbal/JackOLantern)
+3. 🎉 Merged PR [#51](https://github.com/zer0Kerbal/JackOLantern/pull/51) in [zer0Kerbal/JackOLantern](https://github.com/zer0Kerbal/JackOLantern)
+4. ❗️ Opened issue [#49](https://github.com/zer0Kerbal/JackOLantern/issues/49) in [zer0Kerbal/JackOLantern](https://github.com/zer0Kerbal/JackOLantern)
+5. ❗️ Opened issue [#48](https://github.com/zer0Kerbal/JackOLantern/issues/48) in [zer0Kerbal/JackOLantern](https://github.com/zer0Kerbal/JackOLantern)
+6. ❗️ Opened issue [#47](https://github.com/zer0Kerbal/JackOLantern/issues/47) in [zer0Kerbal/JackOLantern](https://github.com/zer0Kerbal/JackOLantern)
+7. ❗️ Opened issue [#46](https://github.com/zer0Kerbal/JackOLantern/issues/46) in [zer0Kerbal/JackOLantern](https://github.com/zer0Kerbal/JackOLantern)
+8. ❗️ Closed issue [#46](https://github.com/zer0Kerbal/RadialOmniSeparator/issues/46) in [zer0Kerbal/RadialOmniSeparator](https://github.com/zer0Kerbal/RadialOmniSeparator)
+9. ❗️ Closed issue [#45](https://github.com/zer0Kerbal/RadialOmniSeparator/issues/45) in [zer0Kerbal/RadialOmniSeparator](https://github.com/zer0Kerbal/RadialOmniSeparator)
+10. ❗️ Closed issue [#44](https://github.com/zer0Kerbal/RadialOmniSeparator/issues/44) in [zer0Kerbal/RadialOmniSeparator](https://github.com/zer0Kerbal/RadialOmniSeparator)
 <!--END_SECTION:activity-->
 
 </details
