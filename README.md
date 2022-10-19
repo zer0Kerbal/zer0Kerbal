@@ -45,16 +45,16 @@
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#147](https://github.com/zer0Kerbal/FuelTanksPlus/pull/147) in [zer0Kerbal/FuelTanksPlus](https://github.com/zer0Kerbal/FuelTanksPlus)
-2. 🗣 Commented on [#147](https://github.com/zer0Kerbal/FuelTanksPlus/issues/147) in [zer0Kerbal/FuelTanksPlus](https://github.com/zer0Kerbal/FuelTanksPlus)
-3. ❗️ Closed issue [#5](https://github.com/zer0Kerbal/EternoRest2000/issues/5) in [zer0Kerbal/EternoRest2000](https://github.com/zer0Kerbal/EternoRest2000)
-4. ❗️ Closed issue [#4](https://github.com/zer0Kerbal/EternoRest2000/issues/4) in [zer0Kerbal/EternoRest2000](https://github.com/zer0Kerbal/EternoRest2000)
-5. ❗️ Closed issue [#3](https://github.com/zer0Kerbal/EternoRest2000/issues/3) in [zer0Kerbal/EternoRest2000](https://github.com/zer0Kerbal/EternoRest2000)
-6. ❗️ Closed issue [#2](https://github.com/zer0Kerbal/EternoRest2000/issues/2) in [zer0Kerbal/EternoRest2000](https://github.com/zer0Kerbal/EternoRest2000)
-7. ❗️ Closed issue [#12](https://github.com/zer0Kerbal/EternoRest2000/issues/12) in [zer0Kerbal/EternoRest2000](https://github.com/zer0Kerbal/EternoRest2000)
-8. ❗️ Closed issue [#11](https://github.com/zer0Kerbal/EternoRest2000/issues/11) in [zer0Kerbal/EternoRest2000](https://github.com/zer0Kerbal/EternoRest2000)
-9. ❗️ Closed issue [#31](https://github.com/zer0Kerbal/EternoRest2000/issues/31) in [zer0Kerbal/EternoRest2000](https://github.com/zer0Kerbal/EternoRest2000)
-10. ❗️ Closed issue [#9](https://github.com/zer0Kerbal/EternoRest2000/issues/9) in [zer0Kerbal/EternoRest2000](https://github.com/zer0Kerbal/EternoRest2000)
+1. ❗️ Closed issue [#49](https://github.com/zer0Kerbal/JackOLantern/issues/49) in [zer0Kerbal/JackOLantern](https://github.com/zer0Kerbal/JackOLantern)
+2. ❗️ Closed issue [#47](https://github.com/zer0Kerbal/JackOLantern/issues/47) in [zer0Kerbal/JackOLantern](https://github.com/zer0Kerbal/JackOLantern)
+3. ❗️ Closed issue [#48](https://github.com/zer0Kerbal/JackOLantern/issues/48) in [zer0Kerbal/JackOLantern](https://github.com/zer0Kerbal/JackOLantern)
+4. ❗️ Closed issue [#46](https://github.com/zer0Kerbal/JackOLantern/issues/46) in [zer0Kerbal/JackOLantern](https://github.com/zer0Kerbal/JackOLantern)
+5. ❗️ Closed issue [#50](https://github.com/zer0Kerbal/JackOLantern/issues/50) in [zer0Kerbal/JackOLantern](https://github.com/zer0Kerbal/JackOLantern)
+6. ❗️ Closed issue [#31](https://github.com/zer0Kerbal/JackOLantern/issues/31) in [zer0Kerbal/JackOLantern](https://github.com/zer0Kerbal/JackOLantern)
+7. ❗️ Closed issue [#44](https://github.com/zer0Kerbal/JackOLantern/issues/44) in [zer0Kerbal/JackOLantern](https://github.com/zer0Kerbal/JackOLantern)
+8. 🎉 Merged PR [#52](https://github.com/zer0Kerbal/JackOLantern/pull/52) in [zer0Kerbal/JackOLantern](https://github.com/zer0Kerbal/JackOLantern)
+9. 💪 Opened PR [#52](https://github.com/zer0Kerbal/JackOLantern/pull/52) in [zer0Kerbal/JackOLantern](https://github.com/zer0Kerbal/JackOLantern)
+10. 🗣 Commented on [#50](https://github.com/zer0Kerbal/JackOLantern/issues/50) in [zer0Kerbal/JackOLantern](https://github.com/zer0Kerbal/JackOLantern)
 <!--END_SECTION:activity-->
 
 </details
