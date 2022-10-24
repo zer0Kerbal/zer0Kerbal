@@ -47,14 +47,14 @@
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#87](https://github.com/zer0Kerbal/NotSoSimpleConstruction/issues/87) in [zer0Kerbal/NotSoSimpleConstruction](https://github.com/zer0Kerbal/NotSoSimpleConstruction)
 2. 🗣 Commented on [#87](https://github.com/zer0Kerbal/NotSoSimpleConstruction/issues/87) in [zer0Kerbal/NotSoSimpleConstruction](https://github.com/zer0Kerbal/NotSoSimpleConstruction)
-3. 🎉 Merged PR [#87](https://github.com/zer0Kerbal/NotSoSimpleConstruction/pull/87) in [zer0Kerbal/NotSoSimpleConstruction](https://github.com/zer0Kerbal/NotSoSimpleConstruction)
-4. 🗣 Commented on [#17](https://github.com/zer0Kerbal/NotSoSimpleConstruction/issues/17) in [zer0Kerbal/NotSoSimpleConstruction](https://github.com/zer0Kerbal/NotSoSimpleConstruction)
-5. 🗣 Commented on [#44](https://github.com/zer0Kerbal/WernhersOldStuff/issues/44) in [zer0Kerbal/WernhersOldStuff](https://github.com/zer0Kerbal/WernhersOldStuff)
-6. 🗣 Commented on [#45](https://github.com/zer0Kerbal/JackOLantern/issues/45) in [zer0Kerbal/JackOLantern](https://github.com/zer0Kerbal/JackOLantern)
-7. ❗️ Opened issue [#51](https://github.com/zer0Kerbal/WernhersOldStuff/issues/51) in [zer0Kerbal/WernhersOldStuff](https://github.com/zer0Kerbal/WernhersOldStuff)
-8. 🗣 Commented on [#24](https://github.com/zer0Kerbal/RadialOmniSeparator/issues/24) in [zer0Kerbal/RadialOmniSeparator](https://github.com/zer0Kerbal/RadialOmniSeparator)
-9. 🗣 Commented on [#24](https://github.com/zer0Kerbal/RadialOmniSeparator/issues/24) in [zer0Kerbal/RadialOmniSeparator](https://github.com/zer0Kerbal/RadialOmniSeparator)
-10. 🗣 Commented on [#25](https://github.com/zer0Kerbal/RadialOmniSeparator/issues/25) in [zer0Kerbal/RadialOmniSeparator](https://github.com/zer0Kerbal/RadialOmniSeparator)
+3. 🗣 Commented on [#87](https://github.com/zer0Kerbal/NotSoSimpleConstruction/issues/87) in [zer0Kerbal/NotSoSimpleConstruction](https://github.com/zer0Kerbal/NotSoSimpleConstruction)
+4. 🗣 Commented on [#87](https://github.com/zer0Kerbal/NotSoSimpleConstruction/issues/87) in [zer0Kerbal/NotSoSimpleConstruction](https://github.com/zer0Kerbal/NotSoSimpleConstruction)
+5. 🎉 Merged PR [#87](https://github.com/zer0Kerbal/NotSoSimpleConstruction/pull/87) in [zer0Kerbal/NotSoSimpleConstruction](https://github.com/zer0Kerbal/NotSoSimpleConstruction)
+6. 🗣 Commented on [#17](https://github.com/zer0Kerbal/NotSoSimpleConstruction/issues/17) in [zer0Kerbal/NotSoSimpleConstruction](https://github.com/zer0Kerbal/NotSoSimpleConstruction)
+7. 🗣 Commented on [#44](https://github.com/zer0Kerbal/WernhersOldStuff/issues/44) in [zer0Kerbal/WernhersOldStuff](https://github.com/zer0Kerbal/WernhersOldStuff)
+8. 🗣 Commented on [#45](https://github.com/zer0Kerbal/JackOLantern/issues/45) in [zer0Kerbal/JackOLantern](https://github.com/zer0Kerbal/JackOLantern)
+9. ❗️ Opened issue [#51](https://github.com/zer0Kerbal/WernhersOldStuff/issues/51) in [zer0Kerbal/WernhersOldStuff](https://github.com/zer0Kerbal/WernhersOldStuff)
+10. 🗣 Commented on [#24](https://github.com/zer0Kerbal/RadialOmniSeparator/issues/24) in [zer0Kerbal/RadialOmniSeparator](https://github.com/zer0Kerbal/RadialOmniSeparator)
 <!--END_SECTION:activity-->
 
 </details
