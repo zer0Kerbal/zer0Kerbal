@@ -45,16 +45,16 @@
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#28](https://github.com/zer0Kerbal/SimpleCargoSolutions/issues/28) in [zer0Kerbal/SimpleCargoSolutions](https://github.com/zer0Kerbal/SimpleCargoSolutions)
-2. 🗣 Commented on [#18](https://github.com/zer0Kerbal/WernhersOldStuff/issues/18) in [zer0Kerbal/WernhersOldStuff](https://github.com/zer0Kerbal/WernhersOldStuff)
-3. ❗️ Opened issue [#91](https://github.com/zer0Kerbal/NotSoSimpleConstruction/issues/91) in [zer0Kerbal/NotSoSimpleConstruction](https://github.com/zer0Kerbal/NotSoSimpleConstruction)
-4. ❗️ Opened issue [#90](https://github.com/zer0Kerbal/NotSoSimpleConstruction/issues/90) in [zer0Kerbal/NotSoSimpleConstruction](https://github.com/zer0Kerbal/NotSoSimpleConstruction)
-5. ❗️ Closed issue [#86](https://github.com/zer0Kerbal/NotSoSimpleConstruction/issues/86) in [zer0Kerbal/NotSoSimpleConstruction](https://github.com/zer0Kerbal/NotSoSimpleConstruction)
-6. ❗️ Closed issue [#85](https://github.com/zer0Kerbal/NotSoSimpleConstruction/issues/85) in [zer0Kerbal/NotSoSimpleConstruction](https://github.com/zer0Kerbal/NotSoSimpleConstruction)
-7. ❗️ Closed issue [#84](https://github.com/zer0Kerbal/NotSoSimpleConstruction/issues/84) in [zer0Kerbal/NotSoSimpleConstruction](https://github.com/zer0Kerbal/NotSoSimpleConstruction)
-8. ❗️ Closed issue [#17](https://github.com/zer0Kerbal/NotSoSimpleConstruction/issues/17) in [zer0Kerbal/NotSoSimpleConstruction](https://github.com/zer0Kerbal/NotSoSimpleConstruction)
-9. ❗️ Closed issue [#83](https://github.com/zer0Kerbal/NotSoSimpleConstruction/issues/83) in [zer0Kerbal/NotSoSimpleConstruction](https://github.com/zer0Kerbal/NotSoSimpleConstruction)
-10. 🎉 Merged PR [#88](https://github.com/zer0Kerbal/NotSoSimpleConstruction/pull/88) in [zer0Kerbal/NotSoSimpleConstruction](https://github.com/zer0Kerbal/NotSoSimpleConstruction)
+1. 🎉 Merged PR [#40](https://github.com/zer0Kerbal/SimpleCargoSolutions/pull/40) in [zer0Kerbal/SimpleCargoSolutions](https://github.com/zer0Kerbal/SimpleCargoSolutions)
+2. ❗️ Opened issue [#39](https://github.com/zer0Kerbal/SimpleCargoSolutions/issues/39) in [zer0Kerbal/SimpleCargoSolutions](https://github.com/zer0Kerbal/SimpleCargoSolutions)
+3. ❗️ Opened issue [#38](https://github.com/zer0Kerbal/SimpleCargoSolutions/issues/38) in [zer0Kerbal/SimpleCargoSolutions](https://github.com/zer0Kerbal/SimpleCargoSolutions)
+4. ❗️ Opened issue [#37](https://github.com/zer0Kerbal/SimpleCargoSolutions/issues/37) in [zer0Kerbal/SimpleCargoSolutions](https://github.com/zer0Kerbal/SimpleCargoSolutions)
+5. ❗️ Opened issue [#36](https://github.com/zer0Kerbal/SimpleCargoSolutions/issues/36) in [zer0Kerbal/SimpleCargoSolutions](https://github.com/zer0Kerbal/SimpleCargoSolutions)
+6. ❗️ Opened issue [#35](https://github.com/zer0Kerbal/SimpleCargoSolutions/issues/35) in [zer0Kerbal/SimpleCargoSolutions](https://github.com/zer0Kerbal/SimpleCargoSolutions)
+7. ❗️ Opened issue [#34](https://github.com/zer0Kerbal/SimpleCargoSolutions/issues/34) in [zer0Kerbal/SimpleCargoSolutions](https://github.com/zer0Kerbal/SimpleCargoSolutions)
+8. ❗️ Opened issue [#33](https://github.com/zer0Kerbal/SimpleCargoSolutions/issues/33) in [zer0Kerbal/SimpleCargoSolutions](https://github.com/zer0Kerbal/SimpleCargoSolutions)
+9. ❗️ Opened issue [#32](https://github.com/zer0Kerbal/SimpleCargoSolutions/issues/32) in [zer0Kerbal/SimpleCargoSolutions](https://github.com/zer0Kerbal/SimpleCargoSolutions)
+10. ❗️ Opened issue [#31](https://github.com/zer0Kerbal/SimpleCargoSolutions/issues/31) in [zer0Kerbal/SimpleCargoSolutions](https://github.com/zer0Kerbal/SimpleCargoSolutions)
 <!--END_SECTION:activity-->
 
 </details
