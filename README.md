@@ -45,16 +45,16 @@
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#22](https://github.com/zer0Kerbal/SimpleCargoSolutions/issues/22) in [zer0Kerbal/SimpleCargoSolutions](https://github.com/zer0Kerbal/SimpleCargoSolutions)
-2. ❗️ Opened issue [#44](https://github.com/zer0Kerbal/SimpleCargoSolutions/issues/44) in [zer0Kerbal/SimpleCargoSolutions](https://github.com/zer0Kerbal/SimpleCargoSolutions)
-3. ❗️ Opened issue [#43](https://github.com/zer0Kerbal/SimpleCargoSolutions/issues/43) in [zer0Kerbal/SimpleCargoSolutions](https://github.com/zer0Kerbal/SimpleCargoSolutions)
-4. ❗️ Closed issue [#8](https://github.com/zer0Kerbal/SimpleCargoSolutions/issues/8) in [zer0Kerbal/SimpleCargoSolutions](https://github.com/zer0Kerbal/SimpleCargoSolutions)
-5. ❗️ Closed issue [#3](https://github.com/zer0Kerbal/SimpleCargoSolutions/issues/3) in [zer0Kerbal/SimpleCargoSolutions](https://github.com/zer0Kerbal/SimpleCargoSolutions)
-6. ❗️ Closed issue [#7](https://github.com/zer0Kerbal/SimpleCargoSolutions/issues/7) in [zer0Kerbal/SimpleCargoSolutions](https://github.com/zer0Kerbal/SimpleCargoSolutions)
-7. ❗️ Closed issue [#6](https://github.com/zer0Kerbal/SimpleCargoSolutions/issues/6) in [zer0Kerbal/SimpleCargoSolutions](https://github.com/zer0Kerbal/SimpleCargoSolutions)
-8. ❗️ Closed issue [#2](https://github.com/zer0Kerbal/SimpleCargoSolutions/issues/2) in [zer0Kerbal/SimpleCargoSolutions](https://github.com/zer0Kerbal/SimpleCargoSolutions)
-9. ❗️ Closed issue [#5](https://github.com/zer0Kerbal/SimpleCargoSolutions/issues/5) in [zer0Kerbal/SimpleCargoSolutions](https://github.com/zer0Kerbal/SimpleCargoSolutions)
-10. ❗️ Closed issue [#4](https://github.com/zer0Kerbal/SimpleCargoSolutions/issues/4) in [zer0Kerbal/SimpleCargoSolutions](https://github.com/zer0Kerbal/SimpleCargoSolutions)
+1. ❗️ Closed issue [#50](https://github.com/zer0Kerbal/EternoRest2000/issues/50) in [zer0Kerbal/EternoRest2000](https://github.com/zer0Kerbal/EternoRest2000)
+2. ❗️ Closed issue [#49](https://github.com/zer0Kerbal/EternoRest2000/issues/49) in [zer0Kerbal/EternoRest2000](https://github.com/zer0Kerbal/EternoRest2000)
+3. ❗️ Closed issue [#48](https://github.com/zer0Kerbal/EternoRest2000/issues/48) in [zer0Kerbal/EternoRest2000](https://github.com/zer0Kerbal/EternoRest2000)
+4. 🎉 Merged PR [#52](https://github.com/zer0Kerbal/EternoRest2000/pull/52) in [zer0Kerbal/EternoRest2000](https://github.com/zer0Kerbal/EternoRest2000)
+5. 💪 Opened PR [#52](https://github.com/zer0Kerbal/EternoRest2000/pull/52) in [zer0Kerbal/EternoRest2000](https://github.com/zer0Kerbal/EternoRest2000)
+6. ❗️ Opened issue [#51](https://github.com/zer0Kerbal/EternoRest2000/issues/51) in [zer0Kerbal/EternoRest2000](https://github.com/zer0Kerbal/EternoRest2000)
+7. 🎉 Merged PR [#47](https://github.com/zer0Kerbal/EternoRest2000/pull/47) in [zer0Kerbal/EternoRest2000](https://github.com/zer0Kerbal/EternoRest2000)
+8. 🗣 Commented on [#50](https://github.com/zer0Kerbal/EternoRest2000/issues/50) in [zer0Kerbal/EternoRest2000](https://github.com/zer0Kerbal/EternoRest2000)
+9. ❗️ Opened issue [#50](https://github.com/zer0Kerbal/EternoRest2000/issues/50) in [zer0Kerbal/EternoRest2000](https://github.com/zer0Kerbal/EternoRest2000)
+10. ❗️ Opened issue [#49](https://github.com/zer0Kerbal/EternoRest2000/issues/49) in [zer0Kerbal/EternoRest2000](https://github.com/zer0Kerbal/EternoRest2000)
 <!--END_SECTION:activity-->
 
 </details
