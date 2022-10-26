@@ -45,16 +45,16 @@
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#50](https://github.com/zer0Kerbal/EternoRest2000/issues/50) in [zer0Kerbal/EternoRest2000](https://github.com/zer0Kerbal/EternoRest2000)
-2. ❗️ Closed issue [#49](https://github.com/zer0Kerbal/EternoRest2000/issues/49) in [zer0Kerbal/EternoRest2000](https://github.com/zer0Kerbal/EternoRest2000)
-3. ❗️ Closed issue [#48](https://github.com/zer0Kerbal/EternoRest2000/issues/48) in [zer0Kerbal/EternoRest2000](https://github.com/zer0Kerbal/EternoRest2000)
-4. 🎉 Merged PR [#52](https://github.com/zer0Kerbal/EternoRest2000/pull/52) in [zer0Kerbal/EternoRest2000](https://github.com/zer0Kerbal/EternoRest2000)
-5. 💪 Opened PR [#52](https://github.com/zer0Kerbal/EternoRest2000/pull/52) in [zer0Kerbal/EternoRest2000](https://github.com/zer0Kerbal/EternoRest2000)
-6. ❗️ Opened issue [#51](https://github.com/zer0Kerbal/EternoRest2000/issues/51) in [zer0Kerbal/EternoRest2000](https://github.com/zer0Kerbal/EternoRest2000)
-7. 🎉 Merged PR [#47](https://github.com/zer0Kerbal/EternoRest2000/pull/47) in [zer0Kerbal/EternoRest2000](https://github.com/zer0Kerbal/EternoRest2000)
-8. 🗣 Commented on [#50](https://github.com/zer0Kerbal/EternoRest2000/issues/50) in [zer0Kerbal/EternoRest2000](https://github.com/zer0Kerbal/EternoRest2000)
-9. ❗️ Opened issue [#50](https://github.com/zer0Kerbal/EternoRest2000/issues/50) in [zer0Kerbal/EternoRest2000](https://github.com/zer0Kerbal/EternoRest2000)
-10. ❗️ Opened issue [#49](https://github.com/zer0Kerbal/EternoRest2000/issues/49) in [zer0Kerbal/EternoRest2000](https://github.com/zer0Kerbal/EternoRest2000)
+1. ❗️ Opened issue [#38](https://github.com/zer0Kerbal/DragonRider/issues/38) in [zer0Kerbal/DragonRider](https://github.com/zer0Kerbal/DragonRider)
+2. ❗️ Opened issue [#37](https://github.com/zer0Kerbal/DragonRider/issues/37) in [zer0Kerbal/DragonRider](https://github.com/zer0Kerbal/DragonRider)
+3. ❗️ Opened issue [#36](https://github.com/zer0Kerbal/DragonRider/issues/36) in [zer0Kerbal/DragonRider](https://github.com/zer0Kerbal/DragonRider)
+4. ❗️ Opened issue [#35](https://github.com/zer0Kerbal/DragonRider/issues/35) in [zer0Kerbal/DragonRider](https://github.com/zer0Kerbal/DragonRider)
+5. ❗️ Opened issue [#34](https://github.com/zer0Kerbal/DragonRider/issues/34) in [zer0Kerbal/DragonRider](https://github.com/zer0Kerbal/DragonRider)
+6. ❗️ Opened issue [#33](https://github.com/zer0Kerbal/DragonRider/issues/33) in [zer0Kerbal/DragonRider](https://github.com/zer0Kerbal/DragonRider)
+7. ❗️ Opened issue [#32](https://github.com/zer0Kerbal/DragonRider/issues/32) in [zer0Kerbal/DragonRider](https://github.com/zer0Kerbal/DragonRider)
+8. ❗️ Opened issue [#31](https://github.com/zer0Kerbal/DragonRider/issues/31) in [zer0Kerbal/DragonRider](https://github.com/zer0Kerbal/DragonRider)
+9. ❗️ Opened issue [#30](https://github.com/zer0Kerbal/DragonRider/issues/30) in [zer0Kerbal/DragonRider](https://github.com/zer0Kerbal/DragonRider)
+10. ❗️ Opened issue [#29](https://github.com/zer0Kerbal/DragonRider/issues/29) in [zer0Kerbal/DragonRider](https://github.com/zer0Kerbal/DragonRider)
 <!--END_SECTION:activity-->
 
 </details
