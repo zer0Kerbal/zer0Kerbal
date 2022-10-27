@@ -39,7 +39,7 @@
 
 ---
 
-[![@zer0kerbal's Holopin board](https://holopin.io/api/user/board?user=zer0kerbal)](https://holopin.io/@zer0kerbal)
+[![@zer0kerbal's Holopin board](https://holopin.io/api/user/board?user=zer0kerbal)](https://www.holopin.io/@zer0kerbal)
 
 >### :zap: Recent Activity
 
