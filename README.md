@@ -47,16 +47,16 @@
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#10](https://github.com/zer0Kerbal/Halloween/issues/10) in [zer0Kerbal/Halloween](https://github.com/zer0Kerbal/Halloween)
-2. 🗣 Commented on [#54](https://github.com/zer0Kerbal/Halloween/issues/54) in [zer0Kerbal/Halloween](https://github.com/zer0Kerbal/Halloween)
-3. ❗️ Closed issue [#56](https://github.com/zer0Kerbal/EternoRest2000/issues/56) in [zer0Kerbal/EternoRest2000](https://github.com/zer0Kerbal/EternoRest2000)
-4. ❗️ Closed issue [#55](https://github.com/zer0Kerbal/EternoRest2000/issues/55) in [zer0Kerbal/EternoRest2000](https://github.com/zer0Kerbal/EternoRest2000)
-5. ❗️ Closed issue [#57](https://github.com/zer0Kerbal/EternoRest2000/issues/57) in [zer0Kerbal/EternoRest2000](https://github.com/zer0Kerbal/EternoRest2000)
-6. 🎉 Merged PR [#58](https://github.com/zer0Kerbal/EternoRest2000/pull/58) in [zer0Kerbal/EternoRest2000](https://github.com/zer0Kerbal/EternoRest2000)
-7. 💪 Opened PR [#58](https://github.com/zer0Kerbal/EternoRest2000/pull/58) in [zer0Kerbal/EternoRest2000](https://github.com/zer0Kerbal/EternoRest2000)
-8. 🎉 Merged PR [#54](https://github.com/zer0Kerbal/EternoRest2000/pull/54) in [zer0Kerbal/EternoRest2000](https://github.com/zer0Kerbal/EternoRest2000)
-9. 🗣 Commented on [#54](https://github.com/zer0Kerbal/EternoRest2000/issues/54) in [zer0Kerbal/EternoRest2000](https://github.com/zer0Kerbal/EternoRest2000)
-10. ❗️ Opened issue [#57](https://github.com/zer0Kerbal/EternoRest2000/issues/57) in [zer0Kerbal/EternoRest2000](https://github.com/zer0Kerbal/EternoRest2000)
+1. ❗️ Closed issue [#10](https://github.com/zer0Kerbal/Halloween/issues/10) in [zer0Kerbal/Halloween](https://github.com/zer0Kerbal/Halloween)
+2. ❗️ Closed issue [#53](https://github.com/zer0Kerbal/Halloween/issues/53) in [zer0Kerbal/Halloween](https://github.com/zer0Kerbal/Halloween)
+3. 🎉 Merged PR [#55](https://github.com/zer0Kerbal/Halloween/pull/55) in [zer0Kerbal/Halloween](https://github.com/zer0Kerbal/Halloween)
+4. ❗️ Closed issue [#52](https://github.com/zer0Kerbal/Halloween/issues/52) in [zer0Kerbal/Halloween](https://github.com/zer0Kerbal/Halloween)
+5. 💪 Opened PR [#55](https://github.com/zer0Kerbal/Halloween/pull/55) in [zer0Kerbal/Halloween](https://github.com/zer0Kerbal/Halloween)
+6. 🗣 Commented on [#10](https://github.com/zer0Kerbal/Halloween/issues/10) in [zer0Kerbal/Halloween](https://github.com/zer0Kerbal/Halloween)
+7. 🗣 Commented on [#54](https://github.com/zer0Kerbal/Halloween/issues/54) in [zer0Kerbal/Halloween](https://github.com/zer0Kerbal/Halloween)
+8. ❗️ Closed issue [#56](https://github.com/zer0Kerbal/EternoRest2000/issues/56) in [zer0Kerbal/EternoRest2000](https://github.com/zer0Kerbal/EternoRest2000)
+9. ❗️ Closed issue [#55](https://github.com/zer0Kerbal/EternoRest2000/issues/55) in [zer0Kerbal/EternoRest2000](https://github.com/zer0Kerbal/EternoRest2000)
+10. ❗️ Closed issue [#57](https://github.com/zer0Kerbal/EternoRest2000/issues/57) in [zer0Kerbal/EternoRest2000](https://github.com/zer0Kerbal/EternoRest2000)
 <!--END_SECTION:activity-->
 
 </details
