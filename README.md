@@ -47,16 +47,16 @@
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#45](https://github.com/zer0Kerbal/JackOLantern/issues/45) in [zer0Kerbal/JackOLantern](https://github.com/zer0Kerbal/JackOLantern)
-2. ❗️ Closed issue [#56](https://github.com/zer0Kerbal/JackOLantern/issues/56) in [zer0Kerbal/JackOLantern](https://github.com/zer0Kerbal/JackOLantern)
-3. ❗️ Closed issue [#55](https://github.com/zer0Kerbal/JackOLantern/issues/55) in [zer0Kerbal/JackOLantern](https://github.com/zer0Kerbal/JackOLantern)
-4. ❗️ Closed issue [#58](https://github.com/zer0Kerbal/JackOLantern/issues/58) in [zer0Kerbal/JackOLantern](https://github.com/zer0Kerbal/JackOLantern)
-5. 🎉 Merged PR [#59](https://github.com/zer0Kerbal/JackOLantern/pull/59) in [zer0Kerbal/JackOLantern](https://github.com/zer0Kerbal/JackOLantern)
-6. 💪 Opened PR [#59](https://github.com/zer0Kerbal/JackOLantern/pull/59) in [zer0Kerbal/JackOLantern](https://github.com/zer0Kerbal/JackOLantern)
-7. 🎉 Merged PR [#57](https://github.com/zer0Kerbal/JackOLantern/pull/57) in [zer0Kerbal/JackOLantern](https://github.com/zer0Kerbal/JackOLantern)
-8. ❗️ Opened issue [#58](https://github.com/zer0Kerbal/JackOLantern/issues/58) in [zer0Kerbal/JackOLantern](https://github.com/zer0Kerbal/JackOLantern)
-9. ❗️ Closed issue [#10](https://github.com/zer0Kerbal/Halloween/issues/10) in [zer0Kerbal/Halloween](https://github.com/zer0Kerbal/Halloween)
-10. ❗️ Closed issue [#53](https://github.com/zer0Kerbal/Halloween/issues/53) in [zer0Kerbal/Halloween](https://github.com/zer0Kerbal/Halloween)
+1. ❗️ Opened issue [#32](https://github.com/zer0Kerbal/ClusterOLanterns/issues/32) in [zer0Kerbal/ClusterOLanterns](https://github.com/zer0Kerbal/ClusterOLanterns)
+2. ❗️ Opened issue [#31](https://github.com/zer0Kerbal/ClusterOLanterns/issues/31) in [zer0Kerbal/ClusterOLanterns](https://github.com/zer0Kerbal/ClusterOLanterns)
+3. ❗️ Opened issue [#30](https://github.com/zer0Kerbal/ClusterOLanterns/issues/30) in [zer0Kerbal/ClusterOLanterns](https://github.com/zer0Kerbal/ClusterOLanterns)
+4. ❗️ Opened issue [#29](https://github.com/zer0Kerbal/ClusterOLanterns/issues/29) in [zer0Kerbal/ClusterOLanterns](https://github.com/zer0Kerbal/ClusterOLanterns)
+5. ❗️ Opened issue [#28](https://github.com/zer0Kerbal/ClusterOLanterns/issues/28) in [zer0Kerbal/ClusterOLanterns](https://github.com/zer0Kerbal/ClusterOLanterns)
+6. ❗️ Opened issue [#27](https://github.com/zer0Kerbal/ClusterOLanterns/issues/27) in [zer0Kerbal/ClusterOLanterns](https://github.com/zer0Kerbal/ClusterOLanterns)
+7. ❗️ Opened issue [#26](https://github.com/zer0Kerbal/ClusterOLanterns/issues/26) in [zer0Kerbal/ClusterOLanterns](https://github.com/zer0Kerbal/ClusterOLanterns)
+8. ❗️ Opened issue [#25](https://github.com/zer0Kerbal/ClusterOLanterns/issues/25) in [zer0Kerbal/ClusterOLanterns](https://github.com/zer0Kerbal/ClusterOLanterns)
+9. ❗️ Opened issue [#24](https://github.com/zer0Kerbal/ClusterOLanterns/issues/24) in [zer0Kerbal/ClusterOLanterns](https://github.com/zer0Kerbal/ClusterOLanterns)
+10. ❗️ Opened issue [#23](https://github.com/zer0Kerbal/ClusterOLanterns/issues/23) in [zer0Kerbal/ClusterOLanterns](https://github.com/zer0Kerbal/ClusterOLanterns)
 <!--END_SECTION:activity-->
 
 </details
