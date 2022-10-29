@@ -47,16 +47,16 @@
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#32](https://github.com/zer0Kerbal/ClusterOLanterns/issues/32) in [zer0Kerbal/ClusterOLanterns](https://github.com/zer0Kerbal/ClusterOLanterns)
-2. ❗️ Opened issue [#31](https://github.com/zer0Kerbal/ClusterOLanterns/issues/31) in [zer0Kerbal/ClusterOLanterns](https://github.com/zer0Kerbal/ClusterOLanterns)
-3. ❗️ Opened issue [#30](https://github.com/zer0Kerbal/ClusterOLanterns/issues/30) in [zer0Kerbal/ClusterOLanterns](https://github.com/zer0Kerbal/ClusterOLanterns)
-4. ❗️ Opened issue [#29](https://github.com/zer0Kerbal/ClusterOLanterns/issues/29) in [zer0Kerbal/ClusterOLanterns](https://github.com/zer0Kerbal/ClusterOLanterns)
-5. ❗️ Opened issue [#28](https://github.com/zer0Kerbal/ClusterOLanterns/issues/28) in [zer0Kerbal/ClusterOLanterns](https://github.com/zer0Kerbal/ClusterOLanterns)
-6. ❗️ Opened issue [#27](https://github.com/zer0Kerbal/ClusterOLanterns/issues/27) in [zer0Kerbal/ClusterOLanterns](https://github.com/zer0Kerbal/ClusterOLanterns)
-7. ❗️ Opened issue [#26](https://github.com/zer0Kerbal/ClusterOLanterns/issues/26) in [zer0Kerbal/ClusterOLanterns](https://github.com/zer0Kerbal/ClusterOLanterns)
-8. ❗️ Opened issue [#25](https://github.com/zer0Kerbal/ClusterOLanterns/issues/25) in [zer0Kerbal/ClusterOLanterns](https://github.com/zer0Kerbal/ClusterOLanterns)
-9. ❗️ Opened issue [#24](https://github.com/zer0Kerbal/ClusterOLanterns/issues/24) in [zer0Kerbal/ClusterOLanterns](https://github.com/zer0Kerbal/ClusterOLanterns)
-10. ❗️ Opened issue [#23](https://github.com/zer0Kerbal/ClusterOLanterns/issues/23) in [zer0Kerbal/ClusterOLanterns](https://github.com/zer0Kerbal/ClusterOLanterns)
+1. 🗣 Commented on [#9](https://github.com/zer0Kerbal/SpaceShuttleRCSNosecones/issues/9) in [zer0Kerbal/SpaceShuttleRCSNosecones](https://github.com/zer0Kerbal/SpaceShuttleRCSNosecones)
+2. 🗣 Commented on [#8](https://github.com/zer0Kerbal/AxialAerospaceLtd/issues/8) in [zer0Kerbal/AxialAerospaceLtd](https://github.com/zer0Kerbal/AxialAerospaceLtd)
+3. 🗣 Commented on [#15](https://github.com/zer0Kerbal/FieldTrainingLab/issues/15) in [zer0Kerbal/FieldTrainingLab](https://github.com/zer0Kerbal/FieldTrainingLab)
+4. 🗣 Commented on [#7](https://github.com/zer0Kerbal/LunaticAeronauticsLtd/issues/7) in [zer0Kerbal/LunaticAeronauticsLtd](https://github.com/zer0Kerbal/LunaticAeronauticsLtd)
+5. 🗣 Commented on [#9](https://github.com/zer0Kerbal/KerbalKlinic/issues/9) in [zer0Kerbal/KerbalKlinic](https://github.com/zer0Kerbal/KerbalKlinic)
+6. 🗣 Commented on [#7](https://github.com/zer0Kerbal/RoverAntiGravitySystem/issues/7) in [zer0Kerbal/RoverAntiGravitySystem](https://github.com/zer0Kerbal/RoverAntiGravitySystem)
+7. 🗣 Commented on [#14](https://github.com/zer0Kerbal/ExceptionDetector/issues/14) in [zer0Kerbal/ExceptionDetector](https://github.com/zer0Kerbal/ExceptionDetector)
+8. ❗️ Opened issue [#32](https://github.com/zer0Kerbal/ClusterOLanterns/issues/32) in [zer0Kerbal/ClusterOLanterns](https://github.com/zer0Kerbal/ClusterOLanterns)
+9. ❗️ Opened issue [#31](https://github.com/zer0Kerbal/ClusterOLanterns/issues/31) in [zer0Kerbal/ClusterOLanterns](https://github.com/zer0Kerbal/ClusterOLanterns)
+10. ❗️ Opened issue [#30](https://github.com/zer0Kerbal/ClusterOLanterns/issues/30) in [zer0Kerbal/ClusterOLanterns](https://github.com/zer0Kerbal/ClusterOLanterns)
 <!--END_SECTION:activity-->
 
 </details
