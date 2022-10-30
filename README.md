@@ -47,16 +47,16 @@
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#12](https://github.com/zer0Kerbal/ClusterOLanterns/issues/12) in [zer0Kerbal/ClusterOLanterns](https://github.com/zer0Kerbal/ClusterOLanterns)
-2. ❗️ Reopened issue [#12](https://github.com/zer0Kerbal/ClusterOLanterns/issues/12) in [zer0Kerbal/ClusterOLanterns](https://github.com/zer0Kerbal/ClusterOLanterns)
-3. ❗️ Closed issue [#32](https://github.com/zer0Kerbal/ClusterOLanterns/issues/32) in [zer0Kerbal/ClusterOLanterns](https://github.com/zer0Kerbal/ClusterOLanterns)
-4. ❗️ Closed issue [#4](https://github.com/zer0Kerbal/ClusterOLanterns/issues/4) in [zer0Kerbal/ClusterOLanterns](https://github.com/zer0Kerbal/ClusterOLanterns)
-5. ❗️ Closed issue [#3](https://github.com/zer0Kerbal/ClusterOLanterns/issues/3) in [zer0Kerbal/ClusterOLanterns](https://github.com/zer0Kerbal/ClusterOLanterns)
-6. ❗️ Closed issue [#1](https://github.com/zer0Kerbal/ClusterOLanterns/issues/1) in [zer0Kerbal/ClusterOLanterns](https://github.com/zer0Kerbal/ClusterOLanterns)
-7. ❗️ Closed issue [#2](https://github.com/zer0Kerbal/ClusterOLanterns/issues/2) in [zer0Kerbal/ClusterOLanterns](https://github.com/zer0Kerbal/ClusterOLanterns)
-8. ❗️ Closed issue [#5](https://github.com/zer0Kerbal/ClusterOLanterns/issues/5) in [zer0Kerbal/ClusterOLanterns](https://github.com/zer0Kerbal/ClusterOLanterns)
-9. ❗️ Closed issue [#6](https://github.com/zer0Kerbal/ClusterOLanterns/issues/6) in [zer0Kerbal/ClusterOLanterns](https://github.com/zer0Kerbal/ClusterOLanterns)
-10. ❗️ Closed issue [#9](https://github.com/zer0Kerbal/ClusterOLanterns/issues/9) in [zer0Kerbal/ClusterOLanterns](https://github.com/zer0Kerbal/ClusterOLanterns)
+1. ❗️ Opened issue [#38](https://github.com/zer0Kerbal/ClusterOLanterns/issues/38) in [zer0Kerbal/ClusterOLanterns](https://github.com/zer0Kerbal/ClusterOLanterns)
+2. ❗️ Opened issue [#37](https://github.com/zer0Kerbal/ClusterOLanterns/issues/37) in [zer0Kerbal/ClusterOLanterns](https://github.com/zer0Kerbal/ClusterOLanterns)
+3. 🗣 Commented on [#12](https://github.com/zer0Kerbal/ClusterOLanterns/issues/12) in [zer0Kerbal/ClusterOLanterns](https://github.com/zer0Kerbal/ClusterOLanterns)
+4. ❗️ Reopened issue [#12](https://github.com/zer0Kerbal/ClusterOLanterns/issues/12) in [zer0Kerbal/ClusterOLanterns](https://github.com/zer0Kerbal/ClusterOLanterns)
+5. ❗️ Closed issue [#32](https://github.com/zer0Kerbal/ClusterOLanterns/issues/32) in [zer0Kerbal/ClusterOLanterns](https://github.com/zer0Kerbal/ClusterOLanterns)
+6. ❗️ Closed issue [#4](https://github.com/zer0Kerbal/ClusterOLanterns/issues/4) in [zer0Kerbal/ClusterOLanterns](https://github.com/zer0Kerbal/ClusterOLanterns)
+7. ❗️ Closed issue [#3](https://github.com/zer0Kerbal/ClusterOLanterns/issues/3) in [zer0Kerbal/ClusterOLanterns](https://github.com/zer0Kerbal/ClusterOLanterns)
+8. ❗️ Closed issue [#1](https://github.com/zer0Kerbal/ClusterOLanterns/issues/1) in [zer0Kerbal/ClusterOLanterns](https://github.com/zer0Kerbal/ClusterOLanterns)
+9. ❗️ Closed issue [#2](https://github.com/zer0Kerbal/ClusterOLanterns/issues/2) in [zer0Kerbal/ClusterOLanterns](https://github.com/zer0Kerbal/ClusterOLanterns)
+10. ❗️ Closed issue [#5](https://github.com/zer0Kerbal/ClusterOLanterns/issues/5) in [zer0Kerbal/ClusterOLanterns](https://github.com/zer0Kerbal/ClusterOLanterns)
 <!--END_SECTION:activity-->
 
 </details
