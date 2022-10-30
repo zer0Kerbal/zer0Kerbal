@@ -47,9 +47,9 @@
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9](https://github.com/zer0Kerbal/SpaceShuttleRCSNosecones/issues/9) in [zer0Kerbal/SpaceShuttleRCSNosecones](https://github.com/zer0Kerbal/SpaceShuttleRCSNosecones)
-2. 🗣 Commented on [#8](https://github.com/zer0Kerbal/AxialAerospaceLtd/issues/8) in [zer0Kerbal/AxialAerospaceLtd](https://github.com/zer0Kerbal/AxialAerospaceLtd)
-3. 🗣 Commented on [#15](https://github.com/zer0Kerbal/FieldTrainingLab/issues/15) in [zer0Kerbal/FieldTrainingLab](https://github.com/zer0Kerbal/FieldTrainingLab)
+1. ❗️ Closed issue [#7](https://github.com/zer0Kerbal/ClusterOLanterns/issues/7) in [zer0Kerbal/ClusterOLanterns](https://github.com/zer0Kerbal/ClusterOLanterns)
+2. 🎉 Merged PR [#33](https://github.com/zer0Kerbal/ClusterOLanterns/pull/33) in [zer0Kerbal/ClusterOLanterns](https://github.com/zer0Kerbal/ClusterOLanterns)
+3. 💪 Opened PR [#33](https://github.com/zer0Kerbal/ClusterOLanterns/pull/33) in [zer0Kerbal/ClusterOLanterns](https://github.com/zer0Kerbal/ClusterOLanterns)
 4. 🗣 Commented on [#7](https://github.com/zer0Kerbal/LunaticAeronauticsLtd/issues/7) in [zer0Kerbal/LunaticAeronauticsLtd](https://github.com/zer0Kerbal/LunaticAeronauticsLtd)
 5. 🗣 Commented on [#9](https://github.com/zer0Kerbal/KerbalKlinic/issues/9) in [zer0Kerbal/KerbalKlinic](https://github.com/zer0Kerbal/KerbalKlinic)
 6. 🗣 Commented on [#7](https://github.com/zer0Kerbal/RoverAntiGravitySystem/issues/7) in [zer0Kerbal/RoverAntiGravitySystem](https://github.com/zer0Kerbal/RoverAntiGravitySystem)
