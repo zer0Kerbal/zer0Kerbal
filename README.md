@@ -48,15 +48,15 @@
   
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#163](https://github.com/zer0Kerbal/SimpleConstruction/issues/163) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
-2. ❗️ Closed issue [#164](https://github.com/zer0Kerbal/SimpleConstruction/issues/164) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
+2. 🗣 Commented on [#163](https://github.com/zer0Kerbal/SimpleConstruction/issues/163) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
 3. 🗣 Commented on [#164](https://github.com/zer0Kerbal/SimpleConstruction/issues/164) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
-4. ❌ Closed PR [#2](https://github.com/zer0Kerbal/AxialAerospace/pull/2) in [zer0Kerbal/AxialAerospace](https://github.com/zer0Kerbal/AxialAerospace)
-5. ❗️ Opened issue [#38](https://github.com/zer0Kerbal/ClusterOLanterns/issues/38) in [zer0Kerbal/ClusterOLanterns](https://github.com/zer0Kerbal/ClusterOLanterns)
-6. ❗️ Opened issue [#37](https://github.com/zer0Kerbal/ClusterOLanterns/issues/37) in [zer0Kerbal/ClusterOLanterns](https://github.com/zer0Kerbal/ClusterOLanterns)
-7. 🗣 Commented on [#12](https://github.com/zer0Kerbal/ClusterOLanterns/issues/12) in [zer0Kerbal/ClusterOLanterns](https://github.com/zer0Kerbal/ClusterOLanterns)
-8. ❗️ Reopened issue [#12](https://github.com/zer0Kerbal/ClusterOLanterns/issues/12) in [zer0Kerbal/ClusterOLanterns](https://github.com/zer0Kerbal/ClusterOLanterns)
-9. ❗️ Closed issue [#32](https://github.com/zer0Kerbal/ClusterOLanterns/issues/32) in [zer0Kerbal/ClusterOLanterns](https://github.com/zer0Kerbal/ClusterOLanterns)
-10. ❗️ Closed issue [#4](https://github.com/zer0Kerbal/ClusterOLanterns/issues/4) in [zer0Kerbal/ClusterOLanterns](https://github.com/zer0Kerbal/ClusterOLanterns)
+4. 🗣 Commented on [#163](https://github.com/zer0Kerbal/SimpleConstruction/issues/163) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
+5. 🗣 Commented on [#163](https://github.com/zer0Kerbal/SimpleConstruction/issues/163) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
+6. 🗣 Commented on [#163](https://github.com/zer0Kerbal/SimpleConstruction/issues/163) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
+7. ❗️ Closed issue [#164](https://github.com/zer0Kerbal/SimpleConstruction/issues/164) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
+8. 🗣 Commented on [#164](https://github.com/zer0Kerbal/SimpleConstruction/issues/164) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
+9. ❌ Closed PR [#2](https://github.com/zer0Kerbal/AxialAerospace/pull/2) in [zer0Kerbal/AxialAerospace](https://github.com/zer0Kerbal/AxialAerospace)
+10. ❗️ Opened issue [#38](https://github.com/zer0Kerbal/ClusterOLanterns/issues/38) in [zer0Kerbal/ClusterOLanterns](https://github.com/zer0Kerbal/ClusterOLanterns)
 <!--END_SECTION:activity-->
 
 </details
