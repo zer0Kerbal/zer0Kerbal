@@ -25,7 +25,9 @@
 <!-- [<img align="left" alt="zer0Kerbal | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] -->
 <br />
 
----
+## Patrons
+
+<li><a href="https://www.reddit.com/user/eengie/"><img border="0" alt="eengie" src="https://i.redd.it/snoovatar/avatars/96418e79-2cd4-4759-91c2-057701985e65.png" width="75" height="75" > eengie</a> for going above and beyond. o7</li>
 
 ### 📺 Latest YouTube Videos
 
