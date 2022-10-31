@@ -49,16 +49,16 @@
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#163](https://github.com/zer0Kerbal/SimpleConstruction/issues/163) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
-2. 🗣 Commented on [#163](https://github.com/zer0Kerbal/SimpleConstruction/issues/163) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
-3. 🗣 Commented on [#164](https://github.com/zer0Kerbal/SimpleConstruction/issues/164) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
-4. 🗣 Commented on [#163](https://github.com/zer0Kerbal/SimpleConstruction/issues/163) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
-5. 🗣 Commented on [#163](https://github.com/zer0Kerbal/SimpleConstruction/issues/163) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
-6. 🗣 Commented on [#163](https://github.com/zer0Kerbal/SimpleConstruction/issues/163) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
-7. ❗️ Closed issue [#164](https://github.com/zer0Kerbal/SimpleConstruction/issues/164) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
-8. 🗣 Commented on [#164](https://github.com/zer0Kerbal/SimpleConstruction/issues/164) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
-9. ❌ Closed PR [#2](https://github.com/zer0Kerbal/AxialAerospace/pull/2) in [zer0Kerbal/AxialAerospace](https://github.com/zer0Kerbal/AxialAerospace)
-10. ❗️ Opened issue [#38](https://github.com/zer0Kerbal/ClusterOLanterns/issues/38) in [zer0Kerbal/ClusterOLanterns](https://github.com/zer0Kerbal/ClusterOLanterns)
+1. ❗️ Closed issue [#172](https://github.com/zer0Kerbal/SimpleConstruction/issues/172) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
+2. ❗️ Closed issue [#168](https://github.com/zer0Kerbal/SimpleConstruction/issues/168) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
+3. ❗️ Closed issue [#169](https://github.com/zer0Kerbal/SimpleConstruction/issues/169) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
+4. ❗️ Closed issue [#167](https://github.com/zer0Kerbal/SimpleConstruction/issues/167) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
+5. ❗️ Closed issue [#166](https://github.com/zer0Kerbal/SimpleConstruction/issues/166) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
+6. ❗️ Closed issue [#32](https://github.com/zer0Kerbal/SimpleConstruction/issues/32) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
+7. ❗️ Closed issue [#163](https://github.com/zer0Kerbal/SimpleConstruction/issues/163) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
+8. 🎉 Merged PR [#174](https://github.com/zer0Kerbal/SimpleConstruction/pull/174) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
+9. 💪 Opened PR [#174](https://github.com/zer0Kerbal/SimpleConstruction/pull/174) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
+10. 🗣 Commented on [#163](https://github.com/zer0Kerbal/SimpleConstruction/issues/163) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
 <!--END_SECTION:activity-->
 
 </details
