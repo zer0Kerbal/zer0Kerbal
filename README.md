@@ -49,16 +49,16 @@
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#36](https://github.com/zer0Kerbal/MEVHeavyIndustries/pull/36) in [zer0Kerbal/MEVHeavyIndustries](https://github.com/zer0Kerbal/MEVHeavyIndustries)
-2. ❗️ Closed issue [#11](https://github.com/zer0Kerbal/MEVHeavyIndustries/issues/11) in [zer0Kerbal/MEVHeavyIndustries](https://github.com/zer0Kerbal/MEVHeavyIndustries)
-3. 💪 Opened PR [#36](https://github.com/zer0Kerbal/MEVHeavyIndustries/pull/36) in [zer0Kerbal/MEVHeavyIndustries](https://github.com/zer0Kerbal/MEVHeavyIndustries)
-4. ❗️ Opened issue [#35](https://github.com/zer0Kerbal/MEVHeavyIndustries/issues/35) in [zer0Kerbal/MEVHeavyIndustries](https://github.com/zer0Kerbal/MEVHeavyIndustries)
-5. ❗️ Opened issue [#34](https://github.com/zer0Kerbal/MEVHeavyIndustries/issues/34) in [zer0Kerbal/MEVHeavyIndustries](https://github.com/zer0Kerbal/MEVHeavyIndustries)
-6. ❗️ Opened issue [#33](https://github.com/zer0Kerbal/MEVHeavyIndustries/issues/33) in [zer0Kerbal/MEVHeavyIndustries](https://github.com/zer0Kerbal/MEVHeavyIndustries)
-7. ❗️ Opened issue [#32](https://github.com/zer0Kerbal/MEVHeavyIndustries/issues/32) in [zer0Kerbal/MEVHeavyIndustries](https://github.com/zer0Kerbal/MEVHeavyIndustries)
-8. ❗️ Opened issue [#31](https://github.com/zer0Kerbal/MEVHeavyIndustries/issues/31) in [zer0Kerbal/MEVHeavyIndustries](https://github.com/zer0Kerbal/MEVHeavyIndustries)
-9. ❗️ Opened issue [#30](https://github.com/zer0Kerbal/MEVHeavyIndustries/issues/30) in [zer0Kerbal/MEVHeavyIndustries](https://github.com/zer0Kerbal/MEVHeavyIndustries)
-10. ❗️ Opened issue [#29](https://github.com/zer0Kerbal/MEVHeavyIndustries/issues/29) in [zer0Kerbal/MEVHeavyIndustries](https://github.com/zer0Kerbal/MEVHeavyIndustries)
+1. 🎉 Merged PR [#41](https://github.com/zer0Kerbal/MEVHeavyIndustries/pull/41) in [zer0Kerbal/MEVHeavyIndustries](https://github.com/zer0Kerbal/MEVHeavyIndustries)
+2. 🎉 Merged PR [#40](https://github.com/zer0Kerbal/MEVHeavyIndustries/pull/40) in [zer0Kerbal/MEVHeavyIndustries](https://github.com/zer0Kerbal/MEVHeavyIndustries)
+3. ❗️ Closed issue [#13](https://github.com/zer0Kerbal/MEVHeavyIndustries/issues/13) in [zer0Kerbal/MEVHeavyIndustries](https://github.com/zer0Kerbal/MEVHeavyIndustries)
+4. ❗️ Closed issue [#9](https://github.com/zer0Kerbal/MEVHeavyIndustries/issues/9) in [zer0Kerbal/MEVHeavyIndustries](https://github.com/zer0Kerbal/MEVHeavyIndustries)
+5. 💪 Opened PR [#40](https://github.com/zer0Kerbal/MEVHeavyIndustries/pull/40) in [zer0Kerbal/MEVHeavyIndustries](https://github.com/zer0Kerbal/MEVHeavyIndustries)
+6. ❗️ Closed issue [#12](https://github.com/zer0Kerbal/MEVHeavyIndustries/issues/12) in [zer0Kerbal/MEVHeavyIndustries](https://github.com/zer0Kerbal/MEVHeavyIndustries)
+7. 🎉 Merged PR [#38](https://github.com/zer0Kerbal/MEVHeavyIndustries/pull/38) in [zer0Kerbal/MEVHeavyIndustries](https://github.com/zer0Kerbal/MEVHeavyIndustries)
+8. 💪 Opened PR [#38](https://github.com/zer0Kerbal/MEVHeavyIndustries/pull/38) in [zer0Kerbal/MEVHeavyIndustries](https://github.com/zer0Kerbal/MEVHeavyIndustries)
+9. 🎉 Merged PR [#36](https://github.com/zer0Kerbal/MEVHeavyIndustries/pull/36) in [zer0Kerbal/MEVHeavyIndustries](https://github.com/zer0Kerbal/MEVHeavyIndustries)
+10. ❗️ Closed issue [#11](https://github.com/zer0Kerbal/MEVHeavyIndustries/issues/11) in [zer0Kerbal/MEVHeavyIndustries](https://github.com/zer0Kerbal/MEVHeavyIndustries)
 <!--END_SECTION:activity-->
 
 </details
