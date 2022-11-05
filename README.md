@@ -49,16 +49,16 @@
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#19](https://github.com/zer0Kerbal/SpaceShuttleEngines/issues/19) in [zer0Kerbal/SpaceShuttleEngines](https://github.com/zer0Kerbal/SpaceShuttleEngines)
-2. ❗️ Closed issue [#66](https://github.com/zer0Kerbal/SpaceShuttleEngines/issues/66) in [zer0Kerbal/SpaceShuttleEngines](https://github.com/zer0Kerbal/SpaceShuttleEngines)
-3. ❗️ Closed issue [#65](https://github.com/zer0Kerbal/SpaceShuttleEngines/issues/65) in [zer0Kerbal/SpaceShuttleEngines](https://github.com/zer0Kerbal/SpaceShuttleEngines)
-4. ❗️ Closed issue [#64](https://github.com/zer0Kerbal/SpaceShuttleEngines/issues/64) in [zer0Kerbal/SpaceShuttleEngines](https://github.com/zer0Kerbal/SpaceShuttleEngines)
-5. ❗️ Closed issue [#63](https://github.com/zer0Kerbal/SpaceShuttleEngines/issues/63) in [zer0Kerbal/SpaceShuttleEngines](https://github.com/zer0Kerbal/SpaceShuttleEngines)
-6. ❗️ Closed issue [#18](https://github.com/zer0Kerbal/SpaceShuttleEngines/issues/18) in [zer0Kerbal/SpaceShuttleEngines](https://github.com/zer0Kerbal/SpaceShuttleEngines)
-7. ❗️ Closed issue [#55](https://github.com/zer0Kerbal/SpaceShuttleEngines/issues/55) in [zer0Kerbal/SpaceShuttleEngines](https://github.com/zer0Kerbal/SpaceShuttleEngines)
-8. 🎉 Merged PR [#67](https://github.com/zer0Kerbal/SpaceShuttleEngines/pull/67) in [zer0Kerbal/SpaceShuttleEngines](https://github.com/zer0Kerbal/SpaceShuttleEngines)
-9. 💪 Opened PR [#67](https://github.com/zer0Kerbal/SpaceShuttleEngines/pull/67) in [zer0Kerbal/SpaceShuttleEngines](https://github.com/zer0Kerbal/SpaceShuttleEngines)
-10. 🗣 Commented on [#18](https://github.com/zer0Kerbal/WernhersOldStuff/issues/18) in [zer0Kerbal/WernhersOldStuff](https://github.com/zer0Kerbal/WernhersOldStuff)
+1. ❗️ Opened issue [#16](https://github.com/KSP-CKAN/KSPMMCfgParser/issues/16) in [KSP-CKAN/KSPMMCfgParser](https://github.com/KSP-CKAN/KSPMMCfgParser)
+2. 🗣 Commented on [#19](https://github.com/zer0Kerbal/SpaceShuttleEngines/issues/19) in [zer0Kerbal/SpaceShuttleEngines](https://github.com/zer0Kerbal/SpaceShuttleEngines)
+3. ❗️ Closed issue [#66](https://github.com/zer0Kerbal/SpaceShuttleEngines/issues/66) in [zer0Kerbal/SpaceShuttleEngines](https://github.com/zer0Kerbal/SpaceShuttleEngines)
+4. ❗️ Closed issue [#65](https://github.com/zer0Kerbal/SpaceShuttleEngines/issues/65) in [zer0Kerbal/SpaceShuttleEngines](https://github.com/zer0Kerbal/SpaceShuttleEngines)
+5. ❗️ Closed issue [#64](https://github.com/zer0Kerbal/SpaceShuttleEngines/issues/64) in [zer0Kerbal/SpaceShuttleEngines](https://github.com/zer0Kerbal/SpaceShuttleEngines)
+6. ❗️ Closed issue [#63](https://github.com/zer0Kerbal/SpaceShuttleEngines/issues/63) in [zer0Kerbal/SpaceShuttleEngines](https://github.com/zer0Kerbal/SpaceShuttleEngines)
+7. ❗️ Closed issue [#18](https://github.com/zer0Kerbal/SpaceShuttleEngines/issues/18) in [zer0Kerbal/SpaceShuttleEngines](https://github.com/zer0Kerbal/SpaceShuttleEngines)
+8. ❗️ Closed issue [#55](https://github.com/zer0Kerbal/SpaceShuttleEngines/issues/55) in [zer0Kerbal/SpaceShuttleEngines](https://github.com/zer0Kerbal/SpaceShuttleEngines)
+9. 🎉 Merged PR [#67](https://github.com/zer0Kerbal/SpaceShuttleEngines/pull/67) in [zer0Kerbal/SpaceShuttleEngines](https://github.com/zer0Kerbal/SpaceShuttleEngines)
+10. 💪 Opened PR [#67](https://github.com/zer0Kerbal/SpaceShuttleEngines/pull/67) in [zer0Kerbal/SpaceShuttleEngines](https://github.com/zer0Kerbal/SpaceShuttleEngines)
 <!--END_SECTION:activity-->
 
 </details
