@@ -50,15 +50,15 @@
   
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#16](https://github.com/KSP-CKAN/KSPMMCfgParser/issues/16) in [KSP-CKAN/KSPMMCfgParser](https://github.com/KSP-CKAN/KSPMMCfgParser)
-2. ❗️ Closed issue [#4](https://github.com/zer0Kerbal/PapaKerballinisPizza/issues/4) in [zer0Kerbal/PapaKerballinisPizza](https://github.com/zer0Kerbal/PapaKerballinisPizza)
-3. ❗️ Closed issue [#3](https://github.com/zer0Kerbal/PapaKerballinisPizza/issues/3) in [zer0Kerbal/PapaKerballinisPizza](https://github.com/zer0Kerbal/PapaKerballinisPizza)
-4. ❗️ Closed issue [#2](https://github.com/zer0Kerbal/PapaKerballinisPizza/issues/2) in [zer0Kerbal/PapaKerballinisPizza](https://github.com/zer0Kerbal/PapaKerballinisPizza)
-5. ❗️ Closed issue [#5](https://github.com/zer0Kerbal/PapaKerballinisPizza/issues/5) in [zer0Kerbal/PapaKerballinisPizza](https://github.com/zer0Kerbal/PapaKerballinisPizza)
-6. ❗️ Closed issue [#1](https://github.com/zer0Kerbal/PapaKerballinisPizza/issues/1) in [zer0Kerbal/PapaKerballinisPizza](https://github.com/zer0Kerbal/PapaKerballinisPizza)
-7. ❗️ Closed issue [#6](https://github.com/zer0Kerbal/PapaKerballinisPizza/issues/6) in [zer0Kerbal/PapaKerballinisPizza](https://github.com/zer0Kerbal/PapaKerballinisPizza)
-8. ❗️ Closed issue [#9](https://github.com/zer0Kerbal/PapaKerballinisPizza/issues/9) in [zer0Kerbal/PapaKerballinisPizza](https://github.com/zer0Kerbal/PapaKerballinisPizza)
-9. ❗️ Closed issue [#11](https://github.com/zer0Kerbal/PapaKerballinisPizza/issues/11) in [zer0Kerbal/PapaKerballinisPizza](https://github.com/zer0Kerbal/PapaKerballinisPizza)
-10. ❗️ Closed issue [#10](https://github.com/zer0Kerbal/PapaKerballinisPizza/issues/10) in [zer0Kerbal/PapaKerballinisPizza](https://github.com/zer0Kerbal/PapaKerballinisPizza)
+2. ❗️ Opened issue [#39](https://github.com/zer0Kerbal/PapaKerballinisPizza/issues/39) in [zer0Kerbal/PapaKerballinisPizza](https://github.com/zer0Kerbal/PapaKerballinisPizza)
+3. ❗️ Opened issue [#38](https://github.com/zer0Kerbal/PapaKerballinisPizza/issues/38) in [zer0Kerbal/PapaKerballinisPizza](https://github.com/zer0Kerbal/PapaKerballinisPizza)
+4. 🎉 Merged PR [#36](https://github.com/zer0Kerbal/PapaKerballinisPizza/pull/36) in [zer0Kerbal/PapaKerballinisPizza](https://github.com/zer0Kerbal/PapaKerballinisPizza)
+5. 💪 Opened PR [#36](https://github.com/zer0Kerbal/PapaKerballinisPizza/pull/36) in [zer0Kerbal/PapaKerballinisPizza](https://github.com/zer0Kerbal/PapaKerballinisPizza)
+6. 🗣 Commented on [#16](https://github.com/KSP-CKAN/KSPMMCfgParser/issues/16) in [KSP-CKAN/KSPMMCfgParser](https://github.com/KSP-CKAN/KSPMMCfgParser)
+7. ❗️ Closed issue [#4](https://github.com/zer0Kerbal/PapaKerballinisPizza/issues/4) in [zer0Kerbal/PapaKerballinisPizza](https://github.com/zer0Kerbal/PapaKerballinisPizza)
+8. ❗️ Closed issue [#3](https://github.com/zer0Kerbal/PapaKerballinisPizza/issues/3) in [zer0Kerbal/PapaKerballinisPizza](https://github.com/zer0Kerbal/PapaKerballinisPizza)
+9. ❗️ Closed issue [#2](https://github.com/zer0Kerbal/PapaKerballinisPizza/issues/2) in [zer0Kerbal/PapaKerballinisPizza](https://github.com/zer0Kerbal/PapaKerballinisPizza)
+10. ❗️ Closed issue [#5](https://github.com/zer0Kerbal/PapaKerballinisPizza/issues/5) in [zer0Kerbal/PapaKerballinisPizza](https://github.com/zer0Kerbal/PapaKerballinisPizza)
 <!--END_SECTION:activity-->
 
 </details
