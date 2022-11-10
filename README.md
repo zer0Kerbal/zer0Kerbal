@@ -49,16 +49,16 @@
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#70](https://github.com/zer0Kerbal/KeridianDynamics/issues/70) in [zer0Kerbal/KeridianDynamics](https://github.com/zer0Kerbal/KeridianDynamics)
-2. ❗️ Opened issue [#69](https://github.com/zer0Kerbal/KeridianDynamics/issues/69) in [zer0Kerbal/KeridianDynamics](https://github.com/zer0Kerbal/KeridianDynamics)
-3. ❗️ Closed issue [#64](https://github.com/zer0Kerbal/KeridianDynamics/issues/64) in [zer0Kerbal/KeridianDynamics](https://github.com/zer0Kerbal/KeridianDynamics)
-4. ❗️ Closed issue [#63](https://github.com/zer0Kerbal/KeridianDynamics/issues/63) in [zer0Kerbal/KeridianDynamics](https://github.com/zer0Kerbal/KeridianDynamics)
-5. ❗️ Closed issue [#66](https://github.com/zer0Kerbal/KeridianDynamics/issues/66) in [zer0Kerbal/KeridianDynamics](https://github.com/zer0Kerbal/KeridianDynamics)
-6. 🎉 Merged PR [#67](https://github.com/zer0Kerbal/KeridianDynamics/pull/67) in [zer0Kerbal/KeridianDynamics](https://github.com/zer0Kerbal/KeridianDynamics)
-7. 💪 Opened PR [#67](https://github.com/zer0Kerbal/KeridianDynamics/pull/67) in [zer0Kerbal/KeridianDynamics](https://github.com/zer0Kerbal/KeridianDynamics)
-8. ❗️ Opened issue [#66](https://github.com/zer0Kerbal/KeridianDynamics/issues/66) in [zer0Kerbal/KeridianDynamics](https://github.com/zer0Kerbal/KeridianDynamics)
-9. 🗣 Commented on [#65](https://github.com/zer0Kerbal/KeridianDynamics/issues/65) in [zer0Kerbal/KeridianDynamics](https://github.com/zer0Kerbal/KeridianDynamics)
-10. ❗️ Opened issue [#65](https://github.com/zer0Kerbal/KeridianDynamics/issues/65) in [zer0Kerbal/KeridianDynamics](https://github.com/zer0Kerbal/KeridianDynamics)
+1. 💪 Opened PR [#34](https://github.com/net-lisias-ksp/GPOSpeedPump/pull/34) in [net-lisias-ksp/GPOSpeedPump](https://github.com/net-lisias-ksp/GPOSpeedPump)
+2. 💪 Opened PR [#33](https://github.com/net-lisias-ksp/GPOSpeedPump/pull/33) in [net-lisias-ksp/GPOSpeedPump](https://github.com/net-lisias-ksp/GPOSpeedPump)
+3. ❗️ Opened issue [#70](https://github.com/zer0Kerbal/KeridianDynamics/issues/70) in [zer0Kerbal/KeridianDynamics](https://github.com/zer0Kerbal/KeridianDynamics)
+4. ❗️ Opened issue [#69](https://github.com/zer0Kerbal/KeridianDynamics/issues/69) in [zer0Kerbal/KeridianDynamics](https://github.com/zer0Kerbal/KeridianDynamics)
+5. ❗️ Closed issue [#64](https://github.com/zer0Kerbal/KeridianDynamics/issues/64) in [zer0Kerbal/KeridianDynamics](https://github.com/zer0Kerbal/KeridianDynamics)
+6. ❗️ Closed issue [#63](https://github.com/zer0Kerbal/KeridianDynamics/issues/63) in [zer0Kerbal/KeridianDynamics](https://github.com/zer0Kerbal/KeridianDynamics)
+7. ❗️ Closed issue [#66](https://github.com/zer0Kerbal/KeridianDynamics/issues/66) in [zer0Kerbal/KeridianDynamics](https://github.com/zer0Kerbal/KeridianDynamics)
+8. 🎉 Merged PR [#67](https://github.com/zer0Kerbal/KeridianDynamics/pull/67) in [zer0Kerbal/KeridianDynamics](https://github.com/zer0Kerbal/KeridianDynamics)
+9. 💪 Opened PR [#67](https://github.com/zer0Kerbal/KeridianDynamics/pull/67) in [zer0Kerbal/KeridianDynamics](https://github.com/zer0Kerbal/KeridianDynamics)
+10. ❗️ Opened issue [#66](https://github.com/zer0Kerbal/KeridianDynamics/issues/66) in [zer0Kerbal/KeridianDynamics](https://github.com/zer0Kerbal/KeridianDynamics)
 <!--END_SECTION:activity-->
 
 </details
