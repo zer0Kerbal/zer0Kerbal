@@ -49,16 +49,16 @@
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#35](https://github.com/zer0Kerbal/TESS/issues/35) in [zer0Kerbal/TESS](https://github.com/zer0Kerbal/TESS)
-2. ❗️ Opened issue [#34](https://github.com/zer0Kerbal/TESS/issues/34) in [zer0Kerbal/TESS](https://github.com/zer0Kerbal/TESS)
-3. ❗️ Opened issue [#33](https://github.com/zer0Kerbal/TESS/issues/33) in [zer0Kerbal/TESS](https://github.com/zer0Kerbal/TESS)
-4. ❗️ Opened issue [#32](https://github.com/zer0Kerbal/TESS/issues/32) in [zer0Kerbal/TESS](https://github.com/zer0Kerbal/TESS)
-5. ❗️ Opened issue [#30](https://github.com/zer0Kerbal/TESS/issues/30) in [zer0Kerbal/TESS](https://github.com/zer0Kerbal/TESS)
-6. ❗️ Opened issue [#29](https://github.com/zer0Kerbal/TESS/issues/29) in [zer0Kerbal/TESS](https://github.com/zer0Kerbal/TESS)
-7. ❗️ Opened issue [#28](https://github.com/zer0Kerbal/TESS/issues/28) in [zer0Kerbal/TESS](https://github.com/zer0Kerbal/TESS)
-8. ❗️ Opened issue [#27](https://github.com/zer0Kerbal/TESS/issues/27) in [zer0Kerbal/TESS](https://github.com/zer0Kerbal/TESS)
-9. ❗️ Opened issue [#26](https://github.com/zer0Kerbal/TESS/issues/26) in [zer0Kerbal/TESS](https://github.com/zer0Kerbal/TESS)
-10. ❗️ Opened issue [#25](https://github.com/zer0Kerbal/TESS/issues/25) in [zer0Kerbal/TESS](https://github.com/zer0Kerbal/TESS)
+1. ❗️ Closed issue [#14](https://github.com/zer0Kerbal/TESS/issues/14) in [zer0Kerbal/TESS](https://github.com/zer0Kerbal/TESS)
+2. ❗️ Closed issue [#7](https://github.com/zer0Kerbal/TESS/issues/7) in [zer0Kerbal/TESS](https://github.com/zer0Kerbal/TESS)
+3. 🎉 Merged PR [#40](https://github.com/zer0Kerbal/TESS/pull/40) in [zer0Kerbal/TESS](https://github.com/zer0Kerbal/TESS)
+4. 💪 Opened PR [#40](https://github.com/zer0Kerbal/TESS/pull/40) in [zer0Kerbal/TESS](https://github.com/zer0Kerbal/TESS)
+5. ❗️ Closed issue [#13](https://github.com/zer0Kerbal/TESS/issues/13) in [zer0Kerbal/TESS](https://github.com/zer0Kerbal/TESS)
+6. 🎉 Merged PR [#38](https://github.com/zer0Kerbal/TESS/pull/38) in [zer0Kerbal/TESS](https://github.com/zer0Kerbal/TESS)
+7. 💪 Opened PR [#38](https://github.com/zer0Kerbal/TESS/pull/38) in [zer0Kerbal/TESS](https://github.com/zer0Kerbal/TESS)
+8. ❗️ Closed issue [#12](https://github.com/zer0Kerbal/TESS/issues/12) in [zer0Kerbal/TESS](https://github.com/zer0Kerbal/TESS)
+9. 🎉 Merged PR [#36](https://github.com/zer0Kerbal/TESS/pull/36) in [zer0Kerbal/TESS](https://github.com/zer0Kerbal/TESS)
+10. 💪 Opened PR [#36](https://github.com/zer0Kerbal/TESS/pull/36) in [zer0Kerbal/TESS](https://github.com/zer0Kerbal/TESS)
 <!--END_SECTION:activity-->
 
 </details
