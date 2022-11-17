@@ -49,16 +49,16 @@
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#27](https://github.com/zer0Kerbal/KerbalKlinic/issues/27) in [zer0Kerbal/KerbalKlinic](https://github.com/zer0Kerbal/KerbalKlinic)
-2. 🗣 Commented on [#9](https://github.com/zer0Kerbal/KerbalKlinic/issues/9) in [zer0Kerbal/KerbalKlinic](https://github.com/zer0Kerbal/KerbalKlinic)
-3. 🗣 Commented on [#9](https://github.com/zer0Kerbal/KerbalKlinic/issues/9) in [zer0Kerbal/KerbalKlinic](https://github.com/zer0Kerbal/KerbalKlinic)
-4. ❗️ Closed issue [#23](https://github.com/net-lisias-ksp/GPOSpeedPump/issues/23) in [net-lisias-ksp/GPOSpeedPump](https://github.com/net-lisias-ksp/GPOSpeedPump)
-5. 🗣 Commented on [#23](https://github.com/net-lisias-ksp/GPOSpeedPump/issues/23) in [net-lisias-ksp/GPOSpeedPump](https://github.com/net-lisias-ksp/GPOSpeedPump)
-6. 🗣 Commented on [#34](https://github.com/net-lisias-ksp/GPOSpeedPump/issues/34) in [net-lisias-ksp/GPOSpeedPump](https://github.com/net-lisias-ksp/GPOSpeedPump)
-7. 🗣 Commented on [#33](https://github.com/net-lisias-ksp/GPOSpeedPump/issues/33) in [net-lisias-ksp/GPOSpeedPump](https://github.com/net-lisias-ksp/GPOSpeedPump)
-8. 🗣 Commented on [#9](https://github.com/zer0Kerbal/KerbalKlinic/issues/9) in [zer0Kerbal/KerbalKlinic](https://github.com/zer0Kerbal/KerbalKlinic)
-9. 🗣 Commented on [#49](https://github.com/zer0Kerbal/SeaDragon/issues/49) in [zer0Kerbal/SeaDragon](https://github.com/zer0Kerbal/SeaDragon)
-10. ❗️ Opened issue [#51](https://github.com/zer0Kerbal/OScienceLaboratories/issues/51) in [zer0Kerbal/OScienceLaboratories](https://github.com/zer0Kerbal/OScienceLaboratories)
+1. ❗️ Opened issue [#35](https://github.com/zer0Kerbal/TESS/issues/35) in [zer0Kerbal/TESS](https://github.com/zer0Kerbal/TESS)
+2. ❗️ Opened issue [#34](https://github.com/zer0Kerbal/TESS/issues/34) in [zer0Kerbal/TESS](https://github.com/zer0Kerbal/TESS)
+3. ❗️ Opened issue [#33](https://github.com/zer0Kerbal/TESS/issues/33) in [zer0Kerbal/TESS](https://github.com/zer0Kerbal/TESS)
+4. ❗️ Opened issue [#32](https://github.com/zer0Kerbal/TESS/issues/32) in [zer0Kerbal/TESS](https://github.com/zer0Kerbal/TESS)
+5. ❗️ Opened issue [#30](https://github.com/zer0Kerbal/TESS/issues/30) in [zer0Kerbal/TESS](https://github.com/zer0Kerbal/TESS)
+6. ❗️ Opened issue [#29](https://github.com/zer0Kerbal/TESS/issues/29) in [zer0Kerbal/TESS](https://github.com/zer0Kerbal/TESS)
+7. ❗️ Opened issue [#28](https://github.com/zer0Kerbal/TESS/issues/28) in [zer0Kerbal/TESS](https://github.com/zer0Kerbal/TESS)
+8. ❗️ Opened issue [#27](https://github.com/zer0Kerbal/TESS/issues/27) in [zer0Kerbal/TESS](https://github.com/zer0Kerbal/TESS)
+9. ❗️ Opened issue [#26](https://github.com/zer0Kerbal/TESS/issues/26) in [zer0Kerbal/TESS](https://github.com/zer0Kerbal/TESS)
+10. ❗️ Opened issue [#25](https://github.com/zer0Kerbal/TESS/issues/25) in [zer0Kerbal/TESS](https://github.com/zer0Kerbal/TESS)
 <!--END_SECTION:activity-->
 
 </details
