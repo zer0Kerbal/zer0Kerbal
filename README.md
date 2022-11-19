@@ -49,16 +49,16 @@
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#42](https://github.com/zer0Kerbal/Ariane6/issues/42) in [zer0Kerbal/Ariane6](https://github.com/zer0Kerbal/Ariane6)
-2. 💪 Opened PR [#41](https://github.com/zer0Kerbal/Ariane6/pull/41) in [zer0Kerbal/Ariane6](https://github.com/zer0Kerbal/Ariane6)
-3. ❗️ Opened issue [#39](https://github.com/zer0Kerbal/Ariane6/issues/39) in [zer0Kerbal/Ariane6](https://github.com/zer0Kerbal/Ariane6)
-4. ❗️ Opened issue [#38](https://github.com/zer0Kerbal/Ariane6/issues/38) in [zer0Kerbal/Ariane6](https://github.com/zer0Kerbal/Ariane6)
-5. ❗️ Opened issue [#37](https://github.com/zer0Kerbal/Ariane6/issues/37) in [zer0Kerbal/Ariane6](https://github.com/zer0Kerbal/Ariane6)
-6. ❗️ Opened issue [#36](https://github.com/zer0Kerbal/Ariane6/issues/36) in [zer0Kerbal/Ariane6](https://github.com/zer0Kerbal/Ariane6)
-7. ❗️ Opened issue [#35](https://github.com/zer0Kerbal/Ariane6/issues/35) in [zer0Kerbal/Ariane6](https://github.com/zer0Kerbal/Ariane6)
-8. ❗️ Opened issue [#34](https://github.com/zer0Kerbal/Ariane6/issues/34) in [zer0Kerbal/Ariane6](https://github.com/zer0Kerbal/Ariane6)
-9. ❗️ Opened issue [#33](https://github.com/zer0Kerbal/Ariane6/issues/33) in [zer0Kerbal/Ariane6](https://github.com/zer0Kerbal/Ariane6)
-10. ❗️ Opened issue [#32](https://github.com/zer0Kerbal/Ariane6/issues/32) in [zer0Kerbal/Ariane6](https://github.com/zer0Kerbal/Ariane6)
+1. ❗️ Closed issue [#13](https://github.com/zer0Kerbal/Ariane6/issues/13) in [zer0Kerbal/Ariane6](https://github.com/zer0Kerbal/Ariane6)
+2. 🎉 Merged PR [#44](https://github.com/zer0Kerbal/Ariane6/pull/44) in [zer0Kerbal/Ariane6](https://github.com/zer0Kerbal/Ariane6)
+3. 💪 Opened PR [#44](https://github.com/zer0Kerbal/Ariane6/pull/44) in [zer0Kerbal/Ariane6](https://github.com/zer0Kerbal/Ariane6)
+4. ❗️ Closed issue [#19](https://github.com/zer0Kerbal/Ariane6/issues/19) in [zer0Kerbal/Ariane6](https://github.com/zer0Kerbal/Ariane6)
+5. 🎉 Merged PR [#41](https://github.com/zer0Kerbal/Ariane6/pull/41) in [zer0Kerbal/Ariane6](https://github.com/zer0Kerbal/Ariane6)
+6. ❗️ Opened issue [#42](https://github.com/zer0Kerbal/Ariane6/issues/42) in [zer0Kerbal/Ariane6](https://github.com/zer0Kerbal/Ariane6)
+7. 💪 Opened PR [#41](https://github.com/zer0Kerbal/Ariane6/pull/41) in [zer0Kerbal/Ariane6](https://github.com/zer0Kerbal/Ariane6)
+8. ❗️ Opened issue [#39](https://github.com/zer0Kerbal/Ariane6/issues/39) in [zer0Kerbal/Ariane6](https://github.com/zer0Kerbal/Ariane6)
+9. ❗️ Opened issue [#38](https://github.com/zer0Kerbal/Ariane6/issues/38) in [zer0Kerbal/Ariane6](https://github.com/zer0Kerbal/Ariane6)
+10. ❗️ Opened issue [#37](https://github.com/zer0Kerbal/Ariane6/issues/37) in [zer0Kerbal/Ariane6](https://github.com/zer0Kerbal/Ariane6)
 <!--END_SECTION:activity-->
 
 </details
