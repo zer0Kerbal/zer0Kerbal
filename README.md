@@ -49,16 +49,16 @@
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#53](https://github.com/zer0Kerbal/Ariane6/issues/53) in [zer0Kerbal/Ariane6](https://github.com/zer0Kerbal/Ariane6)
-2. ❗️ Closed issue [#18](https://github.com/zer0Kerbal/Ariane6/issues/18) in [zer0Kerbal/Ariane6](https://github.com/zer0Kerbal/Ariane6)
-3. ❗️ Closed issue [#8](https://github.com/zer0Kerbal/Ariane6/issues/8) in [zer0Kerbal/Ariane6](https://github.com/zer0Kerbal/Ariane6)
-4. 🎉 Merged PR [#52](https://github.com/zer0Kerbal/Ariane6/pull/52) in [zer0Kerbal/Ariane6](https://github.com/zer0Kerbal/Ariane6)
-5. 💪 Opened PR [#52](https://github.com/zer0Kerbal/Ariane6/pull/52) in [zer0Kerbal/Ariane6](https://github.com/zer0Kerbal/Ariane6)
-6. ❗️ Closed issue [#17](https://github.com/zer0Kerbal/Ariane6/issues/17) in [zer0Kerbal/Ariane6](https://github.com/zer0Kerbal/Ariane6)
-7. 🎉 Merged PR [#50](https://github.com/zer0Kerbal/Ariane6/pull/50) in [zer0Kerbal/Ariane6](https://github.com/zer0Kerbal/Ariane6)
-8. 💪 Opened PR [#50](https://github.com/zer0Kerbal/Ariane6/pull/50) in [zer0Kerbal/Ariane6](https://github.com/zer0Kerbal/Ariane6)
-9. ❗️ Closed issue [#16](https://github.com/zer0Kerbal/Ariane6/issues/16) in [zer0Kerbal/Ariane6](https://github.com/zer0Kerbal/Ariane6)
-10. 🎉 Merged PR [#48](https://github.com/zer0Kerbal/Ariane6/pull/48) in [zer0Kerbal/Ariane6](https://github.com/zer0Kerbal/Ariane6)
+1. ❗️ Opened issue [#44](https://github.com/zer0Kerbal/NewShepard/issues/44) in [zer0Kerbal/NewShepard](https://github.com/zer0Kerbal/NewShepard)
+2. ❗️ Opened issue [#43](https://github.com/zer0Kerbal/NewShepard/issues/43) in [zer0Kerbal/NewShepard](https://github.com/zer0Kerbal/NewShepard)
+3. ❗️ Opened issue [#42](https://github.com/zer0Kerbal/NewShepard/issues/42) in [zer0Kerbal/NewShepard](https://github.com/zer0Kerbal/NewShepard)
+4. ❗️ Opened issue [#41](https://github.com/zer0Kerbal/NewShepard/issues/41) in [zer0Kerbal/NewShepard](https://github.com/zer0Kerbal/NewShepard)
+5. ❗️ Opened issue [#40](https://github.com/zer0Kerbal/NewShepard/issues/40) in [zer0Kerbal/NewShepard](https://github.com/zer0Kerbal/NewShepard)
+6. ❗️ Opened issue [#39](https://github.com/zer0Kerbal/NewShepard/issues/39) in [zer0Kerbal/NewShepard](https://github.com/zer0Kerbal/NewShepard)
+7. ❗️ Opened issue [#38](https://github.com/zer0Kerbal/NewShepard/issues/38) in [zer0Kerbal/NewShepard](https://github.com/zer0Kerbal/NewShepard)
+8. ❗️ Opened issue [#37](https://github.com/zer0Kerbal/NewShepard/issues/37) in [zer0Kerbal/NewShepard](https://github.com/zer0Kerbal/NewShepard)
+9. ❗️ Opened issue [#36](https://github.com/zer0Kerbal/NewShepard/issues/36) in [zer0Kerbal/NewShepard](https://github.com/zer0Kerbal/NewShepard)
+10. ❗️ Opened issue [#35](https://github.com/zer0Kerbal/NewShepard/issues/35) in [zer0Kerbal/NewShepard](https://github.com/zer0Kerbal/NewShepard)
 <!--END_SECTION:activity-->
 
 </details
