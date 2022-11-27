@@ -49,16 +49,16 @@
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#53](https://github.com/zer0Kerbal/NewShepard/pull/53) in [zer0Kerbal/NewShepard](https://github.com/zer0Kerbal/NewShepard)
-2. ❗️ Closed issue [#22](https://github.com/zer0Kerbal/NewShepard/issues/22) in [zer0Kerbal/NewShepard](https://github.com/zer0Kerbal/NewShepard)
-3. ❗️ Closed issue [#7](https://github.com/zer0Kerbal/NewShepard/issues/7) in [zer0Kerbal/NewShepard](https://github.com/zer0Kerbal/NewShepard)
-4. 🎉 Merged PR [#51](https://github.com/zer0Kerbal/NewShepard/pull/51) in [zer0Kerbal/NewShepard](https://github.com/zer0Kerbal/NewShepard)
-5. 💪 Opened PR [#51](https://github.com/zer0Kerbal/NewShepard/pull/51) in [zer0Kerbal/NewShepard](https://github.com/zer0Kerbal/NewShepard)
-6. ❗️ Closed issue [#21](https://github.com/zer0Kerbal/NewShepard/issues/21) in [zer0Kerbal/NewShepard](https://github.com/zer0Kerbal/NewShepard)
-7. 🎉 Merged PR [#49](https://github.com/zer0Kerbal/NewShepard/pull/49) in [zer0Kerbal/NewShepard](https://github.com/zer0Kerbal/NewShepard)
-8. 💪 Opened PR [#49](https://github.com/zer0Kerbal/NewShepard/pull/49) in [zer0Kerbal/NewShepard](https://github.com/zer0Kerbal/NewShepard)
-9. ❗️ Closed issue [#20](https://github.com/zer0Kerbal/NewShepard/issues/20) in [zer0Kerbal/NewShepard](https://github.com/zer0Kerbal/NewShepard)
-10. 🎉 Merged PR [#47](https://github.com/zer0Kerbal/NewShepard/pull/47) in [zer0Kerbal/NewShepard](https://github.com/zer0Kerbal/NewShepard)
+1. ❗️ Opened issue [#56](https://github.com/zer0Kerbal/NewShepard/issues/56) in [zer0Kerbal/NewShepard](https://github.com/zer0Kerbal/NewShepard)
+2. ❗️ Opened issue [#55](https://github.com/zer0Kerbal/NewShepard/issues/55) in [zer0Kerbal/NewShepard](https://github.com/zer0Kerbal/NewShepard)
+3. ❗️ Closed issue [#4](https://github.com/zer0Kerbal/NewShepard/issues/4) in [zer0Kerbal/NewShepard](https://github.com/zer0Kerbal/NewShepard)
+4. ❗️ Closed issue [#3](https://github.com/zer0Kerbal/NewShepard/issues/3) in [zer0Kerbal/NewShepard](https://github.com/zer0Kerbal/NewShepard)
+5. ❗️ Closed issue [#2](https://github.com/zer0Kerbal/NewShepard/issues/2) in [zer0Kerbal/NewShepard](https://github.com/zer0Kerbal/NewShepard)
+6. ❗️ Closed issue [#1](https://github.com/zer0Kerbal/NewShepard/issues/1) in [zer0Kerbal/NewShepard](https://github.com/zer0Kerbal/NewShepard)
+7. ❗️ Closed issue [#8](https://github.com/zer0Kerbal/NewShepard/issues/8) in [zer0Kerbal/NewShepard](https://github.com/zer0Kerbal/NewShepard)
+8. ❗️ Closed issue [#42](https://github.com/zer0Kerbal/NewShepard/issues/42) in [zer0Kerbal/NewShepard](https://github.com/zer0Kerbal/NewShepard)
+9. ❗️ Closed issue [#41](https://github.com/zer0Kerbal/NewShepard/issues/41) in [zer0Kerbal/NewShepard](https://github.com/zer0Kerbal/NewShepard)
+10. ❗️ Closed issue [#24](https://github.com/zer0Kerbal/NewShepard/issues/24) in [zer0Kerbal/NewShepard](https://github.com/zer0Kerbal/NewShepard)
 <!--END_SECTION:activity-->
 
 </details
