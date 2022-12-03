@@ -49,16 +49,16 @@
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#43](https://github.com/zer0Kerbal/SpecialPartsDivision/issues/43) in [zer0Kerbal/SpecialPartsDivision](https://github.com/zer0Kerbal/SpecialPartsDivision)
-2. ❗️ Opened issue [#33](https://github.com/zer0Kerbal/KlockheedMartianLtd/issues/33) in [zer0Kerbal/KlockheedMartianLtd](https://github.com/zer0Kerbal/KlockheedMartianLtd)
-3. ❗️ Opened issue [#32](https://github.com/zer0Kerbal/KlockheedMartianLtd/issues/32) in [zer0Kerbal/KlockheedMartianLtd](https://github.com/zer0Kerbal/KlockheedMartianLtd)
-4. 🗣 Commented on [#9](https://github.com/zer0Kerbal/KlockheedMartianLtd/issues/9) in [zer0Kerbal/KlockheedMartianLtd](https://github.com/zer0Kerbal/KlockheedMartianLtd)
-5. ❗️ Opened issue [#30](https://github.com/zer0Kerbal/KlockheedMartianLtd/issues/30) in [zer0Kerbal/KlockheedMartianLtd](https://github.com/zer0Kerbal/KlockheedMartianLtd)
-6. ❗️ Closed issue [#8](https://github.com/zer0Kerbal/KlockheedMartianLtd/issues/8) in [zer0Kerbal/KlockheedMartianLtd](https://github.com/zer0Kerbal/KlockheedMartianLtd)
-7. ❗️ Closed issue [#6](https://github.com/zer0Kerbal/KlockheedMartianLtd/issues/6) in [zer0Kerbal/KlockheedMartianLtd](https://github.com/zer0Kerbal/KlockheedMartianLtd)
-8. ❗️ Closed issue [#5](https://github.com/zer0Kerbal/KlockheedMartianLtd/issues/5) in [zer0Kerbal/KlockheedMartianLtd](https://github.com/zer0Kerbal/KlockheedMartianLtd)
-9. ❗️ Closed issue [#4](https://github.com/zer0Kerbal/KlockheedMartianLtd/issues/4) in [zer0Kerbal/KlockheedMartianLtd](https://github.com/zer0Kerbal/KlockheedMartianLtd)
-10. ❗️ Closed issue [#3](https://github.com/zer0Kerbal/KlockheedMartianLtd/issues/3) in [zer0Kerbal/KlockheedMartianLtd](https://github.com/zer0Kerbal/KlockheedMartianLtd)
+1. 💪 Opened PR [#42](https://github.com/zer0Kerbal/TESS/pull/42) in [zer0Kerbal/TESS](https://github.com/zer0Kerbal/TESS)
+2. ❗️ Opened issue [#43](https://github.com/zer0Kerbal/SpecialPartsDivision/issues/43) in [zer0Kerbal/SpecialPartsDivision](https://github.com/zer0Kerbal/SpecialPartsDivision)
+3. ❗️ Opened issue [#33](https://github.com/zer0Kerbal/KlockheedMartianLtd/issues/33) in [zer0Kerbal/KlockheedMartianLtd](https://github.com/zer0Kerbal/KlockheedMartianLtd)
+4. ❗️ Opened issue [#32](https://github.com/zer0Kerbal/KlockheedMartianLtd/issues/32) in [zer0Kerbal/KlockheedMartianLtd](https://github.com/zer0Kerbal/KlockheedMartianLtd)
+5. 🗣 Commented on [#9](https://github.com/zer0Kerbal/KlockheedMartianLtd/issues/9) in [zer0Kerbal/KlockheedMartianLtd](https://github.com/zer0Kerbal/KlockheedMartianLtd)
+6. ❗️ Opened issue [#30](https://github.com/zer0Kerbal/KlockheedMartianLtd/issues/30) in [zer0Kerbal/KlockheedMartianLtd](https://github.com/zer0Kerbal/KlockheedMartianLtd)
+7. ❗️ Closed issue [#8](https://github.com/zer0Kerbal/KlockheedMartianLtd/issues/8) in [zer0Kerbal/KlockheedMartianLtd](https://github.com/zer0Kerbal/KlockheedMartianLtd)
+8. ❗️ Closed issue [#6](https://github.com/zer0Kerbal/KlockheedMartianLtd/issues/6) in [zer0Kerbal/KlockheedMartianLtd](https://github.com/zer0Kerbal/KlockheedMartianLtd)
+9. ❗️ Closed issue [#5](https://github.com/zer0Kerbal/KlockheedMartianLtd/issues/5) in [zer0Kerbal/KlockheedMartianLtd](https://github.com/zer0Kerbal/KlockheedMartianLtd)
+10. ❗️ Closed issue [#4](https://github.com/zer0Kerbal/KlockheedMartianLtd/issues/4) in [zer0Kerbal/KlockheedMartianLtd](https://github.com/zer0Kerbal/KlockheedMartianLtd)
 <!--END_SECTION:activity-->
 
 </details
