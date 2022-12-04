@@ -49,16 +49,16 @@
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#46](https://github.com/zer0Kerbal/TESS/issues/46) in [zer0Kerbal/TESS](https://github.com/zer0Kerbal/TESS)
-2. ❗️ Opened issue [#45](https://github.com/zer0Kerbal/TESS/issues/45) in [zer0Kerbal/TESS](https://github.com/zer0Kerbal/TESS)
-3. ❗️ Opened issue [#44](https://github.com/zer0Kerbal/TESS/issues/44) in [zer0Kerbal/TESS](https://github.com/zer0Kerbal/TESS)
-4. ❗️ Closed issue [#3](https://github.com/zer0Kerbal/TESS/issues/3) in [zer0Kerbal/TESS](https://github.com/zer0Kerbal/TESS)
-5. ❗️ Closed issue [#4](https://github.com/zer0Kerbal/TESS/issues/4) in [zer0Kerbal/TESS](https://github.com/zer0Kerbal/TESS)
-6. ❗️ Closed issue [#2](https://github.com/zer0Kerbal/TESS/issues/2) in [zer0Kerbal/TESS](https://github.com/zer0Kerbal/TESS)
-7. ❗️ Closed issue [#34](https://github.com/zer0Kerbal/TESS/issues/34) in [zer0Kerbal/TESS](https://github.com/zer0Kerbal/TESS)
-8. ❗️ Closed issue [#1](https://github.com/zer0Kerbal/TESS/issues/1) in [zer0Kerbal/TESS](https://github.com/zer0Kerbal/TESS)
-9. ❗️ Closed issue [#11](https://github.com/zer0Kerbal/TESS/issues/11) in [zer0Kerbal/TESS](https://github.com/zer0Kerbal/TESS)
-10. ❗️ Closed issue [#33](https://github.com/zer0Kerbal/TESS/issues/33) in [zer0Kerbal/TESS](https://github.com/zer0Kerbal/TESS)
+1. ❗️ Closed issue [#4](https://github.com/zer0Kerbal/Ariane6/issues/4) in [zer0Kerbal/Ariane6](https://github.com/zer0Kerbal/Ariane6)
+2. ❗️ Closed issue [#3](https://github.com/zer0Kerbal/Ariane6/issues/3) in [zer0Kerbal/Ariane6](https://github.com/zer0Kerbal/Ariane6)
+3. ❗️ Closed issue [#1](https://github.com/zer0Kerbal/Ariane6/issues/1) in [zer0Kerbal/Ariane6](https://github.com/zer0Kerbal/Ariane6)
+4. ❗️ Closed issue [#12](https://github.com/zer0Kerbal/Ariane6/issues/12) in [zer0Kerbal/Ariane6](https://github.com/zer0Kerbal/Ariane6)
+5. ❗️ Closed issue [#39](https://github.com/zer0Kerbal/Ariane6/issues/39) in [zer0Kerbal/Ariane6](https://github.com/zer0Kerbal/Ariane6)
+6. ❗️ Closed issue [#38](https://github.com/zer0Kerbal/Ariane6/issues/38) in [zer0Kerbal/Ariane6](https://github.com/zer0Kerbal/Ariane6)
+7. ❗️ Closed issue [#21](https://github.com/zer0Kerbal/Ariane6/issues/21) in [zer0Kerbal/Ariane6](https://github.com/zer0Kerbal/Ariane6)
+8. ❗️ Closed issue [#11](https://github.com/zer0Kerbal/Ariane6/issues/11) in [zer0Kerbal/Ariane6](https://github.com/zer0Kerbal/Ariane6)
+9. ❗️ Closed issue [#9](https://github.com/zer0Kerbal/Ariane6/issues/9) in [zer0Kerbal/Ariane6](https://github.com/zer0Kerbal/Ariane6)
+10. ❗️ Closed issue [#10](https://github.com/zer0Kerbal/Ariane6/issues/10) in [zer0Kerbal/Ariane6](https://github.com/zer0Kerbal/Ariane6)
 <!--END_SECTION:activity-->
 
 </details
