@@ -49,16 +49,16 @@
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#58](https://github.com/zer0Kerbal/Ariane6/issues/58) in [zer0Kerbal/Ariane6](https://github.com/zer0Kerbal/Ariane6)
-2. ❗️ Opened issue [#57](https://github.com/zer0Kerbal/Ariane6/issues/57) in [zer0Kerbal/Ariane6](https://github.com/zer0Kerbal/Ariane6)
-3. ❗️ Opened issue [#56](https://github.com/zer0Kerbal/Ariane6/issues/56) in [zer0Kerbal/Ariane6](https://github.com/zer0Kerbal/Ariane6)
-4. ❗️ Closed issue [#5](https://github.com/zer0Kerbal/Ariane6/issues/5) in [zer0Kerbal/Ariane6](https://github.com/zer0Kerbal/Ariane6)
-5. ❗️ Closed issue [#4](https://github.com/zer0Kerbal/Ariane6/issues/4) in [zer0Kerbal/Ariane6](https://github.com/zer0Kerbal/Ariane6)
-6. ❗️ Closed issue [#3](https://github.com/zer0Kerbal/Ariane6/issues/3) in [zer0Kerbal/Ariane6](https://github.com/zer0Kerbal/Ariane6)
-7. ❗️ Closed issue [#1](https://github.com/zer0Kerbal/Ariane6/issues/1) in [zer0Kerbal/Ariane6](https://github.com/zer0Kerbal/Ariane6)
-8. ❗️ Closed issue [#12](https://github.com/zer0Kerbal/Ariane6/issues/12) in [zer0Kerbal/Ariane6](https://github.com/zer0Kerbal/Ariane6)
-9. ❗️ Closed issue [#39](https://github.com/zer0Kerbal/Ariane6/issues/39) in [zer0Kerbal/Ariane6](https://github.com/zer0Kerbal/Ariane6)
-10. ❗️ Closed issue [#38](https://github.com/zer0Kerbal/Ariane6/issues/38) in [zer0Kerbal/Ariane6](https://github.com/zer0Kerbal/Ariane6)
+1. ❗️ Opened issue [#39](https://github.com/zer0Kerbal/InSight/issues/39) in [zer0Kerbal/InSight](https://github.com/zer0Kerbal/InSight)
+2. ❗️ Opened issue [#38](https://github.com/zer0Kerbal/InSight/issues/38) in [zer0Kerbal/InSight](https://github.com/zer0Kerbal/InSight)
+3. ❗️ Closed issue [#33](https://github.com/zer0Kerbal/InSight/issues/33) in [zer0Kerbal/InSight](https://github.com/zer0Kerbal/InSight)
+4. ❗️ Closed issue [#11](https://github.com/zer0Kerbal/InSight/issues/11) in [zer0Kerbal/InSight](https://github.com/zer0Kerbal/InSight)
+5. ❗️ Closed issue [#4](https://github.com/zer0Kerbal/InSight/issues/4) in [zer0Kerbal/InSight](https://github.com/zer0Kerbal/InSight)
+6. ❗️ Closed issue [#3](https://github.com/zer0Kerbal/InSight/issues/3) in [zer0Kerbal/InSight](https://github.com/zer0Kerbal/InSight)
+7. ❗️ Closed issue [#2](https://github.com/zer0Kerbal/InSight/issues/2) in [zer0Kerbal/InSight](https://github.com/zer0Kerbal/InSight)
+8. ❗️ Closed issue [#1](https://github.com/zer0Kerbal/InSight/issues/1) in [zer0Kerbal/InSight](https://github.com/zer0Kerbal/InSight)
+9. ❗️ Closed issue [#10](https://github.com/zer0Kerbal/InSight/issues/10) in [zer0Kerbal/InSight](https://github.com/zer0Kerbal/InSight)
+10. ❗️ Closed issue [#32](https://github.com/zer0Kerbal/InSight/issues/32) in [zer0Kerbal/InSight](https://github.com/zer0Kerbal/InSight)
 <!--END_SECTION:activity-->
 
 </details
