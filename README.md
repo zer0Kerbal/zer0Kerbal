@@ -32,11 +32,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Add on / mod testing: [ InSight Lander &lpar;INSIGHT&rpar; by Matheo G ]](https://www.youtube.com/watch?v=Y5HcYsquG1w)
+- [Add on / mod testing: [ InSight Lander &lpar;INSIGHT&rpar; by Matheo G ]](https://www.youtube.com/watch?v=lVCjVhvB4N8)
 - [Highlight: Add on / mod testing: [Space Shuttle RCS Nosecones &lpar;RCSN&rpar; &lpar;SSNC&rpar;]](https://www.youtube.com/watch?v=RJc-QvbX6VQ)
 - [Add on / mod testing:[ Rover Anti Grav System &lpar;RAGS&rpar;]](https://www.youtube.com/watch?v=NeLISUou36c)
 - [Add on / mod testing:[ Rover Anti Grav System &lpar;RAGS&rpar;]](https://www.youtube.com/watch?v=QyRfY0lpju0)
-- [Add on / mod testing:[Rover Anti Gravity System &lpar;RUGS&rpar;]](https://www.youtube.com/watch?v=3vx80qaI-OI)
-- [Add on / mod testing:[Rover Anti Gravity System &lpar;RUGS&rpar;]](https://www.youtube.com/watch?v=GLQqNlzc4N0)
 <!-- YOUTUBE:END -->
 
 ---
