@@ -49,16 +49,16 @@
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#70](https://github.com/zer0Kerbal/SpaceShuttleEngines/issues/70) in [zer0Kerbal/SpaceShuttleEngines](https://github.com/zer0Kerbal/SpaceShuttleEngines)
-2. ❗️ Opened issue [#69](https://github.com/zer0Kerbal/SpaceShuttleEngines/issues/69) in [zer0Kerbal/SpaceShuttleEngines](https://github.com/zer0Kerbal/SpaceShuttleEngines)
-3. ❗️ Opened issue [#39](https://github.com/zer0Kerbal/InSight/issues/39) in [zer0Kerbal/InSight](https://github.com/zer0Kerbal/InSight)
-4. ❗️ Opened issue [#38](https://github.com/zer0Kerbal/InSight/issues/38) in [zer0Kerbal/InSight](https://github.com/zer0Kerbal/InSight)
-5. ❗️ Closed issue [#33](https://github.com/zer0Kerbal/InSight/issues/33) in [zer0Kerbal/InSight](https://github.com/zer0Kerbal/InSight)
-6. ❗️ Closed issue [#11](https://github.com/zer0Kerbal/InSight/issues/11) in [zer0Kerbal/InSight](https://github.com/zer0Kerbal/InSight)
-7. ❗️ Closed issue [#4](https://github.com/zer0Kerbal/InSight/issues/4) in [zer0Kerbal/InSight](https://github.com/zer0Kerbal/InSight)
-8. ❗️ Closed issue [#3](https://github.com/zer0Kerbal/InSight/issues/3) in [zer0Kerbal/InSight](https://github.com/zer0Kerbal/InSight)
-9. ❗️ Closed issue [#2](https://github.com/zer0Kerbal/InSight/issues/2) in [zer0Kerbal/InSight](https://github.com/zer0Kerbal/InSight)
-10. ❗️ Closed issue [#1](https://github.com/zer0Kerbal/InSight/issues/1) in [zer0Kerbal/InSight](https://github.com/zer0Kerbal/InSight)
+1. ❗️ Closed issue [#70](https://github.com/zer0Kerbal/SpaceShuttleEngines/issues/70) in [zer0Kerbal/SpaceShuttleEngines](https://github.com/zer0Kerbal/SpaceShuttleEngines)
+2. ❗️ Closed issue [#69](https://github.com/zer0Kerbal/SpaceShuttleEngines/issues/69) in [zer0Kerbal/SpaceShuttleEngines](https://github.com/zer0Kerbal/SpaceShuttleEngines)
+3. 🎉 Merged PR [#71](https://github.com/zer0Kerbal/SpaceShuttleEngines/pull/71) in [zer0Kerbal/SpaceShuttleEngines](https://github.com/zer0Kerbal/SpaceShuttleEngines)
+4. 💪 Opened PR [#71](https://github.com/zer0Kerbal/SpaceShuttleEngines/pull/71) in [zer0Kerbal/SpaceShuttleEngines](https://github.com/zer0Kerbal/SpaceShuttleEngines)
+5. ❗️ Opened issue [#40](https://github.com/zer0Kerbal/InSight/issues/40) in [zer0Kerbal/InSight](https://github.com/zer0Kerbal/InSight)
+6. ❗️ Opened issue [#70](https://github.com/zer0Kerbal/SpaceShuttleEngines/issues/70) in [zer0Kerbal/SpaceShuttleEngines](https://github.com/zer0Kerbal/SpaceShuttleEngines)
+7. ❗️ Opened issue [#69](https://github.com/zer0Kerbal/SpaceShuttleEngines/issues/69) in [zer0Kerbal/SpaceShuttleEngines](https://github.com/zer0Kerbal/SpaceShuttleEngines)
+8. ❗️ Opened issue [#39](https://github.com/zer0Kerbal/InSight/issues/39) in [zer0Kerbal/InSight](https://github.com/zer0Kerbal/InSight)
+9. ❗️ Opened issue [#38](https://github.com/zer0Kerbal/InSight/issues/38) in [zer0Kerbal/InSight](https://github.com/zer0Kerbal/InSight)
+10. ❗️ Closed issue [#33](https://github.com/zer0Kerbal/InSight/issues/33) in [zer0Kerbal/InSight](https://github.com/zer0Kerbal/InSight)
 <!--END_SECTION:activity-->
 
 </details
