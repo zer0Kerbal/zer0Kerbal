@@ -49,16 +49,16 @@
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#75](https://github.com/zer0Kerbal/SpaceYLifters/pull/75) in [zer0Kerbal/SpaceYLifters](https://github.com/zer0Kerbal/SpaceYLifters)
-2. ❗️ Closed issue [#9](https://github.com/zer0Kerbal/SpaceYLifters/issues/9) in [zer0Kerbal/SpaceYLifters](https://github.com/zer0Kerbal/SpaceYLifters)
-3. 💪 Opened PR [#75](https://github.com/zer0Kerbal/SpaceYLifters/pull/75) in [zer0Kerbal/SpaceYLifters](https://github.com/zer0Kerbal/SpaceYLifters)
-4. 🎉 Merged PR [#74](https://github.com/zer0Kerbal/SpaceYLifters/pull/74) in [zer0Kerbal/SpaceYLifters](https://github.com/zer0Kerbal/SpaceYLifters)
-5. ❗️ Closed issue [#8](https://github.com/zer0Kerbal/SpaceYLifters/issues/8) in [zer0Kerbal/SpaceYLifters](https://github.com/zer0Kerbal/SpaceYLifters)
-6. 💪 Opened PR [#74](https://github.com/zer0Kerbal/SpaceYLifters/pull/74) in [zer0Kerbal/SpaceYLifters](https://github.com/zer0Kerbal/SpaceYLifters)
-7. ❗️ Closed issue [#7](https://github.com/zer0Kerbal/SpaceYLifters/issues/7) in [zer0Kerbal/SpaceYLifters](https://github.com/zer0Kerbal/SpaceYLifters)
-8. 🎉 Merged PR [#73](https://github.com/zer0Kerbal/SpaceYLifters/pull/73) in [zer0Kerbal/SpaceYLifters](https://github.com/zer0Kerbal/SpaceYLifters)
-9. 💪 Opened PR [#73](https://github.com/zer0Kerbal/SpaceYLifters/pull/73) in [zer0Kerbal/SpaceYLifters](https://github.com/zer0Kerbal/SpaceYLifters)
-10. ❗️ Closed issue [#6](https://github.com/zer0Kerbal/SpaceYLifters/issues/6) in [zer0Kerbal/SpaceYLifters](https://github.com/zer0Kerbal/SpaceYLifters)
+1. ❗️ Closed issue [#13](https://github.com/zer0Kerbal/SpaceYLifters/issues/13) in [zer0Kerbal/SpaceYLifters](https://github.com/zer0Kerbal/SpaceYLifters)
+2. 🎉 Merged PR [#79](https://github.com/zer0Kerbal/SpaceYLifters/pull/79) in [zer0Kerbal/SpaceYLifters](https://github.com/zer0Kerbal/SpaceYLifters)
+3. 💪 Opened PR [#79](https://github.com/zer0Kerbal/SpaceYLifters/pull/79) in [zer0Kerbal/SpaceYLifters](https://github.com/zer0Kerbal/SpaceYLifters)
+4. ❗️ Closed issue [#12](https://github.com/zer0Kerbal/SpaceYLifters/issues/12) in [zer0Kerbal/SpaceYLifters](https://github.com/zer0Kerbal/SpaceYLifters)
+5. 🎉 Merged PR [#78](https://github.com/zer0Kerbal/SpaceYLifters/pull/78) in [zer0Kerbal/SpaceYLifters](https://github.com/zer0Kerbal/SpaceYLifters)
+6. 💪 Opened PR [#78](https://github.com/zer0Kerbal/SpaceYLifters/pull/78) in [zer0Kerbal/SpaceYLifters](https://github.com/zer0Kerbal/SpaceYLifters)
+7. ❗️ Closed issue [#11](https://github.com/zer0Kerbal/SpaceYLifters/issues/11) in [zer0Kerbal/SpaceYLifters](https://github.com/zer0Kerbal/SpaceYLifters)
+8. 🎉 Merged PR [#77](https://github.com/zer0Kerbal/SpaceYLifters/pull/77) in [zer0Kerbal/SpaceYLifters](https://github.com/zer0Kerbal/SpaceYLifters)
+9. 💪 Opened PR [#77](https://github.com/zer0Kerbal/SpaceYLifters/pull/77) in [zer0Kerbal/SpaceYLifters](https://github.com/zer0Kerbal/SpaceYLifters)
+10. ❗️ Closed issue [#10](https://github.com/zer0Kerbal/SpaceYLifters/issues/10) in [zer0Kerbal/SpaceYLifters](https://github.com/zer0Kerbal/SpaceYLifters)
 <!--END_SECTION:activity-->
 
 </details
