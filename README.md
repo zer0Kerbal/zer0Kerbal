@@ -49,16 +49,16 @@
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#37](https://github.com/zer0Kerbal/SpaceYCorp/issues/37) in [zer0Kerbal/SpaceYCorp](https://github.com/zer0Kerbal/SpaceYCorp)
-2. ❗️ Opened issue [#36](https://github.com/zer0Kerbal/SpaceYCorp/issues/36) in [zer0Kerbal/SpaceYCorp](https://github.com/zer0Kerbal/SpaceYCorp)
-3. ❗️ Closed issue [#33](https://github.com/zer0Kerbal/SpaceYCorp/issues/33) in [zer0Kerbal/SpaceYCorp](https://github.com/zer0Kerbal/SpaceYCorp)
-4. ❗️ Closed issue [#32](https://github.com/zer0Kerbal/SpaceYCorp/issues/32) in [zer0Kerbal/SpaceYCorp](https://github.com/zer0Kerbal/SpaceYCorp)
-5. ❗️ Closed issue [#31](https://github.com/zer0Kerbal/SpaceYCorp/issues/31) in [zer0Kerbal/SpaceYCorp](https://github.com/zer0Kerbal/SpaceYCorp)
-6. ❗️ Closed issue [#30](https://github.com/zer0Kerbal/SpaceYCorp/issues/30) in [zer0Kerbal/SpaceYCorp](https://github.com/zer0Kerbal/SpaceYCorp)
-7. 🎉 Merged PR [#34](https://github.com/zer0Kerbal/SpaceYCorp/pull/34) in [zer0Kerbal/SpaceYCorp](https://github.com/zer0Kerbal/SpaceYCorp)
-8. 💪 Opened PR [#34](https://github.com/zer0Kerbal/SpaceYCorp/pull/34) in [zer0Kerbal/SpaceYCorp](https://github.com/zer0Kerbal/SpaceYCorp)
-9. ❗️ Closed issue [#29](https://github.com/zer0Kerbal/SpaceYLifters/issues/29) in [zer0Kerbal/SpaceYLifters](https://github.com/zer0Kerbal/SpaceYLifters)
-10. ❗️ Closed issue [#46](https://github.com/zer0Kerbal/SpaceYLifters/issues/46) in [zer0Kerbal/SpaceYLifters](https://github.com/zer0Kerbal/SpaceYLifters)
+1. ❗️ Opened issue [#100](https://github.com/zer0Kerbal/SpaceYLifters/issues/100) in [zer0Kerbal/SpaceYLifters](https://github.com/zer0Kerbal/SpaceYLifters)
+2. ❗️ Opened issue [#99](https://github.com/zer0Kerbal/SpaceYLifters/issues/99) in [zer0Kerbal/SpaceYLifters](https://github.com/zer0Kerbal/SpaceYLifters)
+3. ❗️ Closed issue [#43](https://github.com/zer0Kerbal/SpaceYLifters/issues/43) in [zer0Kerbal/SpaceYLifters](https://github.com/zer0Kerbal/SpaceYLifters)
+4. ❗️ Closed issue [#42](https://github.com/zer0Kerbal/SpaceYLifters/issues/42) in [zer0Kerbal/SpaceYLifters](https://github.com/zer0Kerbal/SpaceYLifters)
+5. ❗️ Closed issue [#41](https://github.com/zer0Kerbal/SpaceYLifters/issues/41) in [zer0Kerbal/SpaceYLifters](https://github.com/zer0Kerbal/SpaceYLifters)
+6. ❗️ Closed issue [#40](https://github.com/zer0Kerbal/SpaceYLifters/issues/40) in [zer0Kerbal/SpaceYLifters](https://github.com/zer0Kerbal/SpaceYLifters)
+7. ❗️ Closed issue [#45](https://github.com/zer0Kerbal/SpaceYLifters/issues/45) in [zer0Kerbal/SpaceYLifters](https://github.com/zer0Kerbal/SpaceYLifters)
+8. ❗️ Closed issue [#49](https://github.com/zer0Kerbal/SpaceYLifters/issues/49) in [zer0Kerbal/SpaceYLifters](https://github.com/zer0Kerbal/SpaceYLifters)
+9. ❗️ Closed issue [#47](https://github.com/zer0Kerbal/SpaceYLifters/issues/47) in [zer0Kerbal/SpaceYLifters](https://github.com/zer0Kerbal/SpaceYLifters)
+10. ❗️ Closed issue [#44](https://github.com/zer0Kerbal/SpaceYLifters/issues/44) in [zer0Kerbal/SpaceYLifters](https://github.com/zer0Kerbal/SpaceYLifters)
 <!--END_SECTION:activity-->
 
 </details
