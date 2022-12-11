@@ -49,16 +49,16 @@
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#34](https://github.com/zer0Kerbal/KlockheedMartianLtd/pull/34) in [zer0Kerbal/KlockheedMartianLtd](https://github.com/zer0Kerbal/KlockheedMartianLtd)
-2. ❗️ Opened issue [#32](https://github.com/zer0Kerbal/SolarScience/issues/32) in [zer0Kerbal/SolarScience](https://github.com/zer0Kerbal/SolarScience)
-3. ❗️ Opened issue [#33](https://github.com/zer0Kerbal/SolarScience/issues/33) in [zer0Kerbal/SolarScience](https://github.com/zer0Kerbal/SolarScience)
-4. ❗️ Opened issue [#100](https://github.com/zer0Kerbal/SpaceYLifters/issues/100) in [zer0Kerbal/SpaceYLifters](https://github.com/zer0Kerbal/SpaceYLifters)
-5. ❗️ Opened issue [#99](https://github.com/zer0Kerbal/SpaceYLifters/issues/99) in [zer0Kerbal/SpaceYLifters](https://github.com/zer0Kerbal/SpaceYLifters)
-6. ❗️ Closed issue [#43](https://github.com/zer0Kerbal/SpaceYLifters/issues/43) in [zer0Kerbal/SpaceYLifters](https://github.com/zer0Kerbal/SpaceYLifters)
-7. ❗️ Closed issue [#42](https://github.com/zer0Kerbal/SpaceYLifters/issues/42) in [zer0Kerbal/SpaceYLifters](https://github.com/zer0Kerbal/SpaceYLifters)
-8. ❗️ Closed issue [#41](https://github.com/zer0Kerbal/SpaceYLifters/issues/41) in [zer0Kerbal/SpaceYLifters](https://github.com/zer0Kerbal/SpaceYLifters)
-9. ❗️ Closed issue [#40](https://github.com/zer0Kerbal/SpaceYLifters/issues/40) in [zer0Kerbal/SpaceYLifters](https://github.com/zer0Kerbal/SpaceYLifters)
-10. ❗️ Closed issue [#45](https://github.com/zer0Kerbal/SpaceYLifters/issues/45) in [zer0Kerbal/SpaceYLifters](https://github.com/zer0Kerbal/SpaceYLifters)
+1. 🗣 Commented on [#22](https://github.com/zer0Kerbal/SolarScience/issues/22) in [zer0Kerbal/SolarScience](https://github.com/zer0Kerbal/SolarScience)
+2. ❗️ Opened issue [#842](https://github.com/Kerbalism/Kerbalism/issues/842) in [Kerbalism/Kerbalism](https://github.com/Kerbalism/Kerbalism)
+3. 🎉 Merged PR [#34](https://github.com/zer0Kerbal/KlockheedMartianLtd/pull/34) in [zer0Kerbal/KlockheedMartianLtd](https://github.com/zer0Kerbal/KlockheedMartianLtd)
+4. ❗️ Opened issue [#32](https://github.com/zer0Kerbal/SolarScience/issues/32) in [zer0Kerbal/SolarScience](https://github.com/zer0Kerbal/SolarScience)
+5. ❗️ Opened issue [#33](https://github.com/zer0Kerbal/SolarScience/issues/33) in [zer0Kerbal/SolarScience](https://github.com/zer0Kerbal/SolarScience)
+6. ❗️ Opened issue [#100](https://github.com/zer0Kerbal/SpaceYLifters/issues/100) in [zer0Kerbal/SpaceYLifters](https://github.com/zer0Kerbal/SpaceYLifters)
+7. ❗️ Opened issue [#99](https://github.com/zer0Kerbal/SpaceYLifters/issues/99) in [zer0Kerbal/SpaceYLifters](https://github.com/zer0Kerbal/SpaceYLifters)
+8. ❗️ Closed issue [#43](https://github.com/zer0Kerbal/SpaceYLifters/issues/43) in [zer0Kerbal/SpaceYLifters](https://github.com/zer0Kerbal/SpaceYLifters)
+9. ❗️ Closed issue [#42](https://github.com/zer0Kerbal/SpaceYLifters/issues/42) in [zer0Kerbal/SpaceYLifters](https://github.com/zer0Kerbal/SpaceYLifters)
+10. ❗️ Closed issue [#41](https://github.com/zer0Kerbal/SpaceYLifters/issues/41) in [zer0Kerbal/SpaceYLifters](https://github.com/zer0Kerbal/SpaceYLifters)
 <!--END_SECTION:activity-->
 
 </details
