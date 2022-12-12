@@ -32,11 +32,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Add on / mod testing: [ Wernher&#39;s Old Stuff &lpar;WOS&rpar;  by TiktaalikDreaming] Version 1.9.99.3-prerelease](https://www.youtube.com/watch?v=EkedhTvDPow)
 - [Add on / mod testing: [ Solar Science &lpar;SOL&rpar;  by Snoopy20111]](https://www.youtube.com/watch?v=LSvKKjY-xRw)
 - [Add on / mod testing: [ Fuel Tanks Plus &lpar;FTP&rpar;  by NecroBones]](https://www.youtube.com/watch?v=OSKB1UZjZT8)
 - [Highlight: Add on / mod testing: [ Space Shuttle Engines &lpar;SSE&rpar; by dtobi ]](https://www.youtube.com/watch?v=lgLkOPfSjKc)
 - [Add on / mod testing: [ InSight Lander &lpar;INSIGHT&rpar; by Matheo G ]](https://www.youtube.com/watch?v=Y5HcYsquG1w)
-- [Add on / mod testing: [ InSight Lander &lpar;INSIGHT&rpar; by Matheo G ]](https://www.youtube.com/watch?v=lVCjVhvB4N8)
 <!-- YOUTUBE:END -->
 
 ---
