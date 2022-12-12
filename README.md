@@ -49,16 +49,16 @@
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#38](https://github.com/zer0Kerbal/SolarScience/pull/38) in [zer0Kerbal/SolarScience](https://github.com/zer0Kerbal/SolarScience)
-2. 🗣 Commented on [#9](https://github.com/zer0Kerbal/KlockheedMartianLtd/issues/9) in [zer0Kerbal/KlockheedMartianLtd](https://github.com/zer0Kerbal/KlockheedMartianLtd)
-3. ❗️ Opened issue [#38](https://github.com/zer0Kerbal/KlockheedMartianLtd/issues/38) in [zer0Kerbal/KlockheedMartianLtd](https://github.com/zer0Kerbal/KlockheedMartianLtd)
-4. ❗️ Opened issue [#37](https://github.com/zer0Kerbal/KlockheedMartianLtd/issues/37) in [zer0Kerbal/KlockheedMartianLtd](https://github.com/zer0Kerbal/KlockheedMartianLtd)
-5. ❗️ Closed issue [#33](https://github.com/zer0Kerbal/KlockheedMartianLtd/issues/33) in [zer0Kerbal/KlockheedMartianLtd](https://github.com/zer0Kerbal/KlockheedMartianLtd)
-6. ❗️ Closed issue [#32](https://github.com/zer0Kerbal/KlockheedMartianLtd/issues/32) in [zer0Kerbal/KlockheedMartianLtd](https://github.com/zer0Kerbal/KlockheedMartianLtd)
-7. ❗️ Closed issue [#9](https://github.com/zer0Kerbal/KlockheedMartianLtd/issues/9) in [zer0Kerbal/KlockheedMartianLtd](https://github.com/zer0Kerbal/KlockheedMartianLtd)
-8. 🎉 Merged PR [#35](https://github.com/zer0Kerbal/KlockheedMartianLtd/pull/35) in [zer0Kerbal/KlockheedMartianLtd](https://github.com/zer0Kerbal/KlockheedMartianLtd)
-9. 💪 Opened PR [#35](https://github.com/zer0Kerbal/KlockheedMartianLtd/pull/35) in [zer0Kerbal/KlockheedMartianLtd](https://github.com/zer0Kerbal/KlockheedMartianLtd)
-10. ❗️ Opened issue [#37](https://github.com/zer0Kerbal/SolarScience/issues/37) in [zer0Kerbal/SolarScience](https://github.com/zer0Kerbal/SolarScience)
+1. ❗️ Opened issue [#58](https://github.com/zer0Kerbal/WernhersOldStuff/issues/58) in [zer0Kerbal/WernhersOldStuff](https://github.com/zer0Kerbal/WernhersOldStuff)
+2. ❗️ Opened issue [#57](https://github.com/zer0Kerbal/WernhersOldStuff/issues/57) in [zer0Kerbal/WernhersOldStuff](https://github.com/zer0Kerbal/WernhersOldStuff)
+3. 🎉 Merged PR [#38](https://github.com/zer0Kerbal/SolarScience/pull/38) in [zer0Kerbal/SolarScience](https://github.com/zer0Kerbal/SolarScience)
+4. 🗣 Commented on [#9](https://github.com/zer0Kerbal/KlockheedMartianLtd/issues/9) in [zer0Kerbal/KlockheedMartianLtd](https://github.com/zer0Kerbal/KlockheedMartianLtd)
+5. ❗️ Opened issue [#38](https://github.com/zer0Kerbal/KlockheedMartianLtd/issues/38) in [zer0Kerbal/KlockheedMartianLtd](https://github.com/zer0Kerbal/KlockheedMartianLtd)
+6. ❗️ Opened issue [#37](https://github.com/zer0Kerbal/KlockheedMartianLtd/issues/37) in [zer0Kerbal/KlockheedMartianLtd](https://github.com/zer0Kerbal/KlockheedMartianLtd)
+7. ❗️ Closed issue [#33](https://github.com/zer0Kerbal/KlockheedMartianLtd/issues/33) in [zer0Kerbal/KlockheedMartianLtd](https://github.com/zer0Kerbal/KlockheedMartianLtd)
+8. ❗️ Closed issue [#32](https://github.com/zer0Kerbal/KlockheedMartianLtd/issues/32) in [zer0Kerbal/KlockheedMartianLtd](https://github.com/zer0Kerbal/KlockheedMartianLtd)
+9. ❗️ Closed issue [#9](https://github.com/zer0Kerbal/KlockheedMartianLtd/issues/9) in [zer0Kerbal/KlockheedMartianLtd](https://github.com/zer0Kerbal/KlockheedMartianLtd)
+10. 🎉 Merged PR [#35](https://github.com/zer0Kerbal/KlockheedMartianLtd/pull/35) in [zer0Kerbal/KlockheedMartianLtd](https://github.com/zer0Kerbal/KlockheedMartianLtd)
 <!--END_SECTION:activity-->
 
 </details
