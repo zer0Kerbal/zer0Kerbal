@@ -49,16 +49,16 @@
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#58](https://github.com/zer0Kerbal/RadialOmniSeparator/pull/58) in [zer0Kerbal/RadialOmniSeparator](https://github.com/zer0Kerbal/RadialOmniSeparator)
-2. 🎉 Merged PR [#42](https://github.com/zer0Kerbal/InSight/pull/42) in [zer0Kerbal/InSight](https://github.com/zer0Kerbal/InSight)
-3. 🎉 Merged PR [#41](https://github.com/zer0Kerbal/InSight/pull/41) in [zer0Kerbal/InSight](https://github.com/zer0Kerbal/InSight)
-4. ❗️ Opened issue [#62](https://github.com/zer0Kerbal/WernhersOldStuff/issues/62) in [zer0Kerbal/WernhersOldStuff](https://github.com/zer0Kerbal/WernhersOldStuff)
-5. ❗️ Opened issue [#61](https://github.com/zer0Kerbal/WernhersOldStuff/issues/61) in [zer0Kerbal/WernhersOldStuff](https://github.com/zer0Kerbal/WernhersOldStuff)
-6. ❗️ Closed issue [#56](https://github.com/zer0Kerbal/WernhersOldStuff/issues/56) in [zer0Kerbal/WernhersOldStuff](https://github.com/zer0Kerbal/WernhersOldStuff)
-7. ❗️ Closed issue [#55](https://github.com/zer0Kerbal/WernhersOldStuff/issues/55) in [zer0Kerbal/WernhersOldStuff](https://github.com/zer0Kerbal/WernhersOldStuff)
-8. ❗️ Closed issue [#52](https://github.com/zer0Kerbal/WernhersOldStuff/issues/52) in [zer0Kerbal/WernhersOldStuff](https://github.com/zer0Kerbal/WernhersOldStuff)
-9. ❗️ Closed issue [#58](https://github.com/zer0Kerbal/WernhersOldStuff/issues/58) in [zer0Kerbal/WernhersOldStuff](https://github.com/zer0Kerbal/WernhersOldStuff)
-10. 🎉 Merged PR [#59](https://github.com/zer0Kerbal/WernhersOldStuff/pull/59) in [zer0Kerbal/WernhersOldStuff](https://github.com/zer0Kerbal/WernhersOldStuff)
+1. 💪 Opened PR [#9468](https://github.com/KSP-CKAN/NetKAN/pull/9468) in [KSP-CKAN/NetKAN](https://github.com/KSP-CKAN/NetKAN)
+2. 🎉 Merged PR [#58](https://github.com/zer0Kerbal/RadialOmniSeparator/pull/58) in [zer0Kerbal/RadialOmniSeparator](https://github.com/zer0Kerbal/RadialOmniSeparator)
+3. 🎉 Merged PR [#42](https://github.com/zer0Kerbal/InSight/pull/42) in [zer0Kerbal/InSight](https://github.com/zer0Kerbal/InSight)
+4. 🎉 Merged PR [#41](https://github.com/zer0Kerbal/InSight/pull/41) in [zer0Kerbal/InSight](https://github.com/zer0Kerbal/InSight)
+5. ❗️ Opened issue [#62](https://github.com/zer0Kerbal/WernhersOldStuff/issues/62) in [zer0Kerbal/WernhersOldStuff](https://github.com/zer0Kerbal/WernhersOldStuff)
+6. ❗️ Opened issue [#61](https://github.com/zer0Kerbal/WernhersOldStuff/issues/61) in [zer0Kerbal/WernhersOldStuff](https://github.com/zer0Kerbal/WernhersOldStuff)
+7. ❗️ Closed issue [#56](https://github.com/zer0Kerbal/WernhersOldStuff/issues/56) in [zer0Kerbal/WernhersOldStuff](https://github.com/zer0Kerbal/WernhersOldStuff)
+8. ❗️ Closed issue [#55](https://github.com/zer0Kerbal/WernhersOldStuff/issues/55) in [zer0Kerbal/WernhersOldStuff](https://github.com/zer0Kerbal/WernhersOldStuff)
+9. ❗️ Closed issue [#52](https://github.com/zer0Kerbal/WernhersOldStuff/issues/52) in [zer0Kerbal/WernhersOldStuff](https://github.com/zer0Kerbal/WernhersOldStuff)
+10. ❗️ Closed issue [#58](https://github.com/zer0Kerbal/WernhersOldStuff/issues/58) in [zer0Kerbal/WernhersOldStuff](https://github.com/zer0Kerbal/WernhersOldStuff)
 <!--END_SECTION:activity-->
 
 </details
