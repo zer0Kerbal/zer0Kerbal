@@ -49,16 +49,16 @@
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Reopened issue [#16](https://github.com/zer0Kerbal/RadialOmniSeparator/issues/16) in [zer0Kerbal/RadialOmniSeparator](https://github.com/zer0Kerbal/RadialOmniSeparator)
-2. ❗️ Reopened issue [#17](https://github.com/zer0Kerbal/RadialOmniSeparator/issues/17) in [zer0Kerbal/RadialOmniSeparator](https://github.com/zer0Kerbal/RadialOmniSeparator)
-3. ❗️ Closed issue [#32](https://github.com/zer0Kerbal/RadialOmniSeparator/issues/32) in [zer0Kerbal/RadialOmniSeparator](https://github.com/zer0Kerbal/RadialOmniSeparator)
-4. ❗️ Closed issue [#57](https://github.com/zer0Kerbal/RadialOmniSeparator/issues/57) in [zer0Kerbal/RadialOmniSeparator](https://github.com/zer0Kerbal/RadialOmniSeparator)
-5. ❗️ Closed issue [#33](https://github.com/zer0Kerbal/RadialOmniSeparator/issues/33) in [zer0Kerbal/RadialOmniSeparator](https://github.com/zer0Kerbal/RadialOmniSeparator)
-6. ❗️ Closed issue [#17](https://github.com/zer0Kerbal/RadialOmniSeparator/issues/17) in [zer0Kerbal/RadialOmniSeparator](https://github.com/zer0Kerbal/RadialOmniSeparator)
-7. ❗️ Closed issue [#56](https://github.com/zer0Kerbal/RadialOmniSeparator/issues/56) in [zer0Kerbal/RadialOmniSeparator](https://github.com/zer0Kerbal/RadialOmniSeparator)
-8. ❗️ Closed issue [#34](https://github.com/zer0Kerbal/RadialOmniSeparator/issues/34) in [zer0Kerbal/RadialOmniSeparator](https://github.com/zer0Kerbal/RadialOmniSeparator)
-9. ❗️ Closed issue [#31](https://github.com/zer0Kerbal/RadialOmniSeparator/issues/31) in [zer0Kerbal/RadialOmniSeparator](https://github.com/zer0Kerbal/RadialOmniSeparator)
-10. ❗️ Closed issue [#12](https://github.com/zer0Kerbal/RadialOmniSeparator/issues/12) in [zer0Kerbal/RadialOmniSeparator](https://github.com/zer0Kerbal/RadialOmniSeparator)
+1. ❗️ Opened issue [#62](https://github.com/zer0Kerbal/RadialOmniSeparator/issues/62) in [zer0Kerbal/RadialOmniSeparator](https://github.com/zer0Kerbal/RadialOmniSeparator)
+2. ❗️ Opened issue [#61](https://github.com/zer0Kerbal/RadialOmniSeparator/issues/61) in [zer0Kerbal/RadialOmniSeparator](https://github.com/zer0Kerbal/RadialOmniSeparator)
+3. ❗️ Reopened issue [#16](https://github.com/zer0Kerbal/RadialOmniSeparator/issues/16) in [zer0Kerbal/RadialOmniSeparator](https://github.com/zer0Kerbal/RadialOmniSeparator)
+4. ❗️ Reopened issue [#17](https://github.com/zer0Kerbal/RadialOmniSeparator/issues/17) in [zer0Kerbal/RadialOmniSeparator](https://github.com/zer0Kerbal/RadialOmniSeparator)
+5. ❗️ Closed issue [#32](https://github.com/zer0Kerbal/RadialOmniSeparator/issues/32) in [zer0Kerbal/RadialOmniSeparator](https://github.com/zer0Kerbal/RadialOmniSeparator)
+6. ❗️ Closed issue [#57](https://github.com/zer0Kerbal/RadialOmniSeparator/issues/57) in [zer0Kerbal/RadialOmniSeparator](https://github.com/zer0Kerbal/RadialOmniSeparator)
+7. ❗️ Closed issue [#33](https://github.com/zer0Kerbal/RadialOmniSeparator/issues/33) in [zer0Kerbal/RadialOmniSeparator](https://github.com/zer0Kerbal/RadialOmniSeparator)
+8. ❗️ Closed issue [#17](https://github.com/zer0Kerbal/RadialOmniSeparator/issues/17) in [zer0Kerbal/RadialOmniSeparator](https://github.com/zer0Kerbal/RadialOmniSeparator)
+9. ❗️ Closed issue [#56](https://github.com/zer0Kerbal/RadialOmniSeparator/issues/56) in [zer0Kerbal/RadialOmniSeparator](https://github.com/zer0Kerbal/RadialOmniSeparator)
+10. ❗️ Closed issue [#34](https://github.com/zer0Kerbal/RadialOmniSeparator/issues/34) in [zer0Kerbal/RadialOmniSeparator](https://github.com/zer0Kerbal/RadialOmniSeparator)
 <!--END_SECTION:activity-->
 
 </details
