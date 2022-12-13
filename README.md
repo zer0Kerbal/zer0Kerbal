@@ -49,16 +49,16 @@
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#70](https://github.com/zer0Kerbal/KeridianDynamics/issues/70) in [zer0Kerbal/KeridianDynamics](https://github.com/zer0Kerbal/KeridianDynamics)
-2. ❗️ Closed issue [#65](https://github.com/zer0Kerbal/KeridianDynamics/issues/65) in [zer0Kerbal/KeridianDynamics](https://github.com/zer0Kerbal/KeridianDynamics)
-3. ❗️ Closed issue [#59](https://github.com/zer0Kerbal/KeridianDynamics/issues/59) in [zer0Kerbal/KeridianDynamics](https://github.com/zer0Kerbal/KeridianDynamics)
-4. ❗️ Closed issue [#69](https://github.com/zer0Kerbal/KeridianDynamics/issues/69) in [zer0Kerbal/KeridianDynamics](https://github.com/zer0Kerbal/KeridianDynamics)
-5. 🎉 Merged PR [#71](https://github.com/zer0Kerbal/KeridianDynamics/pull/71) in [zer0Kerbal/KeridianDynamics](https://github.com/zer0Kerbal/KeridianDynamics)
-6. 💪 Opened PR [#71](https://github.com/zer0Kerbal/KeridianDynamics/pull/71) in [zer0Kerbal/KeridianDynamics](https://github.com/zer0Kerbal/KeridianDynamics)
-7. 💪 Opened PR [#9468](https://github.com/KSP-CKAN/NetKAN/pull/9468) in [KSP-CKAN/NetKAN](https://github.com/KSP-CKAN/NetKAN)
-8. 🎉 Merged PR [#58](https://github.com/zer0Kerbal/RadialOmniSeparator/pull/58) in [zer0Kerbal/RadialOmniSeparator](https://github.com/zer0Kerbal/RadialOmniSeparator)
-9. 🎉 Merged PR [#42](https://github.com/zer0Kerbal/InSight/pull/42) in [zer0Kerbal/InSight](https://github.com/zer0Kerbal/InSight)
-10. 🎉 Merged PR [#41](https://github.com/zer0Kerbal/InSight/pull/41) in [zer0Kerbal/InSight](https://github.com/zer0Kerbal/InSight)
+1. 🗣 Commented on [#24](https://github.com/zer0Kerbal/RadialOmniSeparator/issues/24) in [zer0Kerbal/RadialOmniSeparator](https://github.com/zer0Kerbal/RadialOmniSeparator)
+2. 🗣 Commented on [#25](https://github.com/zer0Kerbal/RadialOmniSeparator/issues/25) in [zer0Kerbal/RadialOmniSeparator](https://github.com/zer0Kerbal/RadialOmniSeparator)
+3. 🗣 Commented on [#17](https://github.com/zer0Kerbal/RadialOmniSeparator/issues/17) in [zer0Kerbal/RadialOmniSeparator](https://github.com/zer0Kerbal/RadialOmniSeparator)
+4. ❗️ Opened issue [#74](https://github.com/zer0Kerbal/KeridianDynamics/issues/74) in [zer0Kerbal/KeridianDynamics](https://github.com/zer0Kerbal/KeridianDynamics)
+5. ❗️ Opened issue [#73](https://github.com/zer0Kerbal/KeridianDynamics/issues/73) in [zer0Kerbal/KeridianDynamics](https://github.com/zer0Kerbal/KeridianDynamics)
+6. ❗️ Closed issue [#70](https://github.com/zer0Kerbal/KeridianDynamics/issues/70) in [zer0Kerbal/KeridianDynamics](https://github.com/zer0Kerbal/KeridianDynamics)
+7. ❗️ Closed issue [#65](https://github.com/zer0Kerbal/KeridianDynamics/issues/65) in [zer0Kerbal/KeridianDynamics](https://github.com/zer0Kerbal/KeridianDynamics)
+8. ❗️ Closed issue [#59](https://github.com/zer0Kerbal/KeridianDynamics/issues/59) in [zer0Kerbal/KeridianDynamics](https://github.com/zer0Kerbal/KeridianDynamics)
+9. ❗️ Closed issue [#69](https://github.com/zer0Kerbal/KeridianDynamics/issues/69) in [zer0Kerbal/KeridianDynamics](https://github.com/zer0Kerbal/KeridianDynamics)
+10. 🎉 Merged PR [#71](https://github.com/zer0Kerbal/KeridianDynamics/pull/71) in [zer0Kerbal/KeridianDynamics](https://github.com/zer0Kerbal/KeridianDynamics)
 <!--END_SECTION:activity-->
 
 </details
