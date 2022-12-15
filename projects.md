@@ -3,6 +3,15 @@
 <!-- omit in toc -->
 ## TOC
 
+sections expand (details)
+
+### Section list [wip]
+
+* [Plugins][#plugins]
+  * [Biomatic (BIO)][#biomatic-bio]
+  * [Kaboom! (BOOM)][#kaboom-boom]
+  * [On Demand Fuel Cells (ODFC][#on-demand-fuel-cells-odfc]
+
 <details>
   <summary>Additional Cards</summary>
 
@@ -31,7 +40,7 @@
 ![Biomatic](https://img.shields.io/github/release-date/zer0kerbal/Biomatic?style=plastic)
 ![Biomatic](https://img.shields.io/github/release-date-pre/zer0kerbal/Biomatic?style=plastic)
 
-### [KaboOom! (BOOM)](https://github.com/zer0Kerbal/Kaboom)
+### [Kaboom! (BOOM)](https://github.com/zer0Kerbal/Kaboom)
 
 ![Kaboom](https://github.com/zer0Kerbal/Kaboom/actions/workflows/greetings.yml/badge.svg) ![Kaboom](https://github.com/zer0Kerbal/Kaboom/actions/workflows/AVC-VersionFileValidator.yml/badge.svg?branch=master)
 ![Kaboom](https://img.shields.io/github/downloads/zer0Kerbal/Kaboom/total?style=plastic) ![Kaboom](https://img.shields.io/github/repo-size/zer0Kerbal/Kaboom?style=plastic) ![Kaboom](https://img.shields.io/github/contributors/zer0kerbal/Kaboom?style=plastic) ![Kaboom](https://img.shields.io/github/release-date/zer0kerbal/Kaboom?style=plastic) ![Kaboom](https://img.shields.io/github/release-date-pre/zer0kerbal/Kaboom?style=plastic)
