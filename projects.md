@@ -7,10 +7,18 @@ sections expand (details)
 
 ### Section list [wip]
 
-* [Plugins][#plugins]
+* [Plugins](#plugins)
   * [Biomatic (BIO)](#biomatic-bio)
   * [Kaboom! (BOOM)](#kaboom-boom)
   * [On Demand Fuel Cells (ODFC](#on-demand-fuel-cells-odfc)
+  * [Moho HVAC](#moho-hvac)
+  * [Axial Aerospace (AA)](#axial-aerospace)
+  * [DaMichel (DM)](#damichel-dm)
+* [Holiday/Event](#holiday-event)
+* [NecroBones](#necrobones)
+  * [](#)
+  * [](#)
+  * [](#)
 
 <details>
   <summary>Additional Cards</summary>
@@ -20,10 +28,9 @@ sections expand (details)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zer0Kerbal&repo=MKII-L)](https://github.com/zer0Kerbal/MKII-L) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zer0Kerbal&repo=MK2Y)](https://github.com/zer0Kerbal/MK2Y)
 </details>
 
----
 ## Plugins
 
-[TOC/top](#TOC)
+[TOC/top](#toc)
 
 <details>
   <summary>Plugins</summary>
@@ -61,7 +68,7 @@ sections expand (details)
 
 ## Moho HVAC
 
-[TOC/top](#TOC)
+[TOC/top](#toc)
 
 <details>
   <summary>Moho HVAC</summary>
@@ -94,7 +101,7 @@ sections expand (details)
 
 ## Axial Aerospace
 
-[TOC/top](#TOC)
+[TOC/top](#toc)
 
 <details>
   <summary>Axial Aerospace</summary>
@@ -132,9 +139,9 @@ sections expand (details)
 
 ---
 
-## DaMichel's Parts Pack (DM)
+## DaMichel (DM)
 
-[TOC/top](#TOC)
+[TOC/top](#toc)
 
 <details>
   <summary>DaMichel's</summary>
@@ -146,7 +153,7 @@ sections expand (details)
   ![DaMichelLtd](https://github.com/zer0Kerbal/DaMichelLtd/actions/workflows/greetings.yml/badge.svg) ![DaMichelLtd](https://github.com/zer0Kerbal/DaMichelLtd/actions/workflows/AVC-VersionFileValidator.yml/badge.svg?branch=master)
   ![DaMichelLtd](https://img.shields.io/github/downloads/zer0Kerbal/DaMichelLtd/total?style=plastic) ![DaMichelLtd](https://img.shields.io/github/repo-size/zer0Kerbal/DaMichelLtd?style=plastic) ![DaMichelLtd](https://img.shields.io/github/contributors/zer0kerbal/DaMichelLtd?style=plastic) ![DaMichelLtd](https://img.shields.io/github/release-date/zer0kerbal/DaMichelLtd?style=plastic) ![DaMichelLtd](https://img.shields.io/github/release-date-pre/zer0kerbal/DaMichelLtd?style=plastic)
 
-### [DaMichel Parts Pack (DM/PP)](https://github.com/zer0Kerbal/[DaMichel])
+### [DaMichel's Parts (DMP)](https://github.com/zer0Kerbal/[DaMichel])
 
   ![DaMichel](https://github.com/zer0Kerbal/[DaMichel]/actions/workflows/greetings.yml/badge.svg) ![DaMichel](https://github.com/zer0Kerbal/[DaMichel]/actions/workflows/AVC-VersionFileValidator.yml/badge.svg?branch=master)
   ![DaMichel](https://img.shields.io/github/downloads/zer0Kerbal/[DaMichel]/total?style=plastic) ![DaMichel](https://img.shields.io/github/repo-size/zer0Kerbal/[DaMichel]?style=plastic) ![DaMichel](https://img.shields.io/github/contributors/zer0kerbal/[DaMichel]?style=plastic) ![DaMichel](https://img.shields.io/github/release-date/zer0kerbal/[DaMichel]?style=plastic) ![DaMichel](https://img.shields.io/github/release-date-pre/zer0kerbal/[DaMichel]?style=plastic)
