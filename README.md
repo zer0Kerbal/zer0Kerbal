@@ -49,16 +49,16 @@
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#87](https://github.com/zer0Kerbal/Kaboom/issues/87) in [zer0Kerbal/Kaboom](https://github.com/zer0Kerbal/Kaboom)
-2. ❗️ Opened issue [#86](https://github.com/zer0Kerbal/Kaboom/issues/86) in [zer0Kerbal/Kaboom](https://github.com/zer0Kerbal/Kaboom)
-3. ❗️ Closed issue [#55](https://github.com/zer0Kerbal/Kaboom/issues/55) in [zer0Kerbal/Kaboom](https://github.com/zer0Kerbal/Kaboom)
-4. ❗️ Closed issue [#83](https://github.com/zer0Kerbal/Kaboom/issues/83) in [zer0Kerbal/Kaboom](https://github.com/zer0Kerbal/Kaboom)
-5. ❗️ Closed issue [#82](https://github.com/zer0Kerbal/Kaboom/issues/82) in [zer0Kerbal/Kaboom](https://github.com/zer0Kerbal/Kaboom)
-6. 🎉 Merged PR [#84](https://github.com/zer0Kerbal/Kaboom/pull/84) in [zer0Kerbal/Kaboom](https://github.com/zer0Kerbal/Kaboom)
-7. 💪 Opened PR [#84](https://github.com/zer0Kerbal/Kaboom/pull/84) in [zer0Kerbal/Kaboom](https://github.com/zer0Kerbal/Kaboom)
-8. ❗️ Opened issue [#83](https://github.com/zer0Kerbal/Kaboom/issues/83) in [zer0Kerbal/Kaboom](https://github.com/zer0Kerbal/Kaboom)
-9. ❗️ Opened issue [#82](https://github.com/zer0Kerbal/Kaboom/issues/82) in [zer0Kerbal/Kaboom](https://github.com/zer0Kerbal/Kaboom)
-10. ❗️ Opened issue [#81](https://github.com/zer0Kerbal/Kaboom/issues/81) in [zer0Kerbal/Kaboom](https://github.com/zer0Kerbal/Kaboom)
+1. ❗️ Opened issue [#66](https://github.com/zer0Kerbal/EternoRest2000/issues/66) in [zer0Kerbal/EternoRest2000](https://github.com/zer0Kerbal/EternoRest2000)
+2. ❗️ Opened issue [#65](https://github.com/zer0Kerbal/EternoRest2000/issues/65) in [zer0Kerbal/EternoRest2000](https://github.com/zer0Kerbal/EternoRest2000)
+3. ❗️ Closed issue [#61](https://github.com/zer0Kerbal/EternoRest2000/issues/61) in [zer0Kerbal/EternoRest2000](https://github.com/zer0Kerbal/EternoRest2000)
+4. ❗️ Closed issue [#15](https://github.com/zer0Kerbal/EternoRest2000/issues/15) in [zer0Kerbal/EternoRest2000](https://github.com/zer0Kerbal/EternoRest2000)
+5. 🎉 Merged PR [#63](https://github.com/zer0Kerbal/EternoRest2000/pull/63) in [zer0Kerbal/EternoRest2000](https://github.com/zer0Kerbal/EternoRest2000)
+6. ❗️ Closed issue [#62](https://github.com/zer0Kerbal/EternoRest2000/issues/62) in [zer0Kerbal/EternoRest2000](https://github.com/zer0Kerbal/EternoRest2000)
+7. 💪 Opened PR [#63](https://github.com/zer0Kerbal/EternoRest2000/pull/63) in [zer0Kerbal/EternoRest2000](https://github.com/zer0Kerbal/EternoRest2000)
+8. ❗️ Opened issue [#87](https://github.com/zer0Kerbal/Kaboom/issues/87) in [zer0Kerbal/Kaboom](https://github.com/zer0Kerbal/Kaboom)
+9. ❗️ Opened issue [#86](https://github.com/zer0Kerbal/Kaboom/issues/86) in [zer0Kerbal/Kaboom](https://github.com/zer0Kerbal/Kaboom)
+10. ❗️ Closed issue [#55](https://github.com/zer0Kerbal/Kaboom/issues/55) in [zer0Kerbal/Kaboom](https://github.com/zer0Kerbal/Kaboom)
 <!--END_SECTION:activity-->
 
 </details
