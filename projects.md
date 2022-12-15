@@ -8,9 +8,9 @@ sections expand (details)
 ### Section list [wip]
 
 * [Plugins][#plugins]
-  * [Biomatic (BIO)][#biomatic-bio]
-  * [Kaboom! (BOOM)][#kaboom-boom]
-  * [On Demand Fuel Cells (ODFC][#on-demand-fuel-cells-odfc]
+  * [Biomatic (BIO)](#biomatic-bio)
+  * [Kaboom! (BOOM)](#kaboom-boom)
+  * [On Demand Fuel Cells (ODFC](#on-demand-fuel-cells-odfc)
 
 <details>
   <summary>Additional Cards</summary>
