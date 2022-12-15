@@ -49,16 +49,16 @@
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#60](https://github.com/zer0Kerbal/EternoRest2000/pull/60) in [zer0Kerbal/EternoRest2000](https://github.com/zer0Kerbal/EternoRest2000)
-2. ❗️ Opened issue [#62](https://github.com/zer0Kerbal/EternoRest2000/issues/62) in [zer0Kerbal/EternoRest2000](https://github.com/zer0Kerbal/EternoRest2000)
-3. ❗️ Opened issue [#61](https://github.com/zer0Kerbal/EternoRest2000/issues/61) in [zer0Kerbal/EternoRest2000](https://github.com/zer0Kerbal/EternoRest2000)
-4. ❗️ Closed issue [#37](https://github.com/zer0Kerbal/ColonialTransporter/issues/37) in [zer0Kerbal/ColonialTransporter](https://github.com/zer0Kerbal/ColonialTransporter)
-5. ❗️ Closed issue [#15](https://github.com/zer0Kerbal/ColonialTransporter/issues/15) in [zer0Kerbal/ColonialTransporter](https://github.com/zer0Kerbal/ColonialTransporter)
-6. ❗️ Closed issue [#10](https://github.com/zer0Kerbal/ColonialTransporter/issues/10) in [zer0Kerbal/ColonialTransporter](https://github.com/zer0Kerbal/ColonialTransporter)
-7. 🎉 Merged PR [#36](https://github.com/zer0Kerbal/ColonialTransporter/pull/36) in [zer0Kerbal/ColonialTransporter](https://github.com/zer0Kerbal/ColonialTransporter)
-8. ❗️ Opened issue [#37](https://github.com/zer0Kerbal/ColonialTransporter/issues/37) in [zer0Kerbal/ColonialTransporter](https://github.com/zer0Kerbal/ColonialTransporter)
-9. 💪 Opened PR [#36](https://github.com/zer0Kerbal/ColonialTransporter/pull/36) in [zer0Kerbal/ColonialTransporter](https://github.com/zer0Kerbal/ColonialTransporter)
-10. ❗️ Opened issue [#35](https://github.com/zer0Kerbal/ColonialTransporter/issues/35) in [zer0Kerbal/ColonialTransporter](https://github.com/zer0Kerbal/ColonialTransporter)
+1. ❗️ Opened issue [#83](https://github.com/zer0Kerbal/Kaboom/issues/83) in [zer0Kerbal/Kaboom](https://github.com/zer0Kerbal/Kaboom)
+2. ❗️ Opened issue [#82](https://github.com/zer0Kerbal/Kaboom/issues/82) in [zer0Kerbal/Kaboom](https://github.com/zer0Kerbal/Kaboom)
+3. ❗️ Opened issue [#81](https://github.com/zer0Kerbal/Kaboom/issues/81) in [zer0Kerbal/Kaboom](https://github.com/zer0Kerbal/Kaboom)
+4. 🎉 Merged PR [#60](https://github.com/zer0Kerbal/EternoRest2000/pull/60) in [zer0Kerbal/EternoRest2000](https://github.com/zer0Kerbal/EternoRest2000)
+5. ❗️ Opened issue [#62](https://github.com/zer0Kerbal/EternoRest2000/issues/62) in [zer0Kerbal/EternoRest2000](https://github.com/zer0Kerbal/EternoRest2000)
+6. ❗️ Opened issue [#61](https://github.com/zer0Kerbal/EternoRest2000/issues/61) in [zer0Kerbal/EternoRest2000](https://github.com/zer0Kerbal/EternoRest2000)
+7. ❗️ Closed issue [#37](https://github.com/zer0Kerbal/ColonialTransporter/issues/37) in [zer0Kerbal/ColonialTransporter](https://github.com/zer0Kerbal/ColonialTransporter)
+8. ❗️ Closed issue [#15](https://github.com/zer0Kerbal/ColonialTransporter/issues/15) in [zer0Kerbal/ColonialTransporter](https://github.com/zer0Kerbal/ColonialTransporter)
+9. ❗️ Closed issue [#10](https://github.com/zer0Kerbal/ColonialTransporter/issues/10) in [zer0Kerbal/ColonialTransporter](https://github.com/zer0Kerbal/ColonialTransporter)
+10. 🎉 Merged PR [#36](https://github.com/zer0Kerbal/ColonialTransporter/pull/36) in [zer0Kerbal/ColonialTransporter](https://github.com/zer0Kerbal/ColonialTransporter)
 <!--END_SECTION:activity-->
 
 </details
