@@ -11,7 +11,7 @@ sections expand (details)
   * [Biomatic (BIO)](#biomatic-bio)
   * [Kaboom! (BOOM)](#kaboom-boom)
   * [On Demand Fuel Cells (ODFC](#on-demand-fuel-cells-odfc)
- * Parts
+* Parts
   * [Moho HVAC](#moho-hvac)
   * [Axial Aerospace (AA)](#axial-aerospace)
   * [DaMichel (DM)](#damichel-dm)
