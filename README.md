@@ -49,16 +49,16 @@
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#78](https://github.com/zer0Kerbal/RoverAntiGravitySystem/issues/78) in [zer0Kerbal/RoverAntiGravitySystem](https://github.com/zer0Kerbal/RoverAntiGravitySystem)
-2. ❗️ Opened issue [#77](https://github.com/zer0Kerbal/RoverAntiGravitySystem/issues/77) in [zer0Kerbal/RoverAntiGravitySystem](https://github.com/zer0Kerbal/RoverAntiGravitySystem)
-3. ❗️ Opened issue [#66](https://github.com/zer0Kerbal/EternoRest2000/issues/66) in [zer0Kerbal/EternoRest2000](https://github.com/zer0Kerbal/EternoRest2000)
-4. ❗️ Opened issue [#65](https://github.com/zer0Kerbal/EternoRest2000/issues/65) in [zer0Kerbal/EternoRest2000](https://github.com/zer0Kerbal/EternoRest2000)
-5. ❗️ Closed issue [#61](https://github.com/zer0Kerbal/EternoRest2000/issues/61) in [zer0Kerbal/EternoRest2000](https://github.com/zer0Kerbal/EternoRest2000)
-6. ❗️ Closed issue [#15](https://github.com/zer0Kerbal/EternoRest2000/issues/15) in [zer0Kerbal/EternoRest2000](https://github.com/zer0Kerbal/EternoRest2000)
-7. 🎉 Merged PR [#63](https://github.com/zer0Kerbal/EternoRest2000/pull/63) in [zer0Kerbal/EternoRest2000](https://github.com/zer0Kerbal/EternoRest2000)
-8. ❗️ Closed issue [#62](https://github.com/zer0Kerbal/EternoRest2000/issues/62) in [zer0Kerbal/EternoRest2000](https://github.com/zer0Kerbal/EternoRest2000)
-9. 💪 Opened PR [#63](https://github.com/zer0Kerbal/EternoRest2000/pull/63) in [zer0Kerbal/EternoRest2000](https://github.com/zer0Kerbal/EternoRest2000)
-10. ❗️ Opened issue [#87](https://github.com/zer0Kerbal/Kaboom/issues/87) in [zer0Kerbal/Kaboom](https://github.com/zer0Kerbal/Kaboom)
+1. 🎉 Merged PR [#79](https://github.com/zer0Kerbal/RoverAntiGravitySystem/pull/79) in [zer0Kerbal/RoverAntiGravitySystem](https://github.com/zer0Kerbal/RoverAntiGravitySystem)
+2. ❗️ Closed issue [#78](https://github.com/zer0Kerbal/RoverAntiGravitySystem/issues/78) in [zer0Kerbal/RoverAntiGravitySystem](https://github.com/zer0Kerbal/RoverAntiGravitySystem)
+3. 🎉 Merged PR [#80](https://github.com/zer0Kerbal/RoverAntiGravitySystem/pull/80) in [zer0Kerbal/RoverAntiGravitySystem](https://github.com/zer0Kerbal/RoverAntiGravitySystem)
+4. 💪 Opened PR [#80](https://github.com/zer0Kerbal/RoverAntiGravitySystem/pull/80) in [zer0Kerbal/RoverAntiGravitySystem](https://github.com/zer0Kerbal/RoverAntiGravitySystem)
+5. ❗️ Opened issue [#78](https://github.com/zer0Kerbal/RoverAntiGravitySystem/issues/78) in [zer0Kerbal/RoverAntiGravitySystem](https://github.com/zer0Kerbal/RoverAntiGravitySystem)
+6. ❗️ Opened issue [#77](https://github.com/zer0Kerbal/RoverAntiGravitySystem/issues/77) in [zer0Kerbal/RoverAntiGravitySystem](https://github.com/zer0Kerbal/RoverAntiGravitySystem)
+7. ❗️ Opened issue [#66](https://github.com/zer0Kerbal/EternoRest2000/issues/66) in [zer0Kerbal/EternoRest2000](https://github.com/zer0Kerbal/EternoRest2000)
+8. ❗️ Opened issue [#65](https://github.com/zer0Kerbal/EternoRest2000/issues/65) in [zer0Kerbal/EternoRest2000](https://github.com/zer0Kerbal/EternoRest2000)
+9. ❗️ Closed issue [#61](https://github.com/zer0Kerbal/EternoRest2000/issues/61) in [zer0Kerbal/EternoRest2000](https://github.com/zer0Kerbal/EternoRest2000)
+10. ❗️ Closed issue [#15](https://github.com/zer0Kerbal/EternoRest2000/issues/15) in [zer0Kerbal/EternoRest2000](https://github.com/zer0Kerbal/EternoRest2000)
 <!--END_SECTION:activity-->
 
 </details
