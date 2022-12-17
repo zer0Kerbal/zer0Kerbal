@@ -49,16 +49,16 @@
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#4](https://github.com/zer0Kerbal/LunaticAeronauticsLtd/issues/4) in [zer0Kerbal/LunaticAeronauticsLtd](https://github.com/zer0Kerbal/LunaticAeronauticsLtd)
-2. ❗️ Closed issue [#3](https://github.com/zer0Kerbal/LunaticAeronauticsLtd/issues/3) in [zer0Kerbal/LunaticAeronauticsLtd](https://github.com/zer0Kerbal/LunaticAeronauticsLtd)
-3. ❗️ Closed issue [#6](https://github.com/zer0Kerbal/LunaticAeronauticsLtd/issues/6) in [zer0Kerbal/LunaticAeronauticsLtd](https://github.com/zer0Kerbal/LunaticAeronauticsLtd)
-4. ❗️ Closed issue [#2](https://github.com/zer0Kerbal/LunaticAeronauticsLtd/issues/2) in [zer0Kerbal/LunaticAeronauticsLtd](https://github.com/zer0Kerbal/LunaticAeronauticsLtd)
-5. ❗️ Closed issue [#1](https://github.com/zer0Kerbal/LunaticAeronauticsLtd/issues/1) in [zer0Kerbal/LunaticAeronauticsLtd](https://github.com/zer0Kerbal/LunaticAeronauticsLtd)
-6. 🎉 Merged PR [#24](https://github.com/zer0Kerbal/LunaticAeronauticsLtd/pull/24) in [zer0Kerbal/LunaticAeronauticsLtd](https://github.com/zer0Kerbal/LunaticAeronauticsLtd)
-7. 💪 Opened PR [#24](https://github.com/zer0Kerbal/LunaticAeronauticsLtd/pull/24) in [zer0Kerbal/LunaticAeronauticsLtd](https://github.com/zer0Kerbal/LunaticAeronauticsLtd)
-8. 🎉 Merged PR [#79](https://github.com/zer0Kerbal/RoverAntiGravitySystem/pull/79) in [zer0Kerbal/RoverAntiGravitySystem](https://github.com/zer0Kerbal/RoverAntiGravitySystem)
-9. ❗️ Closed issue [#78](https://github.com/zer0Kerbal/RoverAntiGravitySystem/issues/78) in [zer0Kerbal/RoverAntiGravitySystem](https://github.com/zer0Kerbal/RoverAntiGravitySystem)
-10. 🎉 Merged PR [#80](https://github.com/zer0Kerbal/RoverAntiGravitySystem/pull/80) in [zer0Kerbal/RoverAntiGravitySystem](https://github.com/zer0Kerbal/RoverAntiGravitySystem)
+1. ❗️ Opened issue [#27](https://github.com/zer0Kerbal/LunaticAeronauticsLtd/issues/27) in [zer0Kerbal/LunaticAeronauticsLtd](https://github.com/zer0Kerbal/LunaticAeronauticsLtd)
+2. ❗️ Opened issue [#26](https://github.com/zer0Kerbal/LunaticAeronauticsLtd/issues/26) in [zer0Kerbal/LunaticAeronauticsLtd](https://github.com/zer0Kerbal/LunaticAeronauticsLtd)
+3. ❗️ Closed issue [#4](https://github.com/zer0Kerbal/LunaticAeronauticsLtd/issues/4) in [zer0Kerbal/LunaticAeronauticsLtd](https://github.com/zer0Kerbal/LunaticAeronauticsLtd)
+4. ❗️ Closed issue [#3](https://github.com/zer0Kerbal/LunaticAeronauticsLtd/issues/3) in [zer0Kerbal/LunaticAeronauticsLtd](https://github.com/zer0Kerbal/LunaticAeronauticsLtd)
+5. ❗️ Closed issue [#6](https://github.com/zer0Kerbal/LunaticAeronauticsLtd/issues/6) in [zer0Kerbal/LunaticAeronauticsLtd](https://github.com/zer0Kerbal/LunaticAeronauticsLtd)
+6. ❗️ Closed issue [#2](https://github.com/zer0Kerbal/LunaticAeronauticsLtd/issues/2) in [zer0Kerbal/LunaticAeronauticsLtd](https://github.com/zer0Kerbal/LunaticAeronauticsLtd)
+7. ❗️ Closed issue [#1](https://github.com/zer0Kerbal/LunaticAeronauticsLtd/issues/1) in [zer0Kerbal/LunaticAeronauticsLtd](https://github.com/zer0Kerbal/LunaticAeronauticsLtd)
+8. 🎉 Merged PR [#24](https://github.com/zer0Kerbal/LunaticAeronauticsLtd/pull/24) in [zer0Kerbal/LunaticAeronauticsLtd](https://github.com/zer0Kerbal/LunaticAeronauticsLtd)
+9. 💪 Opened PR [#24](https://github.com/zer0Kerbal/LunaticAeronauticsLtd/pull/24) in [zer0Kerbal/LunaticAeronauticsLtd](https://github.com/zer0Kerbal/LunaticAeronauticsLtd)
+10. 🎉 Merged PR [#79](https://github.com/zer0Kerbal/RoverAntiGravitySystem/pull/79) in [zer0Kerbal/RoverAntiGravitySystem](https://github.com/zer0Kerbal/RoverAntiGravitySystem)
 <!--END_SECTION:activity-->
 
 </details
