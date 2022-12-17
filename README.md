@@ -49,16 +49,16 @@
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#27](https://github.com/zer0Kerbal/LunaticAeronauticsLtd/issues/27) in [zer0Kerbal/LunaticAeronauticsLtd](https://github.com/zer0Kerbal/LunaticAeronauticsLtd)
-2. ❗️ Opened issue [#26](https://github.com/zer0Kerbal/LunaticAeronauticsLtd/issues/26) in [zer0Kerbal/LunaticAeronauticsLtd](https://github.com/zer0Kerbal/LunaticAeronauticsLtd)
-3. ❗️ Closed issue [#4](https://github.com/zer0Kerbal/LunaticAeronauticsLtd/issues/4) in [zer0Kerbal/LunaticAeronauticsLtd](https://github.com/zer0Kerbal/LunaticAeronauticsLtd)
-4. ❗️ Closed issue [#3](https://github.com/zer0Kerbal/LunaticAeronauticsLtd/issues/3) in [zer0Kerbal/LunaticAeronauticsLtd](https://github.com/zer0Kerbal/LunaticAeronauticsLtd)
-5. ❗️ Closed issue [#6](https://github.com/zer0Kerbal/LunaticAeronauticsLtd/issues/6) in [zer0Kerbal/LunaticAeronauticsLtd](https://github.com/zer0Kerbal/LunaticAeronauticsLtd)
-6. ❗️ Closed issue [#2](https://github.com/zer0Kerbal/LunaticAeronauticsLtd/issues/2) in [zer0Kerbal/LunaticAeronauticsLtd](https://github.com/zer0Kerbal/LunaticAeronauticsLtd)
-7. ❗️ Closed issue [#1](https://github.com/zer0Kerbal/LunaticAeronauticsLtd/issues/1) in [zer0Kerbal/LunaticAeronauticsLtd](https://github.com/zer0Kerbal/LunaticAeronauticsLtd)
-8. 🎉 Merged PR [#24](https://github.com/zer0Kerbal/LunaticAeronauticsLtd/pull/24) in [zer0Kerbal/LunaticAeronauticsLtd](https://github.com/zer0Kerbal/LunaticAeronauticsLtd)
-9. 💪 Opened PR [#24](https://github.com/zer0Kerbal/LunaticAeronauticsLtd/pull/24) in [zer0Kerbal/LunaticAeronauticsLtd](https://github.com/zer0Kerbal/LunaticAeronauticsLtd)
-10. 🎉 Merged PR [#79](https://github.com/zer0Kerbal/RoverAntiGravitySystem/pull/79) in [zer0Kerbal/RoverAntiGravitySystem](https://github.com/zer0Kerbal/RoverAntiGravitySystem)
+1. ❗️ Opened issue [#25](https://github.com/zer0Kerbal/LazTekDev/issues/25) in [zer0Kerbal/LazTekDev](https://github.com/zer0Kerbal/LazTekDev)
+2. ❗️ Opened issue [#24](https://github.com/zer0Kerbal/LazTekDev/issues/24) in [zer0Kerbal/LazTekDev](https://github.com/zer0Kerbal/LazTekDev)
+3. ❗️ Closed issue [#21](https://github.com/zer0Kerbal/LazTekDev/issues/21) in [zer0Kerbal/LazTekDev](https://github.com/zer0Kerbal/LazTekDev)
+4. ❗️ Closed issue [#2](https://github.com/zer0Kerbal/LazTekDev/issues/2) in [zer0Kerbal/LazTekDev](https://github.com/zer0Kerbal/LazTekDev)
+5. ❗️ Closed issue [#1](https://github.com/zer0Kerbal/LazTekDev/issues/1) in [zer0Kerbal/LazTekDev](https://github.com/zer0Kerbal/LazTekDev)
+6. ❗️ Closed issue [#3](https://github.com/zer0Kerbal/LazTekDev/issues/3) in [zer0Kerbal/LazTekDev](https://github.com/zer0Kerbal/LazTekDev)
+7. 🎉 Merged PR [#22](https://github.com/zer0Kerbal/LazTekDev/pull/22) in [zer0Kerbal/LazTekDev](https://github.com/zer0Kerbal/LazTekDev)
+8. 💪 Opened PR [#22](https://github.com/zer0Kerbal/LazTekDev/pull/22) in [zer0Kerbal/LazTekDev](https://github.com/zer0Kerbal/LazTekDev)
+9. ❗️ Opened issue [#21](https://github.com/zer0Kerbal/LazTekDev/issues/21) in [zer0Kerbal/LazTekDev](https://github.com/zer0Kerbal/LazTekDev)
+10. ❗️ Opened issue [#20](https://github.com/zer0Kerbal/LazTekDev/issues/20) in [zer0Kerbal/LazTekDev](https://github.com/zer0Kerbal/LazTekDev)
 <!--END_SECTION:activity-->
 
 </details
