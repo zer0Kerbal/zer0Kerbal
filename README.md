@@ -110,7 +110,7 @@
 <img src="https://wakatime.com/share/@926db0f4-33a1-4545-8aa6-88d1f7186f67/18dd85d3-f64d-4bcc-a3c3-65302497efc0.svg" width=600 height=600> -->
 
 [website]: https://forum.kerbalspaceprogram.com/index.php?/profile/190933-zer0kerbal/
-[youtube]: https://www.youtube.com/channel/UCp9c8IaK4Gjgfj3O9QxrbDw
+[youtube]: https://www.youtube.com/@zer0Kerbal
 [twitter]: https://twitter.com/zer0Kerbal
 [curseforge]: https://www.curseforge.com/members/zer0kerbal/projects
 [twitch]: https://www.twitch.tv/zer0kerbal
