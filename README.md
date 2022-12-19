@@ -32,11 +32,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [addon testing: Side of Pizza!! A Very Kerbal Christmas &lpar;AVKC&rpar; 1.0.99.0-adoption - `Thank you Nazari1](https://www.youtube.com/watch?v=lxn3PSNh_Dg)
 - [addon testing: Fresh Batteries!! Rover Anti Gravity System &lpar;RAGS&rpar;  v1.2.0.0-release `Remaking Histor](https://www.youtube.com/watch?v=J7PMiKWQlGc)
 - [addon testing: [Recently Memoralized! Eterno-Rest 2000 &lpar;REST&rpar; v1.3.0.2-release `Letras Miúdas`]](https://www.youtube.com/watch?v=guwUyy8hcR0)
 - [addon testing: [Explosions Detected Nearby! Kaboom! &lpar;BOOM&rpar; v1.4.2.0-release - `Booms and Boooms&#39;]](https://www.youtube.com/watch?v=GZ_wS8cJj68)
 - [addon testing: [Radial Omni Separator &lpar;ROS&rpar; by nli2work v1.0.0.4-release - `Separador Radial Omni`]](https://www.youtube.com/watch?v=sQXxqdmwrxo)
-- [addon testing: [ Keridian Dynamics &lpar;KDVA&rpar; by Eleusis La Arwall] Version 0.8.99.5-prerelease - `#6 Pl](https://www.youtube.com/watch?v=7oxPfpbycLQ)
 <!-- YOUTUBE:END -->
 
 ---
