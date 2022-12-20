@@ -49,16 +49,16 @@
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#87](https://github.com/zer0Kerbal/RoverAntiGravitySystem/issues/87) in [zer0Kerbal/RoverAntiGravitySystem](https://github.com/zer0Kerbal/RoverAntiGravitySystem)
-2. ❗️ Closed issue [#45](https://github.com/zer0Kerbal/RoverAntiGravitySystem/issues/45) in [zer0Kerbal/RoverAntiGravitySystem](https://github.com/zer0Kerbal/RoverAntiGravitySystem)
-3. ❗️ Closed issue [#88](https://github.com/zer0Kerbal/RoverAntiGravitySystem/issues/88) in [zer0Kerbal/RoverAntiGravitySystem](https://github.com/zer0Kerbal/RoverAntiGravitySystem)
-4. 🎉 Merged PR [#89](https://github.com/zer0Kerbal/RoverAntiGravitySystem/pull/89) in [zer0Kerbal/RoverAntiGravitySystem](https://github.com/zer0Kerbal/RoverAntiGravitySystem)
-5. ❗️ Opened issue [#30](https://github.com/zer0Kerbal/KerbalMaterialsCorp/issues/30) in [zer0Kerbal/KerbalMaterialsCorp](https://github.com/zer0Kerbal/KerbalMaterialsCorp)
-6. ❗️ Opened issue [#29](https://github.com/zer0Kerbal/KerbalMaterialsCorp/issues/29) in [zer0Kerbal/KerbalMaterialsCorp](https://github.com/zer0Kerbal/KerbalMaterialsCorp)
-7. ❗️ Closed issue [#5](https://github.com/zer0Kerbal/KerbalMaterialsCorp/issues/5) in [zer0Kerbal/KerbalMaterialsCorp](https://github.com/zer0Kerbal/KerbalMaterialsCorp)
-8. ❗️ Closed issue [#9](https://github.com/zer0Kerbal/KerbalMaterialsCorp/issues/9) in [zer0Kerbal/KerbalMaterialsCorp](https://github.com/zer0Kerbal/KerbalMaterialsCorp)
-9. ❗️ Closed issue [#2](https://github.com/zer0Kerbal/KerbalMaterialsCorp/issues/2) in [zer0Kerbal/KerbalMaterialsCorp](https://github.com/zer0Kerbal/KerbalMaterialsCorp)
-10. ❗️ Closed issue [#1](https://github.com/zer0Kerbal/KerbalMaterialsCorp/issues/1) in [zer0Kerbal/KerbalMaterialsCorp](https://github.com/zer0Kerbal/KerbalMaterialsCorp)
+1. 🗣 Commented on [#79](https://github.com/zer0Kerbal/OhScrap/issues/79) in [zer0Kerbal/OhScrap](https://github.com/zer0Kerbal/OhScrap)
+2. 🎉 Merged PR [#77](https://github.com/zer0Kerbal/OhScrap/pull/77) in [zer0Kerbal/OhScrap](https://github.com/zer0Kerbal/OhScrap)
+3. 🎉 Merged PR [#79](https://github.com/zer0Kerbal/OhScrap/pull/79) in [zer0Kerbal/OhScrap](https://github.com/zer0Kerbal/OhScrap)
+4. 🗣 Commented on [#79](https://github.com/zer0Kerbal/OhScrap/issues/79) in [zer0Kerbal/OhScrap](https://github.com/zer0Kerbal/OhScrap)
+5. ❗️ Closed issue [#87](https://github.com/zer0Kerbal/RoverAntiGravitySystem/issues/87) in [zer0Kerbal/RoverAntiGravitySystem](https://github.com/zer0Kerbal/RoverAntiGravitySystem)
+6. ❗️ Closed issue [#45](https://github.com/zer0Kerbal/RoverAntiGravitySystem/issues/45) in [zer0Kerbal/RoverAntiGravitySystem](https://github.com/zer0Kerbal/RoverAntiGravitySystem)
+7. ❗️ Closed issue [#88](https://github.com/zer0Kerbal/RoverAntiGravitySystem/issues/88) in [zer0Kerbal/RoverAntiGravitySystem](https://github.com/zer0Kerbal/RoverAntiGravitySystem)
+8. 🎉 Merged PR [#89](https://github.com/zer0Kerbal/RoverAntiGravitySystem/pull/89) in [zer0Kerbal/RoverAntiGravitySystem](https://github.com/zer0Kerbal/RoverAntiGravitySystem)
+9. ❗️ Opened issue [#30](https://github.com/zer0Kerbal/KerbalMaterialsCorp/issues/30) in [zer0Kerbal/KerbalMaterialsCorp](https://github.com/zer0Kerbal/KerbalMaterialsCorp)
+10. ❗️ Opened issue [#29](https://github.com/zer0Kerbal/KerbalMaterialsCorp/issues/29) in [zer0Kerbal/KerbalMaterialsCorp](https://github.com/zer0Kerbal/KerbalMaterialsCorp)
 <!--END_SECTION:activity-->
 
 </details
