@@ -49,16 +49,16 @@
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#44](https://github.com/zer0Kerbal/KerbalXMAS/issues/44) in [zer0Kerbal/KerbalXMAS](https://github.com/zer0Kerbal/KerbalXMAS)
-2. ❗️ Opened issue [#43](https://github.com/zer0Kerbal/KerbalXMAS/issues/43) in [zer0Kerbal/KerbalXMAS](https://github.com/zer0Kerbal/KerbalXMAS)
-3. ❗️ Opened issue [#42](https://github.com/zer0Kerbal/KerbalXMAS/issues/42) in [zer0Kerbal/KerbalXMAS](https://github.com/zer0Kerbal/KerbalXMAS)
-4. ❗️ Opened issue [#41](https://github.com/zer0Kerbal/KerbalXMAS/issues/41) in [zer0Kerbal/KerbalXMAS](https://github.com/zer0Kerbal/KerbalXMAS)
-5. ❗️ Opened issue [#40](https://github.com/zer0Kerbal/KerbalXMAS/issues/40) in [zer0Kerbal/KerbalXMAS](https://github.com/zer0Kerbal/KerbalXMAS)
-6. ❗️ Opened issue [#39](https://github.com/zer0Kerbal/KerbalXMAS/issues/39) in [zer0Kerbal/KerbalXMAS](https://github.com/zer0Kerbal/KerbalXMAS)
-7. ❗️ Opened issue [#38](https://github.com/zer0Kerbal/KerbalXMAS/issues/38) in [zer0Kerbal/KerbalXMAS](https://github.com/zer0Kerbal/KerbalXMAS)
-8. ❗️ Opened issue [#37](https://github.com/zer0Kerbal/KerbalXMAS/issues/37) in [zer0Kerbal/KerbalXMAS](https://github.com/zer0Kerbal/KerbalXMAS)
-9. ❗️ Opened issue [#36](https://github.com/zer0Kerbal/KerbalXMAS/issues/36) in [zer0Kerbal/KerbalXMAS](https://github.com/zer0Kerbal/KerbalXMAS)
-10. ❗️ Opened issue [#35](https://github.com/zer0Kerbal/KerbalXMAS/issues/35) in [zer0Kerbal/KerbalXMAS](https://github.com/zer0Kerbal/KerbalXMAS)
+1. ❗️ Closed issue [#13](https://github.com/zer0Kerbal/KerbalXMAS/issues/13) in [zer0Kerbal/KerbalXMAS](https://github.com/zer0Kerbal/KerbalXMAS)
+2. 🎉 Merged PR [#46](https://github.com/zer0Kerbal/KerbalXMAS/pull/46) in [zer0Kerbal/KerbalXMAS](https://github.com/zer0Kerbal/KerbalXMAS)
+3. 💪 Opened PR [#46](https://github.com/zer0Kerbal/KerbalXMAS/pull/46) in [zer0Kerbal/KerbalXMAS](https://github.com/zer0Kerbal/KerbalXMAS)
+4. ❗️ Closed issue [#21](https://github.com/zer0Kerbal/KerbalXMAS/issues/21) in [zer0Kerbal/KerbalXMAS](https://github.com/zer0Kerbal/KerbalXMAS)
+5. ❗️ Closed issue [#18](https://github.com/zer0Kerbal/KerbalXMAS/issues/18) in [zer0Kerbal/KerbalXMAS](https://github.com/zer0Kerbal/KerbalXMAS)
+6. ❗️ Closed issue [#12](https://github.com/zer0Kerbal/KerbalXMAS/issues/12) in [zer0Kerbal/KerbalXMAS](https://github.com/zer0Kerbal/KerbalXMAS)
+7. 🎉 Merged PR [#45](https://github.com/zer0Kerbal/KerbalXMAS/pull/45) in [zer0Kerbal/KerbalXMAS](https://github.com/zer0Kerbal/KerbalXMAS)
+8. 💪 Opened PR [#45](https://github.com/zer0Kerbal/KerbalXMAS/pull/45) in [zer0Kerbal/KerbalXMAS](https://github.com/zer0Kerbal/KerbalXMAS)
+9. ❗️ Opened issue [#44](https://github.com/zer0Kerbal/KerbalXMAS/issues/44) in [zer0Kerbal/KerbalXMAS](https://github.com/zer0Kerbal/KerbalXMAS)
+10. ❗️ Opened issue [#43](https://github.com/zer0Kerbal/KerbalXMAS/issues/43) in [zer0Kerbal/KerbalXMAS](https://github.com/zer0Kerbal/KerbalXMAS)
 <!--END_SECTION:activity-->
 
 </details
