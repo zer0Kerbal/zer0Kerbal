@@ -49,16 +49,16 @@
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#10](https://github.com/zer0Kerbal/KerbalXMAS/issues/10) in [zer0Kerbal/KerbalXMAS](https://github.com/zer0Kerbal/KerbalXMAS)
-2. ❗️ Closed issue [#1](https://github.com/zer0Kerbal/KerbalXMAS/issues/1) in [zer0Kerbal/KerbalXMAS](https://github.com/zer0Kerbal/KerbalXMAS)
-3. ❗️ Closed issue [#42](https://github.com/zer0Kerbal/KerbalXMAS/issues/42) in [zer0Kerbal/KerbalXMAS](https://github.com/zer0Kerbal/KerbalXMAS)
-4. ❗️ Closed issue [#25](https://github.com/zer0Kerbal/KerbalXMAS/issues/25) in [zer0Kerbal/KerbalXMAS](https://github.com/zer0Kerbal/KerbalXMAS)
-5. ❗️ Closed issue [#24](https://github.com/zer0Kerbal/KerbalXMAS/issues/24) in [zer0Kerbal/KerbalXMAS](https://github.com/zer0Kerbal/KerbalXMAS)
-6. ❗️ Closed issue [#8](https://github.com/zer0Kerbal/KerbalXMAS/issues/8) in [zer0Kerbal/KerbalXMAS](https://github.com/zer0Kerbal/KerbalXMAS)
-7. ❗️ Closed issue [#44](https://github.com/zer0Kerbal/KerbalXMAS/issues/44) in [zer0Kerbal/KerbalXMAS](https://github.com/zer0Kerbal/KerbalXMAS)
-8. ❗️ Closed issue [#6](https://github.com/zer0Kerbal/KerbalXMAS/issues/6) in [zer0Kerbal/KerbalXMAS](https://github.com/zer0Kerbal/KerbalXMAS)
-9. ❗️ Closed issue [#5](https://github.com/zer0Kerbal/KerbalXMAS/issues/5) in [zer0Kerbal/KerbalXMAS](https://github.com/zer0Kerbal/KerbalXMAS)
-10. ❗️ Closed issue [#43](https://github.com/zer0Kerbal/KerbalXMAS/issues/43) in [zer0Kerbal/KerbalXMAS](https://github.com/zer0Kerbal/KerbalXMAS)
+1. ❗️ Closed issue [#27](https://github.com/zer0Kerbal/LunaticAeronauticsLtd/issues/27) in [zer0Kerbal/LunaticAeronauticsLtd](https://github.com/zer0Kerbal/LunaticAeronauticsLtd)
+2. ❗️ Closed issue [#26](https://github.com/zer0Kerbal/LunaticAeronauticsLtd/issues/26) in [zer0Kerbal/LunaticAeronauticsLtd](https://github.com/zer0Kerbal/LunaticAeronauticsLtd)
+3. 🎉 Merged PR [#28](https://github.com/zer0Kerbal/LunaticAeronauticsLtd/pull/28) in [zer0Kerbal/LunaticAeronauticsLtd](https://github.com/zer0Kerbal/LunaticAeronauticsLtd)
+4. 💪 Opened PR [#28](https://github.com/zer0Kerbal/LunaticAeronauticsLtd/pull/28) in [zer0Kerbal/LunaticAeronauticsLtd](https://github.com/zer0Kerbal/LunaticAeronauticsLtd)
+5. ❗️ Opened issue [#62](https://github.com/zer0Kerbal/KerbalXMAS/issues/62) in [zer0Kerbal/KerbalXMAS](https://github.com/zer0Kerbal/KerbalXMAS)
+6. ❗️ Opened issue [#61](https://github.com/zer0Kerbal/KerbalXMAS/issues/61) in [zer0Kerbal/KerbalXMAS](https://github.com/zer0Kerbal/KerbalXMAS)
+7. ❗️ Closed issue [#2](https://github.com/zer0Kerbal/KerbalXMAS/issues/2) in [zer0Kerbal/KerbalXMAS](https://github.com/zer0Kerbal/KerbalXMAS)
+8. ❗️ Closed issue [#3](https://github.com/zer0Kerbal/KerbalXMAS/issues/3) in [zer0Kerbal/KerbalXMAS](https://github.com/zer0Kerbal/KerbalXMAS)
+9. ❗️ Closed issue [#4](https://github.com/zer0Kerbal/KerbalXMAS/issues/4) in [zer0Kerbal/KerbalXMAS](https://github.com/zer0Kerbal/KerbalXMAS)
+10. ❗️ Closed issue [#11](https://github.com/zer0Kerbal/KerbalXMAS/issues/11) in [zer0Kerbal/KerbalXMAS](https://github.com/zer0Kerbal/KerbalXMAS)
 <!--END_SECTION:activity-->
 
 </details
