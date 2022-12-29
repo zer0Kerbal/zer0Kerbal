@@ -49,16 +49,16 @@
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#38](https://github.com/zer0Kerbal/OhScrap/issues/38) in [zer0Kerbal/OhScrap](https://github.com/zer0Kerbal/OhScrap)
-2. ❗️ Closed issue [#22](https://github.com/zer0Kerbal/OhScrap/issues/22) in [zer0Kerbal/OhScrap](https://github.com/zer0Kerbal/OhScrap)
-3. ❗️ Closed issue [#27](https://github.com/zer0Kerbal/OhScrap/issues/27) in [zer0Kerbal/OhScrap](https://github.com/zer0Kerbal/OhScrap)
-4. ❗️ Closed issue [#26](https://github.com/zer0Kerbal/OhScrap/issues/26) in [zer0Kerbal/OhScrap](https://github.com/zer0Kerbal/OhScrap)
-5. ❗️ Closed issue [#25](https://github.com/zer0Kerbal/OhScrap/issues/25) in [zer0Kerbal/OhScrap](https://github.com/zer0Kerbal/OhScrap)
-6. ❗️ Closed issue [#20](https://github.com/zer0Kerbal/OhScrap/issues/20) in [zer0Kerbal/OhScrap](https://github.com/zer0Kerbal/OhScrap)
-7. ❗️ Closed issue [#53](https://github.com/zer0Kerbal/OhScrap/issues/53) in [zer0Kerbal/OhScrap](https://github.com/zer0Kerbal/OhScrap)
-8. ❗️ Closed issue [#23](https://github.com/zer0Kerbal/OhScrap/issues/23) in [zer0Kerbal/OhScrap](https://github.com/zer0Kerbal/OhScrap)
-9. ❗️ Closed issue [#52](https://github.com/zer0Kerbal/OhScrap/issues/52) in [zer0Kerbal/OhScrap](https://github.com/zer0Kerbal/OhScrap)
-10. ❗️ Closed issue [#51](https://github.com/zer0Kerbal/OhScrap/issues/51) in [zer0Kerbal/OhScrap](https://github.com/zer0Kerbal/OhScrap)
+1. ❗️ Opened issue [#87](https://github.com/zer0Kerbal/OhScrap/issues/87) in [zer0Kerbal/OhScrap](https://github.com/zer0Kerbal/OhScrap)
+2. ❗️ Opened issue [#86](https://github.com/zer0Kerbal/OhScrap/issues/86) in [zer0Kerbal/OhScrap](https://github.com/zer0Kerbal/OhScrap)
+3. ❗️ Opened issue [#85](https://github.com/zer0Kerbal/OhScrap/issues/85) in [zer0Kerbal/OhScrap](https://github.com/zer0Kerbal/OhScrap)
+4. ❗️ Closed issue [#38](https://github.com/zer0Kerbal/OhScrap/issues/38) in [zer0Kerbal/OhScrap](https://github.com/zer0Kerbal/OhScrap)
+5. ❗️ Closed issue [#22](https://github.com/zer0Kerbal/OhScrap/issues/22) in [zer0Kerbal/OhScrap](https://github.com/zer0Kerbal/OhScrap)
+6. ❗️ Closed issue [#27](https://github.com/zer0Kerbal/OhScrap/issues/27) in [zer0Kerbal/OhScrap](https://github.com/zer0Kerbal/OhScrap)
+7. ❗️ Closed issue [#26](https://github.com/zer0Kerbal/OhScrap/issues/26) in [zer0Kerbal/OhScrap](https://github.com/zer0Kerbal/OhScrap)
+8. ❗️ Closed issue [#25](https://github.com/zer0Kerbal/OhScrap/issues/25) in [zer0Kerbal/OhScrap](https://github.com/zer0Kerbal/OhScrap)
+9. ❗️ Closed issue [#20](https://github.com/zer0Kerbal/OhScrap/issues/20) in [zer0Kerbal/OhScrap](https://github.com/zer0Kerbal/OhScrap)
+10. ❗️ Closed issue [#53](https://github.com/zer0Kerbal/OhScrap/issues/53) in [zer0Kerbal/OhScrap](https://github.com/zer0Kerbal/OhScrap)
 <!--END_SECTION:activity-->
 
 </details
