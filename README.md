@@ -49,16 +49,16 @@
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#82](https://github.com/zer0Kerbal/OhScrap/issues/82) in [zer0Kerbal/OhScrap](https://github.com/zer0Kerbal/OhScrap)
-2. 🗣 Commented on [#63](https://github.com/zer0Kerbal/OhScrap/issues/63) in [zer0Kerbal/OhScrap](https://github.com/zer0Kerbal/OhScrap)
-3. ❗️ Opened issue [#81](https://github.com/zer0Kerbal/OhScrap/issues/81) in [zer0Kerbal/OhScrap](https://github.com/zer0Kerbal/OhScrap)
-4. ❗️ Opened issue [#80](https://github.com/zer0Kerbal/OhScrap/issues/80) in [zer0Kerbal/OhScrap](https://github.com/zer0Kerbal/OhScrap)
-5. ❗️ Opened issue [#101](https://github.com/zer0Kerbal/OnDemandFuelCells/issues/101) in [zer0Kerbal/OnDemandFuelCells](https://github.com/zer0Kerbal/OnDemandFuelCells)
-6. ❗️ Opened issue [#100](https://github.com/zer0Kerbal/OnDemandFuelCells/issues/100) in [zer0Kerbal/OnDemandFuelCells](https://github.com/zer0Kerbal/OnDemandFuelCells)
-7. ❗️ Closed issue [#97](https://github.com/zer0Kerbal/OnDemandFuelCells/issues/97) in [zer0Kerbal/OnDemandFuelCells](https://github.com/zer0Kerbal/OnDemandFuelCells)
-8. ❗️ Closed issue [#96](https://github.com/zer0Kerbal/OnDemandFuelCells/issues/96) in [zer0Kerbal/OnDemandFuelCells](https://github.com/zer0Kerbal/OnDemandFuelCells)
-9. ❗️ Closed issue [#95](https://github.com/zer0Kerbal/OnDemandFuelCells/issues/95) in [zer0Kerbal/OnDemandFuelCells](https://github.com/zer0Kerbal/OnDemandFuelCells)
-10. ❗️ Closed issue [#94](https://github.com/zer0Kerbal/OnDemandFuelCells/issues/94) in [zer0Kerbal/OnDemandFuelCells](https://github.com/zer0Kerbal/OnDemandFuelCells)
+1. ❗️ Closed issue [#38](https://github.com/zer0Kerbal/OhScrap/issues/38) in [zer0Kerbal/OhScrap](https://github.com/zer0Kerbal/OhScrap)
+2. ❗️ Closed issue [#22](https://github.com/zer0Kerbal/OhScrap/issues/22) in [zer0Kerbal/OhScrap](https://github.com/zer0Kerbal/OhScrap)
+3. ❗️ Closed issue [#27](https://github.com/zer0Kerbal/OhScrap/issues/27) in [zer0Kerbal/OhScrap](https://github.com/zer0Kerbal/OhScrap)
+4. ❗️ Closed issue [#26](https://github.com/zer0Kerbal/OhScrap/issues/26) in [zer0Kerbal/OhScrap](https://github.com/zer0Kerbal/OhScrap)
+5. ❗️ Closed issue [#25](https://github.com/zer0Kerbal/OhScrap/issues/25) in [zer0Kerbal/OhScrap](https://github.com/zer0Kerbal/OhScrap)
+6. ❗️ Closed issue [#20](https://github.com/zer0Kerbal/OhScrap/issues/20) in [zer0Kerbal/OhScrap](https://github.com/zer0Kerbal/OhScrap)
+7. ❗️ Closed issue [#53](https://github.com/zer0Kerbal/OhScrap/issues/53) in [zer0Kerbal/OhScrap](https://github.com/zer0Kerbal/OhScrap)
+8. ❗️ Closed issue [#23](https://github.com/zer0Kerbal/OhScrap/issues/23) in [zer0Kerbal/OhScrap](https://github.com/zer0Kerbal/OhScrap)
+9. ❗️ Closed issue [#52](https://github.com/zer0Kerbal/OhScrap/issues/52) in [zer0Kerbal/OhScrap](https://github.com/zer0Kerbal/OhScrap)
+10. ❗️ Closed issue [#51](https://github.com/zer0Kerbal/OhScrap/issues/51) in [zer0Kerbal/OhScrap](https://github.com/zer0Kerbal/OhScrap)
 <!--END_SECTION:activity-->
 
 </details
