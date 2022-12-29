@@ -32,11 +32,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [🤬🛠🤬 Newly Repaired! OhScrap! &lpar;OHS&rpar; - Version 2.2.99.0-prerelease `允许降落伞损坏` ed](https://www.youtube.com/watch?v=uyEO4GIBP9k)
 - [RELEASE: On Demand Fuel Cells &lpar;ODFC&rpar; 1.2.99.1-prerelease](https://www.youtube.com/watch?v=Bbc3iccGVJg)
 - [adoption: Kerbal XMAS &lpar;XMAS&rpar; 1.0.99.0-adoption](https://www.youtube.com/watch?v=-rY5gMn_OHk)
 - [adoption: Kerbal XMAS &lpar;XMAS&rpar; 1.0.99.0-adoption](https://www.youtube.com/watch?v=-c-AX9TilO4)
 - [addon testing: Side of Pizza!! A Very Kerbal Christmas &lpar;AVKC&rpar; 1.0.99.0-adoption - `Thank you Nazari1](https://www.youtube.com/watch?v=lxn3PSNh_Dg)
-- [addon testing: Fresh Batteries!! Rover Anti Gravity System &lpar;RAGS&rpar;  v1.2.0.0-release `Remaking Histor](https://www.youtube.com/watch?v=J7PMiKWQlGc)
 <!-- YOUTUBE:END -->
 
 ---
