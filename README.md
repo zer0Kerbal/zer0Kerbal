@@ -49,16 +49,16 @@
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#6](https://github.com/zer0Kerbal/HotBeverageInc/issues/6) in [zer0Kerbal/HotBeverageInc](https://github.com/zer0Kerbal/HotBeverageInc)
-2. ❗️ Closed issue [#5](https://github.com/zer0Kerbal/HotBeverageInc/issues/5) in [zer0Kerbal/HotBeverageInc](https://github.com/zer0Kerbal/HotBeverageInc)
-3. ❗️ Closed issue [#4](https://github.com/zer0Kerbal/HotBeverageInc/issues/4) in [zer0Kerbal/HotBeverageInc](https://github.com/zer0Kerbal/HotBeverageInc)
-4. ❗️ Closed issue [#3](https://github.com/zer0Kerbal/HotBeverageInc/issues/3) in [zer0Kerbal/HotBeverageInc](https://github.com/zer0Kerbal/HotBeverageInc)
-5. ❗️ Closed issue [#9](https://github.com/zer0Kerbal/HotBeverageInc/issues/9) in [zer0Kerbal/HotBeverageInc](https://github.com/zer0Kerbal/HotBeverageInc)
-6. ❗️ Closed issue [#10](https://github.com/zer0Kerbal/HotBeverageInc/issues/10) in [zer0Kerbal/HotBeverageInc](https://github.com/zer0Kerbal/HotBeverageInc)
-7. ❗️ Closed issue [#11](https://github.com/zer0Kerbal/HotBeverageInc/issues/11) in [zer0Kerbal/HotBeverageInc](https://github.com/zer0Kerbal/HotBeverageInc)
-8. ❗️ Closed issue [#28](https://github.com/zer0Kerbal/HotBeverageInc/issues/28) in [zer0Kerbal/HotBeverageInc](https://github.com/zer0Kerbal/HotBeverageInc)
-9. ❗️ Closed issue [#8](https://github.com/zer0Kerbal/HotBeverageInc/issues/8) in [zer0Kerbal/HotBeverageInc](https://github.com/zer0Kerbal/HotBeverageInc)
-10. ❗️ Closed issue [#7](https://github.com/zer0Kerbal/HotBeverageInc/issues/7) in [zer0Kerbal/HotBeverageInc](https://github.com/zer0Kerbal/HotBeverageInc)
+1. ❗️ Opened issue [#32](https://github.com/zer0Kerbal/HotBeverageInc/issues/32) in [zer0Kerbal/HotBeverageInc](https://github.com/zer0Kerbal/HotBeverageInc)
+2. ❗️ Opened issue [#31](https://github.com/zer0Kerbal/HotBeverageInc/issues/31) in [zer0Kerbal/HotBeverageInc](https://github.com/zer0Kerbal/HotBeverageInc)
+3. ❗️ Reopened issue [#10](https://github.com/zer0Kerbal/HotBeverageInc/issues/10) in [zer0Kerbal/HotBeverageInc](https://github.com/zer0Kerbal/HotBeverageInc)
+4. ❗️ Closed issue [#6](https://github.com/zer0Kerbal/HotBeverageInc/issues/6) in [zer0Kerbal/HotBeverageInc](https://github.com/zer0Kerbal/HotBeverageInc)
+5. ❗️ Closed issue [#5](https://github.com/zer0Kerbal/HotBeverageInc/issues/5) in [zer0Kerbal/HotBeverageInc](https://github.com/zer0Kerbal/HotBeverageInc)
+6. ❗️ Closed issue [#4](https://github.com/zer0Kerbal/HotBeverageInc/issues/4) in [zer0Kerbal/HotBeverageInc](https://github.com/zer0Kerbal/HotBeverageInc)
+7. ❗️ Closed issue [#3](https://github.com/zer0Kerbal/HotBeverageInc/issues/3) in [zer0Kerbal/HotBeverageInc](https://github.com/zer0Kerbal/HotBeverageInc)
+8. ❗️ Closed issue [#9](https://github.com/zer0Kerbal/HotBeverageInc/issues/9) in [zer0Kerbal/HotBeverageInc](https://github.com/zer0Kerbal/HotBeverageInc)
+9. ❗️ Closed issue [#10](https://github.com/zer0Kerbal/HotBeverageInc/issues/10) in [zer0Kerbal/HotBeverageInc](https://github.com/zer0Kerbal/HotBeverageInc)
+10. ❗️ Closed issue [#11](https://github.com/zer0Kerbal/HotBeverageInc/issues/11) in [zer0Kerbal/HotBeverageInc](https://github.com/zer0Kerbal/HotBeverageInc)
 <!--END_SECTION:activity-->
 
 </details
