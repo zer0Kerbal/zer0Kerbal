@@ -49,16 +49,16 @@
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#33](https://github.com/zer0Kerbal/ServiceModules/issues/33) in [zer0Kerbal/ServiceModules](https://github.com/zer0Kerbal/ServiceModules)
-2. ❗️ Opened issue [#32](https://github.com/zer0Kerbal/ServiceModules/issues/32) in [zer0Kerbal/ServiceModules](https://github.com/zer0Kerbal/ServiceModules)
-3. ❗️ Opened issue [#31](https://github.com/zer0Kerbal/ServiceModules/issues/31) in [zer0Kerbal/ServiceModules](https://github.com/zer0Kerbal/ServiceModules)
-4. ❗️ Opened issue [#30](https://github.com/zer0Kerbal/ServiceModules/issues/30) in [zer0Kerbal/ServiceModules](https://github.com/zer0Kerbal/ServiceModules)
-5. ❗️ Opened issue [#29](https://github.com/zer0Kerbal/ServiceModules/issues/29) in [zer0Kerbal/ServiceModules](https://github.com/zer0Kerbal/ServiceModules)
-6. ❗️ Opened issue [#28](https://github.com/zer0Kerbal/ServiceModules/issues/28) in [zer0Kerbal/ServiceModules](https://github.com/zer0Kerbal/ServiceModules)
-7. ❗️ Opened issue [#27](https://github.com/zer0Kerbal/ServiceModules/issues/27) in [zer0Kerbal/ServiceModules](https://github.com/zer0Kerbal/ServiceModules)
-8. ❗️ Opened issue [#26](https://github.com/zer0Kerbal/ServiceModules/issues/26) in [zer0Kerbal/ServiceModules](https://github.com/zer0Kerbal/ServiceModules)
-9. ❗️ Opened issue [#25](https://github.com/zer0Kerbal/ServiceModules/issues/25) in [zer0Kerbal/ServiceModules](https://github.com/zer0Kerbal/ServiceModules)
-10. ❗️ Opened issue [#24](https://github.com/zer0Kerbal/ServiceModules/issues/24) in [zer0Kerbal/ServiceModules](https://github.com/zer0Kerbal/ServiceModules)
+1. ❗️ Closed issue [#12](https://github.com/zer0Kerbal/ServiceModules/issues/12) in [zer0Kerbal/ServiceModules](https://github.com/zer0Kerbal/ServiceModules)
+2. 🎉 Merged PR [#34](https://github.com/zer0Kerbal/ServiceModules/pull/34) in [zer0Kerbal/ServiceModules](https://github.com/zer0Kerbal/ServiceModules)
+3. 💪 Opened PR [#34](https://github.com/zer0Kerbal/ServiceModules/pull/34) in [zer0Kerbal/ServiceModules](https://github.com/zer0Kerbal/ServiceModules)
+4. ❗️ Opened issue [#33](https://github.com/zer0Kerbal/ServiceModules/issues/33) in [zer0Kerbal/ServiceModules](https://github.com/zer0Kerbal/ServiceModules)
+5. ❗️ Opened issue [#32](https://github.com/zer0Kerbal/ServiceModules/issues/32) in [zer0Kerbal/ServiceModules](https://github.com/zer0Kerbal/ServiceModules)
+6. ❗️ Opened issue [#31](https://github.com/zer0Kerbal/ServiceModules/issues/31) in [zer0Kerbal/ServiceModules](https://github.com/zer0Kerbal/ServiceModules)
+7. ❗️ Opened issue [#30](https://github.com/zer0Kerbal/ServiceModules/issues/30) in [zer0Kerbal/ServiceModules](https://github.com/zer0Kerbal/ServiceModules)
+8. ❗️ Opened issue [#29](https://github.com/zer0Kerbal/ServiceModules/issues/29) in [zer0Kerbal/ServiceModules](https://github.com/zer0Kerbal/ServiceModules)
+9. ❗️ Opened issue [#28](https://github.com/zer0Kerbal/ServiceModules/issues/28) in [zer0Kerbal/ServiceModules](https://github.com/zer0Kerbal/ServiceModules)
+10. ❗️ Opened issue [#27](https://github.com/zer0Kerbal/ServiceModules/issues/27) in [zer0Kerbal/ServiceModules](https://github.com/zer0Kerbal/ServiceModules)
 <!--END_SECTION:activity-->
 
 </details
