@@ -49,16 +49,16 @@
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#37](https://github.com/zer0Kerbal/SensorModules/issues/37) in [zer0Kerbal/SensorModules](https://github.com/zer0Kerbal/SensorModules)
-2. 🎉 Merged PR [#39](https://github.com/zer0Kerbal/SensorModules/pull/39) in [zer0Kerbal/SensorModules](https://github.com/zer0Kerbal/SensorModules)
-3. 💪 Opened PR [#39](https://github.com/zer0Kerbal/SensorModules/pull/39) in [zer0Kerbal/SensorModules](https://github.com/zer0Kerbal/SensorModules)
-4. ❗️ Opened issue [#43](https://github.com/zer0Kerbal/ServiceModules/issues/43) in [zer0Kerbal/ServiceModules](https://github.com/zer0Kerbal/ServiceModules)
-5. ❗️ Opened issue [#38](https://github.com/zer0Kerbal/SensorModules/issues/38) in [zer0Kerbal/SensorModules](https://github.com/zer0Kerbal/SensorModules)
-6. ❗️ Opened issue [#37](https://github.com/zer0Kerbal/SensorModules/issues/37) in [zer0Kerbal/SensorModules](https://github.com/zer0Kerbal/SensorModules)
-7. ❗️ Opened issue [#36](https://github.com/zer0Kerbal/SensorModules/issues/36) in [zer0Kerbal/SensorModules](https://github.com/zer0Kerbal/SensorModules)
-8. ❗️ Opened issue [#35](https://github.com/zer0Kerbal/SensorModules/issues/35) in [zer0Kerbal/SensorModules](https://github.com/zer0Kerbal/SensorModules)
-9. ❗️ Opened issue [#34](https://github.com/zer0Kerbal/SensorModules/issues/34) in [zer0Kerbal/SensorModules](https://github.com/zer0Kerbal/SensorModules)
-10. ❗️ Opened issue [#33](https://github.com/zer0Kerbal/SensorModules/issues/33) in [zer0Kerbal/SensorModules](https://github.com/zer0Kerbal/SensorModules)
+1. ❗️ Closed issue [#38](https://github.com/zer0Kerbal/SensorModules/issues/38) in [zer0Kerbal/SensorModules](https://github.com/zer0Kerbal/SensorModules)
+2. ❗️ Closed issue [#32](https://github.com/zer0Kerbal/SensorModules/issues/32) in [zer0Kerbal/SensorModules](https://github.com/zer0Kerbal/SensorModules)
+3. 🎉 Merged PR [#41](https://github.com/zer0Kerbal/SensorModules/pull/41) in [zer0Kerbal/SensorModules](https://github.com/zer0Kerbal/SensorModules)
+4. 💪 Opened PR [#41](https://github.com/zer0Kerbal/SensorModules/pull/41) in [zer0Kerbal/SensorModules](https://github.com/zer0Kerbal/SensorModules)
+5. ❗️ Closed issue [#37](https://github.com/zer0Kerbal/SensorModules/issues/37) in [zer0Kerbal/SensorModules](https://github.com/zer0Kerbal/SensorModules)
+6. 🎉 Merged PR [#39](https://github.com/zer0Kerbal/SensorModules/pull/39) in [zer0Kerbal/SensorModules](https://github.com/zer0Kerbal/SensorModules)
+7. 💪 Opened PR [#39](https://github.com/zer0Kerbal/SensorModules/pull/39) in [zer0Kerbal/SensorModules](https://github.com/zer0Kerbal/SensorModules)
+8. ❗️ Opened issue [#43](https://github.com/zer0Kerbal/ServiceModules/issues/43) in [zer0Kerbal/ServiceModules](https://github.com/zer0Kerbal/ServiceModules)
+9. ❗️ Opened issue [#38](https://github.com/zer0Kerbal/SensorModules/issues/38) in [zer0Kerbal/SensorModules](https://github.com/zer0Kerbal/SensorModules)
+10. ❗️ Opened issue [#37](https://github.com/zer0Kerbal/SensorModules/issues/37) in [zer0Kerbal/SensorModules](https://github.com/zer0Kerbal/SensorModules)
 <!--END_SECTION:activity-->
 
 </details
