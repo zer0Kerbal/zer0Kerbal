@@ -13,5 +13,5 @@ jobs:
       - uses: actions/checkout@v3
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
-          comment_tag_name: "YOUTUBE"
-          feed_list: http://www.reddit.com/u/zer0Kerbal.rss"
+          comment_tag_name: "REDDIT"
+          feed_list: "http://www.reddit.com/u/zer0Kerbal.rss"
