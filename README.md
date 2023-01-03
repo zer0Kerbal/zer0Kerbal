@@ -70,6 +70,10 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
+<!-- REDDIT-LIST:START -->
+<!-- REDDIT-LIST:END -->
+
+
 ---
 
 <!--- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zer0Kerbal)](https://github.com/anuraghazra/github-readme-stats) -->
