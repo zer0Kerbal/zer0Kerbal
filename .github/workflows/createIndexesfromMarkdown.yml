@@ -19,7 +19,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - uses: DaanV2/Markdown-Action-Create-Indexes@v1.6.0
+      - uses: DaanV2/Markdown-Action-Create-Indexes@v1.7.0
         with: 
           folder: ${{github.workspace}}/docs/
 
