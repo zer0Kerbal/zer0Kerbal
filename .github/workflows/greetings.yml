@@ -36,7 +36,7 @@ jobs:
             * if Module Manger is installed
               * <KSP_ROOT>/GameData/ModuleManager.ConfigCache
             * if Module Manger /L is installed
-              * <KSP_ROOT>/PluginData\ModuleManager\ConfigCache.cfg
+              * <KSP_ROOT>/PluginData/ModuleManager/ConfigCache.cfg
           * Screenshots of issue (if appropriate) (images tell a much stronger tale)
           
           You can archive these files (rar or zip, sadly no 7zip) and drag-n-drop them into an issue comment
