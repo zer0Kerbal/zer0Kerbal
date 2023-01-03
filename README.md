@@ -49,16 +49,16 @@
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#31](https://github.com/zer0Kerbal/FuelCells/issues/31) in [zer0Kerbal/FuelCells](https://github.com/zer0Kerbal/FuelCells)
-2. ❗️ Opened issue [#30](https://github.com/zer0Kerbal/FuelCells/issues/30) in [zer0Kerbal/FuelCells](https://github.com/zer0Kerbal/FuelCells)
-3. ❗️ Opened issue [#29](https://github.com/zer0Kerbal/FuelCells/issues/29) in [zer0Kerbal/FuelCells](https://github.com/zer0Kerbal/FuelCells)
-4. ❗️ Opened issue [#28](https://github.com/zer0Kerbal/FuelCells/issues/28) in [zer0Kerbal/FuelCells](https://github.com/zer0Kerbal/FuelCells)
-5. ❗️ Opened issue [#27](https://github.com/zer0Kerbal/FuelCells/issues/27) in [zer0Kerbal/FuelCells](https://github.com/zer0Kerbal/FuelCells)
-6. ❗️ Opened issue [#26](https://github.com/zer0Kerbal/FuelCells/issues/26) in [zer0Kerbal/FuelCells](https://github.com/zer0Kerbal/FuelCells)
-7. ❗️ Opened issue [#25](https://github.com/zer0Kerbal/FuelCells/issues/25) in [zer0Kerbal/FuelCells](https://github.com/zer0Kerbal/FuelCells)
-8. ❗️ Opened issue [#24](https://github.com/zer0Kerbal/FuelCells/issues/24) in [zer0Kerbal/FuelCells](https://github.com/zer0Kerbal/FuelCells)
-9. ❗️ Opened issue [#23](https://github.com/zer0Kerbal/FuelCells/issues/23) in [zer0Kerbal/FuelCells](https://github.com/zer0Kerbal/FuelCells)
-10. ❗️ Opened issue [#22](https://github.com/zer0Kerbal/FuelCells/issues/22) in [zer0Kerbal/FuelCells](https://github.com/zer0Kerbal/FuelCells)
+1. ❗️ Closed issue [#12](https://github.com/zer0Kerbal/FuelCells/issues/12) in [zer0Kerbal/FuelCells](https://github.com/zer0Kerbal/FuelCells)
+2. 🎉 Merged PR [#32](https://github.com/zer0Kerbal/FuelCells/pull/32) in [zer0Kerbal/FuelCells](https://github.com/zer0Kerbal/FuelCells)
+3. 💪 Opened PR [#32](https://github.com/zer0Kerbal/FuelCells/pull/32) in [zer0Kerbal/FuelCells](https://github.com/zer0Kerbal/FuelCells)
+4. ❗️ Opened issue [#31](https://github.com/zer0Kerbal/FuelCells/issues/31) in [zer0Kerbal/FuelCells](https://github.com/zer0Kerbal/FuelCells)
+5. ❗️ Opened issue [#30](https://github.com/zer0Kerbal/FuelCells/issues/30) in [zer0Kerbal/FuelCells](https://github.com/zer0Kerbal/FuelCells)
+6. ❗️ Opened issue [#29](https://github.com/zer0Kerbal/FuelCells/issues/29) in [zer0Kerbal/FuelCells](https://github.com/zer0Kerbal/FuelCells)
+7. ❗️ Opened issue [#28](https://github.com/zer0Kerbal/FuelCells/issues/28) in [zer0Kerbal/FuelCells](https://github.com/zer0Kerbal/FuelCells)
+8. ❗️ Opened issue [#27](https://github.com/zer0Kerbal/FuelCells/issues/27) in [zer0Kerbal/FuelCells](https://github.com/zer0Kerbal/FuelCells)
+9. ❗️ Opened issue [#26](https://github.com/zer0Kerbal/FuelCells/issues/26) in [zer0Kerbal/FuelCells](https://github.com/zer0Kerbal/FuelCells)
+10. ❗️ Opened issue [#25](https://github.com/zer0Kerbal/FuelCells/issues/25) in [zer0Kerbal/FuelCells](https://github.com/zer0Kerbal/FuelCells)
 <!--END_SECTION:activity-->
 
 </details
