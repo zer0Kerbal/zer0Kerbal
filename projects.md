@@ -15,6 +15,13 @@ sections expand (details)
   * [Moho HVAC](#moho-hvac)
   * [Axial Aerospace (AA)](#axial-aerospace)
   * [DaMichel (DM)](#damichel-dm)
+  * [Hot Beverage Inc (HBI)](#hot-beverage-inc-hbi)
+    * [Fuel Cells (FUEL)](#fuel-cells-fuel)
+    * [Irradiated Parts (HBEx)](#irradiated-parts-hbex)
+    * [Kerturn (KERV)](#kerturn-kerv)
+    * [Radioisotope Thermoelectric Generators (RTG)](#radioisotope-thermoelectric-generators-rtg)
+    * [Sensor Modules (SENS)](#sensor-modules-sens)
+    * [Service Modules (SERV)](#service-modules-serv)
 * [Holiday/Event](#holiday-event)
 * [NecroBones](#necrobones)
   * [](#)
@@ -181,7 +188,54 @@ sections expand (details)
 
 </details>
 
----
+
+## Hot Beverage Inc (HBI)
+
+[TOC/top](#toc)
+
+<details>
+  <summary>Hot Beverage Inc</summary>
+
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zer0Kerbal&repo=HotBeverageInc)](https://github.com/zer0Kerbal/HotBeverageInc)
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zer0Kerbal&repo=FuelCells)](https://github.com/zer0Kerbal/FuelCells) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zer0Kerbal&repo=IrradiatedParts)](https://github.com/zer0Kerbal/IrradiatedParts)
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zer0Kerbal&repo=Kerturn)](https://github.com/zer0Kerbal/Kerturn) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zer0Kerbal&repo=RTG)](https://github.com/zer0Kerbal/RTG)
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zer0Kerbal&repo=SensorModules)](https://github.com/zer0Kerbal/SensorModules) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zer0Kerbal&repo=ServiceModules)](https://github.com/zer0Kerbal/ServiceModules)
+
+### [Hot Beverage Inc (HBI)](https://github.com/zer0Kerbal/HotBeverageInc)
+
+  ![HotBeverageInc](https://github.com/zer0Kerbal/HotBeverageInc/actions/workflows/greetings.yml/badge.svg) ![HotBeverageInc](https://github.com/zer0Kerbal/HotBeverageInc/actions/workflows/AVC-VersionFileValidator.yml/badge.svg?branch=master)
+  ![HotBeverageInc](https://img.shields.io/github/downloads/zer0Kerbal/HotBeverageInc/total?style=plastic) ![HotBeverageInc](https://img.shields.io/github/repo-size/zer0Kerbal/HotBeverageInc?style=plastic) ![HotBeverageInc](https://img.shields.io/github/contributors/zer0kerbal/HotBeverageInc?style=plastic) ![HotBeverageInc](https://img.shields.io/github/release-date/zer0kerbal/HotBeverageInc?style=plastic) ![HotBeverageInc](https://img.shields.io/github/release-date-pre/zer0kerbal/HotBeverageInc?style=plastic)
+
+### [Fuel Cells (FUEL)](https://github.com/zer0Kerbal/FuelCells)
+
+  ![FuelCells](https://github.com/zer0Kerbal/FuelCells/actions/workflows/greetings.yml/badge.svg) ![FuelCells](https://github.com/zer0Kerbal/FuelCells/actions/workflows/AVC-VersionFileValidator.yml/badge.svg?branch=master)
+  ![FuelCells](https://img.shields.io/github/downloads/zer0Kerbal/FuelCells/total?style=plastic) ![FuelCells](https://img.shields.io/github/repo-size/zer0Kerbal/FuelCells?style=plastic) ![FuelCells](https://img.shields.io/github/contributors/zer0kerbal/FuelCells?style=plastic) ![FuelCells](https://img.shields.io/github/release-date/zer0kerbal/FuelCells?style=plastic) ![FuelCells](https://img.shields.io/github/release-date-pre/zer0kerbal/FuelCells?style=plastic)
+
+### [Irradiated Parts (HBEx)](https://github.com/zer0Kerbal/IrradiatedParts)
+
+  ![IrradiatedParts](https://github.com/zer0Kerbal/IrradiatedParts/actions/workflows/greetings.yml/badge.svg) ![IrradiatedParts](https://github.com/zer0Kerbal/IrradiatedParts/actions/workflows/AVC-VersionFileValidator.yml/badge.svg?branch=master)
+  ![IrradiatedParts](https://img.shields.io/github/downloads/zer0Kerbal/IrradiatedParts/total?style=plastic) ![IrradiatedParts](https://img.shields.io/github/repo-size/zer0Kerbal/IrradiatedParts?style=plastic) ![IrradiatedParts](https://img.shields.io/github/contributors/zer0kerbal/IrradiatedParts?style=plastic) ![IrradiatedParts](https://img.shields.io/github/release-date/zer0kerbal/IrradiatedParts?style=plastic) ![IrradiatedParts](https://img.shields.io/github/release-date-pre/zer0kerbal/IrradiatedParts?style=plastic)
+
+### [Kerturn (KERV)](https://github.com/zer0Kerbal/Kerturn)
+
+  ![Kerturn](https://github.com/zer0Kerbal/Kerturn/actions/workflows/greetings.yml/badge.svg) ![Kerturn](https://github.com/zer0Kerbal/Kerturn/actions/workflows/AVC-VersionFileValidator.yml/badge.svg?branch=master)
+  ![Kerturn](https://img.shields.io/github/downloads/zer0Kerbal/Kerturn/total?style=plastic) ![Kerturn](https://img.shields.io/github/repo-size/zer0Kerbal/Kerturn?style=plastic) ![Kerturn](https://img.shields.io/github/contributors/zer0kerbal/Kerturn?style=plastic) ![Kerturn](https://img.shields.io/github/release-date/zer0kerbal/Kerturn?style=plastic) ![Kerturn](https://img.shields.io/github/release-date-pre/zer0kerbal/Kerturn?style=plastic)
+
+### [Radioisotope Thermoelectric Generators (RTG)](https://github.com/zer0Kerbal/RTG)
+
+  ![Radioisotope Thermoelectric Generators (RTG)](https://github.com/zer0Kerbal/RTG/actions/workflows/greetings.yml/badge.svg) ![Radioisotope Thermoelectric Generators (RTG)](https://github.com/zer0Kerbal/RTG/actions/workflows/AVC-VersionFileValidator.yml/badge.svg?branch=master)
+  ![Radioisotope Thermoelectric Generators (RTG)](https://img.shields.io/github/downloads/zer0Kerbal/RTG/total?style=plastic) ![Radioisotope Thermoelectric Generators (RTG)](https://img.shields.io/github/repo-size/zer0Kerbal/RTG?style=plastic) ![Radioisotope Thermoelectric Generators (RTG)](https://img.shields.io/github/contributors/zer0kerbal/RTG?style=plastic) ![Radioisotope Thermoelectric Generators (RTG)](https://img.shields.io/github/release-date/zer0kerbal/RTG?style=plastic) ![Radioisotope Thermoelectric Generators (RTG)](https://img.shields.io/github/release-date-pre/zer0kerbal/RTG?style=plastic)
+### [Sensor Modules (SENS)](https://github.com/zer0Kerbal/SensorModules)
+
+  ![SensorModules](https://github.com/zer0Kerbal/SensorModules/actions/workflows/greetings.yml/badge.svg) ![SensorModules](https://github.com/zer0Kerbal/SensorModules/actions/workflows/AVC-VersionFileValidator.yml/badge.svg?branch=master)
+  ![SensorModules](https://img.shields.io/github/downloads/zer0Kerbal/SensorModules/total?style=plastic) ![SensorModules](https://img.shields.io/github/repo-size/zer0Kerbal/SensorModules?style=plastic) ![SensorModules](https://img.shields.io/github/contributors/zer0kerbal/SensorModules?style=plastic) ![SensorModules](https://img.shields.io/github/release-date/zer0kerbal/SensorModules?style=plastic) ![SensorModules](https://img.shields.io/github/release-date-pre/zer0kerbal/SensorModules?style=plastic)
+
+### [Service Modules (SERV)](https://github.com/zer0Kerbal/ServiceModules)
+
+  ![ServiceModules](https://github.com/zer0Kerbal/ServiceModules/actions/workflows/greetings.yml/badge.svg) ![ServiceModules](https://github.com/zer0Kerbal/ServiceModules/actions/workflows/AVC-VersionFileValidator.yml/badge.svg?branch=master)
+  ![ServiceModules](https://img.shields.io/github/downloads/zer0Kerbal/ServiceModules/total?style=plastic) ![ServiceModules](https://img.shields.io/github/repo-size/zer0Kerbal/ServiceModules?style=plastic) ![ServiceModules](https://img.shields.io/github/contributors/zer0kerbal/ServiceModules?style=plastic) ![ServiceModules](https://img.shields.io/github/release-date/zer0kerbal/ServiceModules?style=plastic) ![ServiceModules](https://img.shields.io/github/release-date-pre/zer0kerbal/ServiceModules?style=plastic)
+
+</details>
 
 ## Holiday/Event
 
