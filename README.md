@@ -49,16 +49,16 @@
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#50](https://github.com/zer0Kerbal/DropTanks/issues/50) in [zer0Kerbal/DropTanks](https://github.com/zer0Kerbal/DropTanks)
-2. ❗️ Opened issue [#49](https://github.com/zer0Kerbal/DropTanks/issues/49) in [zer0Kerbal/DropTanks](https://github.com/zer0Kerbal/DropTanks)
-3. ❗️ Closed issue [#46](https://github.com/zer0Kerbal/DropTanks/issues/46) in [zer0Kerbal/DropTanks](https://github.com/zer0Kerbal/DropTanks)
-4. ❗️ Closed issue [#43](https://github.com/zer0Kerbal/DropTanks/issues/43) in [zer0Kerbal/DropTanks](https://github.com/zer0Kerbal/DropTanks)
-5. ❗️ Closed issue [#45](https://github.com/zer0Kerbal/DropTanks/issues/45) in [zer0Kerbal/DropTanks](https://github.com/zer0Kerbal/DropTanks)
-6. ❗️ Closed issue [#44](https://github.com/zer0Kerbal/DropTanks/issues/44) in [zer0Kerbal/DropTanks](https://github.com/zer0Kerbal/DropTanks)
-7. ❗️ Closed issue [#42](https://github.com/zer0Kerbal/DropTanks/issues/42) in [zer0Kerbal/DropTanks](https://github.com/zer0Kerbal/DropTanks)
-8. 🎉 Merged PR [#47](https://github.com/zer0Kerbal/DropTanks/pull/47) in [zer0Kerbal/DropTanks](https://github.com/zer0Kerbal/DropTanks)
-9. 💪 Opened PR [#47](https://github.com/zer0Kerbal/DropTanks/pull/47) in [zer0Kerbal/DropTanks](https://github.com/zer0Kerbal/DropTanks)
-10. 🗣 Commented on [#46](https://github.com/zer0Kerbal/DropTanks/issues/46) in [zer0Kerbal/DropTanks](https://github.com/zer0Kerbal/DropTanks)
+1. ❗️ Opened issue [#16](https://github.com/zer0Kerbal/Kerturn/issues/16) in [zer0Kerbal/Kerturn](https://github.com/zer0Kerbal/Kerturn)
+2. ❗️ Opened issue [#15](https://github.com/zer0Kerbal/Kerturn/issues/15) in [zer0Kerbal/Kerturn](https://github.com/zer0Kerbal/Kerturn)
+3. ❗️ Opened issue [#14](https://github.com/zer0Kerbal/Kerturn/issues/14) in [zer0Kerbal/Kerturn](https://github.com/zer0Kerbal/Kerturn)
+4. ❗️ Opened issue [#13](https://github.com/zer0Kerbal/Kerturn/issues/13) in [zer0Kerbal/Kerturn](https://github.com/zer0Kerbal/Kerturn)
+5. ❗️ Opened issue [#12](https://github.com/zer0Kerbal/Kerturn/issues/12) in [zer0Kerbal/Kerturn](https://github.com/zer0Kerbal/Kerturn)
+6. ❗️ Opened issue [#11](https://github.com/zer0Kerbal/Kerturn/issues/11) in [zer0Kerbal/Kerturn](https://github.com/zer0Kerbal/Kerturn)
+7. ❗️ Opened issue [#10](https://github.com/zer0Kerbal/Kerturn/issues/10) in [zer0Kerbal/Kerturn](https://github.com/zer0Kerbal/Kerturn)
+8. ❗️ Opened issue [#9](https://github.com/zer0Kerbal/Kerturn/issues/9) in [zer0Kerbal/Kerturn](https://github.com/zer0Kerbal/Kerturn)
+9. ❗️ Opened issue [#8](https://github.com/zer0Kerbal/Kerturn/issues/8) in [zer0Kerbal/Kerturn](https://github.com/zer0Kerbal/Kerturn)
+10. ❗️ Opened issue [#7](https://github.com/zer0Kerbal/Kerturn/issues/7) in [zer0Kerbal/Kerturn](https://github.com/zer0Kerbal/Kerturn)
 <!--END_SECTION:activity-->
 
 </details
