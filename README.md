@@ -49,16 +49,16 @@
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#39](https://github.com/zer0Kerbal/FuelCells/issues/39) in [zer0Kerbal/FuelCells](https://github.com/zer0Kerbal/FuelCells)
-2. ❗️ Opened issue [#38](https://github.com/zer0Kerbal/FuelCells/issues/38) in [zer0Kerbal/FuelCells](https://github.com/zer0Kerbal/FuelCells)
-3. ❗️ Reopened issue [#14](https://github.com/zer0Kerbal/FuelCells/issues/14) in [zer0Kerbal/FuelCells](https://github.com/zer0Kerbal/FuelCells)
-4. ❗️ Closed issue [#15](https://github.com/zer0Kerbal/FuelCells/issues/15) in [zer0Kerbal/FuelCells](https://github.com/zer0Kerbal/FuelCells)
-5. ❗️ Closed issue [#4](https://github.com/zer0Kerbal/FuelCells/issues/4) in [zer0Kerbal/FuelCells](https://github.com/zer0Kerbal/FuelCells)
-6. ❗️ Closed issue [#3](https://github.com/zer0Kerbal/FuelCells/issues/3) in [zer0Kerbal/FuelCells](https://github.com/zer0Kerbal/FuelCells)
-7. ❗️ Closed issue [#2](https://github.com/zer0Kerbal/FuelCells/issues/2) in [zer0Kerbal/FuelCells](https://github.com/zer0Kerbal/FuelCells)
-8. ❗️ Closed issue [#1](https://github.com/zer0Kerbal/FuelCells/issues/1) in [zer0Kerbal/FuelCells](https://github.com/zer0Kerbal/FuelCells)
-9. ❗️ Closed issue [#6](https://github.com/zer0Kerbal/FuelCells/issues/6) in [zer0Kerbal/FuelCells](https://github.com/zer0Kerbal/FuelCells)
-10. ❗️ Closed issue [#5](https://github.com/zer0Kerbal/FuelCells/issues/5) in [zer0Kerbal/FuelCells](https://github.com/zer0Kerbal/FuelCells)
+1. ❗️ Opened issue [#37](https://github.com/zer0Kerbal/PreciseManeuver/issues/37) in [zer0Kerbal/PreciseManeuver](https://github.com/zer0Kerbal/PreciseManeuver)
+2. ❗️ Closed issue [#28](https://github.com/zer0Kerbal/PreciseManeuver/issues/28) in [zer0Kerbal/PreciseManeuver](https://github.com/zer0Kerbal/PreciseManeuver)
+3. ❗️ Opened issue [#39](https://github.com/zer0Kerbal/FuelCells/issues/39) in [zer0Kerbal/FuelCells](https://github.com/zer0Kerbal/FuelCells)
+4. ❗️ Opened issue [#38](https://github.com/zer0Kerbal/FuelCells/issues/38) in [zer0Kerbal/FuelCells](https://github.com/zer0Kerbal/FuelCells)
+5. ❗️ Reopened issue [#14](https://github.com/zer0Kerbal/FuelCells/issues/14) in [zer0Kerbal/FuelCells](https://github.com/zer0Kerbal/FuelCells)
+6. ❗️ Closed issue [#15](https://github.com/zer0Kerbal/FuelCells/issues/15) in [zer0Kerbal/FuelCells](https://github.com/zer0Kerbal/FuelCells)
+7. ❗️ Closed issue [#4](https://github.com/zer0Kerbal/FuelCells/issues/4) in [zer0Kerbal/FuelCells](https://github.com/zer0Kerbal/FuelCells)
+8. ❗️ Closed issue [#3](https://github.com/zer0Kerbal/FuelCells/issues/3) in [zer0Kerbal/FuelCells](https://github.com/zer0Kerbal/FuelCells)
+9. ❗️ Closed issue [#2](https://github.com/zer0Kerbal/FuelCells/issues/2) in [zer0Kerbal/FuelCells](https://github.com/zer0Kerbal/FuelCells)
+10. ❗️ Closed issue [#1](https://github.com/zer0Kerbal/FuelCells/issues/1) in [zer0Kerbal/FuelCells](https://github.com/zer0Kerbal/FuelCells)
 <!--END_SECTION:activity-->
 
 </details
