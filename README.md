@@ -32,11 +32,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [addon testing: Fuel Cells &lpar;FUEL&rpar; v0.9.99.0-prerelease `Thank you Ph34rb0t`](https://www.youtube.com/watch?v=Mtb48AMlH2U)
 - [addon testing: Drop Tanks &lpar;DROP&rpar;  v1.1.0.0-release `help137: Wet Paint` edition](https://www.youtube.com/watch?v=muMlQaCou3Q)
 - [Highlight: addon testing: Drop Tanks &lpar;DROP&rpar;  v1.1.0.0-release `help137: Wet Paint` edition](https://www.youtube.com/watch?v=gpUtw6FFb6E)
 - [addon testing: Sensor Modules &lpar;SENS&rpar;  Version 0.9.99.0-adoption-release `Thank you Ph34b0t` edition](https://www.youtube.com/watch?v=q8HD_jvXE-I)
 - [addon testing: Service Modules &lpar;SERV&rpar;  Version 0.9.99.0-adoption-release `Thank you Ph34b0t` edition](https://www.youtube.com/watch?v=eYzyM2Q64yI)
-- [🤬🛠🤬 Newly Repaired! OhScrap! &lpar;OHS&rpar; - Version 2.2.99.0-prerelease `允许降落伞损坏` ed](https://www.youtube.com/watch?v=uyEO4GIBP9k)
 <!-- YOUTUBE:END -->
 
 ---
