@@ -49,16 +49,16 @@
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#9506](https://github.com/KSP-CKAN/NetKAN/pull/9506) in [KSP-CKAN/NetKAN](https://github.com/KSP-CKAN/NetKAN)
-2. ❗️ Opened issue [#43](https://github.com/zer0Kerbal/PreciseManeuver/issues/43) in [zer0Kerbal/PreciseManeuver](https://github.com/zer0Kerbal/PreciseManeuver)
-3. ❗️ Opened issue [#42](https://github.com/zer0Kerbal/PreciseManeuver/issues/42) in [zer0Kerbal/PreciseManeuver](https://github.com/zer0Kerbal/PreciseManeuver)
-4. 🗣 Commented on [#36](https://github.com/zer0Kerbal/PreciseManeuver/issues/36) in [zer0Kerbal/PreciseManeuver](https://github.com/zer0Kerbal/PreciseManeuver)
-5. ❗️ Closed issue [#38](https://github.com/zer0Kerbal/PreciseManeuver/issues/38) in [zer0Kerbal/PreciseManeuver](https://github.com/zer0Kerbal/PreciseManeuver)
-6. ❗️ Closed issue [#39](https://github.com/zer0Kerbal/PreciseManeuver/issues/39) in [zer0Kerbal/PreciseManeuver](https://github.com/zer0Kerbal/PreciseManeuver)
-7. ❗️ Closed issue [#36](https://github.com/zer0Kerbal/PreciseManeuver/issues/36) in [zer0Kerbal/PreciseManeuver](https://github.com/zer0Kerbal/PreciseManeuver)
-8. 🎉 Merged PR [#40](https://github.com/zer0Kerbal/PreciseManeuver/pull/40) in [zer0Kerbal/PreciseManeuver](https://github.com/zer0Kerbal/PreciseManeuver)
-9. 💪 Opened PR [#40](https://github.com/zer0Kerbal/PreciseManeuver/pull/40) in [zer0Kerbal/PreciseManeuver](https://github.com/zer0Kerbal/PreciseManeuver)
-10. 🗣 Commented on [#36](https://github.com/zer0Kerbal/PreciseManeuver/issues/36) in [zer0Kerbal/PreciseManeuver](https://github.com/zer0Kerbal/PreciseManeuver)
+1. 🗣 Commented on [#25](https://github.com/zer0Kerbal/ScrapYard/issues/25) in [zer0Kerbal/ScrapYard](https://github.com/zer0Kerbal/ScrapYard)
+2. 🗣 Commented on [#27](https://github.com/zer0Kerbal/ScrapYard/issues/27) in [zer0Kerbal/ScrapYard](https://github.com/zer0Kerbal/ScrapYard)
+3. 💪 Opened PR [#9506](https://github.com/KSP-CKAN/NetKAN/pull/9506) in [KSP-CKAN/NetKAN](https://github.com/KSP-CKAN/NetKAN)
+4. ❗️ Opened issue [#43](https://github.com/zer0Kerbal/PreciseManeuver/issues/43) in [zer0Kerbal/PreciseManeuver](https://github.com/zer0Kerbal/PreciseManeuver)
+5. ❗️ Opened issue [#42](https://github.com/zer0Kerbal/PreciseManeuver/issues/42) in [zer0Kerbal/PreciseManeuver](https://github.com/zer0Kerbal/PreciseManeuver)
+6. 🗣 Commented on [#36](https://github.com/zer0Kerbal/PreciseManeuver/issues/36) in [zer0Kerbal/PreciseManeuver](https://github.com/zer0Kerbal/PreciseManeuver)
+7. ❗️ Closed issue [#38](https://github.com/zer0Kerbal/PreciseManeuver/issues/38) in [zer0Kerbal/PreciseManeuver](https://github.com/zer0Kerbal/PreciseManeuver)
+8. ❗️ Closed issue [#39](https://github.com/zer0Kerbal/PreciseManeuver/issues/39) in [zer0Kerbal/PreciseManeuver](https://github.com/zer0Kerbal/PreciseManeuver)
+9. ❗️ Closed issue [#36](https://github.com/zer0Kerbal/PreciseManeuver/issues/36) in [zer0Kerbal/PreciseManeuver](https://github.com/zer0Kerbal/PreciseManeuver)
+10. 🎉 Merged PR [#40](https://github.com/zer0Kerbal/PreciseManeuver/pull/40) in [zer0Kerbal/PreciseManeuver](https://github.com/zer0Kerbal/PreciseManeuver)
 <!--END_SECTION:activity-->
 
 </details
