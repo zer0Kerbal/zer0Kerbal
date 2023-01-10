@@ -32,11 +32,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [addon testing: SimpleConstruction! &lpar;SCON&rpar; + SLOG &lpar;and FUEL and ...&rpar; Version 4.0.99.33-prerelease `ee](https://www.youtube.com/watch?v=G_rg9bB-5Us)
 - [addon testing: ScrapYard! &lpar;SYD&rpar; + OhScrap &lpar;OHS&rpar; v2.2.99.0-prerelease - `Project Zelda II` edition](https://www.youtube.com/watch?v=S1vsjdzUPg0)
 - [addon testing: Precise Maneuver &lpar;PM&rpar; v2.4.99.1-prerelease - Thank you Morse edition](https://www.youtube.com/watch?v=5sMNIv06mhg)
 - [addon testing: Fuel Cells &lpar;FUEL&rpar; v0.9.99.0-prerelease `Thank you Ph34rb0t`](https://www.youtube.com/watch?v=Mtb48AMlH2U)
 - [addon testing: Drop Tanks &lpar;DROP&rpar;  v1.1.0.0-release `help137: Wet Paint` edition](https://www.youtube.com/watch?v=muMlQaCou3Q)
-- [Highlight: addon testing: Drop Tanks &lpar;DROP&rpar;  v1.1.0.0-release `help137: Wet Paint` edition](https://www.youtube.com/watch?v=gpUtw6FFb6E)
 <!-- YOUTUBE:END -->
 
 ---
