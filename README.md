@@ -49,16 +49,16 @@
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#177](https://github.com/zer0Kerbal/SimpleConstruction/issues/177) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
-2. ❗️ Closed issue [#176](https://github.com/zer0Kerbal/SimpleConstruction/issues/176) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
-3. ❗️ Closed issue [#40](https://github.com/zer0Kerbal/SimpleConstruction/issues/40) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
-4. ❗️ Closed issue [#37](https://github.com/zer0Kerbal/SimpleConstruction/issues/37) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
-5. ❗️ Closed issue [#173](https://github.com/zer0Kerbal/SimpleConstruction/issues/173) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
-6. 🎉 Merged PR [#178](https://github.com/zer0Kerbal/SimpleConstruction/pull/178) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
-7. 💪 Opened PR [#178](https://github.com/zer0Kerbal/SimpleConstruction/pull/178) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
-8. 💪 Opened PR [#9509](https://github.com/KSP-CKAN/NetKAN/pull/9509) in [KSP-CKAN/NetKAN](https://github.com/KSP-CKAN/NetKAN)
-9. 💪 Opened PR [#9508](https://github.com/KSP-CKAN/NetKAN/pull/9508) in [KSP-CKAN/NetKAN](https://github.com/KSP-CKAN/NetKAN)
-10. 🗣 Commented on [#37](https://github.com/zer0Kerbal/SimpleConstruction/issues/37) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
+1. ❗️ Opened issue [#181](https://github.com/zer0Kerbal/SimpleConstruction/issues/181) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
+2. ❗️ Opened issue [#180](https://github.com/zer0Kerbal/SimpleConstruction/issues/180) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
+3. ❗️ Closed issue [#177](https://github.com/zer0Kerbal/SimpleConstruction/issues/177) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
+4. ❗️ Closed issue [#176](https://github.com/zer0Kerbal/SimpleConstruction/issues/176) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
+5. ❗️ Closed issue [#40](https://github.com/zer0Kerbal/SimpleConstruction/issues/40) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
+6. ❗️ Closed issue [#37](https://github.com/zer0Kerbal/SimpleConstruction/issues/37) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
+7. ❗️ Closed issue [#173](https://github.com/zer0Kerbal/SimpleConstruction/issues/173) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
+8. 🎉 Merged PR [#178](https://github.com/zer0Kerbal/SimpleConstruction/pull/178) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
+9. 💪 Opened PR [#178](https://github.com/zer0Kerbal/SimpleConstruction/pull/178) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
+10. 💪 Opened PR [#9509](https://github.com/KSP-CKAN/NetKAN/pull/9509) in [KSP-CKAN/NetKAN](https://github.com/KSP-CKAN/NetKAN)
 <!--END_SECTION:activity-->
 
 </details
