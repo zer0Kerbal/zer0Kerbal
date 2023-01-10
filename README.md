@@ -49,16 +49,16 @@
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#37](https://github.com/zer0Kerbal/SimpleConstruction/issues/37) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
-2. 💪 Opened PR [#49](https://github.com/JadeOfMaar/RationalResources/pull/49) in [JadeOfMaar/RationalResources](https://github.com/JadeOfMaar/RationalResources)
-3. ❗️ Opened issue [#77](https://github.com/zer0Kerbal/ScrapYard/issues/77) in [zer0Kerbal/ScrapYard](https://github.com/zer0Kerbal/ScrapYard)
-4. ❗️ Opened issue [#76](https://github.com/zer0Kerbal/ScrapYard/issues/76) in [zer0Kerbal/ScrapYard](https://github.com/zer0Kerbal/ScrapYard)
-5. ❗️ Closed issue [#61](https://github.com/zer0Kerbal/ScrapYard/issues/61) in [zer0Kerbal/ScrapYard](https://github.com/zer0Kerbal/ScrapYard)
-6. ❗️ Closed issue [#60](https://github.com/zer0Kerbal/ScrapYard/issues/60) in [zer0Kerbal/ScrapYard](https://github.com/zer0Kerbal/ScrapYard)
-7. ❗️ Closed issue [#59](https://github.com/zer0Kerbal/ScrapYard/issues/59) in [zer0Kerbal/ScrapYard](https://github.com/zer0Kerbal/ScrapYard)
-8. ❗️ Closed issue [#58](https://github.com/zer0Kerbal/ScrapYard/issues/58) in [zer0Kerbal/ScrapYard](https://github.com/zer0Kerbal/ScrapYard)
-9. ❗️ Closed issue [#72](https://github.com/zer0Kerbal/ScrapYard/issues/72) in [zer0Kerbal/ScrapYard](https://github.com/zer0Kerbal/ScrapYard)
-10. ❗️ Closed issue [#46](https://github.com/zer0Kerbal/ScrapYard/issues/46) in [zer0Kerbal/ScrapYard](https://github.com/zer0Kerbal/ScrapYard)
+1. 💪 Opened PR [#9509](https://github.com/KSP-CKAN/NetKAN/pull/9509) in [KSP-CKAN/NetKAN](https://github.com/KSP-CKAN/NetKAN)
+2. 💪 Opened PR [#9508](https://github.com/KSP-CKAN/NetKAN/pull/9508) in [KSP-CKAN/NetKAN](https://github.com/KSP-CKAN/NetKAN)
+3. 🗣 Commented on [#37](https://github.com/zer0Kerbal/SimpleConstruction/issues/37) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
+4. 💪 Opened PR [#49](https://github.com/JadeOfMaar/RationalResources/pull/49) in [JadeOfMaar/RationalResources](https://github.com/JadeOfMaar/RationalResources)
+5. ❗️ Opened issue [#77](https://github.com/zer0Kerbal/ScrapYard/issues/77) in [zer0Kerbal/ScrapYard](https://github.com/zer0Kerbal/ScrapYard)
+6. ❗️ Opened issue [#76](https://github.com/zer0Kerbal/ScrapYard/issues/76) in [zer0Kerbal/ScrapYard](https://github.com/zer0Kerbal/ScrapYard)
+7. ❗️ Closed issue [#61](https://github.com/zer0Kerbal/ScrapYard/issues/61) in [zer0Kerbal/ScrapYard](https://github.com/zer0Kerbal/ScrapYard)
+8. ❗️ Closed issue [#60](https://github.com/zer0Kerbal/ScrapYard/issues/60) in [zer0Kerbal/ScrapYard](https://github.com/zer0Kerbal/ScrapYard)
+9. ❗️ Closed issue [#59](https://github.com/zer0Kerbal/ScrapYard/issues/59) in [zer0Kerbal/ScrapYard](https://github.com/zer0Kerbal/ScrapYard)
+10. ❗️ Closed issue [#58](https://github.com/zer0Kerbal/ScrapYard/issues/58) in [zer0Kerbal/ScrapYard](https://github.com/zer0Kerbal/ScrapYard)
 <!--END_SECTION:activity-->
 
 </details
