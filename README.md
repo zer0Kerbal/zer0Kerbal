@@ -49,16 +49,16 @@
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#58](https://github.com/zer0Kerbal/FieldTrainingFacility/pull/58) in [zer0Kerbal/FieldTrainingFacility](https://github.com/zer0Kerbal/FieldTrainingFacility)
-2. 💪 Opened PR [#58](https://github.com/zer0Kerbal/FieldTrainingFacility/pull/58) in [zer0Kerbal/FieldTrainingFacility](https://github.com/zer0Kerbal/FieldTrainingFacility)
-3. ❗️ Closed issue [#56](https://github.com/zer0Kerbal/FieldTrainingFacility/issues/56) in [zer0Kerbal/FieldTrainingFacility](https://github.com/zer0Kerbal/FieldTrainingFacility)
-4. ❗️ Closed issue [#55](https://github.com/zer0Kerbal/FieldTrainingFacility/issues/55) in [zer0Kerbal/FieldTrainingFacility](https://github.com/zer0Kerbal/FieldTrainingFacility)
-5. ❗️ Closed issue [#40](https://github.com/zer0Kerbal/FieldTrainingFacility/issues/40) in [zer0Kerbal/FieldTrainingFacility](https://github.com/zer0Kerbal/FieldTrainingFacility)
-6. 🎉 Merged PR [#57](https://github.com/zer0Kerbal/FieldTrainingFacility/pull/57) in [zer0Kerbal/FieldTrainingFacility](https://github.com/zer0Kerbal/FieldTrainingFacility)
-7. 💪 Opened PR [#57](https://github.com/zer0Kerbal/FieldTrainingFacility/pull/57) in [zer0Kerbal/FieldTrainingFacility](https://github.com/zer0Kerbal/FieldTrainingFacility)
-8. ❗️ Opened issue [#56](https://github.com/zer0Kerbal/FieldTrainingFacility/issues/56) in [zer0Kerbal/FieldTrainingFacility](https://github.com/zer0Kerbal/FieldTrainingFacility)
-9. ❗️ Opened issue [#55](https://github.com/zer0Kerbal/FieldTrainingFacility/issues/55) in [zer0Kerbal/FieldTrainingFacility](https://github.com/zer0Kerbal/FieldTrainingFacility)
-10. ❗️ Opened issue [#181](https://github.com/zer0Kerbal/SimpleConstruction/issues/181) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
+1. ❗️ Opened issue [#60](https://github.com/zer0Kerbal/FieldTrainingFacility/issues/60) in [zer0Kerbal/FieldTrainingFacility](https://github.com/zer0Kerbal/FieldTrainingFacility)
+2. 💪 Opened PR [#9512](https://github.com/KSP-CKAN/NetKAN/pull/9512) in [KSP-CKAN/NetKAN](https://github.com/KSP-CKAN/NetKAN)
+3. ❌ Closed PR [#9511](https://github.com/KSP-CKAN/NetKAN/pull/9511) in [KSP-CKAN/NetKAN](https://github.com/KSP-CKAN/NetKAN)
+4. 💪 Opened PR [#9511](https://github.com/KSP-CKAN/NetKAN/pull/9511) in [KSP-CKAN/NetKAN](https://github.com/KSP-CKAN/NetKAN)
+5. 🎉 Merged PR [#58](https://github.com/zer0Kerbal/FieldTrainingFacility/pull/58) in [zer0Kerbal/FieldTrainingFacility](https://github.com/zer0Kerbal/FieldTrainingFacility)
+6. 💪 Opened PR [#58](https://github.com/zer0Kerbal/FieldTrainingFacility/pull/58) in [zer0Kerbal/FieldTrainingFacility](https://github.com/zer0Kerbal/FieldTrainingFacility)
+7. ❗️ Closed issue [#56](https://github.com/zer0Kerbal/FieldTrainingFacility/issues/56) in [zer0Kerbal/FieldTrainingFacility](https://github.com/zer0Kerbal/FieldTrainingFacility)
+8. ❗️ Closed issue [#55](https://github.com/zer0Kerbal/FieldTrainingFacility/issues/55) in [zer0Kerbal/FieldTrainingFacility](https://github.com/zer0Kerbal/FieldTrainingFacility)
+9. ❗️ Closed issue [#40](https://github.com/zer0Kerbal/FieldTrainingFacility/issues/40) in [zer0Kerbal/FieldTrainingFacility](https://github.com/zer0Kerbal/FieldTrainingFacility)
+10. 🎉 Merged PR [#57](https://github.com/zer0Kerbal/FieldTrainingFacility/pull/57) in [zer0Kerbal/FieldTrainingFacility](https://github.com/zer0Kerbal/FieldTrainingFacility)
 <!--END_SECTION:activity-->
 
 </details
