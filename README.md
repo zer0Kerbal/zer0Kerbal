@@ -49,16 +49,16 @@
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#37](https://github.com/zer0Kerbal/AdjustableModPanel/issues/37) in [zer0Kerbal/AdjustableModPanel](https://github.com/zer0Kerbal/AdjustableModPanel)
-2. ❗️ Closed issue [#36](https://github.com/zer0Kerbal/AdjustableModPanel/issues/36) in [zer0Kerbal/AdjustableModPanel](https://github.com/zer0Kerbal/AdjustableModPanel)
-3. 🎉 Merged PR [#38](https://github.com/zer0Kerbal/AdjustableModPanel/pull/38) in [zer0Kerbal/AdjustableModPanel](https://github.com/zer0Kerbal/AdjustableModPanel)
-4. 💪 Opened PR [#38](https://github.com/zer0Kerbal/AdjustableModPanel/pull/38) in [zer0Kerbal/AdjustableModPanel](https://github.com/zer0Kerbal/AdjustableModPanel)
-5. ❗️ Opened issue [#37](https://github.com/zer0Kerbal/AdjustableModPanel/issues/37) in [zer0Kerbal/AdjustableModPanel](https://github.com/zer0Kerbal/AdjustableModPanel)
-6. ❗️ Opened issue [#36](https://github.com/zer0Kerbal/AdjustableModPanel/issues/36) in [zer0Kerbal/AdjustableModPanel](https://github.com/zer0Kerbal/AdjustableModPanel)
-7. ❗️ Opened issue [#35](https://github.com/zer0Kerbal/AdjustableModPanel/issues/35) in [zer0Kerbal/AdjustableModPanel](https://github.com/zer0Kerbal/AdjustableModPanel)
-8. ❗️ Opened issue [#36](https://github.com/shadowmage45/TUFX/issues/36) in [shadowmage45/TUFX](https://github.com/shadowmage45/TUFX)
-9. ❗️ Opened issue [#44](https://github.com/zer0Kerbal/FieldTrainingLab/issues/44) in [zer0Kerbal/FieldTrainingLab](https://github.com/zer0Kerbal/FieldTrainingLab)
-10. ❗️ Opened issue [#43](https://github.com/zer0Kerbal/FieldTrainingLab/issues/43) in [zer0Kerbal/FieldTrainingLab](https://github.com/zer0Kerbal/FieldTrainingLab)
+1. ❗️ Opened issue [#41](https://github.com/zer0Kerbal/AdjustableModPanel/issues/41) in [zer0Kerbal/AdjustableModPanel](https://github.com/zer0Kerbal/AdjustableModPanel)
+2. ❗️ Opened issue [#40](https://github.com/zer0Kerbal/AdjustableModPanel/issues/40) in [zer0Kerbal/AdjustableModPanel](https://github.com/zer0Kerbal/AdjustableModPanel)
+3. ❗️ Closed issue [#37](https://github.com/zer0Kerbal/AdjustableModPanel/issues/37) in [zer0Kerbal/AdjustableModPanel](https://github.com/zer0Kerbal/AdjustableModPanel)
+4. ❗️ Closed issue [#36](https://github.com/zer0Kerbal/AdjustableModPanel/issues/36) in [zer0Kerbal/AdjustableModPanel](https://github.com/zer0Kerbal/AdjustableModPanel)
+5. 🎉 Merged PR [#38](https://github.com/zer0Kerbal/AdjustableModPanel/pull/38) in [zer0Kerbal/AdjustableModPanel](https://github.com/zer0Kerbal/AdjustableModPanel)
+6. 💪 Opened PR [#38](https://github.com/zer0Kerbal/AdjustableModPanel/pull/38) in [zer0Kerbal/AdjustableModPanel](https://github.com/zer0Kerbal/AdjustableModPanel)
+7. ❗️ Opened issue [#37](https://github.com/zer0Kerbal/AdjustableModPanel/issues/37) in [zer0Kerbal/AdjustableModPanel](https://github.com/zer0Kerbal/AdjustableModPanel)
+8. ❗️ Opened issue [#36](https://github.com/zer0Kerbal/AdjustableModPanel/issues/36) in [zer0Kerbal/AdjustableModPanel](https://github.com/zer0Kerbal/AdjustableModPanel)
+9. ❗️ Opened issue [#35](https://github.com/zer0Kerbal/AdjustableModPanel/issues/35) in [zer0Kerbal/AdjustableModPanel](https://github.com/zer0Kerbal/AdjustableModPanel)
+10. ❗️ Opened issue [#36](https://github.com/shadowmage45/TUFX/issues/36) in [shadowmage45/TUFX](https://github.com/shadowmage45/TUFX)
 <!--END_SECTION:activity-->
 
 </details
