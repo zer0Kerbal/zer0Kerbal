@@ -32,11 +32,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [addon testing: addon testing: Keridian Dynamics &lpar;KDVA&rpar; v1.8.99.6-prerelease - `#7 Please Read the In](https://www.youtube.com/watch?v=TB0VfGKyDUE)
 - [Highlight: addon testing: Adjustable Mod Panel &lpar;KAMP&rpar; v1.5.99.1-prerelease `Thank you Morse` edition](https://www.youtube.com/watch?v=HwfJ1EPT-H0)
 - [addon testing: Field Training Lab &lpar;FTL&rpar; v1.2.2.0-release `Thank you Efour` edition](https://www.youtube.com/watch?v=3XjQHjMFCCE)
 - [addon testing: Field Training Facility &lpar;FTF&rpar; v1.2.2.0-release `Thank you Efour` edition](https://www.youtube.com/watch?v=bZCUd0vmmSQ)
 - [addon testing: SimpleConstruction! &lpar;SCON&rpar; + SLOG &lpar;and FUEL and ...&rpar; Version 4.0.99.33-prerelease `ee](https://www.youtube.com/watch?v=G_rg9bB-5Us)
-- [addon testing: ScrapYard! &lpar;SYD&rpar; + OhScrap &lpar;OHS&rpar; v2.2.99.0-prerelease - `Project Zelda II` edition](https://www.youtube.com/watch?v=S1vsjdzUPg0)
 <!-- YOUTUBE:END -->
 
 ---
