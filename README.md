@@ -49,16 +49,16 @@
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#41](https://github.com/zer0Kerbal/AdjustableModPanel/issues/41) in [zer0Kerbal/AdjustableModPanel](https://github.com/zer0Kerbal/AdjustableModPanel)
-2. ❗️ Opened issue [#40](https://github.com/zer0Kerbal/AdjustableModPanel/issues/40) in [zer0Kerbal/AdjustableModPanel](https://github.com/zer0Kerbal/AdjustableModPanel)
-3. ❗️ Closed issue [#37](https://github.com/zer0Kerbal/AdjustableModPanel/issues/37) in [zer0Kerbal/AdjustableModPanel](https://github.com/zer0Kerbal/AdjustableModPanel)
-4. ❗️ Closed issue [#36](https://github.com/zer0Kerbal/AdjustableModPanel/issues/36) in [zer0Kerbal/AdjustableModPanel](https://github.com/zer0Kerbal/AdjustableModPanel)
-5. 🎉 Merged PR [#38](https://github.com/zer0Kerbal/AdjustableModPanel/pull/38) in [zer0Kerbal/AdjustableModPanel](https://github.com/zer0Kerbal/AdjustableModPanel)
-6. 💪 Opened PR [#38](https://github.com/zer0Kerbal/AdjustableModPanel/pull/38) in [zer0Kerbal/AdjustableModPanel](https://github.com/zer0Kerbal/AdjustableModPanel)
-7. ❗️ Opened issue [#37](https://github.com/zer0Kerbal/AdjustableModPanel/issues/37) in [zer0Kerbal/AdjustableModPanel](https://github.com/zer0Kerbal/AdjustableModPanel)
-8. ❗️ Opened issue [#36](https://github.com/zer0Kerbal/AdjustableModPanel/issues/36) in [zer0Kerbal/AdjustableModPanel](https://github.com/zer0Kerbal/AdjustableModPanel)
-9. ❗️ Opened issue [#35](https://github.com/zer0Kerbal/AdjustableModPanel/issues/35) in [zer0Kerbal/AdjustableModPanel](https://github.com/zer0Kerbal/AdjustableModPanel)
-10. ❗️ Opened issue [#36](https://github.com/shadowmage45/TUFX/issues/36) in [shadowmage45/TUFX](https://github.com/shadowmage45/TUFX)
+1. ❗️ Opened issue [#79](https://github.com/zer0Kerbal/KeridianDynamics/issues/79) in [zer0Kerbal/KeridianDynamics](https://github.com/zer0Kerbal/KeridianDynamics)
+2. ❗️ Opened issue [#78](https://github.com/zer0Kerbal/KeridianDynamics/issues/78) in [zer0Kerbal/KeridianDynamics](https://github.com/zer0Kerbal/KeridianDynamics)
+3. ❗️ Opened issue [#77](https://github.com/zer0Kerbal/KeridianDynamics/issues/77) in [zer0Kerbal/KeridianDynamics](https://github.com/zer0Kerbal/KeridianDynamics)
+4. 🎉 Merged PR [#75](https://github.com/zer0Kerbal/KeridianDynamics/pull/75) in [zer0Kerbal/KeridianDynamics](https://github.com/zer0Kerbal/KeridianDynamics)
+5. ❗️ Closed issue [#74](https://github.com/zer0Kerbal/KeridianDynamics/issues/74) in [zer0Kerbal/KeridianDynamics](https://github.com/zer0Kerbal/KeridianDynamics)
+6. ❗️ Closed issue [#73](https://github.com/zer0Kerbal/KeridianDynamics/issues/73) in [zer0Kerbal/KeridianDynamics](https://github.com/zer0Kerbal/KeridianDynamics)
+7. ❗️ Closed issue [#60](https://github.com/zer0Kerbal/KeridianDynamics/issues/60) in [zer0Kerbal/KeridianDynamics](https://github.com/zer0Kerbal/KeridianDynamics)
+8. 💪 Opened PR [#75](https://github.com/zer0Kerbal/KeridianDynamics/pull/75) in [zer0Kerbal/KeridianDynamics](https://github.com/zer0Kerbal/KeridianDynamics)
+9. ❗️ Opened issue [#41](https://github.com/zer0Kerbal/AdjustableModPanel/issues/41) in [zer0Kerbal/AdjustableModPanel](https://github.com/zer0Kerbal/AdjustableModPanel)
+10. ❗️ Opened issue [#40](https://github.com/zer0Kerbal/AdjustableModPanel/issues/40) in [zer0Kerbal/AdjustableModPanel](https://github.com/zer0Kerbal/AdjustableModPanel)
 <!--END_SECTION:activity-->
 
 </details
