@@ -49,16 +49,16 @@
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#156](https://github.com/zer0Kerbal/FuelTanksPlus/issues/156) in [zer0Kerbal/FuelTanksPlus](https://github.com/zer0Kerbal/FuelTanksPlus)
-2. ❗️ Opened issue [#155](https://github.com/zer0Kerbal/FuelTanksPlus/issues/155) in [zer0Kerbal/FuelTanksPlus](https://github.com/zer0Kerbal/FuelTanksPlus)
-3. ❗️ Opened issue [#154](https://github.com/zer0Kerbal/FuelTanksPlus/issues/154) in [zer0Kerbal/FuelTanksPlus](https://github.com/zer0Kerbal/FuelTanksPlus)
-4. ❗️ Closed issue [#135](https://github.com/zer0Kerbal/FuelTanksPlus/issues/135) in [zer0Kerbal/FuelTanksPlus](https://github.com/zer0Kerbal/FuelTanksPlus)
-5. ❗️ Closed issue [#151](https://github.com/zer0Kerbal/FuelTanksPlus/issues/151) in [zer0Kerbal/FuelTanksPlus](https://github.com/zer0Kerbal/FuelTanksPlus)
-6. ❗️ Closed issue [#150](https://github.com/zer0Kerbal/FuelTanksPlus/issues/150) in [zer0Kerbal/FuelTanksPlus](https://github.com/zer0Kerbal/FuelTanksPlus)
-7. 🎉 Merged PR [#152](https://github.com/zer0Kerbal/FuelTanksPlus/pull/152) in [zer0Kerbal/FuelTanksPlus](https://github.com/zer0Kerbal/FuelTanksPlus)
-8. 💪 Opened PR [#152](https://github.com/zer0Kerbal/FuelTanksPlus/pull/152) in [zer0Kerbal/FuelTanksPlus](https://github.com/zer0Kerbal/FuelTanksPlus)
-9. ❗️ Opened issue [#38](https://github.com/zer0Kerbal/FTPLtd/issues/38) in [zer0Kerbal/FTPLtd](https://github.com/zer0Kerbal/FTPLtd)
-10. ❗️ Opened issue [#37](https://github.com/zer0Kerbal/FTPLtd/issues/37) in [zer0Kerbal/FTPLtd](https://github.com/zer0Kerbal/FTPLtd)
+1. ❗️ Opened issue [#42](https://github.com/zer0Kerbal/SpaceYCorp/issues/42) in [zer0Kerbal/SpaceYCorp](https://github.com/zer0Kerbal/SpaceYCorp)
+2. ❗️ Opened issue [#41](https://github.com/zer0Kerbal/SpaceYCorp/issues/41) in [zer0Kerbal/SpaceYCorp](https://github.com/zer0Kerbal/SpaceYCorp)
+3. ❗️ Closed issue [#38](https://github.com/zer0Kerbal/SpaceYCorp/issues/38) in [zer0Kerbal/SpaceYCorp](https://github.com/zer0Kerbal/SpaceYCorp)
+4. ❗️ Closed issue [#37](https://github.com/zer0Kerbal/SpaceYCorp/issues/37) in [zer0Kerbal/SpaceYCorp](https://github.com/zer0Kerbal/SpaceYCorp)
+5. ❗️ Closed issue [#36](https://github.com/zer0Kerbal/SpaceYCorp/issues/36) in [zer0Kerbal/SpaceYCorp](https://github.com/zer0Kerbal/SpaceYCorp)
+6. 🎉 Merged PR [#39](https://github.com/zer0Kerbal/SpaceYCorp/pull/39) in [zer0Kerbal/SpaceYCorp](https://github.com/zer0Kerbal/SpaceYCorp)
+7. 💪 Opened PR [#39](https://github.com/zer0Kerbal/SpaceYCorp/pull/39) in [zer0Kerbal/SpaceYCorp](https://github.com/zer0Kerbal/SpaceYCorp)
+8. ❗️ Opened issue [#156](https://github.com/zer0Kerbal/FuelTanksPlus/issues/156) in [zer0Kerbal/FuelTanksPlus](https://github.com/zer0Kerbal/FuelTanksPlus)
+9. ❗️ Opened issue [#155](https://github.com/zer0Kerbal/FuelTanksPlus/issues/155) in [zer0Kerbal/FuelTanksPlus](https://github.com/zer0Kerbal/FuelTanksPlus)
+10. ❗️ Opened issue [#154](https://github.com/zer0Kerbal/FuelTanksPlus/issues/154) in [zer0Kerbal/FuelTanksPlus](https://github.com/zer0Kerbal/FuelTanksPlus)
 <!--END_SECTION:activity-->
 
 </details
