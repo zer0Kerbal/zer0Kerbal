@@ -49,16 +49,16 @@
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#71](https://github.com/zer0Kerbal/SpaceYExpanded/issues/71) in [zer0Kerbal/SpaceYExpanded](https://github.com/zer0Kerbal/SpaceYExpanded)
-2. 💪 Opened PR [#70](https://github.com/zer0Kerbal/SpaceYExpanded/pull/70) in [zer0Kerbal/SpaceYExpanded](https://github.com/zer0Kerbal/SpaceYExpanded)
-3. ❗️ Closed issue [#17](https://github.com/zer0Kerbal/SpaceYExpanded/issues/17) in [zer0Kerbal/SpaceYExpanded](https://github.com/zer0Kerbal/SpaceYExpanded)
-4. 🎉 Merged PR [#69](https://github.com/zer0Kerbal/SpaceYExpanded/pull/69) in [zer0Kerbal/SpaceYExpanded](https://github.com/zer0Kerbal/SpaceYExpanded)
-5. 💪 Opened PR [#69](https://github.com/zer0Kerbal/SpaceYExpanded/pull/69) in [zer0Kerbal/SpaceYExpanded](https://github.com/zer0Kerbal/SpaceYExpanded)
-6. ❗️ Closed issue [#16](https://github.com/zer0Kerbal/SpaceYExpanded/issues/16) in [zer0Kerbal/SpaceYExpanded](https://github.com/zer0Kerbal/SpaceYExpanded)
-7. 🎉 Merged PR [#68](https://github.com/zer0Kerbal/SpaceYExpanded/pull/68) in [zer0Kerbal/SpaceYExpanded](https://github.com/zer0Kerbal/SpaceYExpanded)
-8. 💪 Opened PR [#68](https://github.com/zer0Kerbal/SpaceYExpanded/pull/68) in [zer0Kerbal/SpaceYExpanded](https://github.com/zer0Kerbal/SpaceYExpanded)
-9. ❗️ Closed issue [#15](https://github.com/zer0Kerbal/SpaceYExpanded/issues/15) in [zer0Kerbal/SpaceYExpanded](https://github.com/zer0Kerbal/SpaceYExpanded)
-10. 🎉 Merged PR [#67](https://github.com/zer0Kerbal/SpaceYExpanded/pull/67) in [zer0Kerbal/SpaceYExpanded](https://github.com/zer0Kerbal/SpaceYExpanded)
+1. ❗️ Opened issue [#72](https://github.com/zer0Kerbal/SpaceYExpanded/issues/72) in [zer0Kerbal/SpaceYExpanded](https://github.com/zer0Kerbal/SpaceYExpanded)
+2. ❗️ Closed issue [#18](https://github.com/zer0Kerbal/SpaceYExpanded/issues/18) in [zer0Kerbal/SpaceYExpanded](https://github.com/zer0Kerbal/SpaceYExpanded)
+3. 🎉 Merged PR [#70](https://github.com/zer0Kerbal/SpaceYExpanded/pull/70) in [zer0Kerbal/SpaceYExpanded](https://github.com/zer0Kerbal/SpaceYExpanded)
+4. ❗️ Opened issue [#71](https://github.com/zer0Kerbal/SpaceYExpanded/issues/71) in [zer0Kerbal/SpaceYExpanded](https://github.com/zer0Kerbal/SpaceYExpanded)
+5. 💪 Opened PR [#70](https://github.com/zer0Kerbal/SpaceYExpanded/pull/70) in [zer0Kerbal/SpaceYExpanded](https://github.com/zer0Kerbal/SpaceYExpanded)
+6. ❗️ Closed issue [#17](https://github.com/zer0Kerbal/SpaceYExpanded/issues/17) in [zer0Kerbal/SpaceYExpanded](https://github.com/zer0Kerbal/SpaceYExpanded)
+7. 🎉 Merged PR [#69](https://github.com/zer0Kerbal/SpaceYExpanded/pull/69) in [zer0Kerbal/SpaceYExpanded](https://github.com/zer0Kerbal/SpaceYExpanded)
+8. 💪 Opened PR [#69](https://github.com/zer0Kerbal/SpaceYExpanded/pull/69) in [zer0Kerbal/SpaceYExpanded](https://github.com/zer0Kerbal/SpaceYExpanded)
+9. ❗️ Closed issue [#16](https://github.com/zer0Kerbal/SpaceYExpanded/issues/16) in [zer0Kerbal/SpaceYExpanded](https://github.com/zer0Kerbal/SpaceYExpanded)
+10. 🎉 Merged PR [#68](https://github.com/zer0Kerbal/SpaceYExpanded/pull/68) in [zer0Kerbal/SpaceYExpanded](https://github.com/zer0Kerbal/SpaceYExpanded)
 <!--END_SECTION:activity-->
 
 </details
