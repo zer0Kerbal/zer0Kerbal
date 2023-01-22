@@ -49,16 +49,16 @@
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#52](https://github.com/zer0Kerbal/DropTanks/issues/52) in [zer0Kerbal/DropTanks](https://github.com/zer0Kerbal/DropTanks)
-2. ❗️ Opened issue [#46](https://github.com/zer0Kerbal/SpaceYCorp/issues/46) in [zer0Kerbal/SpaceYCorp](https://github.com/zer0Kerbal/SpaceYCorp)
-3. ❗️ Opened issue [#45](https://github.com/zer0Kerbal/SpaceYCorp/issues/45) in [zer0Kerbal/SpaceYCorp](https://github.com/zer0Kerbal/SpaceYCorp)
-4. ❗️ Closed issue [#42](https://github.com/zer0Kerbal/SpaceYCorp/issues/42) in [zer0Kerbal/SpaceYCorp](https://github.com/zer0Kerbal/SpaceYCorp)
-5. 🎉 Merged PR [#43](https://github.com/zer0Kerbal/SpaceYCorp/pull/43) in [zer0Kerbal/SpaceYCorp](https://github.com/zer0Kerbal/SpaceYCorp)
-6. ❗️ Closed issue [#41](https://github.com/zer0Kerbal/SpaceYCorp/issues/41) in [zer0Kerbal/SpaceYCorp](https://github.com/zer0Kerbal/SpaceYCorp)
-7. 💪 Opened PR [#43](https://github.com/zer0Kerbal/SpaceYCorp/pull/43) in [zer0Kerbal/SpaceYCorp](https://github.com/zer0Kerbal/SpaceYCorp)
-8. ❗️ Opened issue [#99](https://github.com/zer0Kerbal/SpaceYExpanded/issues/99) in [zer0Kerbal/SpaceYExpanded](https://github.com/zer0Kerbal/SpaceYExpanded)
-9. ❗️ Opened issue [#98](https://github.com/zer0Kerbal/SpaceYExpanded/issues/98) in [zer0Kerbal/SpaceYExpanded](https://github.com/zer0Kerbal/SpaceYExpanded)
-10. ❗️ Opened issue [#97](https://github.com/zer0Kerbal/SpaceYExpanded/issues/97) in [zer0Kerbal/SpaceYExpanded](https://github.com/zer0Kerbal/SpaceYExpanded)
+1. ❗️ Opened issue [#57](https://github.com/zer0Kerbal/DropTanks/issues/57) in [zer0Kerbal/DropTanks](https://github.com/zer0Kerbal/DropTanks)
+2. ❗️ Opened issue [#56](https://github.com/zer0Kerbal/DropTanks/issues/56) in [zer0Kerbal/DropTanks](https://github.com/zer0Kerbal/DropTanks)
+3. ❗️ Opened issue [#55](https://github.com/zer0Kerbal/DropTanks/issues/55) in [zer0Kerbal/DropTanks](https://github.com/zer0Kerbal/DropTanks)
+4. ❗️ Closed issue [#50](https://github.com/zer0Kerbal/DropTanks/issues/50) in [zer0Kerbal/DropTanks](https://github.com/zer0Kerbal/DropTanks)
+5. ❗️ Closed issue [#49](https://github.com/zer0Kerbal/DropTanks/issues/49) in [zer0Kerbal/DropTanks](https://github.com/zer0Kerbal/DropTanks)
+6. ❗️ Closed issue [#51](https://github.com/zer0Kerbal/DropTanks/issues/51) in [zer0Kerbal/DropTanks](https://github.com/zer0Kerbal/DropTanks)
+7. ❗️ Closed issue [#52](https://github.com/zer0Kerbal/DropTanks/issues/52) in [zer0Kerbal/DropTanks](https://github.com/zer0Kerbal/DropTanks)
+8. 🎉 Merged PR [#53](https://github.com/zer0Kerbal/DropTanks/pull/53) in [zer0Kerbal/DropTanks](https://github.com/zer0Kerbal/DropTanks)
+9. 🗣 Commented on [#52](https://github.com/zer0Kerbal/DropTanks/issues/52) in [zer0Kerbal/DropTanks](https://github.com/zer0Kerbal/DropTanks)
+10. 💪 Opened PR [#53](https://github.com/zer0Kerbal/DropTanks/pull/53) in [zer0Kerbal/DropTanks](https://github.com/zer0Kerbal/DropTanks)
 <!--END_SECTION:activity-->
 
 </details
