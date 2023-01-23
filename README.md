@@ -33,10 +33,10 @@
 
 <!-- YOUTUBE:START -->
 - [addon testing: Sea Dragon &lpar;SEA&rpar; v0.3.99.0-adoption `Thank you NecroBones`](https://www.youtube.com/watch?v=PYjvZm5qa3c)
-- [addon testing: Sea Dragon &lpar;SEA&rpar; v0.3.99.0-adoption `Thank you NecroBones`](https://www.youtube.com/watch?v=j7lLqi5PC9o)
 - [addon testing: SpaceY Expanded &lpar;SYE&rpar; 1.4.99.0-adoption `Thank you NecroBones`](https://www.youtube.com/watch?v=zzMNKu9LCHc)
 - [addon testing: SpaceY Lifters &lpar;SYL&rpar; 1.9.99.1-prerelease `Thank you NecroBones` edition`](https://www.youtube.com/watch?v=Wf4b9yQIBWc)
 - [addon testing: Rusty Star Rockets &lpar;RSR&rpar; v1.8.99.2-prerelease - `Rust Koleum: 2nd coat`](https://www.youtube.com/watch?v=Fk2gVzntzso)
+- [addon testing: Keridian Dynamics &lpar;KDVA&rpar; v1.8.99.6-prerelease - `#7 Please Read the In](https://www.youtube.com/watch?v=TB0VfGKyDUE)
 <!-- YOUTUBE:END -->
 
 ---
