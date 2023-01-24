@@ -49,16 +49,16 @@
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#58](https://github.com/zer0Kerbal/DropTanks/issues/58) in [zer0Kerbal/DropTanks](https://github.com/zer0Kerbal/DropTanks)
-2. 🗣 Commented on [#58](https://github.com/zer0Kerbal/DropTanks/issues/58) in [zer0Kerbal/DropTanks](https://github.com/zer0Kerbal/DropTanks)
-3. ❗️ Opened issue [#54](https://github.com/zer0Kerbal/SeaDragon/issues/54) in [zer0Kerbal/SeaDragon](https://github.com/zer0Kerbal/SeaDragon)
-4. ❗️ Opened issue [#53](https://github.com/zer0Kerbal/SeaDragon/issues/53) in [zer0Kerbal/SeaDragon](https://github.com/zer0Kerbal/SeaDragon)
-5. ❗️ Closed issue [#49](https://github.com/zer0Kerbal/SeaDragon/issues/49) in [zer0Kerbal/SeaDragon](https://github.com/zer0Kerbal/SeaDragon)
-6. ❗️ Closed issue [#50](https://github.com/zer0Kerbal/SeaDragon/issues/50) in [zer0Kerbal/SeaDragon](https://github.com/zer0Kerbal/SeaDragon)
-7. ❗️ Closed issue [#4](https://github.com/zer0Kerbal/SeaDragon/issues/4) in [zer0Kerbal/SeaDragon](https://github.com/zer0Kerbal/SeaDragon)
-8. ❗️ Closed issue [#2](https://github.com/zer0Kerbal/SeaDragon/issues/2) in [zer0Kerbal/SeaDragon](https://github.com/zer0Kerbal/SeaDragon)
-9. ❗️ Closed issue [#3](https://github.com/zer0Kerbal/SeaDragon/issues/3) in [zer0Kerbal/SeaDragon](https://github.com/zer0Kerbal/SeaDragon)
-10. ❗️ Closed issue [#1](https://github.com/zer0Kerbal/SeaDragon/issues/1) in [zer0Kerbal/SeaDragon](https://github.com/zer0Kerbal/SeaDragon)
+1. ❗️ Opened issue [#13](https://github.com/zer0Kerbal/CoyoteSpaceIndustries/issues/13) in [zer0Kerbal/CoyoteSpaceIndustries](https://github.com/zer0Kerbal/CoyoteSpaceIndustries)
+2. ❗️ Opened issue [#12](https://github.com/zer0Kerbal/CoyoteSpaceIndustries/issues/12) in [zer0Kerbal/CoyoteSpaceIndustries](https://github.com/zer0Kerbal/CoyoteSpaceIndustries)
+3. ❗️ Opened issue [#11](https://github.com/zer0Kerbal/CoyoteSpaceIndustries/issues/11) in [zer0Kerbal/CoyoteSpaceIndustries](https://github.com/zer0Kerbal/CoyoteSpaceIndustries)
+4. ❗️ Opened issue [#10](https://github.com/zer0Kerbal/CoyoteSpaceIndustries/issues/10) in [zer0Kerbal/CoyoteSpaceIndustries](https://github.com/zer0Kerbal/CoyoteSpaceIndustries)
+5. ❗️ Opened issue [#9](https://github.com/zer0Kerbal/CoyoteSpaceIndustries/issues/9) in [zer0Kerbal/CoyoteSpaceIndustries](https://github.com/zer0Kerbal/CoyoteSpaceIndustries)
+6. ❗️ Opened issue [#8](https://github.com/zer0Kerbal/CoyoteSpaceIndustries/issues/8) in [zer0Kerbal/CoyoteSpaceIndustries](https://github.com/zer0Kerbal/CoyoteSpaceIndustries)
+7. ❗️ Opened issue [#7](https://github.com/zer0Kerbal/CoyoteSpaceIndustries/issues/7) in [zer0Kerbal/CoyoteSpaceIndustries](https://github.com/zer0Kerbal/CoyoteSpaceIndustries)
+8. ❗️ Opened issue [#6](https://github.com/zer0Kerbal/CoyoteSpaceIndustries/issues/6) in [zer0Kerbal/CoyoteSpaceIndustries](https://github.com/zer0Kerbal/CoyoteSpaceIndustries)
+9. ❗️ Opened issue [#5](https://github.com/zer0Kerbal/CoyoteSpaceIndustries/issues/5) in [zer0Kerbal/CoyoteSpaceIndustries](https://github.com/zer0Kerbal/CoyoteSpaceIndustries)
+10. ❗️ Opened issue [#4](https://github.com/zer0Kerbal/CoyoteSpaceIndustries/issues/4) in [zer0Kerbal/CoyoteSpaceIndustries](https://github.com/zer0Kerbal/CoyoteSpaceIndustries)
 <!--END_SECTION:activity-->
 
 </details
