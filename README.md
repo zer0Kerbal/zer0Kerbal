@@ -49,16 +49,16 @@
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#19](https://github.com/net-lisias-ksp/ModuleManager/issues/19) in [net-lisias-ksp/ModuleManager](https://github.com/net-lisias-ksp/ModuleManager)
-2. ❗️ Opened issue [#26](https://github.com/zer0Kerbal/CoyoteSpaceIndustries/issues/26) in [zer0Kerbal/CoyoteSpaceIndustries](https://github.com/zer0Kerbal/CoyoteSpaceIndustries)
-3. ❗️ Opened issue [#25](https://github.com/zer0Kerbal/CoyoteSpaceIndustries/issues/25) in [zer0Kerbal/CoyoteSpaceIndustries](https://github.com/zer0Kerbal/CoyoteSpaceIndustries)
-4. ❗️ Opened issue [#24](https://github.com/zer0Kerbal/CoyoteSpaceIndustries/issues/24) in [zer0Kerbal/CoyoteSpaceIndustries](https://github.com/zer0Kerbal/CoyoteSpaceIndustries)
-5. ❗️ Opened issue [#23](https://github.com/zer0Kerbal/CoyoteSpaceIndustries/issues/23) in [zer0Kerbal/CoyoteSpaceIndustries](https://github.com/zer0Kerbal/CoyoteSpaceIndustries)
-6. ❗️ Opened issue [#22](https://github.com/zer0Kerbal/CoyoteSpaceIndustries/issues/22) in [zer0Kerbal/CoyoteSpaceIndustries](https://github.com/zer0Kerbal/CoyoteSpaceIndustries)
-7. ❗️ Opened issue [#21](https://github.com/zer0Kerbal/CoyoteSpaceIndustries/issues/21) in [zer0Kerbal/CoyoteSpaceIndustries](https://github.com/zer0Kerbal/CoyoteSpaceIndustries)
-8. ❗️ Opened issue [#20](https://github.com/zer0Kerbal/CoyoteSpaceIndustries/issues/20) in [zer0Kerbal/CoyoteSpaceIndustries](https://github.com/zer0Kerbal/CoyoteSpaceIndustries)
-9. ❗️ Opened issue [#19](https://github.com/zer0Kerbal/CoyoteSpaceIndustries/issues/19) in [zer0Kerbal/CoyoteSpaceIndustries](https://github.com/zer0Kerbal/CoyoteSpaceIndustries)
-10. ❗️ Opened issue [#18](https://github.com/zer0Kerbal/CoyoteSpaceIndustries/issues/18) in [zer0Kerbal/CoyoteSpaceIndustries](https://github.com/zer0Kerbal/CoyoteSpaceIndustries)
+1. ❗️ Opened issue [#113](https://github.com/zer0Kerbal/CoyoteCargoFreighter/issues/113) in [zer0Kerbal/CoyoteCargoFreighter](https://github.com/zer0Kerbal/CoyoteCargoFreighter)
+2. 🗣 Commented on [#19](https://github.com/net-lisias-ksp/ModuleManager/issues/19) in [net-lisias-ksp/ModuleManager](https://github.com/net-lisias-ksp/ModuleManager)
+3. ❗️ Opened issue [#26](https://github.com/zer0Kerbal/CoyoteSpaceIndustries/issues/26) in [zer0Kerbal/CoyoteSpaceIndustries](https://github.com/zer0Kerbal/CoyoteSpaceIndustries)
+4. ❗️ Opened issue [#25](https://github.com/zer0Kerbal/CoyoteSpaceIndustries/issues/25) in [zer0Kerbal/CoyoteSpaceIndustries](https://github.com/zer0Kerbal/CoyoteSpaceIndustries)
+5. ❗️ Opened issue [#24](https://github.com/zer0Kerbal/CoyoteSpaceIndustries/issues/24) in [zer0Kerbal/CoyoteSpaceIndustries](https://github.com/zer0Kerbal/CoyoteSpaceIndustries)
+6. ❗️ Opened issue [#23](https://github.com/zer0Kerbal/CoyoteSpaceIndustries/issues/23) in [zer0Kerbal/CoyoteSpaceIndustries](https://github.com/zer0Kerbal/CoyoteSpaceIndustries)
+7. ❗️ Opened issue [#22](https://github.com/zer0Kerbal/CoyoteSpaceIndustries/issues/22) in [zer0Kerbal/CoyoteSpaceIndustries](https://github.com/zer0Kerbal/CoyoteSpaceIndustries)
+8. ❗️ Opened issue [#21](https://github.com/zer0Kerbal/CoyoteSpaceIndustries/issues/21) in [zer0Kerbal/CoyoteSpaceIndustries](https://github.com/zer0Kerbal/CoyoteSpaceIndustries)
+9. ❗️ Opened issue [#20](https://github.com/zer0Kerbal/CoyoteSpaceIndustries/issues/20) in [zer0Kerbal/CoyoteSpaceIndustries](https://github.com/zer0Kerbal/CoyoteSpaceIndustries)
+10. ❗️ Opened issue [#19](https://github.com/zer0Kerbal/CoyoteSpaceIndustries/issues/19) in [zer0Kerbal/CoyoteSpaceIndustries](https://github.com/zer0Kerbal/CoyoteSpaceIndustries)
 <!--END_SECTION:activity-->
 
 </details
