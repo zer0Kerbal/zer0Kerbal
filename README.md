@@ -32,11 +32,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [addon testing:  SCON+SSPX+B9](https://www.youtube.com/watch?v=RTAjIIlEpyE)
 - [addon testing:  WhimChaser &lpar;WHIM&rpar; by Axial Aerospace Version 0.5.99.1-prerelease - `On a Wing and a](https://www.youtube.com/watch?v=hE6Yoox6jBY)
 - [addon testing: Coyote Cargo Freighter &lpar;CCF&rpar; 0.3.99.1-prerelease `Thank you dboi88` edition](https://www.youtube.com/watch?v=k-hDRrhR4Lo)
 - [addon testing: Sea Dragon &lpar;SEA&rpar; v0.3.99.0-adoption `Thank you NecroBones`](https://www.youtube.com/watch?v=PYjvZm5qa3c)
 - [addon testing: SpaceY Expanded &lpar;SYE&rpar; 1.4.99.0-adoption `Thank you NecroBones`](https://www.youtube.com/watch?v=zzMNKu9LCHc)
-- [addon testing: SpaceY Lifters &lpar;SYL&rpar; 1.9.99.1-prerelease `Thank you NecroBones` edition`](https://www.youtube.com/watch?v=Wf4b9yQIBWc)
 <!-- YOUTUBE:END -->
 
 ---
