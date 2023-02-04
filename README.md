@@ -49,16 +49,16 @@
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#83](https://github.com/zer0Kerbal/Dreamer/pull/83) in [zer0Kerbal/Dreamer](https://github.com/zer0Kerbal/Dreamer)
-2. 💪 Opened PR [#83](https://github.com/zer0Kerbal/Dreamer/pull/83) in [zer0Kerbal/Dreamer](https://github.com/zer0Kerbal/Dreamer)
-3. ❗️ Opened issue [#41](https://github.com/zer0Kerbal/LanderTek/issues/41) in [zer0Kerbal/LanderTek](https://github.com/zer0Kerbal/LanderTek)
-4. ❗️ Opened issue [#40](https://github.com/zer0Kerbal/LanderTek/issues/40) in [zer0Kerbal/LanderTek](https://github.com/zer0Kerbal/LanderTek)
-5. ❗️ Closed issue [#6](https://github.com/zer0Kerbal/LanderTek/issues/6) in [zer0Kerbal/LanderTek](https://github.com/zer0Kerbal/LanderTek)
-6. ❗️ Closed issue [#1](https://github.com/zer0Kerbal/LanderTek/issues/1) in [zer0Kerbal/LanderTek](https://github.com/zer0Kerbal/LanderTek)
-7. ❗️ Closed issue [#3](https://github.com/zer0Kerbal/LanderTek/issues/3) in [zer0Kerbal/LanderTek](https://github.com/zer0Kerbal/LanderTek)
-8. ❗️ Closed issue [#4](https://github.com/zer0Kerbal/LanderTek/issues/4) in [zer0Kerbal/LanderTek](https://github.com/zer0Kerbal/LanderTek)
-9. ❗️ Closed issue [#5](https://github.com/zer0Kerbal/LanderTek/issues/5) in [zer0Kerbal/LanderTek](https://github.com/zer0Kerbal/LanderTek)
-10. ❗️ Closed issue [#7](https://github.com/zer0Kerbal/LanderTek/issues/7) in [zer0Kerbal/LanderTek](https://github.com/zer0Kerbal/LanderTek)
+1. 🗣 Commented on [#16](https://github.com/zer0Kerbal/Dreamer/issues/16) in [zer0Kerbal/Dreamer](https://github.com/zer0Kerbal/Dreamer)
+2. ❗️ Opened issue [#84](https://github.com/zer0Kerbal/Dreamer/issues/84) in [zer0Kerbal/Dreamer](https://github.com/zer0Kerbal/Dreamer)
+3. 🎉 Merged PR [#83](https://github.com/zer0Kerbal/Dreamer/pull/83) in [zer0Kerbal/Dreamer](https://github.com/zer0Kerbal/Dreamer)
+4. 💪 Opened PR [#83](https://github.com/zer0Kerbal/Dreamer/pull/83) in [zer0Kerbal/Dreamer](https://github.com/zer0Kerbal/Dreamer)
+5. ❗️ Opened issue [#41](https://github.com/zer0Kerbal/LanderTek/issues/41) in [zer0Kerbal/LanderTek](https://github.com/zer0Kerbal/LanderTek)
+6. ❗️ Opened issue [#40](https://github.com/zer0Kerbal/LanderTek/issues/40) in [zer0Kerbal/LanderTek](https://github.com/zer0Kerbal/LanderTek)
+7. ❗️ Closed issue [#6](https://github.com/zer0Kerbal/LanderTek/issues/6) in [zer0Kerbal/LanderTek](https://github.com/zer0Kerbal/LanderTek)
+8. ❗️ Closed issue [#1](https://github.com/zer0Kerbal/LanderTek/issues/1) in [zer0Kerbal/LanderTek](https://github.com/zer0Kerbal/LanderTek)
+9. ❗️ Closed issue [#3](https://github.com/zer0Kerbal/LanderTek/issues/3) in [zer0Kerbal/LanderTek](https://github.com/zer0Kerbal/LanderTek)
+10. ❗️ Closed issue [#4](https://github.com/zer0Kerbal/LanderTek/issues/4) in [zer0Kerbal/LanderTek](https://github.com/zer0Kerbal/LanderTek)
 <!--END_SECTION:activity-->
 
 </details
