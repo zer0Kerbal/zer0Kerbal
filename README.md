@@ -49,16 +49,16 @@
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#16](https://github.com/zer0Kerbal/Dreamer/issues/16) in [zer0Kerbal/Dreamer](https://github.com/zer0Kerbal/Dreamer)
-2. ❗️ Opened issue [#84](https://github.com/zer0Kerbal/Dreamer/issues/84) in [zer0Kerbal/Dreamer](https://github.com/zer0Kerbal/Dreamer)
-3. 🎉 Merged PR [#83](https://github.com/zer0Kerbal/Dreamer/pull/83) in [zer0Kerbal/Dreamer](https://github.com/zer0Kerbal/Dreamer)
-4. 💪 Opened PR [#83](https://github.com/zer0Kerbal/Dreamer/pull/83) in [zer0Kerbal/Dreamer](https://github.com/zer0Kerbal/Dreamer)
-5. ❗️ Opened issue [#41](https://github.com/zer0Kerbal/LanderTek/issues/41) in [zer0Kerbal/LanderTek](https://github.com/zer0Kerbal/LanderTek)
-6. ❗️ Opened issue [#40](https://github.com/zer0Kerbal/LanderTek/issues/40) in [zer0Kerbal/LanderTek](https://github.com/zer0Kerbal/LanderTek)
-7. ❗️ Closed issue [#6](https://github.com/zer0Kerbal/LanderTek/issues/6) in [zer0Kerbal/LanderTek](https://github.com/zer0Kerbal/LanderTek)
-8. ❗️ Closed issue [#1](https://github.com/zer0Kerbal/LanderTek/issues/1) in [zer0Kerbal/LanderTek](https://github.com/zer0Kerbal/LanderTek)
-9. ❗️ Closed issue [#3](https://github.com/zer0Kerbal/LanderTek/issues/3) in [zer0Kerbal/LanderTek](https://github.com/zer0Kerbal/LanderTek)
-10. ❗️ Closed issue [#4](https://github.com/zer0Kerbal/LanderTek/issues/4) in [zer0Kerbal/LanderTek](https://github.com/zer0Kerbal/LanderTek)
+1. ❗️ Opened issue [#94](https://github.com/zer0Kerbal/Dreamer/issues/94) in [zer0Kerbal/Dreamer](https://github.com/zer0Kerbal/Dreamer)
+2. ❗️ Opened issue [#93](https://github.com/zer0Kerbal/Dreamer/issues/93) in [zer0Kerbal/Dreamer](https://github.com/zer0Kerbal/Dreamer)
+3. ❗️ Opened issue [#92](https://github.com/zer0Kerbal/Dreamer/issues/92) in [zer0Kerbal/Dreamer](https://github.com/zer0Kerbal/Dreamer)
+4. ❗️ Opened issue [#91](https://github.com/zer0Kerbal/Dreamer/issues/91) in [zer0Kerbal/Dreamer](https://github.com/zer0Kerbal/Dreamer)
+5. ❗️ Opened issue [#90](https://github.com/zer0Kerbal/Dreamer/issues/90) in [zer0Kerbal/Dreamer](https://github.com/zer0Kerbal/Dreamer)
+6. ❗️ Opened issue [#89](https://github.com/zer0Kerbal/Dreamer/issues/89) in [zer0Kerbal/Dreamer](https://github.com/zer0Kerbal/Dreamer)
+7. ❗️ Opened issue [#88](https://github.com/zer0Kerbal/Dreamer/issues/88) in [zer0Kerbal/Dreamer](https://github.com/zer0Kerbal/Dreamer)
+8. ❗️ Opened issue [#87](https://github.com/zer0Kerbal/Dreamer/issues/87) in [zer0Kerbal/Dreamer](https://github.com/zer0Kerbal/Dreamer)
+9. ❗️ Opened issue [#86](https://github.com/zer0Kerbal/Dreamer/issues/86) in [zer0Kerbal/Dreamer](https://github.com/zer0Kerbal/Dreamer)
+10. ❗️ Opened issue [#85](https://github.com/zer0Kerbal/Dreamer/issues/85) in [zer0Kerbal/Dreamer](https://github.com/zer0Kerbal/Dreamer)
 <!--END_SECTION:activity-->
 
 </details
