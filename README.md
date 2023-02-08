@@ -49,16 +49,16 @@
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#14](https://github.com/zer0Kerbal/MIR/issues/14) in [zer0Kerbal/MIR](https://github.com/zer0Kerbal/MIR)
-2. 🗣 Commented on [#161](https://github.com/zer0Kerbal/Taerobee/issues/161) in [zer0Kerbal/Taerobee](https://github.com/zer0Kerbal/Taerobee)
-3. 🗣 Commented on [#2773](https://github.com/KSP-RO/RealismOverhaul/issues/2773) in [KSP-RO/RealismOverhaul](https://github.com/KSP-RO/RealismOverhaul)
-4. 🗣 Commented on [#304](https://github.com/NathanKell/ModularFuelSystem/issues/304) in [NathanKell/ModularFuelSystem](https://github.com/NathanKell/ModularFuelSystem)
-5. 🗣 Commented on [#2773](https://github.com/KSP-RO/RealismOverhaul/issues/2773) in [KSP-RO/RealismOverhaul](https://github.com/KSP-RO/RealismOverhaul)
-6. ❗️ Opened issue [#2773](https://github.com/KSP-RO/RealismOverhaul/issues/2773) in [KSP-RO/RealismOverhaul](https://github.com/KSP-RO/RealismOverhaul)
-7. 🗣 Commented on [#304](https://github.com/NathanKell/ModularFuelSystem/issues/304) in [NathanKell/ModularFuelSystem](https://github.com/NathanKell/ModularFuelSystem)
+1. 🗣 Commented on [#2773](https://github.com/KSP-RO/RealismOverhaul/issues/2773) in [KSP-RO/RealismOverhaul](https://github.com/KSP-RO/RealismOverhaul)
+2. 🗣 Commented on [#14](https://github.com/zer0Kerbal/MIR/issues/14) in [zer0Kerbal/MIR](https://github.com/zer0Kerbal/MIR)
+3. 🗣 Commented on [#161](https://github.com/zer0Kerbal/Taerobee/issues/161) in [zer0Kerbal/Taerobee](https://github.com/zer0Kerbal/Taerobee)
+4. 🗣 Commented on [#2773](https://github.com/KSP-RO/RealismOverhaul/issues/2773) in [KSP-RO/RealismOverhaul](https://github.com/KSP-RO/RealismOverhaul)
+5. 🗣 Commented on [#304](https://github.com/NathanKell/ModularFuelSystem/issues/304) in [NathanKell/ModularFuelSystem](https://github.com/NathanKell/ModularFuelSystem)
+6. 🗣 Commented on [#2773](https://github.com/KSP-RO/RealismOverhaul/issues/2773) in [KSP-RO/RealismOverhaul](https://github.com/KSP-RO/RealismOverhaul)
+7. ❗️ Opened issue [#2773](https://github.com/KSP-RO/RealismOverhaul/issues/2773) in [KSP-RO/RealismOverhaul](https://github.com/KSP-RO/RealismOverhaul)
 8. 🗣 Commented on [#304](https://github.com/NathanKell/ModularFuelSystem/issues/304) in [NathanKell/ModularFuelSystem](https://github.com/NathanKell/ModularFuelSystem)
-9. ❗️ Opened issue [#163](https://github.com/zer0Kerbal/Taerobee/issues/163) in [zer0Kerbal/Taerobee](https://github.com/zer0Kerbal/Taerobee)
-10. ❗️ Opened issue [#162](https://github.com/zer0Kerbal/Taerobee/issues/162) in [zer0Kerbal/Taerobee](https://github.com/zer0Kerbal/Taerobee)
+9. 🗣 Commented on [#304](https://github.com/NathanKell/ModularFuelSystem/issues/304) in [NathanKell/ModularFuelSystem](https://github.com/NathanKell/ModularFuelSystem)
+10. ❗️ Opened issue [#163](https://github.com/zer0Kerbal/Taerobee/issues/163) in [zer0Kerbal/Taerobee](https://github.com/zer0Kerbal/Taerobee)
 <!--END_SECTION:activity-->
 
 </details
