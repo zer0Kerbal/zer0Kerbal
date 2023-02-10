@@ -49,16 +49,16 @@
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#109](https://github.com/zer0Kerbal/Dreamer/issues/109) in [zer0Kerbal/Dreamer](https://github.com/zer0Kerbal/Dreamer)
-2. 🗣 Commented on [#108](https://github.com/zer0Kerbal/Dreamer/issues/108) in [zer0Kerbal/Dreamer](https://github.com/zer0Kerbal/Dreamer)
-3. ❗️ Opened issue [#108](https://github.com/zer0Kerbal/Dreamer/issues/108) in [zer0Kerbal/Dreamer](https://github.com/zer0Kerbal/Dreamer)
-4. 🎉 Merged PR [#106](https://github.com/zer0Kerbal/Dreamer/pull/106) in [zer0Kerbal/Dreamer](https://github.com/zer0Kerbal/Dreamer)
-5. 💪 Opened PR [#106](https://github.com/zer0Kerbal/Dreamer/pull/106) in [zer0Kerbal/Dreamer](https://github.com/zer0Kerbal/Dreamer)
-6. 🎉 Merged PR [#95](https://github.com/zer0Kerbal/Dreamer/pull/95) in [zer0Kerbal/Dreamer](https://github.com/zer0Kerbal/Dreamer)
-7. 🎉 Merged PR [#82](https://github.com/zer0Kerbal/Dreamer/pull/82) in [zer0Kerbal/Dreamer](https://github.com/zer0Kerbal/Dreamer)
-8. ❗️ Opened issue [#105](https://github.com/zer0Kerbal/Dreamer/issues/105) in [zer0Kerbal/Dreamer](https://github.com/zer0Kerbal/Dreamer)
-9. ❗️ Opened issue [#104](https://github.com/zer0Kerbal/Dreamer/issues/104) in [zer0Kerbal/Dreamer](https://github.com/zer0Kerbal/Dreamer)
-10. ❗️ Closed issue [#6](https://github.com/zer0Kerbal/Dreamer/issues/6) in [zer0Kerbal/Dreamer](https://github.com/zer0Kerbal/Dreamer)
+1. ❗️ Opened issue [#108](https://github.com/zer0Kerbal/SpaceYLifters/issues/108) in [zer0Kerbal/SpaceYLifters](https://github.com/zer0Kerbal/SpaceYLifters)
+2. ❗️ Opened issue [#107](https://github.com/zer0Kerbal/SpaceYLifters/issues/107) in [zer0Kerbal/SpaceYLifters](https://github.com/zer0Kerbal/SpaceYLifters)
+3. 🗣 Commented on [#106](https://github.com/zer0Kerbal/SpaceYLifters/issues/106) in [zer0Kerbal/SpaceYLifters](https://github.com/zer0Kerbal/SpaceYLifters)
+4. 🗣 Commented on [#47](https://github.com/zer0Kerbal/SpaceYCorp/issues/47) in [zer0Kerbal/SpaceYCorp](https://github.com/zer0Kerbal/SpaceYCorp)
+5. ❗️ Closed issue [#47](https://github.com/zer0Kerbal/SpaceYCorp/issues/47) in [zer0Kerbal/SpaceYCorp](https://github.com/zer0Kerbal/SpaceYCorp)
+6. ❗️ Opened issue [#106](https://github.com/zer0Kerbal/SpaceYLifters/issues/106) in [zer0Kerbal/SpaceYLifters](https://github.com/zer0Kerbal/SpaceYLifters)
+7. ❗️ Opened issue [#48](https://github.com/zer0Kerbal/SpaceYCorp/issues/48) in [zer0Kerbal/SpaceYCorp](https://github.com/zer0Kerbal/SpaceYCorp)
+8. ❗️ Opened issue [#47](https://github.com/zer0Kerbal/SpaceYCorp/issues/47) in [zer0Kerbal/SpaceYCorp](https://github.com/zer0Kerbal/SpaceYCorp)
+9. ❗️ Opened issue [#109](https://github.com/zer0Kerbal/Dreamer/issues/109) in [zer0Kerbal/Dreamer](https://github.com/zer0Kerbal/Dreamer)
+10. 🗣 Commented on [#108](https://github.com/zer0Kerbal/Dreamer/issues/108) in [zer0Kerbal/Dreamer](https://github.com/zer0Kerbal/Dreamer)
 <!--END_SECTION:activity-->
 
 </details
