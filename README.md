@@ -49,16 +49,16 @@
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#53](https://github.com/Alexustas/Props-requests/issues/53) in [Alexustas/Props-requests](https://github.com/Alexustas/Props-requests)
-2. ❗️ Opened issue [#53](https://github.com/Alexustas/Props-requests/issues/53) in [Alexustas/Props-requests](https://github.com/Alexustas/Props-requests)
-3. 🗣 Commented on [#78](https://github.com/zer0Kerbal/ScrapYard/issues/78) in [zer0Kerbal/ScrapYard](https://github.com/zer0Kerbal/ScrapYard)
-4. 🗣 Commented on [#78](https://github.com/zer0Kerbal/ScrapYard/issues/78) in [zer0Kerbal/ScrapYard](https://github.com/zer0Kerbal/ScrapYard)
-5. ❗️ Opened issue [#108](https://github.com/zer0Kerbal/SpaceYLifters/issues/108) in [zer0Kerbal/SpaceYLifters](https://github.com/zer0Kerbal/SpaceYLifters)
-6. ❗️ Opened issue [#107](https://github.com/zer0Kerbal/SpaceYLifters/issues/107) in [zer0Kerbal/SpaceYLifters](https://github.com/zer0Kerbal/SpaceYLifters)
-7. 🗣 Commented on [#106](https://github.com/zer0Kerbal/SpaceYLifters/issues/106) in [zer0Kerbal/SpaceYLifters](https://github.com/zer0Kerbal/SpaceYLifters)
-8. 🗣 Commented on [#47](https://github.com/zer0Kerbal/SpaceYCorp/issues/47) in [zer0Kerbal/SpaceYCorp](https://github.com/zer0Kerbal/SpaceYCorp)
-9. ❗️ Closed issue [#47](https://github.com/zer0Kerbal/SpaceYCorp/issues/47) in [zer0Kerbal/SpaceYCorp](https://github.com/zer0Kerbal/SpaceYCorp)
-10. ❗️ Opened issue [#106](https://github.com/zer0Kerbal/SpaceYLifters/issues/106) in [zer0Kerbal/SpaceYLifters](https://github.com/zer0Kerbal/SpaceYLifters)
+1. 🗣 Commented on [#3153](https://github.com/KSP-CKAN/CKAN-meta/issues/3153) in [KSP-CKAN/CKAN-meta](https://github.com/KSP-CKAN/CKAN-meta)
+2. 🗣 Commented on [#3153](https://github.com/KSP-CKAN/CKAN-meta/issues/3153) in [KSP-CKAN/CKAN-meta](https://github.com/KSP-CKAN/CKAN-meta)
+3. 🗣 Commented on [#53](https://github.com/Alexustas/Props-requests/issues/53) in [Alexustas/Props-requests](https://github.com/Alexustas/Props-requests)
+4. ❗️ Opened issue [#53](https://github.com/Alexustas/Props-requests/issues/53) in [Alexustas/Props-requests](https://github.com/Alexustas/Props-requests)
+5. 🗣 Commented on [#78](https://github.com/zer0Kerbal/ScrapYard/issues/78) in [zer0Kerbal/ScrapYard](https://github.com/zer0Kerbal/ScrapYard)
+6. 🗣 Commented on [#78](https://github.com/zer0Kerbal/ScrapYard/issues/78) in [zer0Kerbal/ScrapYard](https://github.com/zer0Kerbal/ScrapYard)
+7. ❗️ Opened issue [#108](https://github.com/zer0Kerbal/SpaceYLifters/issues/108) in [zer0Kerbal/SpaceYLifters](https://github.com/zer0Kerbal/SpaceYLifters)
+8. ❗️ Opened issue [#107](https://github.com/zer0Kerbal/SpaceYLifters/issues/107) in [zer0Kerbal/SpaceYLifters](https://github.com/zer0Kerbal/SpaceYLifters)
+9. 🗣 Commented on [#106](https://github.com/zer0Kerbal/SpaceYLifters/issues/106) in [zer0Kerbal/SpaceYLifters](https://github.com/zer0Kerbal/SpaceYLifters)
+10. 🗣 Commented on [#47](https://github.com/zer0Kerbal/SpaceYCorp/issues/47) in [zer0Kerbal/SpaceYCorp](https://github.com/zer0Kerbal/SpaceYCorp)
 <!--END_SECTION:activity-->
 
 </details
