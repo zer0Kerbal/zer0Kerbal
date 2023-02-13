@@ -49,16 +49,16 @@
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9557](https://github.com/KSP-CKAN/NetKAN/issues/9557) in [KSP-CKAN/NetKAN](https://github.com/KSP-CKAN/NetKAN)
-2. 🎉 Merged PR [#110](https://github.com/zer0Kerbal/SpaceYLifters/pull/110) in [zer0Kerbal/SpaceYLifters](https://github.com/zer0Kerbal/SpaceYLifters)
-3. 🗣 Commented on [#110](https://github.com/zer0Kerbal/SpaceYLifters/issues/110) in [zer0Kerbal/SpaceYLifters](https://github.com/zer0Kerbal/SpaceYLifters)
-4. 🎉 Merged PR [#26](https://github.com/zer0Kerbal/ChopShop/pull/26) in [zer0Kerbal/ChopShop](https://github.com/zer0Kerbal/ChopShop)
-5. 🗣 Commented on [#110](https://github.com/zer0Kerbal/Dreamer/issues/110) in [zer0Kerbal/Dreamer](https://github.com/zer0Kerbal/Dreamer)
-6. 🗣 Commented on [#3153](https://github.com/KSP-CKAN/CKAN-meta/issues/3153) in [KSP-CKAN/CKAN-meta](https://github.com/KSP-CKAN/CKAN-meta)
-7. 🗣 Commented on [#3153](https://github.com/KSP-CKAN/CKAN-meta/issues/3153) in [KSP-CKAN/CKAN-meta](https://github.com/KSP-CKAN/CKAN-meta)
-8. 🗣 Commented on [#53](https://github.com/Alexustas/Props-requests/issues/53) in [Alexustas/Props-requests](https://github.com/Alexustas/Props-requests)
-9. ❗️ Opened issue [#53](https://github.com/Alexustas/Props-requests/issues/53) in [Alexustas/Props-requests](https://github.com/Alexustas/Props-requests)
-10. 🗣 Commented on [#78](https://github.com/zer0Kerbal/ScrapYard/issues/78) in [zer0Kerbal/ScrapYard](https://github.com/zer0Kerbal/ScrapYard)
+1. ❗️ Opened issue [#85](https://github.com/zer0Kerbal/ModularRocketSystems/issues/85) in [zer0Kerbal/ModularRocketSystems](https://github.com/zer0Kerbal/ModularRocketSystems)
+2. ❗️ Opened issue [#84](https://github.com/zer0Kerbal/ModularRocketSystems/issues/84) in [zer0Kerbal/ModularRocketSystems](https://github.com/zer0Kerbal/ModularRocketSystems)
+3. ❗️ Opened issue [#83](https://github.com/zer0Kerbal/ModularRocketSystems/issues/83) in [zer0Kerbal/ModularRocketSystems](https://github.com/zer0Kerbal/ModularRocketSystems)
+4. ❗️ Opened issue [#82](https://github.com/zer0Kerbal/ModularRocketSystems/issues/82) in [zer0Kerbal/ModularRocketSystems](https://github.com/zer0Kerbal/ModularRocketSystems)
+5. ❗️ Opened issue [#81](https://github.com/zer0Kerbal/ModularRocketSystems/issues/81) in [zer0Kerbal/ModularRocketSystems](https://github.com/zer0Kerbal/ModularRocketSystems)
+6. ❗️ Opened issue [#80](https://github.com/zer0Kerbal/ModularRocketSystems/issues/80) in [zer0Kerbal/ModularRocketSystems](https://github.com/zer0Kerbal/ModularRocketSystems)
+7. ❗️ Opened issue [#79](https://github.com/zer0Kerbal/ModularRocketSystems/issues/79) in [zer0Kerbal/ModularRocketSystems](https://github.com/zer0Kerbal/ModularRocketSystems)
+8. ❗️ Opened issue [#78](https://github.com/zer0Kerbal/ModularRocketSystems/issues/78) in [zer0Kerbal/ModularRocketSystems](https://github.com/zer0Kerbal/ModularRocketSystems)
+9. ❗️ Opened issue [#77](https://github.com/zer0Kerbal/ModularRocketSystems/issues/77) in [zer0Kerbal/ModularRocketSystems](https://github.com/zer0Kerbal/ModularRocketSystems)
+10. ❗️ Opened issue [#76](https://github.com/zer0Kerbal/ModularRocketSystems/issues/76) in [zer0Kerbal/ModularRocketSystems](https://github.com/zer0Kerbal/ModularRocketSystems)
 <!--END_SECTION:activity-->
 
 </details
