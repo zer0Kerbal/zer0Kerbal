@@ -49,16 +49,16 @@
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#85](https://github.com/zer0Kerbal/ModularRocketSystems/issues/85) in [zer0Kerbal/ModularRocketSystems](https://github.com/zer0Kerbal/ModularRocketSystems)
-2. ❗️ Opened issue [#84](https://github.com/zer0Kerbal/ModularRocketSystems/issues/84) in [zer0Kerbal/ModularRocketSystems](https://github.com/zer0Kerbal/ModularRocketSystems)
-3. ❗️ Opened issue [#83](https://github.com/zer0Kerbal/ModularRocketSystems/issues/83) in [zer0Kerbal/ModularRocketSystems](https://github.com/zer0Kerbal/ModularRocketSystems)
-4. ❗️ Opened issue [#82](https://github.com/zer0Kerbal/ModularRocketSystems/issues/82) in [zer0Kerbal/ModularRocketSystems](https://github.com/zer0Kerbal/ModularRocketSystems)
-5. ❗️ Opened issue [#81](https://github.com/zer0Kerbal/ModularRocketSystems/issues/81) in [zer0Kerbal/ModularRocketSystems](https://github.com/zer0Kerbal/ModularRocketSystems)
-6. ❗️ Opened issue [#80](https://github.com/zer0Kerbal/ModularRocketSystems/issues/80) in [zer0Kerbal/ModularRocketSystems](https://github.com/zer0Kerbal/ModularRocketSystems)
-7. ❗️ Opened issue [#79](https://github.com/zer0Kerbal/ModularRocketSystems/issues/79) in [zer0Kerbal/ModularRocketSystems](https://github.com/zer0Kerbal/ModularRocketSystems)
-8. ❗️ Opened issue [#78](https://github.com/zer0Kerbal/ModularRocketSystems/issues/78) in [zer0Kerbal/ModularRocketSystems](https://github.com/zer0Kerbal/ModularRocketSystems)
-9. ❗️ Opened issue [#77](https://github.com/zer0Kerbal/ModularRocketSystems/issues/77) in [zer0Kerbal/ModularRocketSystems](https://github.com/zer0Kerbal/ModularRocketSystems)
-10. ❗️ Opened issue [#76](https://github.com/zer0Kerbal/ModularRocketSystems/issues/76) in [zer0Kerbal/ModularRocketSystems](https://github.com/zer0Kerbal/ModularRocketSystems)
+1. ❗️ Closed issue [#14](https://github.com/zer0Kerbal/ModularRocketSystems/issues/14) in [zer0Kerbal/ModularRocketSystems](https://github.com/zer0Kerbal/ModularRocketSystems)
+2. 🎉 Merged PR [#86](https://github.com/zer0Kerbal/ModularRocketSystems/pull/86) in [zer0Kerbal/ModularRocketSystems](https://github.com/zer0Kerbal/ModularRocketSystems)
+3. 💪 Opened PR [#86](https://github.com/zer0Kerbal/ModularRocketSystems/pull/86) in [zer0Kerbal/ModularRocketSystems](https://github.com/zer0Kerbal/ModularRocketSystems)
+4. ❗️ Opened issue [#85](https://github.com/zer0Kerbal/ModularRocketSystems/issues/85) in [zer0Kerbal/ModularRocketSystems](https://github.com/zer0Kerbal/ModularRocketSystems)
+5. ❗️ Opened issue [#84](https://github.com/zer0Kerbal/ModularRocketSystems/issues/84) in [zer0Kerbal/ModularRocketSystems](https://github.com/zer0Kerbal/ModularRocketSystems)
+6. ❗️ Opened issue [#83](https://github.com/zer0Kerbal/ModularRocketSystems/issues/83) in [zer0Kerbal/ModularRocketSystems](https://github.com/zer0Kerbal/ModularRocketSystems)
+7. ❗️ Opened issue [#82](https://github.com/zer0Kerbal/ModularRocketSystems/issues/82) in [zer0Kerbal/ModularRocketSystems](https://github.com/zer0Kerbal/ModularRocketSystems)
+8. ❗️ Opened issue [#81](https://github.com/zer0Kerbal/ModularRocketSystems/issues/81) in [zer0Kerbal/ModularRocketSystems](https://github.com/zer0Kerbal/ModularRocketSystems)
+9. ❗️ Opened issue [#80](https://github.com/zer0Kerbal/ModularRocketSystems/issues/80) in [zer0Kerbal/ModularRocketSystems](https://github.com/zer0Kerbal/ModularRocketSystems)
+10. ❗️ Opened issue [#79](https://github.com/zer0Kerbal/ModularRocketSystems/issues/79) in [zer0Kerbal/ModularRocketSystems](https://github.com/zer0Kerbal/ModularRocketSystems)
 <!--END_SECTION:activity-->
 
 </details
