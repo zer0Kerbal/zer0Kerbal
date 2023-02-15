@@ -8,6 +8,18 @@
 - 💬 Ask me about: my mods 
 - 📫 How to reach me: forums or mod discussions.
 - ⚡ Fun fact: I have no sense of humor. :P
+<a href=#><img src="contributions.svg"></a>
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/zer0Kerbal/count.svg" />
+</p>
+
+![](https://github.com/insolitum/insolitum/raw/main/contributions.svg)
+
+From
+* [insolitum](https://github.com/insolitum)
+* Expat-MIT
 
 ### Connect with me:
 
