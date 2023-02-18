@@ -61,16 +61,16 @@ From
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#9](https://github.com/zer0Kerbal/KerbalsofAllTrades/issues/9) in [zer0Kerbal/KerbalsofAllTrades](https://github.com/zer0Kerbal/KerbalsofAllTrades)
-2. ❗️ Closed issue [#7](https://github.com/zer0Kerbal/KerbalsofAllTrades/issues/7) in [zer0Kerbal/KerbalsofAllTrades](https://github.com/zer0Kerbal/KerbalsofAllTrades)
-3. 🎉 Merged PR [#28](https://github.com/zer0Kerbal/KerbalsofAllTrades/pull/28) in [zer0Kerbal/KerbalsofAllTrades](https://github.com/zer0Kerbal/KerbalsofAllTrades)
-4. 💪 Opened PR [#28](https://github.com/zer0Kerbal/KerbalsofAllTrades/pull/28) in [zer0Kerbal/KerbalsofAllTrades](https://github.com/zer0Kerbal/KerbalsofAllTrades)
-5. ❗️ Opened issue [#25](https://github.com/zer0Kerbal/MultiRoleKerbals/issues/25) in [zer0Kerbal/MultiRoleKerbals](https://github.com/zer0Kerbal/MultiRoleKerbals)
-6. ❗️ Opened issue [#24](https://github.com/zer0Kerbal/MultiRoleKerbals/issues/24) in [zer0Kerbal/MultiRoleKerbals](https://github.com/zer0Kerbal/MultiRoleKerbals)
-7. ❗️ Opened issue [#17](https://github.com/zer0Kerbal/MultiRoleKerbals/issues/17) in [zer0Kerbal/MultiRoleKerbals](https://github.com/zer0Kerbal/MultiRoleKerbals)
-8. ❗️ Opened issue [#16](https://github.com/zer0Kerbal/MultiRoleKerbals/issues/16) in [zer0Kerbal/MultiRoleKerbals](https://github.com/zer0Kerbal/MultiRoleKerbals)
-9. ❗️ Opened issue [#12](https://github.com/zer0Kerbal/MultiRoleKerbals/issues/12) in [zer0Kerbal/MultiRoleKerbals](https://github.com/zer0Kerbal/MultiRoleKerbals)
-10. ❗️ Opened issue [#10](https://github.com/zer0Kerbal/MultiRoleKerbals/issues/10) in [zer0Kerbal/MultiRoleKerbals](https://github.com/zer0Kerbal/MultiRoleKerbals)
+1. ❗️ Opened issue [#31](https://github.com/zer0Kerbal/KerbalsofAllTrades/issues/31) in [zer0Kerbal/KerbalsofAllTrades](https://github.com/zer0Kerbal/KerbalsofAllTrades)
+2. ❗️ Opened issue [#30](https://github.com/zer0Kerbal/KerbalsofAllTrades/issues/30) in [zer0Kerbal/KerbalsofAllTrades](https://github.com/zer0Kerbal/KerbalsofAllTrades)
+3. ❗️ Closed issue [#4](https://github.com/zer0Kerbal/KerbalsofAllTrades/issues/4) in [zer0Kerbal/KerbalsofAllTrades](https://github.com/zer0Kerbal/KerbalsofAllTrades)
+4. ❗️ Closed issue [#3](https://github.com/zer0Kerbal/KerbalsofAllTrades/issues/3) in [zer0Kerbal/KerbalsofAllTrades](https://github.com/zer0Kerbal/KerbalsofAllTrades)
+5. ❗️ Closed issue [#2](https://github.com/zer0Kerbal/KerbalsofAllTrades/issues/2) in [zer0Kerbal/KerbalsofAllTrades](https://github.com/zer0Kerbal/KerbalsofAllTrades)
+6. ❗️ Closed issue [#1](https://github.com/zer0Kerbal/KerbalsofAllTrades/issues/1) in [zer0Kerbal/KerbalsofAllTrades](https://github.com/zer0Kerbal/KerbalsofAllTrades)
+7. ❗️ Closed issue [#8](https://github.com/zer0Kerbal/KerbalsofAllTrades/issues/8) in [zer0Kerbal/KerbalsofAllTrades](https://github.com/zer0Kerbal/KerbalsofAllTrades)
+8. ❗️ Closed issue [#6](https://github.com/zer0Kerbal/KerbalsofAllTrades/issues/6) in [zer0Kerbal/KerbalsofAllTrades](https://github.com/zer0Kerbal/KerbalsofAllTrades)
+9. ❗️ Closed issue [#5](https://github.com/zer0Kerbal/KerbalsofAllTrades/issues/5) in [zer0Kerbal/KerbalsofAllTrades](https://github.com/zer0Kerbal/KerbalsofAllTrades)
+10. ❗️ Closed issue [#11](https://github.com/zer0Kerbal/KerbalsofAllTrades/issues/11) in [zer0Kerbal/KerbalsofAllTrades](https://github.com/zer0Kerbal/KerbalsofAllTrades)
 <!--END_SECTION:activity-->
 
 </details
