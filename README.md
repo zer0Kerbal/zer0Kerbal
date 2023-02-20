@@ -61,16 +61,16 @@ From
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#78](https://github.com/zer0Kerbal/SpaceShuttleEngines/issues/78) in [zer0Kerbal/SpaceShuttleEngines](https://github.com/zer0Kerbal/SpaceShuttleEngines)
-2. ❗️ Opened issue [#77](https://github.com/zer0Kerbal/SpaceShuttleEngines/issues/77) in [zer0Kerbal/SpaceShuttleEngines](https://github.com/zer0Kerbal/SpaceShuttleEngines)
-3. ❗️ Opened issue [#76](https://github.com/zer0Kerbal/SpaceShuttleEngines/issues/76) in [zer0Kerbal/SpaceShuttleEngines](https://github.com/zer0Kerbal/SpaceShuttleEngines)
-4. ❗️ Opened issue [#75](https://github.com/zer0Kerbal/SpaceShuttleEngines/issues/75) in [zer0Kerbal/SpaceShuttleEngines](https://github.com/zer0Kerbal/SpaceShuttleEngines)
-5. ❗️ Opened issue [#59](https://github.com/zer0Kerbal/SeaDragon/issues/59) in [zer0Kerbal/SeaDragon](https://github.com/zer0Kerbal/SeaDragon)
-6. ❗️ Opened issue [#58](https://github.com/zer0Kerbal/SeaDragon/issues/58) in [zer0Kerbal/SeaDragon](https://github.com/zer0Kerbal/SeaDragon)
-7. ❗️ Closed issue [#55](https://github.com/zer0Kerbal/SeaDragon/issues/55) in [zer0Kerbal/SeaDragon](https://github.com/zer0Kerbal/SeaDragon)
-8. ❗️ Closed issue [#56](https://github.com/zer0Kerbal/SeaDragon/issues/56) in [zer0Kerbal/SeaDragon](https://github.com/zer0Kerbal/SeaDragon)
-9. ❗️ Closed issue [#53](https://github.com/zer0Kerbal/SeaDragon/issues/53) in [zer0Kerbal/SeaDragon](https://github.com/zer0Kerbal/SeaDragon)
-10. ❗️ Closed issue [#54](https://github.com/zer0Kerbal/SeaDragon/issues/54) in [zer0Kerbal/SeaDragon](https://github.com/zer0Kerbal/SeaDragon)
+1. 🗣 Commented on [#79](https://github.com/zer0Kerbal/SpaceShuttleEngines/issues/79) in [zer0Kerbal/SpaceShuttleEngines](https://github.com/zer0Kerbal/SpaceShuttleEngines)
+2. 🗣 Commented on [#79](https://github.com/zer0Kerbal/SpaceShuttleEngines/issues/79) in [zer0Kerbal/SpaceShuttleEngines](https://github.com/zer0Kerbal/SpaceShuttleEngines)
+3. 🗣 Commented on [#79](https://github.com/zer0Kerbal/SpaceShuttleEngines/issues/79) in [zer0Kerbal/SpaceShuttleEngines](https://github.com/zer0Kerbal/SpaceShuttleEngines)
+4. ❗️ Opened issue [#79](https://github.com/zer0Kerbal/SpaceShuttleEngines/issues/79) in [zer0Kerbal/SpaceShuttleEngines](https://github.com/zer0Kerbal/SpaceShuttleEngines)
+5. ❗️ Opened issue [#78](https://github.com/zer0Kerbal/SpaceShuttleEngines/issues/78) in [zer0Kerbal/SpaceShuttleEngines](https://github.com/zer0Kerbal/SpaceShuttleEngines)
+6. ❗️ Opened issue [#77](https://github.com/zer0Kerbal/SpaceShuttleEngines/issues/77) in [zer0Kerbal/SpaceShuttleEngines](https://github.com/zer0Kerbal/SpaceShuttleEngines)
+7. ❗️ Opened issue [#76](https://github.com/zer0Kerbal/SpaceShuttleEngines/issues/76) in [zer0Kerbal/SpaceShuttleEngines](https://github.com/zer0Kerbal/SpaceShuttleEngines)
+8. ❗️ Opened issue [#75](https://github.com/zer0Kerbal/SpaceShuttleEngines/issues/75) in [zer0Kerbal/SpaceShuttleEngines](https://github.com/zer0Kerbal/SpaceShuttleEngines)
+9. ❗️ Opened issue [#59](https://github.com/zer0Kerbal/SeaDragon/issues/59) in [zer0Kerbal/SeaDragon](https://github.com/zer0Kerbal/SeaDragon)
+10. ❗️ Opened issue [#58](https://github.com/zer0Kerbal/SeaDragon/issues/58) in [zer0Kerbal/SeaDragon](https://github.com/zer0Kerbal/SeaDragon)
 <!--END_SECTION:activity-->
 
 </details
