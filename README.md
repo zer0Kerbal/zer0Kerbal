@@ -44,11 +44,11 @@ From
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [addon testing:  Space Shuttle Engines &lpar;SSE&rpar; v2.3.99.3-prerelease](https://www.youtube.com/watch?v=N7zOzyISIgM)
 - [addon testing:  Space Shuttle Engines &lpar;SSE&rpar; v2.3.99.3-prerelease](https://www.youtube.com/watch?v=4pDXn6Ir_Cw)
 - [addon testing:  Wernher&#39;s Old Stuff &lpar;WOS&rpar; V1.9.99.4-prerelease `Fifth First Steps`](https://www.youtube.com/watch?v=iHA_0eM0RnA)
 - [addon testing:  ScrapYard editor slow-mo and possible other issues](https://www.youtube.com/watch?v=XbUpD3RkOIY)
 - [addon testing:  Axial Aerospace Dreamer part II](https://www.youtube.com/watch?v=fx9IibZhpg4)
-- [addon testing:  Axial Aerospace Dreamer](https://www.youtube.com/watch?v=aAUGHN3GlAs)
 <!-- YOUTUBE:END -->
 
 ---
