@@ -39,7 +39,10 @@ From
 
 ## Patrons
 
-<li><a href="https://www.reddit.com/user/eengie/"><img border="0" alt="eengie" src="https://i.redd.it/snoovatar/avatars/96418e79-2cd4-4759-91c2-057701985e65.png" width="75" height="75" > eengie</a> for going above and beyond. o7</li>
+<ul>
+  <li><a href="https://www.reddit.com/user/eengie/"><img border="0" alt="eengie" src="https://i.redd.it/snoovatar/avatars/96418e79-2cd4-4759-91c2-057701985e65.png" width="75" height="75" > eengie</a> for going above and beyond. o7</li>
+  <li><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/133828-*/"><img border="0" alt="eightiesboi" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/monthly_2018_01/happy_velociraptor_dinosaur_greeting_cards-r918b99ab65894a198682f360e419773a_xvuak_8byvr_512.thumb.jpg.00c28897eef8a91ee74f6cb59a9bbb5f.jpg" width="75" height="75" > eightiesboi</a> for KSP2 and so much more. o7</li>
+</ul>
 
 ### 📺 Latest YouTube Videos
 
