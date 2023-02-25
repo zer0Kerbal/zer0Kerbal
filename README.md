@@ -64,12 +64,12 @@ From
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#66](https://github.com/zer0Kerbal/SimpleHyperdrive/issues/66) in [zer0Kerbal/SimpleHyperdrive](https://github.com/zer0Kerbal/SimpleHyperdrive)
-2. ❗️ Closed issue [#55](https://github.com/zer0Kerbal/SimpleHyperdrive/issues/55) in [zer0Kerbal/SimpleHyperdrive](https://github.com/zer0Kerbal/SimpleHyperdrive)
-3. ❗️ Closed issue [#27](https://github.com/zer0Kerbal/SimpleHyperdrive/issues/27) in [zer0Kerbal/SimpleHyperdrive](https://github.com/zer0Kerbal/SimpleHyperdrive)
-4. ❗️ Closed issue [#7](https://github.com/zer0Kerbal/SimpleHyperdrive/issues/7) in [zer0Kerbal/SimpleHyperdrive](https://github.com/zer0Kerbal/SimpleHyperdrive)
-5. 🎉 Merged PR [#65](https://github.com/zer0Kerbal/SimpleHyperdrive/pull/65) in [zer0Kerbal/SimpleHyperdrive](https://github.com/zer0Kerbal/SimpleHyperdrive)
-6. 🗣 Commented on [#66](https://github.com/zer0Kerbal/SimpleHyperdrive/issues/66) in [zer0Kerbal/SimpleHyperdrive](https://github.com/zer0Kerbal/SimpleHyperdrive)
+1. 🗣 Commented on [#9515](https://github.com/KSP-CKAN/NetKAN/issues/9515) in [KSP-CKAN/NetKAN](https://github.com/KSP-CKAN/NetKAN)
+2. ❗️ Closed issue [#66](https://github.com/zer0Kerbal/SimpleHyperdrive/issues/66) in [zer0Kerbal/SimpleHyperdrive](https://github.com/zer0Kerbal/SimpleHyperdrive)
+3. ❗️ Closed issue [#55](https://github.com/zer0Kerbal/SimpleHyperdrive/issues/55) in [zer0Kerbal/SimpleHyperdrive](https://github.com/zer0Kerbal/SimpleHyperdrive)
+4. ❗️ Closed issue [#27](https://github.com/zer0Kerbal/SimpleHyperdrive/issues/27) in [zer0Kerbal/SimpleHyperdrive](https://github.com/zer0Kerbal/SimpleHyperdrive)
+5. ❗️ Closed issue [#7](https://github.com/zer0Kerbal/SimpleHyperdrive/issues/7) in [zer0Kerbal/SimpleHyperdrive](https://github.com/zer0Kerbal/SimpleHyperdrive)
+6. 🎉 Merged PR [#65](https://github.com/zer0Kerbal/SimpleHyperdrive/pull/65) in [zer0Kerbal/SimpleHyperdrive](https://github.com/zer0Kerbal/SimpleHyperdrive)
 7. 🗣 Commented on [#66](https://github.com/zer0Kerbal/SimpleHyperdrive/issues/66) in [zer0Kerbal/SimpleHyperdrive](https://github.com/zer0Kerbal/SimpleHyperdrive)
 8. 🗣 Commented on [#66](https://github.com/zer0Kerbal/SimpleHyperdrive/issues/66) in [zer0Kerbal/SimpleHyperdrive](https://github.com/zer0Kerbal/SimpleHyperdrive)
 9. 🗣 Commented on [#66](https://github.com/zer0Kerbal/SimpleHyperdrive/issues/66) in [zer0Kerbal/SimpleHyperdrive](https://github.com/zer0Kerbal/SimpleHyperdrive)
