@@ -64,16 +64,16 @@ From
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/zer0Kerbal/StackInlineLights/pull/1) in [zer0Kerbal/StackInlineLights](https://github.com/zer0Kerbal/StackInlineLights)
-2. ❗️ Opened issue [#71](https://github.com/zer0Kerbal/SimpleHyperdrive/issues/71) in [zer0Kerbal/SimpleHyperdrive](https://github.com/zer0Kerbal/SimpleHyperdrive)
-3. ❗️ Opened issue [#70](https://github.com/zer0Kerbal/SimpleHyperdrive/issues/70) in [zer0Kerbal/SimpleHyperdrive](https://github.com/zer0Kerbal/SimpleHyperdrive)
-4. ❗️ Closed issue [#4](https://github.com/zer0Kerbal/SimpleHyperdrive/issues/4) in [zer0Kerbal/SimpleHyperdrive](https://github.com/zer0Kerbal/SimpleHyperdrive)
-5. ❗️ Closed issue [#3](https://github.com/zer0Kerbal/SimpleHyperdrive/issues/3) in [zer0Kerbal/SimpleHyperdrive](https://github.com/zer0Kerbal/SimpleHyperdrive)
-6. ❗️ Closed issue [#1](https://github.com/zer0Kerbal/SimpleHyperdrive/issues/1) in [zer0Kerbal/SimpleHyperdrive](https://github.com/zer0Kerbal/SimpleHyperdrive)
-7. ❗️ Closed issue [#2](https://github.com/zer0Kerbal/SimpleHyperdrive/issues/2) in [zer0Kerbal/SimpleHyperdrive](https://github.com/zer0Kerbal/SimpleHyperdrive)
-8. ❗️ Closed issue [#11](https://github.com/zer0Kerbal/SimpleHyperdrive/issues/11) in [zer0Kerbal/SimpleHyperdrive](https://github.com/zer0Kerbal/SimpleHyperdrive)
-9. ❗️ Closed issue [#47](https://github.com/zer0Kerbal/SimpleHyperdrive/issues/47) in [zer0Kerbal/SimpleHyperdrive](https://github.com/zer0Kerbal/SimpleHyperdrive)
-10. ❗️ Closed issue [#10](https://github.com/zer0Kerbal/SimpleHyperdrive/issues/10) in [zer0Kerbal/SimpleHyperdrive](https://github.com/zer0Kerbal/SimpleHyperdrive)
+1. ❗️ Opened issue [#2](https://github.com/zer0Kerbal/StackInlineLights/issues/2) in [zer0Kerbal/StackInlineLights](https://github.com/zer0Kerbal/StackInlineLights)
+2. ❌ Closed PR [#1](https://github.com/zer0Kerbal/StackInlineLights/pull/1) in [zer0Kerbal/StackInlineLights](https://github.com/zer0Kerbal/StackInlineLights)
+3. ❗️ Opened issue [#71](https://github.com/zer0Kerbal/SimpleHyperdrive/issues/71) in [zer0Kerbal/SimpleHyperdrive](https://github.com/zer0Kerbal/SimpleHyperdrive)
+4. ❗️ Opened issue [#70](https://github.com/zer0Kerbal/SimpleHyperdrive/issues/70) in [zer0Kerbal/SimpleHyperdrive](https://github.com/zer0Kerbal/SimpleHyperdrive)
+5. ❗️ Closed issue [#4](https://github.com/zer0Kerbal/SimpleHyperdrive/issues/4) in [zer0Kerbal/SimpleHyperdrive](https://github.com/zer0Kerbal/SimpleHyperdrive)
+6. ❗️ Closed issue [#3](https://github.com/zer0Kerbal/SimpleHyperdrive/issues/3) in [zer0Kerbal/SimpleHyperdrive](https://github.com/zer0Kerbal/SimpleHyperdrive)
+7. ❗️ Closed issue [#1](https://github.com/zer0Kerbal/SimpleHyperdrive/issues/1) in [zer0Kerbal/SimpleHyperdrive](https://github.com/zer0Kerbal/SimpleHyperdrive)
+8. ❗️ Closed issue [#2](https://github.com/zer0Kerbal/SimpleHyperdrive/issues/2) in [zer0Kerbal/SimpleHyperdrive](https://github.com/zer0Kerbal/SimpleHyperdrive)
+9. ❗️ Closed issue [#11](https://github.com/zer0Kerbal/SimpleHyperdrive/issues/11) in [zer0Kerbal/SimpleHyperdrive](https://github.com/zer0Kerbal/SimpleHyperdrive)
+10. ❗️ Closed issue [#47](https://github.com/zer0Kerbal/SimpleHyperdrive/issues/47) in [zer0Kerbal/SimpleHyperdrive](https://github.com/zer0Kerbal/SimpleHyperdrive)
 <!--END_SECTION:activity-->
 
 </details
