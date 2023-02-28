@@ -64,16 +64,16 @@ From
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#33](https://github.com/zer0Kerbal/StackInlineLights/pull/33) in [zer0Kerbal/StackInlineLights](https://github.com/zer0Kerbal/StackInlineLights)
-2. ❗️ Opened issue [#32](https://github.com/zer0Kerbal/StackInlineLights/issues/32) in [zer0Kerbal/StackInlineLights](https://github.com/zer0Kerbal/StackInlineLights)
-3. ❗️ Opened issue [#31](https://github.com/zer0Kerbal/StackInlineLights/issues/31) in [zer0Kerbal/StackInlineLights](https://github.com/zer0Kerbal/StackInlineLights)
-4. ❗️ Opened issue [#30](https://github.com/zer0Kerbal/StackInlineLights/issues/30) in [zer0Kerbal/StackInlineLights](https://github.com/zer0Kerbal/StackInlineLights)
-5. ❗️ Opened issue [#29](https://github.com/zer0Kerbal/StackInlineLights/issues/29) in [zer0Kerbal/StackInlineLights](https://github.com/zer0Kerbal/StackInlineLights)
-6. ❗️ Opened issue [#28](https://github.com/zer0Kerbal/StackInlineLights/issues/28) in [zer0Kerbal/StackInlineLights](https://github.com/zer0Kerbal/StackInlineLights)
-7. ❗️ Opened issue [#27](https://github.com/zer0Kerbal/StackInlineLights/issues/27) in [zer0Kerbal/StackInlineLights](https://github.com/zer0Kerbal/StackInlineLights)
-8. ❗️ Opened issue [#26](https://github.com/zer0Kerbal/StackInlineLights/issues/26) in [zer0Kerbal/StackInlineLights](https://github.com/zer0Kerbal/StackInlineLights)
-9. ❗️ Opened issue [#25](https://github.com/zer0Kerbal/StackInlineLights/issues/25) in [zer0Kerbal/StackInlineLights](https://github.com/zer0Kerbal/StackInlineLights)
-10. ❗️ Opened issue [#24](https://github.com/zer0Kerbal/StackInlineLights/issues/24) in [zer0Kerbal/StackInlineLights](https://github.com/zer0Kerbal/StackInlineLights)
+1. ❗️ Opened issue [#36](https://github.com/zer0Kerbal/StackInlineLights/issues/36) in [zer0Kerbal/StackInlineLights](https://github.com/zer0Kerbal/StackInlineLights)
+2. ❗️ Opened issue [#35](https://github.com/zer0Kerbal/StackInlineLights/issues/35) in [zer0Kerbal/StackInlineLights](https://github.com/zer0Kerbal/StackInlineLights)
+3. ❗️ Closed issue [#3](https://github.com/zer0Kerbal/StackInlineLights/issues/3) in [zer0Kerbal/StackInlineLights](https://github.com/zer0Kerbal/StackInlineLights)
+4. ❗️ Closed issue [#6](https://github.com/zer0Kerbal/StackInlineLights/issues/6) in [zer0Kerbal/StackInlineLights](https://github.com/zer0Kerbal/StackInlineLights)
+5. ❗️ Closed issue [#5](https://github.com/zer0Kerbal/StackInlineLights/issues/5) in [zer0Kerbal/StackInlineLights](https://github.com/zer0Kerbal/StackInlineLights)
+6. ❗️ Closed issue [#4](https://github.com/zer0Kerbal/StackInlineLights/issues/4) in [zer0Kerbal/StackInlineLights](https://github.com/zer0Kerbal/StackInlineLights)
+7. ❗️ Closed issue [#2](https://github.com/zer0Kerbal/StackInlineLights/issues/2) in [zer0Kerbal/StackInlineLights](https://github.com/zer0Kerbal/StackInlineLights)
+8. ❗️ Closed issue [#31](https://github.com/zer0Kerbal/StackInlineLights/issues/31) in [zer0Kerbal/StackInlineLights](https://github.com/zer0Kerbal/StackInlineLights)
+9. ❗️ Closed issue [#10](https://github.com/zer0Kerbal/StackInlineLights/issues/10) in [zer0Kerbal/StackInlineLights](https://github.com/zer0Kerbal/StackInlineLights)
+10. ❗️ Closed issue [#30](https://github.com/zer0Kerbal/StackInlineLights/issues/30) in [zer0Kerbal/StackInlineLights](https://github.com/zer0Kerbal/StackInlineLights)
 <!--END_SECTION:activity-->
 
 </details
