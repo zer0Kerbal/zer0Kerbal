@@ -47,11 +47,11 @@ From
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [addon testing:  Stack Inline Lights &lpar;SIL&rpar; v0.9.0.0-release - `Thank you Alexustas`](https://www.youtube.com/watch?v=jKgDeIypCIc)
 - [addon testing:  KSP2](https://www.youtube.com/watch?v=pemj6xb-cc0)
 - [addon testing:  Space Shuttle Engines &lpar;SSE&rpar; v2.3.99.3-prerelease](https://www.youtube.com/watch?v=N7zOzyISIgM)
 - [addon testing:  Space Shuttle Engines &lpar;SSE&rpar; v2.3.99.3-prerelease](https://www.youtube.com/watch?v=4pDXn6Ir_Cw)
 - [addon testing:  Wernher&#39;s Old Stuff &lpar;WOS&rpar; V1.9.99.4-prerelease `Fifth First Steps`](https://www.youtube.com/watch?v=iHA_0eM0RnA)
-- [addon testing:  ScrapYard editor slow-mo and possible other issues](https://www.youtube.com/watch?v=XbUpD3RkOIY)
 <!-- YOUTUBE:END -->
 
 ---
