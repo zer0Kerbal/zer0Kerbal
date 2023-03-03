@@ -64,16 +64,16 @@ From
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#21](https://github.com/zer0Kerbal/SILPatches/pull/21) in [zer0Kerbal/SILPatches](https://github.com/zer0Kerbal/SILPatches)
-2. ❗️ Opened issue [#20](https://github.com/zer0Kerbal/SILPatches/issues/20) in [zer0Kerbal/SILPatches](https://github.com/zer0Kerbal/SILPatches)
-3. ❗️ Opened issue [#19](https://github.com/zer0Kerbal/SILPatches/issues/19) in [zer0Kerbal/SILPatches](https://github.com/zer0Kerbal/SILPatches)
-4. ❗️ Opened issue [#18](https://github.com/zer0Kerbal/SILPatches/issues/18) in [zer0Kerbal/SILPatches](https://github.com/zer0Kerbal/SILPatches)
-5. ❗️ Opened issue [#17](https://github.com/zer0Kerbal/SILPatches/issues/17) in [zer0Kerbal/SILPatches](https://github.com/zer0Kerbal/SILPatches)
-6. ❗️ Opened issue [#16](https://github.com/zer0Kerbal/SILPatches/issues/16) in [zer0Kerbal/SILPatches](https://github.com/zer0Kerbal/SILPatches)
-7. ❗️ Opened issue [#15](https://github.com/zer0Kerbal/SILPatches/issues/15) in [zer0Kerbal/SILPatches](https://github.com/zer0Kerbal/SILPatches)
-8. ❗️ Opened issue [#14](https://github.com/zer0Kerbal/SILPatches/issues/14) in [zer0Kerbal/SILPatches](https://github.com/zer0Kerbal/SILPatches)
-9. ❗️ Opened issue [#13](https://github.com/zer0Kerbal/SILPatches/issues/13) in [zer0Kerbal/SILPatches](https://github.com/zer0Kerbal/SILPatches)
-10. ❗️ Opened issue [#12](https://github.com/zer0Kerbal/SILPatches/issues/12) in [zer0Kerbal/SILPatches](https://github.com/zer0Kerbal/SILPatches)
+1. ❗️ Opened issue [#24](https://github.com/zer0Kerbal/SILPatches/issues/24) in [zer0Kerbal/SILPatches](https://github.com/zer0Kerbal/SILPatches)
+2. ❗️ Opened issue [#23](https://github.com/zer0Kerbal/SILPatches/issues/23) in [zer0Kerbal/SILPatches](https://github.com/zer0Kerbal/SILPatches)
+3. ❗️ Closed issue [#4](https://github.com/zer0Kerbal/SILPatches/issues/4) in [zer0Kerbal/SILPatches](https://github.com/zer0Kerbal/SILPatches)
+4. ❗️ Closed issue [#2](https://github.com/zer0Kerbal/SILPatches/issues/2) in [zer0Kerbal/SILPatches](https://github.com/zer0Kerbal/SILPatches)
+5. ❗️ Closed issue [#1](https://github.com/zer0Kerbal/SILPatches/issues/1) in [zer0Kerbal/SILPatches](https://github.com/zer0Kerbal/SILPatches)
+6. 🎉 Merged PR [#21](https://github.com/zer0Kerbal/SILPatches/pull/21) in [zer0Kerbal/SILPatches](https://github.com/zer0Kerbal/SILPatches)
+7. 💪 Opened PR [#21](https://github.com/zer0Kerbal/SILPatches/pull/21) in [zer0Kerbal/SILPatches](https://github.com/zer0Kerbal/SILPatches)
+8. ❗️ Opened issue [#20](https://github.com/zer0Kerbal/SILPatches/issues/20) in [zer0Kerbal/SILPatches](https://github.com/zer0Kerbal/SILPatches)
+9. ❗️ Opened issue [#19](https://github.com/zer0Kerbal/SILPatches/issues/19) in [zer0Kerbal/SILPatches](https://github.com/zer0Kerbal/SILPatches)
+10. ❗️ Opened issue [#18](https://github.com/zer0Kerbal/SILPatches/issues/18) in [zer0Kerbal/SILPatches](https://github.com/zer0Kerbal/SILPatches)
 <!--END_SECTION:activity-->
 
 </details
