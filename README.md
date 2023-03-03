@@ -64,16 +64,16 @@ From
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#468](https://github.com/KSP-SpaceDock/SpaceDock/issues/468) in [KSP-SpaceDock/SpaceDock](https://github.com/KSP-SpaceDock/SpaceDock)
-2. ❗️ Opened issue [#36](https://github.com/zer0Kerbal/StackInlineLights/issues/36) in [zer0Kerbal/StackInlineLights](https://github.com/zer0Kerbal/StackInlineLights)
-3. ❗️ Opened issue [#35](https://github.com/zer0Kerbal/StackInlineLights/issues/35) in [zer0Kerbal/StackInlineLights](https://github.com/zer0Kerbal/StackInlineLights)
-4. ❗️ Closed issue [#3](https://github.com/zer0Kerbal/StackInlineLights/issues/3) in [zer0Kerbal/StackInlineLights](https://github.com/zer0Kerbal/StackInlineLights)
-5. ❗️ Closed issue [#6](https://github.com/zer0Kerbal/StackInlineLights/issues/6) in [zer0Kerbal/StackInlineLights](https://github.com/zer0Kerbal/StackInlineLights)
-6. ❗️ Closed issue [#5](https://github.com/zer0Kerbal/StackInlineLights/issues/5) in [zer0Kerbal/StackInlineLights](https://github.com/zer0Kerbal/StackInlineLights)
-7. ❗️ Closed issue [#4](https://github.com/zer0Kerbal/StackInlineLights/issues/4) in [zer0Kerbal/StackInlineLights](https://github.com/zer0Kerbal/StackInlineLights)
-8. ❗️ Closed issue [#2](https://github.com/zer0Kerbal/StackInlineLights/issues/2) in [zer0Kerbal/StackInlineLights](https://github.com/zer0Kerbal/StackInlineLights)
-9. ❗️ Closed issue [#31](https://github.com/zer0Kerbal/StackInlineLights/issues/31) in [zer0Kerbal/StackInlineLights](https://github.com/zer0Kerbal/StackInlineLights)
-10. ❗️ Closed issue [#10](https://github.com/zer0Kerbal/StackInlineLights/issues/10) in [zer0Kerbal/StackInlineLights](https://github.com/zer0Kerbal/StackInlineLights)
+1. 💪 Opened PR [#21](https://github.com/zer0Kerbal/SILPatches/pull/21) in [zer0Kerbal/SILPatches](https://github.com/zer0Kerbal/SILPatches)
+2. ❗️ Opened issue [#20](https://github.com/zer0Kerbal/SILPatches/issues/20) in [zer0Kerbal/SILPatches](https://github.com/zer0Kerbal/SILPatches)
+3. ❗️ Opened issue [#19](https://github.com/zer0Kerbal/SILPatches/issues/19) in [zer0Kerbal/SILPatches](https://github.com/zer0Kerbal/SILPatches)
+4. ❗️ Opened issue [#18](https://github.com/zer0Kerbal/SILPatches/issues/18) in [zer0Kerbal/SILPatches](https://github.com/zer0Kerbal/SILPatches)
+5. ❗️ Opened issue [#17](https://github.com/zer0Kerbal/SILPatches/issues/17) in [zer0Kerbal/SILPatches](https://github.com/zer0Kerbal/SILPatches)
+6. ❗️ Opened issue [#16](https://github.com/zer0Kerbal/SILPatches/issues/16) in [zer0Kerbal/SILPatches](https://github.com/zer0Kerbal/SILPatches)
+7. ❗️ Opened issue [#15](https://github.com/zer0Kerbal/SILPatches/issues/15) in [zer0Kerbal/SILPatches](https://github.com/zer0Kerbal/SILPatches)
+8. ❗️ Opened issue [#14](https://github.com/zer0Kerbal/SILPatches/issues/14) in [zer0Kerbal/SILPatches](https://github.com/zer0Kerbal/SILPatches)
+9. ❗️ Opened issue [#13](https://github.com/zer0Kerbal/SILPatches/issues/13) in [zer0Kerbal/SILPatches](https://github.com/zer0Kerbal/SILPatches)
+10. ❗️ Opened issue [#12](https://github.com/zer0Kerbal/SILPatches/issues/12) in [zer0Kerbal/SILPatches](https://github.com/zer0Kerbal/SILPatches)
 <!--END_SECTION:activity-->
 
 </details
