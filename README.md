@@ -64,16 +64,16 @@ From
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#66](https://github.com/zer0Kerbal/ModularRocketSystems/issues/66) in [zer0Kerbal/ModularRocketSystems](https://github.com/zer0Kerbal/ModularRocketSystems)
-2. ❗️ Reopened issue [#65](https://github.com/zer0Kerbal/ModularRocketSystems/issues/65) in [zer0Kerbal/ModularRocketSystems](https://github.com/zer0Kerbal/ModularRocketSystems)
-3. ❗️ Opened issue [#151](https://github.com/zer0Kerbal/ModularRocketSystems/issues/151) in [zer0Kerbal/ModularRocketSystems](https://github.com/zer0Kerbal/ModularRocketSystems)
-4. ❗️ Opened issue [#150](https://github.com/zer0Kerbal/ModularRocketSystems/issues/150) in [zer0Kerbal/ModularRocketSystems](https://github.com/zer0Kerbal/ModularRocketSystems)
-5. ❗️ Closed issue [#11](https://github.com/zer0Kerbal/ModularRocketSystems/issues/11) in [zer0Kerbal/ModularRocketSystems](https://github.com/zer0Kerbal/ModularRocketSystems)
-6. ❗️ Closed issue [#85](https://github.com/zer0Kerbal/ModularRocketSystems/issues/85) in [zer0Kerbal/ModularRocketSystems](https://github.com/zer0Kerbal/ModularRocketSystems)
-7. ❗️ Closed issue [#4](https://github.com/zer0Kerbal/ModularRocketSystems/issues/4) in [zer0Kerbal/ModularRocketSystems](https://github.com/zer0Kerbal/ModularRocketSystems)
-8. ❗️ Closed issue [#3](https://github.com/zer0Kerbal/ModularRocketSystems/issues/3) in [zer0Kerbal/ModularRocketSystems](https://github.com/zer0Kerbal/ModularRocketSystems)
-9. ❗️ Closed issue [#2](https://github.com/zer0Kerbal/ModularRocketSystems/issues/2) in [zer0Kerbal/ModularRocketSystems](https://github.com/zer0Kerbal/ModularRocketSystems)
-10. ❗️ Closed issue [#1](https://github.com/zer0Kerbal/ModularRocketSystems/issues/1) in [zer0Kerbal/ModularRocketSystems](https://github.com/zer0Kerbal/ModularRocketSystems)
+1. ❗️ Closed issue [#42](https://github.com/zer0Kerbal/RustyStarShipyards/issues/42) in [zer0Kerbal/RustyStarShipyards](https://github.com/zer0Kerbal/RustyStarShipyards)
+2. ❗️ Closed issue [#41](https://github.com/zer0Kerbal/RustyStarShipyards/issues/41) in [zer0Kerbal/RustyStarShipyards](https://github.com/zer0Kerbal/RustyStarShipyards)
+3. ❗️ Opened issue [#44](https://github.com/zer0Kerbal/RustyStarShipyards/issues/44) in [zer0Kerbal/RustyStarShipyards](https://github.com/zer0Kerbal/RustyStarShipyards)
+4. ❗️ Opened issue [#43](https://github.com/zer0Kerbal/RustyStarShipyards/issues/43) in [zer0Kerbal/RustyStarShipyards](https://github.com/zer0Kerbal/RustyStarShipyards)
+5. ❗️ Opened issue [#42](https://github.com/zer0Kerbal/RustyStarShipyards/issues/42) in [zer0Kerbal/RustyStarShipyards](https://github.com/zer0Kerbal/RustyStarShipyards)
+6. ❗️ Opened issue [#41](https://github.com/zer0Kerbal/RustyStarShipyards/issues/41) in [zer0Kerbal/RustyStarShipyards](https://github.com/zer0Kerbal/RustyStarShipyards)
+7. ❗️ Closed issue [#38](https://github.com/zer0Kerbal/RustyStarShipyards/issues/38) in [zer0Kerbal/RustyStarShipyards](https://github.com/zer0Kerbal/RustyStarShipyards)
+8. ❗️ Closed issue [#37](https://github.com/zer0Kerbal/RustyStarShipyards/issues/37) in [zer0Kerbal/RustyStarShipyards](https://github.com/zer0Kerbal/RustyStarShipyards)
+9. 🎉 Merged PR [#39](https://github.com/zer0Kerbal/RustyStarShipyards/pull/39) in [zer0Kerbal/RustyStarShipyards](https://github.com/zer0Kerbal/RustyStarShipyards)
+10. 💪 Opened PR [#39](https://github.com/zer0Kerbal/RustyStarShipyards/pull/39) in [zer0Kerbal/RustyStarShipyards](https://github.com/zer0Kerbal/RustyStarShipyards)
 <!--END_SECTION:activity-->
 
 </details
