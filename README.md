@@ -64,16 +64,16 @@ From
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#41](https://github.com/zer0Kerbal/ColonialTransporter/issues/41) in [zer0Kerbal/ColonialTransporter](https://github.com/zer0Kerbal/ColonialTransporter)
-2. ❗️ Opened issue [#40](https://github.com/zer0Kerbal/ColonialTransporter/issues/40) in [zer0Kerbal/ColonialTransporter](https://github.com/zer0Kerbal/ColonialTransporter)
-3. ❗️ Opened issue [#39](https://github.com/zer0Kerbal/ColonialTransporter/issues/39) in [zer0Kerbal/ColonialTransporter](https://github.com/zer0Kerbal/ColonialTransporter)
-4. 🗣 Commented on [#42](https://github.com/zer0Kerbal/AdjustableModPanel/issues/42) in [zer0Kerbal/AdjustableModPanel](https://github.com/zer0Kerbal/AdjustableModPanel)
-5. 🗣 Commented on [#72](https://github.com/zer0Kerbal/SimpleHyperdrive/issues/72) in [zer0Kerbal/SimpleHyperdrive](https://github.com/zer0Kerbal/SimpleHyperdrive)
-6. ❗️ Closed issue [#42](https://github.com/zer0Kerbal/RustyStarShipyards/issues/42) in [zer0Kerbal/RustyStarShipyards](https://github.com/zer0Kerbal/RustyStarShipyards)
-7. ❗️ Closed issue [#41](https://github.com/zer0Kerbal/RustyStarShipyards/issues/41) in [zer0Kerbal/RustyStarShipyards](https://github.com/zer0Kerbal/RustyStarShipyards)
-8. ❗️ Opened issue [#44](https://github.com/zer0Kerbal/RustyStarShipyards/issues/44) in [zer0Kerbal/RustyStarShipyards](https://github.com/zer0Kerbal/RustyStarShipyards)
-9. ❗️ Opened issue [#43](https://github.com/zer0Kerbal/RustyStarShipyards/issues/43) in [zer0Kerbal/RustyStarShipyards](https://github.com/zer0Kerbal/RustyStarShipyards)
-10. ❗️ Opened issue [#42](https://github.com/zer0Kerbal/RustyStarShipyards/issues/42) in [zer0Kerbal/RustyStarShipyards](https://github.com/zer0Kerbal/RustyStarShipyards)
+1. ❗️ Opened issue [#43](https://github.com/zer0Kerbal/ColonialTransporter/issues/43) in [zer0Kerbal/ColonialTransporter](https://github.com/zer0Kerbal/ColonialTransporter)
+2. ❗️ Opened issue [#42](https://github.com/zer0Kerbal/ColonialTransporter/issues/42) in [zer0Kerbal/ColonialTransporter](https://github.com/zer0Kerbal/ColonialTransporter)
+3. ❗️ Opened issue [#41](https://github.com/zer0Kerbal/ColonialTransporter/issues/41) in [zer0Kerbal/ColonialTransporter](https://github.com/zer0Kerbal/ColonialTransporter)
+4. ❗️ Opened issue [#40](https://github.com/zer0Kerbal/ColonialTransporter/issues/40) in [zer0Kerbal/ColonialTransporter](https://github.com/zer0Kerbal/ColonialTransporter)
+5. ❗️ Opened issue [#39](https://github.com/zer0Kerbal/ColonialTransporter/issues/39) in [zer0Kerbal/ColonialTransporter](https://github.com/zer0Kerbal/ColonialTransporter)
+6. 🗣 Commented on [#42](https://github.com/zer0Kerbal/AdjustableModPanel/issues/42) in [zer0Kerbal/AdjustableModPanel](https://github.com/zer0Kerbal/AdjustableModPanel)
+7. 🗣 Commented on [#72](https://github.com/zer0Kerbal/SimpleHyperdrive/issues/72) in [zer0Kerbal/SimpleHyperdrive](https://github.com/zer0Kerbal/SimpleHyperdrive)
+8. ❗️ Closed issue [#42](https://github.com/zer0Kerbal/RustyStarShipyards/issues/42) in [zer0Kerbal/RustyStarShipyards](https://github.com/zer0Kerbal/RustyStarShipyards)
+9. ❗️ Closed issue [#41](https://github.com/zer0Kerbal/RustyStarShipyards/issues/41) in [zer0Kerbal/RustyStarShipyards](https://github.com/zer0Kerbal/RustyStarShipyards)
+10. ❗️ Opened issue [#44](https://github.com/zer0Kerbal/RustyStarShipyards/issues/44) in [zer0Kerbal/RustyStarShipyards](https://github.com/zer0Kerbal/RustyStarShipyards)
 <!--END_SECTION:activity-->
 
 </details
