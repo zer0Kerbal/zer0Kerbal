@@ -64,16 +64,16 @@ From
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#38](https://github.com/zer0Kerbal/HistoricArchive/issues/38) in [zer0Kerbal/HistoricArchive](https://github.com/zer0Kerbal/HistoricArchive)
-2. ❗️ Opened issue [#37](https://github.com/zer0Kerbal/HistoricArchive/issues/37) in [zer0Kerbal/HistoricArchive](https://github.com/zer0Kerbal/HistoricArchive)
-3. ❗️ Closed issue [#3](https://github.com/zer0Kerbal/HistoricArchive/issues/3) in [zer0Kerbal/HistoricArchive](https://github.com/zer0Kerbal/HistoricArchive)
-4. ❗️ Closed issue [#2](https://github.com/zer0Kerbal/HistoricArchive/issues/2) in [zer0Kerbal/HistoricArchive](https://github.com/zer0Kerbal/HistoricArchive)
-5. ❗️ Closed issue [#11](https://github.com/zer0Kerbal/HistoricArchive/issues/11) in [zer0Kerbal/HistoricArchive](https://github.com/zer0Kerbal/HistoricArchive)
-6. ❗️ Closed issue [#4](https://github.com/zer0Kerbal/HistoricArchive/issues/4) in [zer0Kerbal/HistoricArchive](https://github.com/zer0Kerbal/HistoricArchive)
-7. ❗️ Closed issue [#1](https://github.com/zer0Kerbal/HistoricArchive/issues/1) in [zer0Kerbal/HistoricArchive](https://github.com/zer0Kerbal/HistoricArchive)
-8. ❗️ Closed issue [#6](https://github.com/zer0Kerbal/HistoricArchive/issues/6) in [zer0Kerbal/HistoricArchive](https://github.com/zer0Kerbal/HistoricArchive)
-9. ❗️ Closed issue [#5](https://github.com/zer0Kerbal/HistoricArchive/issues/5) in [zer0Kerbal/HistoricArchive](https://github.com/zer0Kerbal/HistoricArchive)
-10. ❗️ Closed issue [#9](https://github.com/zer0Kerbal/HistoricArchive/issues/9) in [zer0Kerbal/HistoricArchive](https://github.com/zer0Kerbal/HistoricArchive)
+1. ❗️ Closed issue [#12](https://github.com/zer0Kerbal/ExplorationExpansion/issues/12) in [zer0Kerbal/ExplorationExpansion](https://github.com/zer0Kerbal/ExplorationExpansion)
+2. ❗️ Closed issue [#7](https://github.com/zer0Kerbal/ExplorationExpansion/issues/7) in [zer0Kerbal/ExplorationExpansion](https://github.com/zer0Kerbal/ExplorationExpansion)
+3. 🎉 Merged PR [#33](https://github.com/zer0Kerbal/ExplorationExpansion/pull/33) in [zer0Kerbal/ExplorationExpansion](https://github.com/zer0Kerbal/ExplorationExpansion)
+4. 💪 Opened PR [#33](https://github.com/zer0Kerbal/ExplorationExpansion/pull/33) in [zer0Kerbal/ExplorationExpansion](https://github.com/zer0Kerbal/ExplorationExpansion)
+5. ❗️ Opened issue [#32](https://github.com/zer0Kerbal/ExplorationExpansion/issues/32) in [zer0Kerbal/ExplorationExpansion](https://github.com/zer0Kerbal/ExplorationExpansion)
+6. ❗️ Opened issue [#31](https://github.com/zer0Kerbal/ExplorationExpansion/issues/31) in [zer0Kerbal/ExplorationExpansion](https://github.com/zer0Kerbal/ExplorationExpansion)
+7. ❗️ Opened issue [#30](https://github.com/zer0Kerbal/ExplorationExpansion/issues/30) in [zer0Kerbal/ExplorationExpansion](https://github.com/zer0Kerbal/ExplorationExpansion)
+8. ❗️ Opened issue [#29](https://github.com/zer0Kerbal/ExplorationExpansion/issues/29) in [zer0Kerbal/ExplorationExpansion](https://github.com/zer0Kerbal/ExplorationExpansion)
+9. ❗️ Opened issue [#28](https://github.com/zer0Kerbal/ExplorationExpansion/issues/28) in [zer0Kerbal/ExplorationExpansion](https://github.com/zer0Kerbal/ExplorationExpansion)
+10. ❗️ Opened issue [#27](https://github.com/zer0Kerbal/ExplorationExpansion/issues/27) in [zer0Kerbal/ExplorationExpansion](https://github.com/zer0Kerbal/ExplorationExpansion)
 <!--END_SECTION:activity-->
 
 </details
