@@ -64,16 +64,16 @@ From
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#42](https://github.com/zer0Kerbal/SimpleHyperdrive/issues/42) in [zer0Kerbal/SimpleHyperdrive](https://github.com/zer0Kerbal/SimpleHyperdrive)
-2. 🗣 Commented on [#4](https://github.com/zer0Kerbal/SphericalTanks/issues/4) in [zer0Kerbal/SphericalTanks](https://github.com/zer0Kerbal/SphericalTanks)
-3. ❗️ Closed issue [#32](https://github.com/zer0Kerbal/HistoricArchive/issues/32) in [zer0Kerbal/HistoricArchive](https://github.com/zer0Kerbal/HistoricArchive)
-4. ❗️ Closed issue [#7](https://github.com/zer0Kerbal/HistoricArchive/issues/7) in [zer0Kerbal/HistoricArchive](https://github.com/zer0Kerbal/HistoricArchive)
-5. 🎉 Merged PR [#33](https://github.com/zer0Kerbal/HistoricArchive/pull/33) in [zer0Kerbal/HistoricArchive](https://github.com/zer0Kerbal/HistoricArchive)
-6. 💪 Opened PR [#33](https://github.com/zer0Kerbal/HistoricArchive/pull/33) in [zer0Kerbal/HistoricArchive](https://github.com/zer0Kerbal/HistoricArchive)
-7. 🗣 Commented on [#9150](https://github.com/KSP-CKAN/NetKAN/issues/9150) in [KSP-CKAN/NetKAN](https://github.com/KSP-CKAN/NetKAN)
-8. 🗣 Commented on [#9152](https://github.com/KSP-CKAN/NetKAN/issues/9152) in [KSP-CKAN/NetKAN](https://github.com/KSP-CKAN/NetKAN)
-9. 🗣 Commented on [#9153](https://github.com/KSP-CKAN/NetKAN/issues/9153) in [KSP-CKAN/NetKAN](https://github.com/KSP-CKAN/NetKAN)
-10. 🗣 Commented on [#9186](https://github.com/KSP-CKAN/NetKAN/issues/9186) in [KSP-CKAN/NetKAN](https://github.com/KSP-CKAN/NetKAN)
+1. ❗️ Opened issue [#38](https://github.com/zer0Kerbal/HistoricArchive/issues/38) in [zer0Kerbal/HistoricArchive](https://github.com/zer0Kerbal/HistoricArchive)
+2. ❗️ Opened issue [#37](https://github.com/zer0Kerbal/HistoricArchive/issues/37) in [zer0Kerbal/HistoricArchive](https://github.com/zer0Kerbal/HistoricArchive)
+3. ❗️ Closed issue [#3](https://github.com/zer0Kerbal/HistoricArchive/issues/3) in [zer0Kerbal/HistoricArchive](https://github.com/zer0Kerbal/HistoricArchive)
+4. ❗️ Closed issue [#2](https://github.com/zer0Kerbal/HistoricArchive/issues/2) in [zer0Kerbal/HistoricArchive](https://github.com/zer0Kerbal/HistoricArchive)
+5. ❗️ Closed issue [#11](https://github.com/zer0Kerbal/HistoricArchive/issues/11) in [zer0Kerbal/HistoricArchive](https://github.com/zer0Kerbal/HistoricArchive)
+6. ❗️ Closed issue [#4](https://github.com/zer0Kerbal/HistoricArchive/issues/4) in [zer0Kerbal/HistoricArchive](https://github.com/zer0Kerbal/HistoricArchive)
+7. ❗️ Closed issue [#1](https://github.com/zer0Kerbal/HistoricArchive/issues/1) in [zer0Kerbal/HistoricArchive](https://github.com/zer0Kerbal/HistoricArchive)
+8. ❗️ Closed issue [#6](https://github.com/zer0Kerbal/HistoricArchive/issues/6) in [zer0Kerbal/HistoricArchive](https://github.com/zer0Kerbal/HistoricArchive)
+9. ❗️ Closed issue [#5](https://github.com/zer0Kerbal/HistoricArchive/issues/5) in [zer0Kerbal/HistoricArchive](https://github.com/zer0Kerbal/HistoricArchive)
+10. ❗️ Closed issue [#9](https://github.com/zer0Kerbal/HistoricArchive/issues/9) in [zer0Kerbal/HistoricArchive](https://github.com/zer0Kerbal/HistoricArchive)
 <!--END_SECTION:activity-->
 
 </details
