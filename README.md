@@ -64,16 +64,16 @@ From
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#21](https://github.com/zer0Kerbal/LaunchPack/issues/21) in [zer0Kerbal/LaunchPack](https://github.com/zer0Kerbal/LaunchPack)
-2. 🎉 Merged PR [#38](https://github.com/zer0Kerbal/LazTekDev/pull/38) in [zer0Kerbal/LazTekDev](https://github.com/zer0Kerbal/LazTekDev)
-3. ❗️ Opened issue [#40](https://github.com/zer0Kerbal/LazTekDev/issues/40) in [zer0Kerbal/LazTekDev](https://github.com/zer0Kerbal/LazTekDev)
-4. ❗️ Opened issue [#39](https://github.com/zer0Kerbal/LazTekDev/issues/39) in [zer0Kerbal/LazTekDev](https://github.com/zer0Kerbal/LazTekDev)
-5. 🗣 Commented on [#10](https://github.com/zer0Kerbal/LazTekDev/issues/10) in [zer0Kerbal/LazTekDev](https://github.com/zer0Kerbal/LazTekDev)
-6. 🗣 Commented on [#38](https://github.com/zer0Kerbal/LazTekDev/issues/38) in [zer0Kerbal/LazTekDev](https://github.com/zer0Kerbal/LazTekDev)
-7. 🗣 Commented on [#22](https://github.com/zer0Kerbal/LaunchPack/issues/22) in [zer0Kerbal/LaunchPack](https://github.com/zer0Kerbal/LaunchPack)
-8. 🗣 Commented on [#74](https://github.com/zer0Kerbal/SimpleHyperdrive/issues/74) in [zer0Kerbal/SimpleHyperdrive](https://github.com/zer0Kerbal/SimpleHyperdrive)
-9. 🎉 Merged PR [#74](https://github.com/zer0Kerbal/SimpleHyperdrive/pull/74) in [zer0Kerbal/SimpleHyperdrive](https://github.com/zer0Kerbal/SimpleHyperdrive)
-10. ❗️ Opened issue [#78](https://github.com/zer0Kerbal/SimpleHyperdrive/issues/78) in [zer0Kerbal/SimpleHyperdrive](https://github.com/zer0Kerbal/SimpleHyperdrive)
+1. ❗️ Closed issue [#37](https://github.com/zer0Kerbal/LazTekDev/issues/37) in [zer0Kerbal/LazTekDev](https://github.com/zer0Kerbal/LazTekDev)
+2. ❗️ Closed issue [#36](https://github.com/zer0Kerbal/LazTekDev/issues/36) in [zer0Kerbal/LazTekDev](https://github.com/zer0Kerbal/LazTekDev)
+3. ❗️ Closed issue [#10](https://github.com/zer0Kerbal/LazTekDev/issues/10) in [zer0Kerbal/LazTekDev](https://github.com/zer0Kerbal/LazTekDev)
+4. 🎉 Merged PR [#41](https://github.com/zer0Kerbal/LazTekDev/pull/41) in [zer0Kerbal/LazTekDev](https://github.com/zer0Kerbal/LazTekDev)
+5. 💪 Opened PR [#41](https://github.com/zer0Kerbal/LazTekDev/pull/41) in [zer0Kerbal/LazTekDev](https://github.com/zer0Kerbal/LazTekDev)
+6. 🗣 Commented on [#21](https://github.com/zer0Kerbal/LaunchPack/issues/21) in [zer0Kerbal/LaunchPack](https://github.com/zer0Kerbal/LaunchPack)
+7. 🎉 Merged PR [#38](https://github.com/zer0Kerbal/LazTekDev/pull/38) in [zer0Kerbal/LazTekDev](https://github.com/zer0Kerbal/LazTekDev)
+8. ❗️ Opened issue [#40](https://github.com/zer0Kerbal/LazTekDev/issues/40) in [zer0Kerbal/LazTekDev](https://github.com/zer0Kerbal/LazTekDev)
+9. ❗️ Opened issue [#39](https://github.com/zer0Kerbal/LazTekDev/issues/39) in [zer0Kerbal/LazTekDev](https://github.com/zer0Kerbal/LazTekDev)
+10. 🗣 Commented on [#10](https://github.com/zer0Kerbal/LazTekDev/issues/10) in [zer0Kerbal/LazTekDev](https://github.com/zer0Kerbal/LazTekDev)
 <!--END_SECTION:activity-->
 
 </details
