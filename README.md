@@ -64,16 +64,16 @@ From
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#75](https://github.com/zer0Kerbal/SimpleHyperdrive/pull/75) in [zer0Kerbal/SimpleHyperdrive](https://github.com/zer0Kerbal/SimpleHyperdrive)
-2. ❗️ Closed issue [#40](https://github.com/zer0Kerbal/HistoricArchive/issues/40) in [zer0Kerbal/HistoricArchive](https://github.com/zer0Kerbal/HistoricArchive)
-3. ❗️ Closed issue [#38](https://github.com/zer0Kerbal/HistoricArchive/issues/38) in [zer0Kerbal/HistoricArchive](https://github.com/zer0Kerbal/HistoricArchive)
-4. ❗️ Closed issue [#37](https://github.com/zer0Kerbal/HistoricArchive/issues/37) in [zer0Kerbal/HistoricArchive](https://github.com/zer0Kerbal/HistoricArchive)
-5. 🎉 Merged PR [#41](https://github.com/zer0Kerbal/HistoricArchive/pull/41) in [zer0Kerbal/HistoricArchive](https://github.com/zer0Kerbal/HistoricArchive)
-6. ❗️ Opened issue [#43](https://github.com/zer0Kerbal/HistoricArchive/issues/43) in [zer0Kerbal/HistoricArchive](https://github.com/zer0Kerbal/HistoricArchive)
-7. ❗️ Opened issue [#42](https://github.com/zer0Kerbal/HistoricArchive/issues/42) in [zer0Kerbal/HistoricArchive](https://github.com/zer0Kerbal/HistoricArchive)
-8. 💪 Opened PR [#41](https://github.com/zer0Kerbal/HistoricArchive/pull/41) in [zer0Kerbal/HistoricArchive](https://github.com/zer0Kerbal/HistoricArchive)
-9. ❗️ Opened issue [#40](https://github.com/zer0Kerbal/HistoricArchive/issues/40) in [zer0Kerbal/HistoricArchive](https://github.com/zer0Kerbal/HistoricArchive)
-10. 🗣 Commented on [#21](https://github.com/zer0Kerbal/LaunchPack/issues/21) in [zer0Kerbal/LaunchPack](https://github.com/zer0Kerbal/LaunchPack)
+1. 🗣 Commented on [#74](https://github.com/zer0Kerbal/SimpleHyperdrive/issues/74) in [zer0Kerbal/SimpleHyperdrive](https://github.com/zer0Kerbal/SimpleHyperdrive)
+2. 🎉 Merged PR [#74](https://github.com/zer0Kerbal/SimpleHyperdrive/pull/74) in [zer0Kerbal/SimpleHyperdrive](https://github.com/zer0Kerbal/SimpleHyperdrive)
+3. ❗️ Opened issue [#78](https://github.com/zer0Kerbal/SimpleHyperdrive/issues/78) in [zer0Kerbal/SimpleHyperdrive](https://github.com/zer0Kerbal/SimpleHyperdrive)
+4. ❗️ Opened issue [#77](https://github.com/zer0Kerbal/SimpleHyperdrive/issues/77) in [zer0Kerbal/SimpleHyperdrive](https://github.com/zer0Kerbal/SimpleHyperdrive)
+5. ❗️ Closed issue [#71](https://github.com/zer0Kerbal/SimpleHyperdrive/issues/71) in [zer0Kerbal/SimpleHyperdrive](https://github.com/zer0Kerbal/SimpleHyperdrive)
+6. ❗️ Closed issue [#70](https://github.com/zer0Kerbal/SimpleHyperdrive/issues/70) in [zer0Kerbal/SimpleHyperdrive](https://github.com/zer0Kerbal/SimpleHyperdrive)
+7. ❗️ Closed issue [#42](https://github.com/zer0Kerbal/SimpleHyperdrive/issues/42) in [zer0Kerbal/SimpleHyperdrive](https://github.com/zer0Kerbal/SimpleHyperdrive)
+8. 🎉 Merged PR [#75](https://github.com/zer0Kerbal/SimpleHyperdrive/pull/75) in [zer0Kerbal/SimpleHyperdrive](https://github.com/zer0Kerbal/SimpleHyperdrive)
+9. 💪 Opened PR [#75](https://github.com/zer0Kerbal/SimpleHyperdrive/pull/75) in [zer0Kerbal/SimpleHyperdrive](https://github.com/zer0Kerbal/SimpleHyperdrive)
+10. ❗️ Closed issue [#40](https://github.com/zer0Kerbal/HistoricArchive/issues/40) in [zer0Kerbal/HistoricArchive](https://github.com/zer0Kerbal/HistoricArchive)
 <!--END_SECTION:activity-->
 
 </details
