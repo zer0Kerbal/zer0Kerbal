@@ -64,16 +64,16 @@ From
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#37](https://github.com/zer0Kerbal/LazTekDev/issues/37) in [zer0Kerbal/LazTekDev](https://github.com/zer0Kerbal/LazTekDev)
-2. ❗️ Closed issue [#36](https://github.com/zer0Kerbal/LazTekDev/issues/36) in [zer0Kerbal/LazTekDev](https://github.com/zer0Kerbal/LazTekDev)
-3. ❗️ Closed issue [#10](https://github.com/zer0Kerbal/LazTekDev/issues/10) in [zer0Kerbal/LazTekDev](https://github.com/zer0Kerbal/LazTekDev)
-4. 🎉 Merged PR [#41](https://github.com/zer0Kerbal/LazTekDev/pull/41) in [zer0Kerbal/LazTekDev](https://github.com/zer0Kerbal/LazTekDev)
-5. 💪 Opened PR [#41](https://github.com/zer0Kerbal/LazTekDev/pull/41) in [zer0Kerbal/LazTekDev](https://github.com/zer0Kerbal/LazTekDev)
-6. 🗣 Commented on [#21](https://github.com/zer0Kerbal/LaunchPack/issues/21) in [zer0Kerbal/LaunchPack](https://github.com/zer0Kerbal/LaunchPack)
-7. 🎉 Merged PR [#38](https://github.com/zer0Kerbal/LazTekDev/pull/38) in [zer0Kerbal/LazTekDev](https://github.com/zer0Kerbal/LazTekDev)
-8. ❗️ Opened issue [#40](https://github.com/zer0Kerbal/LazTekDev/issues/40) in [zer0Kerbal/LazTekDev](https://github.com/zer0Kerbal/LazTekDev)
-9. ❗️ Opened issue [#39](https://github.com/zer0Kerbal/LazTekDev/issues/39) in [zer0Kerbal/LazTekDev](https://github.com/zer0Kerbal/LazTekDev)
-10. 🗣 Commented on [#10](https://github.com/zer0Kerbal/LazTekDev/issues/10) in [zer0Kerbal/LazTekDev](https://github.com/zer0Kerbal/LazTekDev)
+1. ❗️ Opened issue [#46](https://github.com/zer0Kerbal/RustyStarShipyards/issues/46) in [zer0Kerbal/RustyStarShipyards](https://github.com/zer0Kerbal/RustyStarShipyards)
+2. ❗️ Opened issue [#45](https://github.com/zer0Kerbal/RustyStarShipyards/issues/45) in [zer0Kerbal/RustyStarShipyards](https://github.com/zer0Kerbal/RustyStarShipyards)
+3. ❗️ Opened issue [#82](https://github.com/zer0Kerbal/RustyStarRockets/issues/82) in [zer0Kerbal/RustyStarRockets](https://github.com/zer0Kerbal/RustyStarRockets)
+4. ❗️ Opened issue [#81](https://github.com/zer0Kerbal/RustyStarRockets/issues/81) in [zer0Kerbal/RustyStarRockets](https://github.com/zer0Kerbal/RustyStarRockets)
+5. ❗️ Closed issue [#78](https://github.com/zer0Kerbal/RustyStarRockets/issues/78) in [zer0Kerbal/RustyStarRockets](https://github.com/zer0Kerbal/RustyStarRockets)
+6. ❗️ Closed issue [#77](https://github.com/zer0Kerbal/RustyStarRockets/issues/77) in [zer0Kerbal/RustyStarRockets](https://github.com/zer0Kerbal/RustyStarRockets)
+7. 🎉 Merged PR [#79](https://github.com/zer0Kerbal/RustyStarRockets/pull/79) in [zer0Kerbal/RustyStarRockets](https://github.com/zer0Kerbal/RustyStarRockets)
+8. 💪 Opened PR [#79](https://github.com/zer0Kerbal/RustyStarRockets/pull/79) in [zer0Kerbal/RustyStarRockets](https://github.com/zer0Kerbal/RustyStarRockets)
+9. ❗️ Closed issue [#37](https://github.com/zer0Kerbal/LazTekDev/issues/37) in [zer0Kerbal/LazTekDev](https://github.com/zer0Kerbal/LazTekDev)
+10. ❗️ Closed issue [#36](https://github.com/zer0Kerbal/LazTekDev/issues/36) in [zer0Kerbal/LazTekDev](https://github.com/zer0Kerbal/LazTekDev)
 <!--END_SECTION:activity-->
 
 </details
