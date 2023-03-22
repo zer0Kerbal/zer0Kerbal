@@ -64,16 +64,16 @@ From
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#7](https://github.com/zer0Kerbal/ExpanseFactions/issues/7) in [zer0Kerbal/ExpanseFactions](https://github.com/zer0Kerbal/ExpanseFactions)
-2. ❗️ Closed issue [#8](https://github.com/zer0Kerbal/ExpanseFactions/issues/8) in [zer0Kerbal/ExpanseFactions](https://github.com/zer0Kerbal/ExpanseFactions)
-3. 🎉 Merged PR [#29](https://github.com/zer0Kerbal/ExpanseFactions/pull/29) in [zer0Kerbal/ExpanseFactions](https://github.com/zer0Kerbal/ExpanseFactions)
-4. 💪 Opened PR [#29](https://github.com/zer0Kerbal/ExpanseFactions/pull/29) in [zer0Kerbal/ExpanseFactions](https://github.com/zer0Kerbal/ExpanseFactions)
-5. ❗️ Closed issue [#31](https://github.com/zer0Kerbal/LunaticAeronauticsLtd/issues/31) in [zer0Kerbal/LunaticAeronauticsLtd](https://github.com/zer0Kerbal/LunaticAeronauticsLtd)
-6. ❗️ Closed issue [#30](https://github.com/zer0Kerbal/LunaticAeronauticsLtd/issues/30) in [zer0Kerbal/LunaticAeronauticsLtd](https://github.com/zer0Kerbal/LunaticAeronauticsLtd)
-7. 🎉 Merged PR [#34](https://github.com/zer0Kerbal/LunaticAeronauticsLtd/pull/34) in [zer0Kerbal/LunaticAeronauticsLtd](https://github.com/zer0Kerbal/LunaticAeronauticsLtd)
-8. 💪 Opened PR [#34](https://github.com/zer0Kerbal/LunaticAeronauticsLtd/pull/34) in [zer0Kerbal/LunaticAeronauticsLtd](https://github.com/zer0Kerbal/LunaticAeronauticsLtd)
-9. ❗️ Opened issue [#33](https://github.com/zer0Kerbal/LunaticAeronauticsLtd/issues/33) in [zer0Kerbal/LunaticAeronauticsLtd](https://github.com/zer0Kerbal/LunaticAeronauticsLtd)
-10. ❗️ Opened issue [#32](https://github.com/zer0Kerbal/LunaticAeronauticsLtd/issues/32) in [zer0Kerbal/LunaticAeronauticsLtd](https://github.com/zer0Kerbal/LunaticAeronauticsLtd)
+1. 🗣 Commented on [#26](https://github.com/zer0Kerbal/ExpanseFactions/issues/26) in [zer0Kerbal/ExpanseFactions](https://github.com/zer0Kerbal/ExpanseFactions)
+2. ❗️ Opened issue [#34](https://github.com/zer0Kerbal/ExpanseFactions/issues/34) in [zer0Kerbal/ExpanseFactions](https://github.com/zer0Kerbal/ExpanseFactions)
+3. ❗️ Opened issue [#33](https://github.com/zer0Kerbal/ExpanseFactions/issues/33) in [zer0Kerbal/ExpanseFactions](https://github.com/zer0Kerbal/ExpanseFactions)
+4. ❗️ Closed issue [#4](https://github.com/zer0Kerbal/ExpanseFactions/issues/4) in [zer0Kerbal/ExpanseFactions](https://github.com/zer0Kerbal/ExpanseFactions)
+5. ❗️ Closed issue [#3](https://github.com/zer0Kerbal/ExpanseFactions/issues/3) in [zer0Kerbal/ExpanseFactions](https://github.com/zer0Kerbal/ExpanseFactions)
+6. ❗️ Closed issue [#5](https://github.com/zer0Kerbal/ExpanseFactions/issues/5) in [zer0Kerbal/ExpanseFactions](https://github.com/zer0Kerbal/ExpanseFactions)
+7. ❗️ Closed issue [#2](https://github.com/zer0Kerbal/ExpanseFactions/issues/2) in [zer0Kerbal/ExpanseFactions](https://github.com/zer0Kerbal/ExpanseFactions)
+8. ❗️ Closed issue [#1](https://github.com/zer0Kerbal/ExpanseFactions/issues/1) in [zer0Kerbal/ExpanseFactions](https://github.com/zer0Kerbal/ExpanseFactions)
+9. ❗️ Closed issue [#6](https://github.com/zer0Kerbal/ExpanseFactions/issues/6) in [zer0Kerbal/ExpanseFactions](https://github.com/zer0Kerbal/ExpanseFactions)
+10. ❗️ Closed issue [#10](https://github.com/zer0Kerbal/ExpanseFactions/issues/10) in [zer0Kerbal/ExpanseFactions](https://github.com/zer0Kerbal/ExpanseFactions)
 <!--END_SECTION:activity-->
 
 </details
