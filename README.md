@@ -64,16 +64,16 @@ From
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#28](https://github.com/zer0Kerbal/MkerbInc/issues/28) in [zer0Kerbal/MkerbInc](https://github.com/zer0Kerbal/MkerbInc)
-2. ❗️ Opened issue [#27](https://github.com/zer0Kerbal/MkerbInc/issues/27) in [zer0Kerbal/MkerbInc](https://github.com/zer0Kerbal/MkerbInc)
-3. ❗️ Opened issue [#26](https://github.com/zer0Kerbal/MkerbInc/issues/26) in [zer0Kerbal/MkerbInc](https://github.com/zer0Kerbal/MkerbInc)
-4. ❗️ Opened issue [#25](https://github.com/zer0Kerbal/MkerbInc/issues/25) in [zer0Kerbal/MkerbInc](https://github.com/zer0Kerbal/MkerbInc)
-5. ❗️ Opened issue [#24](https://github.com/zer0Kerbal/MkerbInc/issues/24) in [zer0Kerbal/MkerbInc](https://github.com/zer0Kerbal/MkerbInc)
-6. ❗️ Opened issue [#23](https://github.com/zer0Kerbal/MkerbInc/issues/23) in [zer0Kerbal/MkerbInc](https://github.com/zer0Kerbal/MkerbInc)
-7. ❗️ Opened issue [#22](https://github.com/zer0Kerbal/MkerbInc/issues/22) in [zer0Kerbal/MkerbInc](https://github.com/zer0Kerbal/MkerbInc)
-8. ❗️ Opened issue [#21](https://github.com/zer0Kerbal/MkerbInc/issues/21) in [zer0Kerbal/MkerbInc](https://github.com/zer0Kerbal/MkerbInc)
-9. ❗️ Opened issue [#20](https://github.com/zer0Kerbal/MkerbInc/issues/20) in [zer0Kerbal/MkerbInc](https://github.com/zer0Kerbal/MkerbInc)
-10. ❗️ Opened issue [#19](https://github.com/zer0Kerbal/MkerbInc/issues/19) in [zer0Kerbal/MkerbInc](https://github.com/zer0Kerbal/MkerbInc)
+1. ❗️ Closed issue [#5](https://github.com/zer0Kerbal/MkerbInc/issues/5) in [zer0Kerbal/MkerbInc](https://github.com/zer0Kerbal/MkerbInc)
+2. ❗️ Closed issue [#2](https://github.com/zer0Kerbal/MkerbInc/issues/2) in [zer0Kerbal/MkerbInc](https://github.com/zer0Kerbal/MkerbInc)
+3. ❗️ Closed issue [#4](https://github.com/zer0Kerbal/MkerbInc/issues/4) in [zer0Kerbal/MkerbInc](https://github.com/zer0Kerbal/MkerbInc)
+4. ❗️ Closed issue [#3](https://github.com/zer0Kerbal/MkerbInc/issues/3) in [zer0Kerbal/MkerbInc](https://github.com/zer0Kerbal/MkerbInc)
+5. ❗️ Closed issue [#28](https://github.com/zer0Kerbal/MkerbInc/issues/28) in [zer0Kerbal/MkerbInc](https://github.com/zer0Kerbal/MkerbInc)
+6. ❗️ Closed issue [#8](https://github.com/zer0Kerbal/MkerbInc/issues/8) in [zer0Kerbal/MkerbInc](https://github.com/zer0Kerbal/MkerbInc)
+7. ❗️ Closed issue [#7](https://github.com/zer0Kerbal/MkerbInc/issues/7) in [zer0Kerbal/MkerbInc](https://github.com/zer0Kerbal/MkerbInc)
+8. ❗️ Closed issue [#9](https://github.com/zer0Kerbal/MkerbInc/issues/9) in [zer0Kerbal/MkerbInc](https://github.com/zer0Kerbal/MkerbInc)
+9. ❗️ Closed issue [#6](https://github.com/zer0Kerbal/MkerbInc/issues/6) in [zer0Kerbal/MkerbInc](https://github.com/zer0Kerbal/MkerbInc)
+10. ❗️ Closed issue [#11](https://github.com/zer0Kerbal/MkerbInc/issues/11) in [zer0Kerbal/MkerbInc](https://github.com/zer0Kerbal/MkerbInc)
 <!--END_SECTION:activity-->
 
 </details
