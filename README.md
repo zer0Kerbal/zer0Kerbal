@@ -64,16 +64,16 @@ From
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#14](https://github.com/zer0Kerbal/ScienceInstruments/issues/14) in [zer0Kerbal/ScienceInstruments](https://github.com/zer0Kerbal/ScienceInstruments)
-2. 🎉 Merged PR [#46](https://github.com/zer0Kerbal/ScienceInstruments/pull/46) in [zer0Kerbal/ScienceInstruments](https://github.com/zer0Kerbal/ScienceInstruments)
-3. 💪 Opened PR [#46](https://github.com/zer0Kerbal/ScienceInstruments/pull/46) in [zer0Kerbal/ScienceInstruments](https://github.com/zer0Kerbal/ScienceInstruments)
-4. ❗️ Closed issue [#13](https://github.com/zer0Kerbal/ScienceInstruments/issues/13) in [zer0Kerbal/ScienceInstruments](https://github.com/zer0Kerbal/ScienceInstruments)
-5. 🎉 Merged PR [#45](https://github.com/zer0Kerbal/ScienceInstruments/pull/45) in [zer0Kerbal/ScienceInstruments](https://github.com/zer0Kerbal/ScienceInstruments)
-6. 💪 Opened PR [#45](https://github.com/zer0Kerbal/ScienceInstruments/pull/45) in [zer0Kerbal/ScienceInstruments](https://github.com/zer0Kerbal/ScienceInstruments)
-7. ❗️ Closed issue [#12](https://github.com/zer0Kerbal/ScienceInstruments/issues/12) in [zer0Kerbal/ScienceInstruments](https://github.com/zer0Kerbal/ScienceInstruments)
-8. 🎉 Merged PR [#44](https://github.com/zer0Kerbal/ScienceInstruments/pull/44) in [zer0Kerbal/ScienceInstruments](https://github.com/zer0Kerbal/ScienceInstruments)
-9. 💪 Opened PR [#44](https://github.com/zer0Kerbal/ScienceInstruments/pull/44) in [zer0Kerbal/ScienceInstruments](https://github.com/zer0Kerbal/ScienceInstruments)
-10. ❗️ Closed issue [#11](https://github.com/zer0Kerbal/ScienceInstruments/issues/11) in [zer0Kerbal/ScienceInstruments](https://github.com/zer0Kerbal/ScienceInstruments)
+1. ❗️ Closed issue [#7](https://github.com/zer0Kerbal/ScienceInstruments/issues/7) in [zer0Kerbal/ScienceInstruments](https://github.com/zer0Kerbal/ScienceInstruments)
+2. ❗️ Closed issue [#22](https://github.com/zer0Kerbal/ScienceInstruments/issues/22) in [zer0Kerbal/ScienceInstruments](https://github.com/zer0Kerbal/ScienceInstruments)
+3. 🎉 Merged PR [#54](https://github.com/zer0Kerbal/ScienceInstruments/pull/54) in [zer0Kerbal/ScienceInstruments](https://github.com/zer0Kerbal/ScienceInstruments)
+4. 💪 Opened PR [#54](https://github.com/zer0Kerbal/ScienceInstruments/pull/54) in [zer0Kerbal/ScienceInstruments](https://github.com/zer0Kerbal/ScienceInstruments)
+5. ❗️ Closed issue [#21](https://github.com/zer0Kerbal/ScienceInstruments/issues/21) in [zer0Kerbal/ScienceInstruments](https://github.com/zer0Kerbal/ScienceInstruments)
+6. 🎉 Merged PR [#53](https://github.com/zer0Kerbal/ScienceInstruments/pull/53) in [zer0Kerbal/ScienceInstruments](https://github.com/zer0Kerbal/ScienceInstruments)
+7. 💪 Opened PR [#53](https://github.com/zer0Kerbal/ScienceInstruments/pull/53) in [zer0Kerbal/ScienceInstruments](https://github.com/zer0Kerbal/ScienceInstruments)
+8. ❗️ Closed issue [#20](https://github.com/zer0Kerbal/ScienceInstruments/issues/20) in [zer0Kerbal/ScienceInstruments](https://github.com/zer0Kerbal/ScienceInstruments)
+9. 🎉 Merged PR [#52](https://github.com/zer0Kerbal/ScienceInstruments/pull/52) in [zer0Kerbal/ScienceInstruments](https://github.com/zer0Kerbal/ScienceInstruments)
+10. 💪 Opened PR [#52](https://github.com/zer0Kerbal/ScienceInstruments/pull/52) in [zer0Kerbal/ScienceInstruments](https://github.com/zer0Kerbal/ScienceInstruments)
 <!--END_SECTION:activity-->
 
 </details
