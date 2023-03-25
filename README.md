@@ -64,16 +64,16 @@ From
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#5](https://github.com/zer0Kerbal/MkerbInc/issues/5) in [zer0Kerbal/MkerbInc](https://github.com/zer0Kerbal/MkerbInc)
-2. ❗️ Closed issue [#2](https://github.com/zer0Kerbal/MkerbInc/issues/2) in [zer0Kerbal/MkerbInc](https://github.com/zer0Kerbal/MkerbInc)
-3. ❗️ Closed issue [#4](https://github.com/zer0Kerbal/MkerbInc/issues/4) in [zer0Kerbal/MkerbInc](https://github.com/zer0Kerbal/MkerbInc)
-4. ❗️ Closed issue [#3](https://github.com/zer0Kerbal/MkerbInc/issues/3) in [zer0Kerbal/MkerbInc](https://github.com/zer0Kerbal/MkerbInc)
-5. ❗️ Closed issue [#28](https://github.com/zer0Kerbal/MkerbInc/issues/28) in [zer0Kerbal/MkerbInc](https://github.com/zer0Kerbal/MkerbInc)
-6. ❗️ Closed issue [#8](https://github.com/zer0Kerbal/MkerbInc/issues/8) in [zer0Kerbal/MkerbInc](https://github.com/zer0Kerbal/MkerbInc)
-7. ❗️ Closed issue [#7](https://github.com/zer0Kerbal/MkerbInc/issues/7) in [zer0Kerbal/MkerbInc](https://github.com/zer0Kerbal/MkerbInc)
-8. ❗️ Closed issue [#9](https://github.com/zer0Kerbal/MkerbInc/issues/9) in [zer0Kerbal/MkerbInc](https://github.com/zer0Kerbal/MkerbInc)
-9. ❗️ Closed issue [#6](https://github.com/zer0Kerbal/MkerbInc/issues/6) in [zer0Kerbal/MkerbInc](https://github.com/zer0Kerbal/MkerbInc)
-10. ❗️ Closed issue [#11](https://github.com/zer0Kerbal/MkerbInc/issues/11) in [zer0Kerbal/MkerbInc](https://github.com/zer0Kerbal/MkerbInc)
+1. ❗️ Opened issue [#42](https://github.com/zer0Kerbal/ScienceInstruments/issues/42) in [zer0Kerbal/ScienceInstruments](https://github.com/zer0Kerbal/ScienceInstruments)
+2. ❗️ Opened issue [#41](https://github.com/zer0Kerbal/ScienceInstruments/issues/41) in [zer0Kerbal/ScienceInstruments](https://github.com/zer0Kerbal/ScienceInstruments)
+3. ❗️ Opened issue [#40](https://github.com/zer0Kerbal/ScienceInstruments/issues/40) in [zer0Kerbal/ScienceInstruments](https://github.com/zer0Kerbal/ScienceInstruments)
+4. ❗️ Opened issue [#39](https://github.com/zer0Kerbal/ScienceInstruments/issues/39) in [zer0Kerbal/ScienceInstruments](https://github.com/zer0Kerbal/ScienceInstruments)
+5. ❗️ Opened issue [#38](https://github.com/zer0Kerbal/ScienceInstruments/issues/38) in [zer0Kerbal/ScienceInstruments](https://github.com/zer0Kerbal/ScienceInstruments)
+6. ❗️ Opened issue [#37](https://github.com/zer0Kerbal/ScienceInstruments/issues/37) in [zer0Kerbal/ScienceInstruments](https://github.com/zer0Kerbal/ScienceInstruments)
+7. ❗️ Opened issue [#36](https://github.com/zer0Kerbal/ScienceInstruments/issues/36) in [zer0Kerbal/ScienceInstruments](https://github.com/zer0Kerbal/ScienceInstruments)
+8. ❗️ Opened issue [#35](https://github.com/zer0Kerbal/ScienceInstruments/issues/35) in [zer0Kerbal/ScienceInstruments](https://github.com/zer0Kerbal/ScienceInstruments)
+9. ❗️ Opened issue [#34](https://github.com/zer0Kerbal/ScienceInstruments/issues/34) in [zer0Kerbal/ScienceInstruments](https://github.com/zer0Kerbal/ScienceInstruments)
+10. ❗️ Opened issue [#33](https://github.com/zer0Kerbal/ScienceInstruments/issues/33) in [zer0Kerbal/ScienceInstruments](https://github.com/zer0Kerbal/ScienceInstruments)
 <!--END_SECTION:activity-->
 
 </details
