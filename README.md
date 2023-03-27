@@ -64,16 +64,16 @@ From
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#50](https://github.com/zer0Kerbal/SpaceYCorp/issues/50) in [zer0Kerbal/SpaceYCorp](https://github.com/zer0Kerbal/SpaceYCorp)
-2. ❗️ Opened issue [#49](https://github.com/zer0Kerbal/SpaceYCorp/issues/49) in [zer0Kerbal/SpaceYCorp](https://github.com/zer0Kerbal/SpaceYCorp)
-3. ❗️ Closed issue [#30](https://github.com/zer0Kerbal/MkerbInc/issues/30) in [zer0Kerbal/MkerbInc](https://github.com/zer0Kerbal/MkerbInc)
-4. ❗️ Closed issue [#29](https://github.com/zer0Kerbal/MkerbInc/issues/29) in [zer0Kerbal/MkerbInc](https://github.com/zer0Kerbal/MkerbInc)
-5. 🎉 Merged PR [#35](https://github.com/zer0Kerbal/MkerbInc/pull/35) in [zer0Kerbal/MkerbInc](https://github.com/zer0Kerbal/MkerbInc)
-6. 💪 Opened PR [#35](https://github.com/zer0Kerbal/MkerbInc/pull/35) in [zer0Kerbal/MkerbInc](https://github.com/zer0Kerbal/MkerbInc)
-7. ❗️ Opened issue [#34](https://github.com/zer0Kerbal/MkerbInc/issues/34) in [zer0Kerbal/MkerbInc](https://github.com/zer0Kerbal/MkerbInc)
-8. ❗️ Opened issue [#33](https://github.com/zer0Kerbal/MkerbInc/issues/33) in [zer0Kerbal/MkerbInc](https://github.com/zer0Kerbal/MkerbInc)
-9. ❗️ Closed issue [#44](https://github.com/zer0Kerbal/OxidizerTank/issues/44) in [zer0Kerbal/OxidizerTank](https://github.com/zer0Kerbal/OxidizerTank)
-10. ❗️ Opened issue [#59](https://github.com/zer0Kerbal/ScienceInstruments/issues/59) in [zer0Kerbal/ScienceInstruments](https://github.com/zer0Kerbal/ScienceInstruments)
+1. 🗣 Commented on [#79](https://github.com/zer0Kerbal/SimpleHyperdrive/issues/79) in [zer0Kerbal/SimpleHyperdrive](https://github.com/zer0Kerbal/SimpleHyperdrive)
+2. ❗️ Opened issue [#50](https://github.com/zer0Kerbal/SpaceYCorp/issues/50) in [zer0Kerbal/SpaceYCorp](https://github.com/zer0Kerbal/SpaceYCorp)
+3. ❗️ Opened issue [#49](https://github.com/zer0Kerbal/SpaceYCorp/issues/49) in [zer0Kerbal/SpaceYCorp](https://github.com/zer0Kerbal/SpaceYCorp)
+4. ❗️ Closed issue [#30](https://github.com/zer0Kerbal/MkerbInc/issues/30) in [zer0Kerbal/MkerbInc](https://github.com/zer0Kerbal/MkerbInc)
+5. ❗️ Closed issue [#29](https://github.com/zer0Kerbal/MkerbInc/issues/29) in [zer0Kerbal/MkerbInc](https://github.com/zer0Kerbal/MkerbInc)
+6. 🎉 Merged PR [#35](https://github.com/zer0Kerbal/MkerbInc/pull/35) in [zer0Kerbal/MkerbInc](https://github.com/zer0Kerbal/MkerbInc)
+7. 💪 Opened PR [#35](https://github.com/zer0Kerbal/MkerbInc/pull/35) in [zer0Kerbal/MkerbInc](https://github.com/zer0Kerbal/MkerbInc)
+8. ❗️ Opened issue [#34](https://github.com/zer0Kerbal/MkerbInc/issues/34) in [zer0Kerbal/MkerbInc](https://github.com/zer0Kerbal/MkerbInc)
+9. ❗️ Opened issue [#33](https://github.com/zer0Kerbal/MkerbInc/issues/33) in [zer0Kerbal/MkerbInc](https://github.com/zer0Kerbal/MkerbInc)
+10. ❗️ Closed issue [#44](https://github.com/zer0Kerbal/OxidizerTank/issues/44) in [zer0Kerbal/OxidizerTank](https://github.com/zer0Kerbal/OxidizerTank)
 <!--END_SECTION:activity-->
 
 </details
