@@ -64,16 +64,16 @@ From
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#7](https://github.com/zer0Kerbal/ScienceInstruments/issues/7) in [zer0Kerbal/ScienceInstruments](https://github.com/zer0Kerbal/ScienceInstruments)
-2. ❗️ Closed issue [#22](https://github.com/zer0Kerbal/ScienceInstruments/issues/22) in [zer0Kerbal/ScienceInstruments](https://github.com/zer0Kerbal/ScienceInstruments)
-3. 🎉 Merged PR [#54](https://github.com/zer0Kerbal/ScienceInstruments/pull/54) in [zer0Kerbal/ScienceInstruments](https://github.com/zer0Kerbal/ScienceInstruments)
-4. 💪 Opened PR [#54](https://github.com/zer0Kerbal/ScienceInstruments/pull/54) in [zer0Kerbal/ScienceInstruments](https://github.com/zer0Kerbal/ScienceInstruments)
-5. ❗️ Closed issue [#21](https://github.com/zer0Kerbal/ScienceInstruments/issues/21) in [zer0Kerbal/ScienceInstruments](https://github.com/zer0Kerbal/ScienceInstruments)
-6. 🎉 Merged PR [#53](https://github.com/zer0Kerbal/ScienceInstruments/pull/53) in [zer0Kerbal/ScienceInstruments](https://github.com/zer0Kerbal/ScienceInstruments)
-7. 💪 Opened PR [#53](https://github.com/zer0Kerbal/ScienceInstruments/pull/53) in [zer0Kerbal/ScienceInstruments](https://github.com/zer0Kerbal/ScienceInstruments)
-8. ❗️ Closed issue [#20](https://github.com/zer0Kerbal/ScienceInstruments/issues/20) in [zer0Kerbal/ScienceInstruments](https://github.com/zer0Kerbal/ScienceInstruments)
-9. 🎉 Merged PR [#52](https://github.com/zer0Kerbal/ScienceInstruments/pull/52) in [zer0Kerbal/ScienceInstruments](https://github.com/zer0Kerbal/ScienceInstruments)
-10. 💪 Opened PR [#52](https://github.com/zer0Kerbal/ScienceInstruments/pull/52) in [zer0Kerbal/ScienceInstruments](https://github.com/zer0Kerbal/ScienceInstruments)
+1. ❗️ Closed issue [#44](https://github.com/zer0Kerbal/OxidizerTank/issues/44) in [zer0Kerbal/OxidizerTank](https://github.com/zer0Kerbal/OxidizerTank)
+2. ❗️ Opened issue [#59](https://github.com/zer0Kerbal/ScienceInstruments/issues/59) in [zer0Kerbal/ScienceInstruments](https://github.com/zer0Kerbal/ScienceInstruments)
+3. ❗️ Opened issue [#58](https://github.com/zer0Kerbal/ScienceInstruments/issues/58) in [zer0Kerbal/ScienceInstruments](https://github.com/zer0Kerbal/ScienceInstruments)
+4. ❗️ Opened issue [#45](https://github.com/zer0Kerbal/OxidizerTank/issues/45) in [zer0Kerbal/OxidizerTank](https://github.com/zer0Kerbal/OxidizerTank)
+5. ❗️ Opened issue [#44](https://github.com/zer0Kerbal/OxidizerTank/issues/44) in [zer0Kerbal/OxidizerTank](https://github.com/zer0Kerbal/OxidizerTank)
+6. ❗️ Closed issue [#4](https://github.com/zer0Kerbal/ScienceInstruments/issues/4) in [zer0Kerbal/ScienceInstruments](https://github.com/zer0Kerbal/ScienceInstruments)
+7. ❗️ Closed issue [#3](https://github.com/zer0Kerbal/ScienceInstruments/issues/3) in [zer0Kerbal/ScienceInstruments](https://github.com/zer0Kerbal/ScienceInstruments)
+8. ❗️ Closed issue [#2](https://github.com/zer0Kerbal/ScienceInstruments/issues/2) in [zer0Kerbal/ScienceInstruments](https://github.com/zer0Kerbal/ScienceInstruments)
+9. ❗️ Closed issue [#1](https://github.com/zer0Kerbal/ScienceInstruments/issues/1) in [zer0Kerbal/ScienceInstruments](https://github.com/zer0Kerbal/ScienceInstruments)
+10. ❗️ Closed issue [#6](https://github.com/zer0Kerbal/ScienceInstruments/issues/6) in [zer0Kerbal/ScienceInstruments](https://github.com/zer0Kerbal/ScienceInstruments)
 <!--END_SECTION:activity-->
 
 </details
