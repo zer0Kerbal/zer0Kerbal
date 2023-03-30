@@ -64,16 +64,16 @@ From
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#31](https://github.com/zer0Kerbal/DaMichelLtd/issues/31) in [zer0Kerbal/DaMichelLtd](https://github.com/zer0Kerbal/DaMichelLtd)
-2. ❗️ Opened issue [#30](https://github.com/zer0Kerbal/DaMichelLtd/issues/30) in [zer0Kerbal/DaMichelLtd](https://github.com/zer0Kerbal/DaMichelLtd)
-3. ❗️ Reopened issue [#5](https://github.com/zer0Kerbal/DaMichelLtd/issues/5) in [zer0Kerbal/DaMichelLtd](https://github.com/zer0Kerbal/DaMichelLtd)
-4. 🗣 Commented on [#158](https://github.com/zer0Kerbal/FuelTanksPlus/issues/158) in [zer0Kerbal/FuelTanksPlus](https://github.com/zer0Kerbal/FuelTanksPlus)
-5. 🗣 Commented on [#38](https://github.com/net-lisias-ksp/GPOSpeedPump/issues/38) in [net-lisias-ksp/GPOSpeedPump](https://github.com/net-lisias-ksp/GPOSpeedPump)
+1. ❌ Closed PR [#100](https://github.com/zer0Kerbal/SpaceYExpanded/pull/100) in [zer0Kerbal/SpaceYExpanded](https://github.com/zer0Kerbal/SpaceYExpanded)
+2. ❗️ Opened issue [#31](https://github.com/zer0Kerbal/DaMichelLtd/issues/31) in [zer0Kerbal/DaMichelLtd](https://github.com/zer0Kerbal/DaMichelLtd)
+3. ❗️ Opened issue [#30](https://github.com/zer0Kerbal/DaMichelLtd/issues/30) in [zer0Kerbal/DaMichelLtd](https://github.com/zer0Kerbal/DaMichelLtd)
+4. ❗️ Reopened issue [#5](https://github.com/zer0Kerbal/DaMichelLtd/issues/5) in [zer0Kerbal/DaMichelLtd](https://github.com/zer0Kerbal/DaMichelLtd)
+5. 🗣 Commented on [#158](https://github.com/zer0Kerbal/FuelTanksPlus/issues/158) in [zer0Kerbal/FuelTanksPlus](https://github.com/zer0Kerbal/FuelTanksPlus)
 6. 🗣 Commented on [#38](https://github.com/net-lisias-ksp/GPOSpeedPump/issues/38) in [net-lisias-ksp/GPOSpeedPump](https://github.com/net-lisias-ksp/GPOSpeedPump)
-7. 💪 Opened PR [#39](https://github.com/net-lisias-ksp/GPOSpeedPump/pull/39) in [net-lisias-ksp/GPOSpeedPump](https://github.com/net-lisias-ksp/GPOSpeedPump)
-8. 💪 Opened PR [#38](https://github.com/net-lisias-ksp/GPOSpeedPump/pull/38) in [net-lisias-ksp/GPOSpeedPump](https://github.com/net-lisias-ksp/GPOSpeedPump)
-9. 🗣 Commented on [#79](https://github.com/zer0Kerbal/SimpleHyperdrive/issues/79) in [zer0Kerbal/SimpleHyperdrive](https://github.com/zer0Kerbal/SimpleHyperdrive)
-10. ❗️ Opened issue [#50](https://github.com/zer0Kerbal/SpaceYCorp/issues/50) in [zer0Kerbal/SpaceYCorp](https://github.com/zer0Kerbal/SpaceYCorp)
+7. 🗣 Commented on [#38](https://github.com/net-lisias-ksp/GPOSpeedPump/issues/38) in [net-lisias-ksp/GPOSpeedPump](https://github.com/net-lisias-ksp/GPOSpeedPump)
+8. 💪 Opened PR [#39](https://github.com/net-lisias-ksp/GPOSpeedPump/pull/39) in [net-lisias-ksp/GPOSpeedPump](https://github.com/net-lisias-ksp/GPOSpeedPump)
+9. 💪 Opened PR [#38](https://github.com/net-lisias-ksp/GPOSpeedPump/pull/38) in [net-lisias-ksp/GPOSpeedPump](https://github.com/net-lisias-ksp/GPOSpeedPump)
+10. 🗣 Commented on [#79](https://github.com/zer0Kerbal/SimpleHyperdrive/issues/79) in [zer0Kerbal/SimpleHyperdrive](https://github.com/zer0Kerbal/SimpleHyperdrive)
 <!--END_SECTION:activity-->
 
 </details
