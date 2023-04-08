@@ -64,16 +64,16 @@ From
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/DaanV2/Markdown-Action-Create-Indexes/issues/3) in [DaanV2/Markdown-Action-Create-Indexes](https://github.com/DaanV2/Markdown-Action-Create-Indexes)
-2. 🗣 Commented on [#2](https://github.com/DaanV2/Markdown-Action-Create-Indexes/issues/2) in [DaanV2/Markdown-Action-Create-Indexes](https://github.com/DaanV2/Markdown-Action-Create-Indexes)
-3. 🎉 Merged PR [#59](https://github.com/zer0Kerbal/DropTanks/pull/59) in [zer0Kerbal/DropTanks](https://github.com/zer0Kerbal/DropTanks)
-4. ❗️ Opened issue [#162](https://github.com/zer0Kerbal/FuelTanksPlus/issues/162) in [zer0Kerbal/FuelTanksPlus](https://github.com/zer0Kerbal/FuelTanksPlus)
-5. ❗️ Opened issue [#161](https://github.com/zer0Kerbal/FuelTanksPlus/issues/161) in [zer0Kerbal/FuelTanksPlus](https://github.com/zer0Kerbal/FuelTanksPlus)
-6. ❗️ Closed issue [#158](https://github.com/zer0Kerbal/FuelTanksPlus/issues/158) in [zer0Kerbal/FuelTanksPlus](https://github.com/zer0Kerbal/FuelTanksPlus)
-7. ❗️ Closed issue [#155](https://github.com/zer0Kerbal/FuelTanksPlus/issues/155) in [zer0Kerbal/FuelTanksPlus](https://github.com/zer0Kerbal/FuelTanksPlus)
-8. ❗️ Closed issue [#154](https://github.com/zer0Kerbal/FuelTanksPlus/issues/154) in [zer0Kerbal/FuelTanksPlus](https://github.com/zer0Kerbal/FuelTanksPlus)
-9. 🎉 Merged PR [#159](https://github.com/zer0Kerbal/FuelTanksPlus/pull/159) in [zer0Kerbal/FuelTanksPlus](https://github.com/zer0Kerbal/FuelTanksPlus)
-10. 💪 Opened PR [#159](https://github.com/zer0Kerbal/FuelTanksPlus/pull/159) in [zer0Kerbal/FuelTanksPlus](https://github.com/zer0Kerbal/FuelTanksPlus)
+1. ❗️ Opened issue [#61](https://github.com/zer0Kerbal/DropTanks/issues/61) in [zer0Kerbal/DropTanks](https://github.com/zer0Kerbal/DropTanks)
+2. ❗️ Opened issue [#60](https://github.com/zer0Kerbal/DropTanks/issues/60) in [zer0Kerbal/DropTanks](https://github.com/zer0Kerbal/DropTanks)
+3. 🗣 Commented on [#3](https://github.com/DaanV2/Markdown-Action-Create-Indexes/issues/3) in [DaanV2/Markdown-Action-Create-Indexes](https://github.com/DaanV2/Markdown-Action-Create-Indexes)
+4. 🗣 Commented on [#2](https://github.com/DaanV2/Markdown-Action-Create-Indexes/issues/2) in [DaanV2/Markdown-Action-Create-Indexes](https://github.com/DaanV2/Markdown-Action-Create-Indexes)
+5. 🎉 Merged PR [#59](https://github.com/zer0Kerbal/DropTanks/pull/59) in [zer0Kerbal/DropTanks](https://github.com/zer0Kerbal/DropTanks)
+6. ❗️ Opened issue [#162](https://github.com/zer0Kerbal/FuelTanksPlus/issues/162) in [zer0Kerbal/FuelTanksPlus](https://github.com/zer0Kerbal/FuelTanksPlus)
+7. ❗️ Opened issue [#161](https://github.com/zer0Kerbal/FuelTanksPlus/issues/161) in [zer0Kerbal/FuelTanksPlus](https://github.com/zer0Kerbal/FuelTanksPlus)
+8. ❗️ Closed issue [#158](https://github.com/zer0Kerbal/FuelTanksPlus/issues/158) in [zer0Kerbal/FuelTanksPlus](https://github.com/zer0Kerbal/FuelTanksPlus)
+9. ❗️ Closed issue [#155](https://github.com/zer0Kerbal/FuelTanksPlus/issues/155) in [zer0Kerbal/FuelTanksPlus](https://github.com/zer0Kerbal/FuelTanksPlus)
+10. ❗️ Closed issue [#154](https://github.com/zer0Kerbal/FuelTanksPlus/issues/154) in [zer0Kerbal/FuelTanksPlus](https://github.com/zer0Kerbal/FuelTanksPlus)
 <!--END_SECTION:activity-->
 
 </details
