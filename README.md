@@ -64,16 +64,16 @@ From
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#9](https://github.com/zer0Kerbal/DropTanksIII/issues/9) in [zer0Kerbal/DropTanksIII](https://github.com/zer0Kerbal/DropTanksIII)
-2. ❗️ Opened issue [#8](https://github.com/zer0Kerbal/DropTanksIII/issues/8) in [zer0Kerbal/DropTanksIII](https://github.com/zer0Kerbal/DropTanksIII)
-3. ❗️ Opened issue [#7](https://github.com/zer0Kerbal/DropTanksIII/issues/7) in [zer0Kerbal/DropTanksIII](https://github.com/zer0Kerbal/DropTanksIII)
-4. ❗️ Opened issue [#6](https://github.com/zer0Kerbal/DropTanksIII/issues/6) in [zer0Kerbal/DropTanksIII](https://github.com/zer0Kerbal/DropTanksIII)
-5. ❗️ Opened issue [#5](https://github.com/zer0Kerbal/DropTanksIII/issues/5) in [zer0Kerbal/DropTanksIII](https://github.com/zer0Kerbal/DropTanksIII)
-6. ❗️ Opened issue [#4](https://github.com/zer0Kerbal/DropTanksIII/issues/4) in [zer0Kerbal/DropTanksIII](https://github.com/zer0Kerbal/DropTanksIII)
-7. ❗️ Opened issue [#3](https://github.com/zer0Kerbal/DropTanksIII/issues/3) in [zer0Kerbal/DropTanksIII](https://github.com/zer0Kerbal/DropTanksIII)
-8. ❗️ Opened issue [#2](https://github.com/zer0Kerbal/DropTanksIII/issues/2) in [zer0Kerbal/DropTanksIII](https://github.com/zer0Kerbal/DropTanksIII)
-9. ❗️ Opened issue [#1](https://github.com/zer0Kerbal/DropTanksIII/issues/1) in [zer0Kerbal/DropTanksIII](https://github.com/zer0Kerbal/DropTanksIII)
-10. 🗣 Commented on [#2](https://github.com/DaanV2/Markdown-Action-Create-Indexes/issues/2) in [DaanV2/Markdown-Action-Create-Indexes](https://github.com/DaanV2/Markdown-Action-Create-Indexes)
+1. 🗣 Commented on [#2](https://github.com/DaanV2/Markdown-Action-Create-Indexes/issues/2) in [DaanV2/Markdown-Action-Create-Indexes](https://github.com/DaanV2/Markdown-Action-Create-Indexes)
+2. ❗️ Opened issue [#27](https://github.com/zer0Kerbal/DropTanksIII/issues/27) in [zer0Kerbal/DropTanksIII](https://github.com/zer0Kerbal/DropTanksIII)
+3. ❗️ Opened issue [#26](https://github.com/zer0Kerbal/DropTanksIII/issues/26) in [zer0Kerbal/DropTanksIII](https://github.com/zer0Kerbal/DropTanksIII)
+4. ❗️ Opened issue [#25](https://github.com/zer0Kerbal/DropTanksIII/issues/25) in [zer0Kerbal/DropTanksIII](https://github.com/zer0Kerbal/DropTanksIII)
+5. ❗️ Opened issue [#24](https://github.com/zer0Kerbal/DropTanksIII/issues/24) in [zer0Kerbal/DropTanksIII](https://github.com/zer0Kerbal/DropTanksIII)
+6. ❗️ Opened issue [#23](https://github.com/zer0Kerbal/DropTanksIII/issues/23) in [zer0Kerbal/DropTanksIII](https://github.com/zer0Kerbal/DropTanksIII)
+7. ❗️ Opened issue [#22](https://github.com/zer0Kerbal/DropTanksIII/issues/22) in [zer0Kerbal/DropTanksIII](https://github.com/zer0Kerbal/DropTanksIII)
+8. ❗️ Opened issue [#21](https://github.com/zer0Kerbal/DropTanksIII/issues/21) in [zer0Kerbal/DropTanksIII](https://github.com/zer0Kerbal/DropTanksIII)
+9. ❗️ Opened issue [#20](https://github.com/zer0Kerbal/DropTanksIII/issues/20) in [zer0Kerbal/DropTanksIII](https://github.com/zer0Kerbal/DropTanksIII)
+10. ❗️ Opened issue [#19](https://github.com/zer0Kerbal/DropTanksIII/issues/19) in [zer0Kerbal/DropTanksIII](https://github.com/zer0Kerbal/DropTanksIII)
 <!--END_SECTION:activity-->
 
 </details
