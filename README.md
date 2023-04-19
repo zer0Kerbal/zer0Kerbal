@@ -64,16 +64,16 @@ From
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❌ Reopened PR [#88](https://github.com/zer0Kerbal/OhScrap/pull/88) in [zer0Kerbal/OhScrap](https://github.com/zer0Kerbal/OhScrap)
-2. 🎉 Merged PR [#29](https://github.com/zer0Kerbal/BobCatInd/pull/29) in [zer0Kerbal/BobCatInd](https://github.com/zer0Kerbal/BobCatInd)
-3. ❗️ Opened issue [#31](https://github.com/zer0Kerbal/BobCatInd/issues/31) in [zer0Kerbal/BobCatInd](https://github.com/zer0Kerbal/BobCatInd)
-4. ❗️ Opened issue [#30](https://github.com/zer0Kerbal/BobCatInd/issues/30) in [zer0Kerbal/BobCatInd](https://github.com/zer0Kerbal/BobCatInd)
-5. ❗️ Opened issue [#48](https://github.com/zer0Kerbal/MIR/issues/48) in [zer0Kerbal/MIR](https://github.com/zer0Kerbal/MIR)
-6. 🗣 Commented on [#147](https://github.com/zer0Kerbal/ModularRocketSystems/issues/147) in [zer0Kerbal/ModularRocketSystems](https://github.com/zer0Kerbal/ModularRocketSystems)
-7. 🎉 Merged PR [#46](https://github.com/zer0Kerbal/OxidizerTank/pull/46) in [zer0Kerbal/OxidizerTank](https://github.com/zer0Kerbal/OxidizerTank)
-8. 🗣 Commented on [#19](https://github.com/zer0Kerbal/OxidizerTank/issues/19) in [zer0Kerbal/OxidizerTank](https://github.com/zer0Kerbal/OxidizerTank)
-9. ❗️ Opened issue [#46](https://github.com/zer0Kerbal/MIR/issues/46) in [zer0Kerbal/MIR](https://github.com/zer0Kerbal/MIR)
-10. ❗️ Opened issue [#45](https://github.com/zer0Kerbal/MIR/issues/45) in [zer0Kerbal/MIR](https://github.com/zer0Kerbal/MIR)
+1. ❗️ Opened issue [#9](https://github.com/zer0Kerbal/MoneroFlags/issues/9) in [zer0Kerbal/MoneroFlags](https://github.com/zer0Kerbal/MoneroFlags)
+2. ❗️ Opened issue [#8](https://github.com/zer0Kerbal/MoneroFlags/issues/8) in [zer0Kerbal/MoneroFlags](https://github.com/zer0Kerbal/MoneroFlags)
+3. ❌ Closed PR [#7](https://github.com/zer0Kerbal/MoneroFlags/pull/7) in [zer0Kerbal/MoneroFlags](https://github.com/zer0Kerbal/MoneroFlags)
+4. ❌ Reopened PR [#88](https://github.com/zer0Kerbal/OhScrap/pull/88) in [zer0Kerbal/OhScrap](https://github.com/zer0Kerbal/OhScrap)
+5. 🎉 Merged PR [#29](https://github.com/zer0Kerbal/BobCatInd/pull/29) in [zer0Kerbal/BobCatInd](https://github.com/zer0Kerbal/BobCatInd)
+6. ❗️ Opened issue [#31](https://github.com/zer0Kerbal/BobCatInd/issues/31) in [zer0Kerbal/BobCatInd](https://github.com/zer0Kerbal/BobCatInd)
+7. ❗️ Opened issue [#30](https://github.com/zer0Kerbal/BobCatInd/issues/30) in [zer0Kerbal/BobCatInd](https://github.com/zer0Kerbal/BobCatInd)
+8. ❗️ Opened issue [#48](https://github.com/zer0Kerbal/MIR/issues/48) in [zer0Kerbal/MIR](https://github.com/zer0Kerbal/MIR)
+9. 🗣 Commented on [#147](https://github.com/zer0Kerbal/ModularRocketSystems/issues/147) in [zer0Kerbal/ModularRocketSystems](https://github.com/zer0Kerbal/ModularRocketSystems)
+10. 🎉 Merged PR [#46](https://github.com/zer0Kerbal/OxidizerTank/pull/46) in [zer0Kerbal/OxidizerTank](https://github.com/zer0Kerbal/OxidizerTank)
 <!--END_SECTION:activity-->
 
 </details
