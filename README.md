@@ -64,16 +64,16 @@ From
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#32](https://github.com/zer0Kerbal/MoneroFlags/pull/32) in [zer0Kerbal/MoneroFlags](https://github.com/zer0Kerbal/MoneroFlags)
-2. 🗣 Commented on [#31](https://github.com/zer0Kerbal/MoneroFlags/issues/31) in [zer0Kerbal/MoneroFlags](https://github.com/zer0Kerbal/MoneroFlags)
-3. ❗️ Opened issue [#31](https://github.com/zer0Kerbal/MoneroFlags/issues/31) in [zer0Kerbal/MoneroFlags](https://github.com/zer0Kerbal/MoneroFlags)
-4. ❗️ Opened issue [#30](https://github.com/zer0Kerbal/MoneroFlags/issues/30) in [zer0Kerbal/MoneroFlags](https://github.com/zer0Kerbal/MoneroFlags)
-5. ❗️ Opened issue [#29](https://github.com/zer0Kerbal/MoneroFlags/issues/29) in [zer0Kerbal/MoneroFlags](https://github.com/zer0Kerbal/MoneroFlags)
-6. ❗️ Opened issue [#28](https://github.com/zer0Kerbal/MoneroFlags/issues/28) in [zer0Kerbal/MoneroFlags](https://github.com/zer0Kerbal/MoneroFlags)
-7. ❗️ Opened issue [#27](https://github.com/zer0Kerbal/MoneroFlags/issues/27) in [zer0Kerbal/MoneroFlags](https://github.com/zer0Kerbal/MoneroFlags)
-8. ❗️ Opened issue [#26](https://github.com/zer0Kerbal/MoneroFlags/issues/26) in [zer0Kerbal/MoneroFlags](https://github.com/zer0Kerbal/MoneroFlags)
-9. ❗️ Opened issue [#25](https://github.com/zer0Kerbal/MoneroFlags/issues/25) in [zer0Kerbal/MoneroFlags](https://github.com/zer0Kerbal/MoneroFlags)
-10. ❗️ Opened issue [#24](https://github.com/zer0Kerbal/MoneroFlags/issues/24) in [zer0Kerbal/MoneroFlags](https://github.com/zer0Kerbal/MoneroFlags)
+1. ❗️ Closed issue [#9](https://github.com/zer0Kerbal/MoneroFlags/issues/9) in [zer0Kerbal/MoneroFlags](https://github.com/zer0Kerbal/MoneroFlags)
+2. ❗️ Closed issue [#8](https://github.com/zer0Kerbal/MoneroFlags/issues/8) in [zer0Kerbal/MoneroFlags](https://github.com/zer0Kerbal/MoneroFlags)
+3. ❗️ Closed issue [#14](https://github.com/zer0Kerbal/MoneroFlags/issues/14) in [zer0Kerbal/MoneroFlags](https://github.com/zer0Kerbal/MoneroFlags)
+4. ❗️ Closed issue [#31](https://github.com/zer0Kerbal/MoneroFlags/issues/31) in [zer0Kerbal/MoneroFlags](https://github.com/zer0Kerbal/MoneroFlags)
+5. ❗️ Closed issue [#5](https://github.com/zer0Kerbal/MoneroFlags/issues/5) in [zer0Kerbal/MoneroFlags](https://github.com/zer0Kerbal/MoneroFlags)
+6. 🎉 Merged PR [#32](https://github.com/zer0Kerbal/MoneroFlags/pull/32) in [zer0Kerbal/MoneroFlags](https://github.com/zer0Kerbal/MoneroFlags)
+7. 💪 Opened PR [#32](https://github.com/zer0Kerbal/MoneroFlags/pull/32) in [zer0Kerbal/MoneroFlags](https://github.com/zer0Kerbal/MoneroFlags)
+8. 🗣 Commented on [#31](https://github.com/zer0Kerbal/MoneroFlags/issues/31) in [zer0Kerbal/MoneroFlags](https://github.com/zer0Kerbal/MoneroFlags)
+9. ❗️ Opened issue [#31](https://github.com/zer0Kerbal/MoneroFlags/issues/31) in [zer0Kerbal/MoneroFlags](https://github.com/zer0Kerbal/MoneroFlags)
+10. ❗️ Opened issue [#30](https://github.com/zer0Kerbal/MoneroFlags/issues/30) in [zer0Kerbal/MoneroFlags](https://github.com/zer0Kerbal/MoneroFlags)
 <!--END_SECTION:activity-->
 
 </details
