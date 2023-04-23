@@ -64,16 +64,16 @@ From
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#30](https://github.com/zer0Kerbal/MIR/issues/30) in [zer0Kerbal/MIR](https://github.com/zer0Kerbal/MIR)
-2. ❗️ Closed issue [#13](https://github.com/zer0Kerbal/MIR/issues/13) in [zer0Kerbal/MIR](https://github.com/zer0Kerbal/MIR)
-3. ❗️ Closed issue [#11](https://github.com/zer0Kerbal/MIR/issues/11) in [zer0Kerbal/MIR](https://github.com/zer0Kerbal/MIR)
-4. ❗️ Closed issue [#10](https://github.com/zer0Kerbal/MIR/issues/10) in [zer0Kerbal/MIR](https://github.com/zer0Kerbal/MIR)
-5. ❗️ Closed issue [#5](https://github.com/zer0Kerbal/MIR/issues/5) in [zer0Kerbal/MIR](https://github.com/zer0Kerbal/MIR)
-6. ❗️ Closed issue [#9](https://github.com/zer0Kerbal/MIR/issues/9) in [zer0Kerbal/MIR](https://github.com/zer0Kerbal/MIR)
-7. ❗️ Closed issue [#8](https://github.com/zer0Kerbal/MIR/issues/8) in [zer0Kerbal/MIR](https://github.com/zer0Kerbal/MIR)
-8. ❗️ Closed issue [#6](https://github.com/zer0Kerbal/MIR/issues/6) in [zer0Kerbal/MIR](https://github.com/zer0Kerbal/MIR)
-9. ❗️ Closed issue [#43](https://github.com/zer0Kerbal/MIR/issues/43) in [zer0Kerbal/MIR](https://github.com/zer0Kerbal/MIR)
-10. ❗️ Closed issue [#4](https://github.com/zer0Kerbal/MIR/issues/4) in [zer0Kerbal/MIR](https://github.com/zer0Kerbal/MIR)
+1. 💪 Opened PR [#1](https://github.com/zer0Kerbal/SimpleSCAN/pull/1) in [zer0Kerbal/SimpleSCAN](https://github.com/zer0Kerbal/SimpleSCAN)
+2. ❗️ Closed issue [#30](https://github.com/zer0Kerbal/MIR/issues/30) in [zer0Kerbal/MIR](https://github.com/zer0Kerbal/MIR)
+3. ❗️ Closed issue [#13](https://github.com/zer0Kerbal/MIR/issues/13) in [zer0Kerbal/MIR](https://github.com/zer0Kerbal/MIR)
+4. ❗️ Closed issue [#11](https://github.com/zer0Kerbal/MIR/issues/11) in [zer0Kerbal/MIR](https://github.com/zer0Kerbal/MIR)
+5. ❗️ Closed issue [#10](https://github.com/zer0Kerbal/MIR/issues/10) in [zer0Kerbal/MIR](https://github.com/zer0Kerbal/MIR)
+6. ❗️ Closed issue [#5](https://github.com/zer0Kerbal/MIR/issues/5) in [zer0Kerbal/MIR](https://github.com/zer0Kerbal/MIR)
+7. ❗️ Closed issue [#9](https://github.com/zer0Kerbal/MIR/issues/9) in [zer0Kerbal/MIR](https://github.com/zer0Kerbal/MIR)
+8. ❗️ Closed issue [#8](https://github.com/zer0Kerbal/MIR/issues/8) in [zer0Kerbal/MIR](https://github.com/zer0Kerbal/MIR)
+9. ❗️ Closed issue [#6](https://github.com/zer0Kerbal/MIR/issues/6) in [zer0Kerbal/MIR](https://github.com/zer0Kerbal/MIR)
+10. ❗️ Closed issue [#43](https://github.com/zer0Kerbal/MIR/issues/43) in [zer0Kerbal/MIR](https://github.com/zer0Kerbal/MIR)
 <!--END_SECTION:activity-->
 
 </details
