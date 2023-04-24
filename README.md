@@ -64,16 +64,16 @@ From
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#6](https://github.com/zer0Kerbal/ISRUThanksButNoTanks/issues/6) in [zer0Kerbal/ISRUThanksButNoTanks](https://github.com/zer0Kerbal/ISRUThanksButNoTanks)
-2. ❗️ Opened issue [#10](https://github.com/zer0Kerbal/KerbalInventorySystemNoFun/issues/10) in [zer0Kerbal/KerbalInventorySystemNoFun](https://github.com/zer0Kerbal/KerbalInventorySystemNoFun)
-3. ❗️ Closed issue [#7](https://github.com/zer0Kerbal/KerbalInventorySystemNoFun/issues/7) in [zer0Kerbal/KerbalInventorySystemNoFun](https://github.com/zer0Kerbal/KerbalInventorySystemNoFun)
-4. 🎉 Merged PR [#8](https://github.com/zer0Kerbal/KerbalInventorySystemNoFun/pull/8) in [zer0Kerbal/KerbalInventorySystemNoFun](https://github.com/zer0Kerbal/KerbalInventorySystemNoFun)
-5. 💪 Opened PR [#8](https://github.com/zer0Kerbal/KerbalInventorySystemNoFun/pull/8) in [zer0Kerbal/KerbalInventorySystemNoFun](https://github.com/zer0Kerbal/KerbalInventorySystemNoFun)
-6. 🗣 Commented on [#51](https://github.com/zer0Kerbal/ScrapYard/issues/51) in [zer0Kerbal/ScrapYard](https://github.com/zer0Kerbal/ScrapYard)
-7. 🗣 Commented on [#51](https://github.com/zer0Kerbal/ScrapYard/issues/51) in [zer0Kerbal/ScrapYard](https://github.com/zer0Kerbal/ScrapYard)
-8. 🗣 Commented on [#81](https://github.com/zer0Kerbal/ScrapYard/issues/81) in [zer0Kerbal/ScrapYard](https://github.com/zer0Kerbal/ScrapYard)
-9. ❗️ Opened issue [#7](https://github.com/zer0Kerbal/KerbalInventorySystemNoFun/issues/7) in [zer0Kerbal/KerbalInventorySystemNoFun](https://github.com/zer0Kerbal/KerbalInventorySystemNoFun)
-10. ❌ Closed PR [#6](https://github.com/zer0Kerbal/KerbalInventorySystemNoFun/pull/6) in [zer0Kerbal/KerbalInventorySystemNoFun](https://github.com/zer0Kerbal/KerbalInventorySystemNoFun)
+1. ❗️ Opened issue [#9](https://github.com/zer0Kerbal/ISRUThanksButNoTanks/issues/9) in [zer0Kerbal/ISRUThanksButNoTanks](https://github.com/zer0Kerbal/ISRUThanksButNoTanks)
+2. ❗️ Closed issue [#6](https://github.com/zer0Kerbal/ISRUThanksButNoTanks/issues/6) in [zer0Kerbal/ISRUThanksButNoTanks](https://github.com/zer0Kerbal/ISRUThanksButNoTanks)
+3. ❗️ Closed issue [#7](https://github.com/zer0Kerbal/ISRUThanksButNoTanks/issues/7) in [zer0Kerbal/ISRUThanksButNoTanks](https://github.com/zer0Kerbal/ISRUThanksButNoTanks)
+4. 🎉 Merged PR [#8](https://github.com/zer0Kerbal/ISRUThanksButNoTanks/pull/8) in [zer0Kerbal/ISRUThanksButNoTanks](https://github.com/zer0Kerbal/ISRUThanksButNoTanks)
+5. 💪 Opened PR [#8](https://github.com/zer0Kerbal/ISRUThanksButNoTanks/pull/8) in [zer0Kerbal/ISRUThanksButNoTanks](https://github.com/zer0Kerbal/ISRUThanksButNoTanks)
+6. ❗️ Opened issue [#7](https://github.com/zer0Kerbal/ISRUThanksButNoTanks/issues/7) in [zer0Kerbal/ISRUThanksButNoTanks](https://github.com/zer0Kerbal/ISRUThanksButNoTanks)
+7. ❗️ Opened issue [#6](https://github.com/zer0Kerbal/ISRUThanksButNoTanks/issues/6) in [zer0Kerbal/ISRUThanksButNoTanks](https://github.com/zer0Kerbal/ISRUThanksButNoTanks)
+8. ❗️ Opened issue [#10](https://github.com/zer0Kerbal/KerbalInventorySystemNoFun/issues/10) in [zer0Kerbal/KerbalInventorySystemNoFun](https://github.com/zer0Kerbal/KerbalInventorySystemNoFun)
+9. ❗️ Closed issue [#7](https://github.com/zer0Kerbal/KerbalInventorySystemNoFun/issues/7) in [zer0Kerbal/KerbalInventorySystemNoFun](https://github.com/zer0Kerbal/KerbalInventorySystemNoFun)
+10. 🎉 Merged PR [#8](https://github.com/zer0Kerbal/KerbalInventorySystemNoFun/pull/8) in [zer0Kerbal/KerbalInventorySystemNoFun](https://github.com/zer0Kerbal/KerbalInventorySystemNoFun)
 <!--END_SECTION:activity-->
 
 </details
