@@ -64,16 +64,16 @@ From
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#68](https://github.com/zer0Kerbal/DropTanks/issues/68) in [zer0Kerbal/DropTanks](https://github.com/zer0Kerbal/DropTanks)
-2. ❗️ Opened issue [#67](https://github.com/zer0Kerbal/DropTanks/issues/67) in [zer0Kerbal/DropTanks](https://github.com/zer0Kerbal/DropTanks)
-3. ❗️ Closed issue [#61](https://github.com/zer0Kerbal/DropTanks/issues/61) in [zer0Kerbal/DropTanks](https://github.com/zer0Kerbal/DropTanks)
-4. ❗️ Closed issue [#60](https://github.com/zer0Kerbal/DropTanks/issues/60) in [zer0Kerbal/DropTanks](https://github.com/zer0Kerbal/DropTanks)
-5. 🎉 Merged PR [#65](https://github.com/zer0Kerbal/DropTanks/pull/65) in [zer0Kerbal/DropTanks](https://github.com/zer0Kerbal/DropTanks)
-6. 💪 Opened PR [#65](https://github.com/zer0Kerbal/DropTanks/pull/65) in [zer0Kerbal/DropTanks](https://github.com/zer0Kerbal/DropTanks)
-7. ❗️ Closed issue [#36](https://github.com/zer0Kerbal/KerbalHacksLtd/issues/36) in [zer0Kerbal/KerbalHacksLtd](https://github.com/zer0Kerbal/KerbalHacksLtd)
-8. ❗️ Closed issue [#35](https://github.com/zer0Kerbal/KerbalHacksLtd/issues/35) in [zer0Kerbal/KerbalHacksLtd](https://github.com/zer0Kerbal/KerbalHacksLtd)
-9. 🎉 Merged PR [#40](https://github.com/zer0Kerbal/KerbalHacksLtd/pull/40) in [zer0Kerbal/KerbalHacksLtd](https://github.com/zer0Kerbal/KerbalHacksLtd)
-10. 💪 Opened PR [#40](https://github.com/zer0Kerbal/KerbalHacksLtd/pull/40) in [zer0Kerbal/KerbalHacksLtd](https://github.com/zer0Kerbal/KerbalHacksLtd)
+1. ❗️ Opened issue [#69](https://github.com/zer0Kerbal/DropTanks/issues/69) in [zer0Kerbal/DropTanks](https://github.com/zer0Kerbal/DropTanks)
+2. ❗️ Opened issue [#68](https://github.com/zer0Kerbal/DropTanks/issues/68) in [zer0Kerbal/DropTanks](https://github.com/zer0Kerbal/DropTanks)
+3. ❗️ Opened issue [#67](https://github.com/zer0Kerbal/DropTanks/issues/67) in [zer0Kerbal/DropTanks](https://github.com/zer0Kerbal/DropTanks)
+4. ❗️ Closed issue [#61](https://github.com/zer0Kerbal/DropTanks/issues/61) in [zer0Kerbal/DropTanks](https://github.com/zer0Kerbal/DropTanks)
+5. ❗️ Closed issue [#60](https://github.com/zer0Kerbal/DropTanks/issues/60) in [zer0Kerbal/DropTanks](https://github.com/zer0Kerbal/DropTanks)
+6. 🎉 Merged PR [#65](https://github.com/zer0Kerbal/DropTanks/pull/65) in [zer0Kerbal/DropTanks](https://github.com/zer0Kerbal/DropTanks)
+7. 💪 Opened PR [#65](https://github.com/zer0Kerbal/DropTanks/pull/65) in [zer0Kerbal/DropTanks](https://github.com/zer0Kerbal/DropTanks)
+8. ❗️ Closed issue [#36](https://github.com/zer0Kerbal/KerbalHacksLtd/issues/36) in [zer0Kerbal/KerbalHacksLtd](https://github.com/zer0Kerbal/KerbalHacksLtd)
+9. ❗️ Closed issue [#35](https://github.com/zer0Kerbal/KerbalHacksLtd/issues/35) in [zer0Kerbal/KerbalHacksLtd](https://github.com/zer0Kerbal/KerbalHacksLtd)
+10. 🎉 Merged PR [#40](https://github.com/zer0Kerbal/KerbalHacksLtd/pull/40) in [zer0Kerbal/KerbalHacksLtd](https://github.com/zer0Kerbal/KerbalHacksLtd)
 <!--END_SECTION:activity-->
 
 </details
