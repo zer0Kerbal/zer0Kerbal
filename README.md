@@ -64,16 +64,16 @@ From
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#34](https://github.com/zer0Kerbal/MoneroFlags/pull/34) in [zer0Kerbal/MoneroFlags](https://github.com/zer0Kerbal/MoneroFlags)
-2. ❗️ Opened issue [#69](https://github.com/zer0Kerbal/DropTanks/issues/69) in [zer0Kerbal/DropTanks](https://github.com/zer0Kerbal/DropTanks)
-3. ❗️ Opened issue [#68](https://github.com/zer0Kerbal/DropTanks/issues/68) in [zer0Kerbal/DropTanks](https://github.com/zer0Kerbal/DropTanks)
-4. ❗️ Opened issue [#67](https://github.com/zer0Kerbal/DropTanks/issues/67) in [zer0Kerbal/DropTanks](https://github.com/zer0Kerbal/DropTanks)
-5. ❗️ Closed issue [#61](https://github.com/zer0Kerbal/DropTanks/issues/61) in [zer0Kerbal/DropTanks](https://github.com/zer0Kerbal/DropTanks)
-6. ❗️ Closed issue [#60](https://github.com/zer0Kerbal/DropTanks/issues/60) in [zer0Kerbal/DropTanks](https://github.com/zer0Kerbal/DropTanks)
-7. 🎉 Merged PR [#65](https://github.com/zer0Kerbal/DropTanks/pull/65) in [zer0Kerbal/DropTanks](https://github.com/zer0Kerbal/DropTanks)
-8. 💪 Opened PR [#65](https://github.com/zer0Kerbal/DropTanks/pull/65) in [zer0Kerbal/DropTanks](https://github.com/zer0Kerbal/DropTanks)
-9. ❗️ Closed issue [#36](https://github.com/zer0Kerbal/KerbalHacksLtd/issues/36) in [zer0Kerbal/KerbalHacksLtd](https://github.com/zer0Kerbal/KerbalHacksLtd)
-10. ❗️ Closed issue [#35](https://github.com/zer0Kerbal/KerbalHacksLtd/issues/35) in [zer0Kerbal/KerbalHacksLtd](https://github.com/zer0Kerbal/KerbalHacksLtd)
+1. ❗️ Opened issue [#17](https://github.com/zer0Kerbal/V2IndustriesLtd/issues/17) in [zer0Kerbal/V2IndustriesLtd](https://github.com/zer0Kerbal/V2IndustriesLtd)
+2. ❗️ Opened issue [#16](https://github.com/zer0Kerbal/V2IndustriesLtd/issues/16) in [zer0Kerbal/V2IndustriesLtd](https://github.com/zer0Kerbal/V2IndustriesLtd)
+3. ❗️ Opened issue [#15](https://github.com/zer0Kerbal/V2IndustriesLtd/issues/15) in [zer0Kerbal/V2IndustriesLtd](https://github.com/zer0Kerbal/V2IndustriesLtd)
+4. ❗️ Opened issue [#14](https://github.com/zer0Kerbal/V2IndustriesLtd/issues/14) in [zer0Kerbal/V2IndustriesLtd](https://github.com/zer0Kerbal/V2IndustriesLtd)
+5. ❗️ Opened issue [#13](https://github.com/zer0Kerbal/V2IndustriesLtd/issues/13) in [zer0Kerbal/V2IndustriesLtd](https://github.com/zer0Kerbal/V2IndustriesLtd)
+6. ❗️ Opened issue [#12](https://github.com/zer0Kerbal/V2IndustriesLtd/issues/12) in [zer0Kerbal/V2IndustriesLtd](https://github.com/zer0Kerbal/V2IndustriesLtd)
+7. ❗️ Opened issue [#11](https://github.com/zer0Kerbal/V2IndustriesLtd/issues/11) in [zer0Kerbal/V2IndustriesLtd](https://github.com/zer0Kerbal/V2IndustriesLtd)
+8. ❗️ Opened issue [#10](https://github.com/zer0Kerbal/V2IndustriesLtd/issues/10) in [zer0Kerbal/V2IndustriesLtd](https://github.com/zer0Kerbal/V2IndustriesLtd)
+9. ❗️ Opened issue [#9](https://github.com/zer0Kerbal/V2IndustriesLtd/issues/9) in [zer0Kerbal/V2IndustriesLtd](https://github.com/zer0Kerbal/V2IndustriesLtd)
+10. ❗️ Opened issue [#8](https://github.com/zer0Kerbal/V2IndustriesLtd/issues/8) in [zer0Kerbal/V2IndustriesLtd](https://github.com/zer0Kerbal/V2IndustriesLtd)
 <!--END_SECTION:activity-->
 
 </details
