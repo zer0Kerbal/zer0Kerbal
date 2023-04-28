@@ -64,16 +64,16 @@ From
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#24](https://github.com/zer0Kerbal/V2IndustriesLtd/issues/24) in [zer0Kerbal/V2IndustriesLtd](https://github.com/zer0Kerbal/V2IndustriesLtd)
-2. ❗️ Opened issue [#26](https://github.com/zer0Kerbal/V2IndustriesLtd/issues/26) in [zer0Kerbal/V2IndustriesLtd](https://github.com/zer0Kerbal/V2IndustriesLtd)
-3. ❗️ Opened issue [#25](https://github.com/zer0Kerbal/V2IndustriesLtd/issues/25) in [zer0Kerbal/V2IndustriesLtd](https://github.com/zer0Kerbal/V2IndustriesLtd)
-4. ❗️ Opened issue [#24](https://github.com/zer0Kerbal/V2IndustriesLtd/issues/24) in [zer0Kerbal/V2IndustriesLtd](https://github.com/zer0Kerbal/V2IndustriesLtd)
-5. ❗️ Opened issue [#23](https://github.com/zer0Kerbal/V2IndustriesLtd/issues/23) in [zer0Kerbal/V2IndustriesLtd](https://github.com/zer0Kerbal/V2IndustriesLtd)
-6. ❗️ Opened issue [#22](https://github.com/zer0Kerbal/V2IndustriesLtd/issues/22) in [zer0Kerbal/V2IndustriesLtd](https://github.com/zer0Kerbal/V2IndustriesLtd)
-7. ❗️ Opened issue [#21](https://github.com/zer0Kerbal/V2IndustriesLtd/issues/21) in [zer0Kerbal/V2IndustriesLtd](https://github.com/zer0Kerbal/V2IndustriesLtd)
-8. ❗️ Opened issue [#20](https://github.com/zer0Kerbal/V2IndustriesLtd/issues/20) in [zer0Kerbal/V2IndustriesLtd](https://github.com/zer0Kerbal/V2IndustriesLtd)
-9. ❗️ Opened issue [#19](https://github.com/zer0Kerbal/V2IndustriesLtd/issues/19) in [zer0Kerbal/V2IndustriesLtd](https://github.com/zer0Kerbal/V2IndustriesLtd)
-10. ❗️ Opened issue [#18](https://github.com/zer0Kerbal/V2IndustriesLtd/issues/18) in [zer0Kerbal/V2IndustriesLtd](https://github.com/zer0Kerbal/V2IndustriesLtd)
+1. 🗣 Commented on [#31](https://github.com/zer0Kerbal/HoneyBadger/issues/31) in [zer0Kerbal/HoneyBadger](https://github.com/zer0Kerbal/HoneyBadger)
+2. 🗣 Commented on [#15](https://github.com/zer0Kerbal/NearFutureRovers/issues/15) in [zer0Kerbal/NearFutureRovers](https://github.com/zer0Kerbal/NearFutureRovers)
+3. ❗️ Closed issue [#24](https://github.com/zer0Kerbal/V2IndustriesLtd/issues/24) in [zer0Kerbal/V2IndustriesLtd](https://github.com/zer0Kerbal/V2IndustriesLtd)
+4. ❗️ Opened issue [#26](https://github.com/zer0Kerbal/V2IndustriesLtd/issues/26) in [zer0Kerbal/V2IndustriesLtd](https://github.com/zer0Kerbal/V2IndustriesLtd)
+5. ❗️ Opened issue [#25](https://github.com/zer0Kerbal/V2IndustriesLtd/issues/25) in [zer0Kerbal/V2IndustriesLtd](https://github.com/zer0Kerbal/V2IndustriesLtd)
+6. ❗️ Opened issue [#24](https://github.com/zer0Kerbal/V2IndustriesLtd/issues/24) in [zer0Kerbal/V2IndustriesLtd](https://github.com/zer0Kerbal/V2IndustriesLtd)
+7. ❗️ Opened issue [#23](https://github.com/zer0Kerbal/V2IndustriesLtd/issues/23) in [zer0Kerbal/V2IndustriesLtd](https://github.com/zer0Kerbal/V2IndustriesLtd)
+8. ❗️ Opened issue [#22](https://github.com/zer0Kerbal/V2IndustriesLtd/issues/22) in [zer0Kerbal/V2IndustriesLtd](https://github.com/zer0Kerbal/V2IndustriesLtd)
+9. ❗️ Opened issue [#21](https://github.com/zer0Kerbal/V2IndustriesLtd/issues/21) in [zer0Kerbal/V2IndustriesLtd](https://github.com/zer0Kerbal/V2IndustriesLtd)
+10. ❗️ Opened issue [#20](https://github.com/zer0Kerbal/V2IndustriesLtd/issues/20) in [zer0Kerbal/V2IndustriesLtd](https://github.com/zer0Kerbal/V2IndustriesLtd)
 <!--END_SECTION:activity-->
 
 </details
