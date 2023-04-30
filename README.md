@@ -64,16 +64,16 @@ From
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#37](https://github.com/zer0Kerbal/ExceptionDetector/issues/37) in [zer0Kerbal/ExceptionDetector](https://github.com/zer0Kerbal/ExceptionDetector)
-2. ❗️ Opened issue [#36](https://github.com/zer0Kerbal/ExceptionDetector/issues/36) in [zer0Kerbal/ExceptionDetector](https://github.com/zer0Kerbal/ExceptionDetector)
-3. ❗️ Opened issue [#35](https://github.com/zer0Kerbal/ExceptionDetector/issues/35) in [zer0Kerbal/ExceptionDetector](https://github.com/zer0Kerbal/ExceptionDetector)
-4. ❗️ Opened issue [#34](https://github.com/zer0Kerbal/ExceptionDetector/issues/34) in [zer0Kerbal/ExceptionDetector](https://github.com/zer0Kerbal/ExceptionDetector)
-5. ❗️ Opened issue [#33](https://github.com/zer0Kerbal/ExceptionDetector/issues/33) in [zer0Kerbal/ExceptionDetector](https://github.com/zer0Kerbal/ExceptionDetector)
-6. ❗️ Closed issue [#9](https://github.com/zer0Kerbal/NearFutureRovers/issues/9) in [zer0Kerbal/NearFutureRovers](https://github.com/zer0Kerbal/NearFutureRovers)
-7. ❗️ Closed issue [#12](https://github.com/zer0Kerbal/NearFutureRovers/issues/12) in [zer0Kerbal/NearFutureRovers](https://github.com/zer0Kerbal/NearFutureRovers)
-8. ❗️ Closed issue [#11](https://github.com/zer0Kerbal/NearFutureRovers/issues/11) in [zer0Kerbal/NearFutureRovers](https://github.com/zer0Kerbal/NearFutureRovers)
-9. ❗️ Closed issue [#10](https://github.com/zer0Kerbal/NearFutureRovers/issues/10) in [zer0Kerbal/NearFutureRovers](https://github.com/zer0Kerbal/NearFutureRovers)
-10. ❗️ Closed issue [#30](https://github.com/zer0Kerbal/NearFutureRovers/issues/30) in [zer0Kerbal/NearFutureRovers](https://github.com/zer0Kerbal/NearFutureRovers)
+1. ❗️ Closed issue [#35](https://github.com/zer0Kerbal/ExceptionDetector/issues/35) in [zer0Kerbal/ExceptionDetector](https://github.com/zer0Kerbal/ExceptionDetector)
+2. ❗️ Closed issue [#34](https://github.com/zer0Kerbal/ExceptionDetector/issues/34) in [zer0Kerbal/ExceptionDetector](https://github.com/zer0Kerbal/ExceptionDetector)
+3. ❗️ Closed issue [#13](https://github.com/zer0Kerbal/ExceptionDetector/issues/13) in [zer0Kerbal/ExceptionDetector](https://github.com/zer0Kerbal/ExceptionDetector)
+4. ❗️ Closed issue [#29](https://github.com/zer0Kerbal/ExceptionDetector/issues/29) in [zer0Kerbal/ExceptionDetector](https://github.com/zer0Kerbal/ExceptionDetector)
+5. 🎉 Merged PR [#38](https://github.com/zer0Kerbal/ExceptionDetector/pull/38) in [zer0Kerbal/ExceptionDetector](https://github.com/zer0Kerbal/ExceptionDetector)
+6. 💪 Opened PR [#38](https://github.com/zer0Kerbal/ExceptionDetector/pull/38) in [zer0Kerbal/ExceptionDetector](https://github.com/zer0Kerbal/ExceptionDetector)
+7. ❗️ Opened issue [#37](https://github.com/zer0Kerbal/ExceptionDetector/issues/37) in [zer0Kerbal/ExceptionDetector](https://github.com/zer0Kerbal/ExceptionDetector)
+8. ❗️ Opened issue [#36](https://github.com/zer0Kerbal/ExceptionDetector/issues/36) in [zer0Kerbal/ExceptionDetector](https://github.com/zer0Kerbal/ExceptionDetector)
+9. ❗️ Opened issue [#35](https://github.com/zer0Kerbal/ExceptionDetector/issues/35) in [zer0Kerbal/ExceptionDetector](https://github.com/zer0Kerbal/ExceptionDetector)
+10. ❗️ Opened issue [#34](https://github.com/zer0Kerbal/ExceptionDetector/issues/34) in [zer0Kerbal/ExceptionDetector](https://github.com/zer0Kerbal/ExceptionDetector)
 <!--END_SECTION:activity-->
 
 </details
