@@ -64,16 +64,16 @@ From
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#50](https://github.com/zer0Kerbal/OxidizerTank/issues/50) in [zer0Kerbal/OxidizerTank](https://github.com/zer0Kerbal/OxidizerTank)
-2. ❗️ Opened issue [#49](https://github.com/zer0Kerbal/OxidizerTank/issues/49) in [zer0Kerbal/OxidizerTank](https://github.com/zer0Kerbal/OxidizerTank)
-3. ❗️ Opened issue [#48](https://github.com/zer0Kerbal/OxidizerTank/issues/48) in [zer0Kerbal/OxidizerTank](https://github.com/zer0Kerbal/OxidizerTank)
-4. 🎉 Merged PR [#47](https://github.com/zer0Kerbal/OxidizerTank/pull/47) in [zer0Kerbal/OxidizerTank](https://github.com/zer0Kerbal/OxidizerTank)
-5. 🎉 Merged PR [#94](https://github.com/zer0Kerbal/OhScrap/pull/94) in [zer0Kerbal/OhScrap](https://github.com/zer0Kerbal/OhScrap)
-6. 🎉 Merged PR [#93](https://github.com/zer0Kerbal/OhScrap/pull/93) in [zer0Kerbal/OhScrap](https://github.com/zer0Kerbal/OhScrap)
-7. 🎉 Merged PR [#89](https://github.com/zer0Kerbal/OhScrap/pull/89) in [zer0Kerbal/OhScrap](https://github.com/zer0Kerbal/OhScrap)
-8. 🎉 Merged PR [#88](https://github.com/zer0Kerbal/OhScrap/pull/88) in [zer0Kerbal/OhScrap](https://github.com/zer0Kerbal/OhScrap)
-9. 🗣 Commented on [#92](https://github.com/zer0Kerbal/OhScrap/issues/92) in [zer0Kerbal/OhScrap](https://github.com/zer0Kerbal/OhScrap)
-10. ❗️ Closed issue [#35](https://github.com/zer0Kerbal/ExceptionDetector/issues/35) in [zer0Kerbal/ExceptionDetector](https://github.com/zer0Kerbal/ExceptionDetector)
+1. ❗️ Closed issue [#45](https://github.com/zer0Kerbal/OxidizerTank/issues/45) in [zer0Kerbal/OxidizerTank](https://github.com/zer0Kerbal/OxidizerTank)
+2. ❗️ Closed issue [#48](https://github.com/zer0Kerbal/OxidizerTank/issues/48) in [zer0Kerbal/OxidizerTank](https://github.com/zer0Kerbal/OxidizerTank)
+3. ❗️ Closed issue [#21](https://github.com/zer0Kerbal/OxidizerTank/issues/21) in [zer0Kerbal/OxidizerTank](https://github.com/zer0Kerbal/OxidizerTank)
+4. ❗️ Closed issue [#43](https://github.com/zer0Kerbal/OxidizerTank/issues/43) in [zer0Kerbal/OxidizerTank](https://github.com/zer0Kerbal/OxidizerTank)
+5. ❗️ Closed issue [#42](https://github.com/zer0Kerbal/OxidizerTank/issues/42) in [zer0Kerbal/OxidizerTank](https://github.com/zer0Kerbal/OxidizerTank)
+6. ❗️ Closed issue [#19](https://github.com/zer0Kerbal/OxidizerTank/issues/19) in [zer0Kerbal/OxidizerTank](https://github.com/zer0Kerbal/OxidizerTank)
+7. 🎉 Merged PR [#51](https://github.com/zer0Kerbal/OxidizerTank/pull/51) in [zer0Kerbal/OxidizerTank](https://github.com/zer0Kerbal/OxidizerTank)
+8. 💪 Opened PR [#51](https://github.com/zer0Kerbal/OxidizerTank/pull/51) in [zer0Kerbal/OxidizerTank](https://github.com/zer0Kerbal/OxidizerTank)
+9. 🗣 Commented on [#94](https://github.com/zer0Kerbal/OhScrap/issues/94) in [zer0Kerbal/OhScrap](https://github.com/zer0Kerbal/OhScrap)
+10. ❗️ Opened issue [#50](https://github.com/zer0Kerbal/OxidizerTank/issues/50) in [zer0Kerbal/OxidizerTank](https://github.com/zer0Kerbal/OxidizerTank)
 <!--END_SECTION:activity-->
 
 </details
