@@ -64,16 +64,16 @@ From
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#11](https://github.com/zer0Kerbal/Proton/issues/11) in [zer0Kerbal/Proton](https://github.com/zer0Kerbal/Proton)
-2. 🎉 Merged PR [#35](https://github.com/zer0Kerbal/Proton/pull/35) in [zer0Kerbal/Proton](https://github.com/zer0Kerbal/Proton)
-3. 💪 Opened PR [#35](https://github.com/zer0Kerbal/Proton/pull/35) in [zer0Kerbal/Proton](https://github.com/zer0Kerbal/Proton)
-4. ❗️ Opened issue [#34](https://github.com/zer0Kerbal/Proton/issues/34) in [zer0Kerbal/Proton](https://github.com/zer0Kerbal/Proton)
-5. ❗️ Opened issue [#33](https://github.com/zer0Kerbal/Proton/issues/33) in [zer0Kerbal/Proton](https://github.com/zer0Kerbal/Proton)
-6. ❗️ Opened issue [#32](https://github.com/zer0Kerbal/Proton/issues/32) in [zer0Kerbal/Proton](https://github.com/zer0Kerbal/Proton)
-7. ❗️ Opened issue [#31](https://github.com/zer0Kerbal/Proton/issues/31) in [zer0Kerbal/Proton](https://github.com/zer0Kerbal/Proton)
-8. ❗️ Opened issue [#30](https://github.com/zer0Kerbal/Proton/issues/30) in [zer0Kerbal/Proton](https://github.com/zer0Kerbal/Proton)
-9. ❗️ Opened issue [#29](https://github.com/zer0Kerbal/Proton/issues/29) in [zer0Kerbal/Proton](https://github.com/zer0Kerbal/Proton)
-10. ❗️ Opened issue [#28](https://github.com/zer0Kerbal/Proton/issues/28) in [zer0Kerbal/Proton](https://github.com/zer0Kerbal/Proton)
+1. ❗️ Closed issue [#40](https://github.com/zer0Kerbal/ExceptionDetector/issues/40) in [zer0Kerbal/ExceptionDetector](https://github.com/zer0Kerbal/ExceptionDetector)
+2. 🗣 Commented on [#40](https://github.com/zer0Kerbal/ExceptionDetector/issues/40) in [zer0Kerbal/ExceptionDetector](https://github.com/zer0Kerbal/ExceptionDetector)
+3. 🗣 Commented on [#40](https://github.com/zer0Kerbal/ExceptionDetector/issues/40) in [zer0Kerbal/ExceptionDetector](https://github.com/zer0Kerbal/ExceptionDetector)
+4. 🗣 Commented on [#40](https://github.com/zer0Kerbal/ExceptionDetector/issues/40) in [zer0Kerbal/ExceptionDetector](https://github.com/zer0Kerbal/ExceptionDetector)
+5. ❗️ Closed issue [#11](https://github.com/zer0Kerbal/Proton/issues/11) in [zer0Kerbal/Proton](https://github.com/zer0Kerbal/Proton)
+6. 🎉 Merged PR [#35](https://github.com/zer0Kerbal/Proton/pull/35) in [zer0Kerbal/Proton](https://github.com/zer0Kerbal/Proton)
+7. 💪 Opened PR [#35](https://github.com/zer0Kerbal/Proton/pull/35) in [zer0Kerbal/Proton](https://github.com/zer0Kerbal/Proton)
+8. ❗️ Opened issue [#34](https://github.com/zer0Kerbal/Proton/issues/34) in [zer0Kerbal/Proton](https://github.com/zer0Kerbal/Proton)
+9. ❗️ Opened issue [#33](https://github.com/zer0Kerbal/Proton/issues/33) in [zer0Kerbal/Proton](https://github.com/zer0Kerbal/Proton)
+10. ❗️ Opened issue [#32](https://github.com/zer0Kerbal/Proton/issues/32) in [zer0Kerbal/Proton](https://github.com/zer0Kerbal/Proton)
 <!--END_SECTION:activity-->
 
 </details
