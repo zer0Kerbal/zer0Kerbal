@@ -64,16 +64,16 @@ From
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#12](https://github.com/zer0Kerbal/Proton/issues/12) in [zer0Kerbal/Proton](https://github.com/zer0Kerbal/Proton)
-2. 🎉 Merged PR [#37](https://github.com/zer0Kerbal/Proton/pull/37) in [zer0Kerbal/Proton](https://github.com/zer0Kerbal/Proton)
-3. 💪 Opened PR [#37](https://github.com/zer0Kerbal/Proton/pull/37) in [zer0Kerbal/Proton](https://github.com/zer0Kerbal/Proton)
-4. 🗣 Commented on [#95](https://github.com/zer0Kerbal/OhScrap/issues/95) in [zer0Kerbal/OhScrap](https://github.com/zer0Kerbal/OhScrap)
-5. 🗣 Commented on [#90](https://github.com/zer0Kerbal/MiniSampleReturnCapsule/issues/90) in [zer0Kerbal/MiniSampleReturnCapsule](https://github.com/zer0Kerbal/MiniSampleReturnCapsule)
-6. ❗️ Opened issue [#90](https://github.com/zer0Kerbal/MiniSampleReturnCapsule/issues/90) in [zer0Kerbal/MiniSampleReturnCapsule](https://github.com/zer0Kerbal/MiniSampleReturnCapsule)
-7. ❗️ Closed issue [#40](https://github.com/zer0Kerbal/ExceptionDetector/issues/40) in [zer0Kerbal/ExceptionDetector](https://github.com/zer0Kerbal/ExceptionDetector)
-8. 🗣 Commented on [#40](https://github.com/zer0Kerbal/ExceptionDetector/issues/40) in [zer0Kerbal/ExceptionDetector](https://github.com/zer0Kerbal/ExceptionDetector)
-9. 🗣 Commented on [#40](https://github.com/zer0Kerbal/ExceptionDetector/issues/40) in [zer0Kerbal/ExceptionDetector](https://github.com/zer0Kerbal/ExceptionDetector)
-10. 🗣 Commented on [#40](https://github.com/zer0Kerbal/ExceptionDetector/issues/40) in [zer0Kerbal/ExceptionDetector](https://github.com/zer0Kerbal/ExceptionDetector)
+1. ❗️ Closed issue [#7](https://github.com/zer0Kerbal/Proton/issues/7) in [zer0Kerbal/Proton](https://github.com/zer0Kerbal/Proton)
+2. ❗️ Closed issue [#14](https://github.com/zer0Kerbal/Proton/issues/14) in [zer0Kerbal/Proton](https://github.com/zer0Kerbal/Proton)
+3. 🎉 Merged PR [#39](https://github.com/zer0Kerbal/Proton/pull/39) in [zer0Kerbal/Proton](https://github.com/zer0Kerbal/Proton)
+4. 💪 Opened PR [#39](https://github.com/zer0Kerbal/Proton/pull/39) in [zer0Kerbal/Proton](https://github.com/zer0Kerbal/Proton)
+5. ❗️ Closed issue [#13](https://github.com/zer0Kerbal/Proton/issues/13) in [zer0Kerbal/Proton](https://github.com/zer0Kerbal/Proton)
+6. 🎉 Merged PR [#38](https://github.com/zer0Kerbal/Proton/pull/38) in [zer0Kerbal/Proton](https://github.com/zer0Kerbal/Proton)
+7. 💪 Opened PR [#38](https://github.com/zer0Kerbal/Proton/pull/38) in [zer0Kerbal/Proton](https://github.com/zer0Kerbal/Proton)
+8. ❗️ Closed issue [#12](https://github.com/zer0Kerbal/Proton/issues/12) in [zer0Kerbal/Proton](https://github.com/zer0Kerbal/Proton)
+9. 🎉 Merged PR [#37](https://github.com/zer0Kerbal/Proton/pull/37) in [zer0Kerbal/Proton](https://github.com/zer0Kerbal/Proton)
+10. 💪 Opened PR [#37](https://github.com/zer0Kerbal/Proton/pull/37) in [zer0Kerbal/Proton](https://github.com/zer0Kerbal/Proton)
 <!--END_SECTION:activity-->
 
 </details
