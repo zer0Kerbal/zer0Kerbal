@@ -64,16 +64,16 @@ From
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#7](https://github.com/zer0Kerbal/Proton/issues/7) in [zer0Kerbal/Proton](https://github.com/zer0Kerbal/Proton)
-2. ❗️ Closed issue [#14](https://github.com/zer0Kerbal/Proton/issues/14) in [zer0Kerbal/Proton](https://github.com/zer0Kerbal/Proton)
-3. 🎉 Merged PR [#39](https://github.com/zer0Kerbal/Proton/pull/39) in [zer0Kerbal/Proton](https://github.com/zer0Kerbal/Proton)
-4. 💪 Opened PR [#39](https://github.com/zer0Kerbal/Proton/pull/39) in [zer0Kerbal/Proton](https://github.com/zer0Kerbal/Proton)
-5. ❗️ Closed issue [#13](https://github.com/zer0Kerbal/Proton/issues/13) in [zer0Kerbal/Proton](https://github.com/zer0Kerbal/Proton)
-6. 🎉 Merged PR [#38](https://github.com/zer0Kerbal/Proton/pull/38) in [zer0Kerbal/Proton](https://github.com/zer0Kerbal/Proton)
-7. 💪 Opened PR [#38](https://github.com/zer0Kerbal/Proton/pull/38) in [zer0Kerbal/Proton](https://github.com/zer0Kerbal/Proton)
-8. ❗️ Closed issue [#12](https://github.com/zer0Kerbal/Proton/issues/12) in [zer0Kerbal/Proton](https://github.com/zer0Kerbal/Proton)
-9. 🎉 Merged PR [#37](https://github.com/zer0Kerbal/Proton/pull/37) in [zer0Kerbal/Proton](https://github.com/zer0Kerbal/Proton)
-10. 💪 Opened PR [#37](https://github.com/zer0Kerbal/Proton/pull/37) in [zer0Kerbal/Proton](https://github.com/zer0Kerbal/Proton)
+1. ❗️ Opened issue [#44](https://github.com/zer0Kerbal/Proton/issues/44) in [zer0Kerbal/Proton](https://github.com/zer0Kerbal/Proton)
+2. ❗️ Opened issue [#43](https://github.com/zer0Kerbal/Proton/issues/43) in [zer0Kerbal/Proton](https://github.com/zer0Kerbal/Proton)
+3. ❗️ Closed issue [#4](https://github.com/zer0Kerbal/Proton/issues/4) in [zer0Kerbal/Proton](https://github.com/zer0Kerbal/Proton)
+4. ❗️ Closed issue [#3](https://github.com/zer0Kerbal/Proton/issues/3) in [zer0Kerbal/Proton](https://github.com/zer0Kerbal/Proton)
+5. ❗️ Closed issue [#2](https://github.com/zer0Kerbal/Proton/issues/2) in [zer0Kerbal/Proton](https://github.com/zer0Kerbal/Proton)
+6. ❗️ Closed issue [#1](https://github.com/zer0Kerbal/Proton/issues/1) in [zer0Kerbal/Proton](https://github.com/zer0Kerbal/Proton)
+7. ❗️ Closed issue [#10](https://github.com/zer0Kerbal/Proton/issues/10) in [zer0Kerbal/Proton](https://github.com/zer0Kerbal/Proton)
+8. ❗️ Closed issue [#6](https://github.com/zer0Kerbal/Proton/issues/6) in [zer0Kerbal/Proton](https://github.com/zer0Kerbal/Proton)
+9. ❗️ Closed issue [#5](https://github.com/zer0Kerbal/Proton/issues/5) in [zer0Kerbal/Proton](https://github.com/zer0Kerbal/Proton)
+10. ❗️ Closed issue [#8](https://github.com/zer0Kerbal/Proton/issues/8) in [zer0Kerbal/Proton](https://github.com/zer0Kerbal/Proton)
 <!--END_SECTION:activity-->
 
 </details
