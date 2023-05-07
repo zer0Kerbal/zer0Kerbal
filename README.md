@@ -64,16 +64,16 @@ From
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#34](https://github.com/zer0Kerbal/SpaceShuttleSystem/issues/34) in [zer0Kerbal/SpaceShuttleSystem](https://github.com/zer0Kerbal/SpaceShuttleSystem)
-2. 🎉 Merged PR [#40](https://github.com/zer0Kerbal/SpaceShuttleSystem/pull/40) in [zer0Kerbal/SpaceShuttleSystem](https://github.com/zer0Kerbal/SpaceShuttleSystem)
-3. 💪 Opened PR [#40](https://github.com/zer0Kerbal/SpaceShuttleSystem/pull/40) in [zer0Kerbal/SpaceShuttleSystem](https://github.com/zer0Kerbal/SpaceShuttleSystem)
-4. ❗️ Opened issue [#39](https://github.com/zer0Kerbal/SpaceShuttleSystem/issues/39) in [zer0Kerbal/SpaceShuttleSystem](https://github.com/zer0Kerbal/SpaceShuttleSystem)
-5. ❗️ Opened issue [#47](https://github.com/zer0Kerbal/ExceptionDetector/issues/47) in [zer0Kerbal/ExceptionDetector](https://github.com/zer0Kerbal/ExceptionDetector)
-6. 🗣 Commented on [#44](https://github.com/zer0Kerbal/ExceptionDetector/issues/44) in [zer0Kerbal/ExceptionDetector](https://github.com/zer0Kerbal/ExceptionDetector)
-7. 🗣 Commented on [#46](https://github.com/zer0Kerbal/ExceptionDetector/issues/46) in [zer0Kerbal/ExceptionDetector](https://github.com/zer0Kerbal/ExceptionDetector)
-8. ❗️ Opened issue [#46](https://github.com/zer0Kerbal/ExceptionDetector/issues/46) in [zer0Kerbal/ExceptionDetector](https://github.com/zer0Kerbal/ExceptionDetector)
-9. ❗️ Opened issue [#35](https://github.com/zer0Kerbal/Biomatic/issues/35) in [zer0Kerbal/Biomatic](https://github.com/zer0Kerbal/Biomatic)
-10. ❗️ Opened issue [#34](https://github.com/zer0Kerbal/Biomatic/issues/34) in [zer0Kerbal/Biomatic](https://github.com/zer0Kerbal/Biomatic)
+1. 💪 Opened PR [#43](https://github.com/zer0Kerbal/SpaceShuttleSystem/pull/43) in [zer0Kerbal/SpaceShuttleSystem](https://github.com/zer0Kerbal/SpaceShuttleSystem)
+2. ❗️ Closed issue [#36](https://github.com/zer0Kerbal/SpaceShuttleSystem/issues/36) in [zer0Kerbal/SpaceShuttleSystem](https://github.com/zer0Kerbal/SpaceShuttleSystem)
+3. 🎉 Merged PR [#42](https://github.com/zer0Kerbal/SpaceShuttleSystem/pull/42) in [zer0Kerbal/SpaceShuttleSystem](https://github.com/zer0Kerbal/SpaceShuttleSystem)
+4. 💪 Opened PR [#42](https://github.com/zer0Kerbal/SpaceShuttleSystem/pull/42) in [zer0Kerbal/SpaceShuttleSystem](https://github.com/zer0Kerbal/SpaceShuttleSystem)
+5. ❗️ Closed issue [#35](https://github.com/zer0Kerbal/SpaceShuttleSystem/issues/35) in [zer0Kerbal/SpaceShuttleSystem](https://github.com/zer0Kerbal/SpaceShuttleSystem)
+6. 🎉 Merged PR [#41](https://github.com/zer0Kerbal/SpaceShuttleSystem/pull/41) in [zer0Kerbal/SpaceShuttleSystem](https://github.com/zer0Kerbal/SpaceShuttleSystem)
+7. 💪 Opened PR [#41](https://github.com/zer0Kerbal/SpaceShuttleSystem/pull/41) in [zer0Kerbal/SpaceShuttleSystem](https://github.com/zer0Kerbal/SpaceShuttleSystem)
+8. ❗️ Closed issue [#34](https://github.com/zer0Kerbal/SpaceShuttleSystem/issues/34) in [zer0Kerbal/SpaceShuttleSystem](https://github.com/zer0Kerbal/SpaceShuttleSystem)
+9. 🎉 Merged PR [#40](https://github.com/zer0Kerbal/SpaceShuttleSystem/pull/40) in [zer0Kerbal/SpaceShuttleSystem](https://github.com/zer0Kerbal/SpaceShuttleSystem)
+10. 💪 Opened PR [#40](https://github.com/zer0Kerbal/SpaceShuttleSystem/pull/40) in [zer0Kerbal/SpaceShuttleSystem](https://github.com/zer0Kerbal/SpaceShuttleSystem)
 <!--END_SECTION:activity-->
 
 </details
