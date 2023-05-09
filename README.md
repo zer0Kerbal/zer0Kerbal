@@ -64,16 +64,16 @@ From
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#38](https://github.com/zer0Kerbal/SafetyWall/issues/38) in [zer0Kerbal/SafetyWall](https://github.com/zer0Kerbal/SafetyWall)
-2. ❗️ Closed issue [#15](https://github.com/zer0Kerbal/SafetyWall/issues/15) in [zer0Kerbal/SafetyWall](https://github.com/zer0Kerbal/SafetyWall)
-3. ❗️ Closed issue [#14](https://github.com/zer0Kerbal/SafetyWall/issues/14) in [zer0Kerbal/SafetyWall](https://github.com/zer0Kerbal/SafetyWall)
-4. ❗️ Closed issue [#21](https://github.com/zer0Kerbal/SafetyWall/issues/21) in [zer0Kerbal/SafetyWall](https://github.com/zer0Kerbal/SafetyWall)
-5. 🎉 Merged PR [#41](https://github.com/zer0Kerbal/SafetyWall/pull/41) in [zer0Kerbal/SafetyWall](https://github.com/zer0Kerbal/SafetyWall)
-6. 💪 Opened PR [#41](https://github.com/zer0Kerbal/SafetyWall/pull/41) in [zer0Kerbal/SafetyWall](https://github.com/zer0Kerbal/SafetyWall)
-7. ❗️ Opened issue [#40](https://github.com/zer0Kerbal/SafetyWall/issues/40) in [zer0Kerbal/SafetyWall](https://github.com/zer0Kerbal/SafetyWall)
-8. ❗️ Opened issue [#39](https://github.com/zer0Kerbal/SafetyWall/issues/39) in [zer0Kerbal/SafetyWall](https://github.com/zer0Kerbal/SafetyWall)
-9. ❗️ Opened issue [#38](https://github.com/zer0Kerbal/SafetyWall/issues/38) in [zer0Kerbal/SafetyWall](https://github.com/zer0Kerbal/SafetyWall)
-10. 🎉 Merged PR [#37](https://github.com/zer0Kerbal/SafetyWall/pull/37) in [zer0Kerbal/SafetyWall](https://github.com/zer0Kerbal/SafetyWall)
+1. 🎉 Merged PR [#43](https://github.com/zer0Kerbal/SafetyWall/pull/43) in [zer0Kerbal/SafetyWall](https://github.com/zer0Kerbal/SafetyWall)
+2. 🗣 Commented on [#43](https://github.com/zer0Kerbal/SafetyWall/issues/43) in [zer0Kerbal/SafetyWall](https://github.com/zer0Kerbal/SafetyWall)
+3. ❗️ Closed issue [#38](https://github.com/zer0Kerbal/SafetyWall/issues/38) in [zer0Kerbal/SafetyWall](https://github.com/zer0Kerbal/SafetyWall)
+4. ❗️ Closed issue [#15](https://github.com/zer0Kerbal/SafetyWall/issues/15) in [zer0Kerbal/SafetyWall](https://github.com/zer0Kerbal/SafetyWall)
+5. ❗️ Closed issue [#14](https://github.com/zer0Kerbal/SafetyWall/issues/14) in [zer0Kerbal/SafetyWall](https://github.com/zer0Kerbal/SafetyWall)
+6. ❗️ Closed issue [#21](https://github.com/zer0Kerbal/SafetyWall/issues/21) in [zer0Kerbal/SafetyWall](https://github.com/zer0Kerbal/SafetyWall)
+7. 🎉 Merged PR [#41](https://github.com/zer0Kerbal/SafetyWall/pull/41) in [zer0Kerbal/SafetyWall](https://github.com/zer0Kerbal/SafetyWall)
+8. 💪 Opened PR [#41](https://github.com/zer0Kerbal/SafetyWall/pull/41) in [zer0Kerbal/SafetyWall](https://github.com/zer0Kerbal/SafetyWall)
+9. ❗️ Opened issue [#40](https://github.com/zer0Kerbal/SafetyWall/issues/40) in [zer0Kerbal/SafetyWall](https://github.com/zer0Kerbal/SafetyWall)
+10. ❗️ Opened issue [#39](https://github.com/zer0Kerbal/SafetyWall/issues/39) in [zer0Kerbal/SafetyWall](https://github.com/zer0Kerbal/SafetyWall)
 <!--END_SECTION:activity-->
 
 </details
