@@ -64,16 +64,16 @@ From
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#58](https://github.com/zer0Kerbal/OxidizerTank/pull/58) in [zer0Kerbal/OxidizerTank](https://github.com/zer0Kerbal/OxidizerTank)
-2. 🗣 Commented on [#58](https://github.com/zer0Kerbal/OxidizerTank/issues/58) in [zer0Kerbal/OxidizerTank](https://github.com/zer0Kerbal/OxidizerTank)
-3. 🗣 Commented on [#58](https://github.com/zer0Kerbal/OxidizerTank/issues/58) in [zer0Kerbal/OxidizerTank](https://github.com/zer0Kerbal/OxidizerTank)
-4. ❗️ Closed issue [#48](https://github.com/zer0Kerbal/SpaceYCorp/issues/48) in [zer0Kerbal/SpaceYCorp](https://github.com/zer0Kerbal/SpaceYCorp)
-5. ❗️ Closed issue [#46](https://github.com/zer0Kerbal/SpaceYCorp/issues/46) in [zer0Kerbal/SpaceYCorp](https://github.com/zer0Kerbal/SpaceYCorp)
-6. ❗️ Closed issue [#45](https://github.com/zer0Kerbal/SpaceYCorp/issues/45) in [zer0Kerbal/SpaceYCorp](https://github.com/zer0Kerbal/SpaceYCorp)
-7. 🎉 Merged PR [#51](https://github.com/zer0Kerbal/SpaceYCorp/pull/51) in [zer0Kerbal/SpaceYCorp](https://github.com/zer0Kerbal/SpaceYCorp)
-8. 💪 Opened PR [#51](https://github.com/zer0Kerbal/SpaceYCorp/pull/51) in [zer0Kerbal/SpaceYCorp](https://github.com/zer0Kerbal/SpaceYCorp)
-9. ❗️ Reopened issue [#39](https://github.com/zer0Kerbal/SpaceYLifters/issues/39) in [zer0Kerbal/SpaceYLifters](https://github.com/zer0Kerbal/SpaceYLifters)
-10. ❗️ Closed issue [#104](https://github.com/zer0Kerbal/SpaceYLifters/issues/104) in [zer0Kerbal/SpaceYLifters](https://github.com/zer0Kerbal/SpaceYLifters)
+1. ❗️ Opened issue [#102](https://github.com/zer0Kerbal/SpaceYExpanded/issues/102) in [zer0Kerbal/SpaceYExpanded](https://github.com/zer0Kerbal/SpaceYExpanded)
+2. ❗️ Opened issue [#101](https://github.com/zer0Kerbal/SpaceYExpanded/issues/101) in [zer0Kerbal/SpaceYExpanded](https://github.com/zer0Kerbal/SpaceYExpanded)
+3. 🎉 Merged PR [#58](https://github.com/zer0Kerbal/OxidizerTank/pull/58) in [zer0Kerbal/OxidizerTank](https://github.com/zer0Kerbal/OxidizerTank)
+4. 🗣 Commented on [#58](https://github.com/zer0Kerbal/OxidizerTank/issues/58) in [zer0Kerbal/OxidizerTank](https://github.com/zer0Kerbal/OxidizerTank)
+5. 🗣 Commented on [#58](https://github.com/zer0Kerbal/OxidizerTank/issues/58) in [zer0Kerbal/OxidizerTank](https://github.com/zer0Kerbal/OxidizerTank)
+6. ❗️ Closed issue [#48](https://github.com/zer0Kerbal/SpaceYCorp/issues/48) in [zer0Kerbal/SpaceYCorp](https://github.com/zer0Kerbal/SpaceYCorp)
+7. ❗️ Closed issue [#46](https://github.com/zer0Kerbal/SpaceYCorp/issues/46) in [zer0Kerbal/SpaceYCorp](https://github.com/zer0Kerbal/SpaceYCorp)
+8. ❗️ Closed issue [#45](https://github.com/zer0Kerbal/SpaceYCorp/issues/45) in [zer0Kerbal/SpaceYCorp](https://github.com/zer0Kerbal/SpaceYCorp)
+9. 🎉 Merged PR [#51](https://github.com/zer0Kerbal/SpaceYCorp/pull/51) in [zer0Kerbal/SpaceYCorp](https://github.com/zer0Kerbal/SpaceYCorp)
+10. 💪 Opened PR [#51](https://github.com/zer0Kerbal/SpaceYCorp/pull/51) in [zer0Kerbal/SpaceYCorp](https://github.com/zer0Kerbal/SpaceYCorp)
 <!--END_SECTION:activity-->
 
 </details
