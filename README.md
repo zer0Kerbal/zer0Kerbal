@@ -64,16 +64,16 @@ From
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#14](https://github.com/zer0Kerbal/MIR/issues/14) in [zer0Kerbal/MIR](https://github.com/zer0Kerbal/MIR)
-2. ❗️ Opened issue [#52](https://github.com/zer0Kerbal/MIR/issues/52) in [zer0Kerbal/MIR](https://github.com/zer0Kerbal/MIR)
-3. ❗️ Opened issue [#51](https://github.com/zer0Kerbal/MIR/issues/51) in [zer0Kerbal/MIR](https://github.com/zer0Kerbal/MIR)
-4. ❗️ Opened issue [#35](https://github.com/zer0Kerbal/DuoPods/issues/35) in [zer0Kerbal/DuoPods](https://github.com/zer0Kerbal/DuoPods)
-5. ❗️ Opened issue [#34](https://github.com/zer0Kerbal/DuoPods/issues/34) in [zer0Kerbal/DuoPods](https://github.com/zer0Kerbal/DuoPods)
-6. ❗️ Opened issue [#33](https://github.com/zer0Kerbal/DuoPods/issues/33) in [zer0Kerbal/DuoPods](https://github.com/zer0Kerbal/DuoPods)
-7. ❗️ Opened issue [#32](https://github.com/zer0Kerbal/DuoPods/issues/32) in [zer0Kerbal/DuoPods](https://github.com/zer0Kerbal/DuoPods)
-8. ❗️ Opened issue [#31](https://github.com/zer0Kerbal/DuoPods/issues/31) in [zer0Kerbal/DuoPods](https://github.com/zer0Kerbal/DuoPods)
-9. ❗️ Opened issue [#30](https://github.com/zer0Kerbal/DuoPods/issues/30) in [zer0Kerbal/DuoPods](https://github.com/zer0Kerbal/DuoPods)
-10. ❗️ Opened issue [#29](https://github.com/zer0Kerbal/DuoPods/issues/29) in [zer0Kerbal/DuoPods](https://github.com/zer0Kerbal/DuoPods)
+1. 💪 Opened PR [#54](https://github.com/zer0Kerbal/MIR/pull/54) in [zer0Kerbal/MIR](https://github.com/zer0Kerbal/MIR)
+2. 🗣 Commented on [#14](https://github.com/zer0Kerbal/MIR/issues/14) in [zer0Kerbal/MIR](https://github.com/zer0Kerbal/MIR)
+3. ❗️ Opened issue [#52](https://github.com/zer0Kerbal/MIR/issues/52) in [zer0Kerbal/MIR](https://github.com/zer0Kerbal/MIR)
+4. ❗️ Opened issue [#51](https://github.com/zer0Kerbal/MIR/issues/51) in [zer0Kerbal/MIR](https://github.com/zer0Kerbal/MIR)
+5. ❗️ Opened issue [#35](https://github.com/zer0Kerbal/DuoPods/issues/35) in [zer0Kerbal/DuoPods](https://github.com/zer0Kerbal/DuoPods)
+6. ❗️ Opened issue [#34](https://github.com/zer0Kerbal/DuoPods/issues/34) in [zer0Kerbal/DuoPods](https://github.com/zer0Kerbal/DuoPods)
+7. ❗️ Opened issue [#33](https://github.com/zer0Kerbal/DuoPods/issues/33) in [zer0Kerbal/DuoPods](https://github.com/zer0Kerbal/DuoPods)
+8. ❗️ Opened issue [#32](https://github.com/zer0Kerbal/DuoPods/issues/32) in [zer0Kerbal/DuoPods](https://github.com/zer0Kerbal/DuoPods)
+9. ❗️ Opened issue [#31](https://github.com/zer0Kerbal/DuoPods/issues/31) in [zer0Kerbal/DuoPods](https://github.com/zer0Kerbal/DuoPods)
+10. ❗️ Opened issue [#30](https://github.com/zer0Kerbal/DuoPods/issues/30) in [zer0Kerbal/DuoPods](https://github.com/zer0Kerbal/DuoPods)
 <!--END_SECTION:activity-->
 
 </details
