@@ -64,16 +64,16 @@ From
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#2](https://github.com/zer0Kerbal/DuoPods/pull/2) in [zer0Kerbal/DuoPods](https://github.com/zer0Kerbal/DuoPods)
-2. ❗️ Closed issue [#97](https://github.com/zer0Kerbal/SpaceYExpanded/issues/97) in [zer0Kerbal/SpaceYExpanded](https://github.com/zer0Kerbal/SpaceYExpanded)
-3. ❗️ Closed issue [#98](https://github.com/zer0Kerbal/SpaceYExpanded/issues/98) in [zer0Kerbal/SpaceYExpanded](https://github.com/zer0Kerbal/SpaceYExpanded)
-4. ❗️ Closed issue [#105](https://github.com/zer0Kerbal/SpaceYExpanded/issues/105) in [zer0Kerbal/SpaceYExpanded](https://github.com/zer0Kerbal/SpaceYExpanded)
-5. ❗️ Closed issue [#58](https://github.com/zer0Kerbal/SpaceYExpanded/issues/58) in [zer0Kerbal/SpaceYExpanded](https://github.com/zer0Kerbal/SpaceYExpanded)
-6. ❗️ Closed issue [#9](https://github.com/zer0Kerbal/SpaceYExpanded/issues/9) in [zer0Kerbal/SpaceYExpanded](https://github.com/zer0Kerbal/SpaceYExpanded)
-7. ❗️ Closed issue [#99](https://github.com/zer0Kerbal/SpaceYExpanded/issues/99) in [zer0Kerbal/SpaceYExpanded](https://github.com/zer0Kerbal/SpaceYExpanded)
-8. ❗️ Closed issue [#94](https://github.com/zer0Kerbal/SpaceYExpanded/issues/94) in [zer0Kerbal/SpaceYExpanded](https://github.com/zer0Kerbal/SpaceYExpanded)
-9. 🎉 Merged PR [#106](https://github.com/zer0Kerbal/SpaceYExpanded/pull/106) in [zer0Kerbal/SpaceYExpanded](https://github.com/zer0Kerbal/SpaceYExpanded)
-10. 💪 Opened PR [#106](https://github.com/zer0Kerbal/SpaceYExpanded/pull/106) in [zer0Kerbal/SpaceYExpanded](https://github.com/zer0Kerbal/SpaceYExpanded)
+1. ❗️ Opened issue [#35](https://github.com/zer0Kerbal/DuoPods/issues/35) in [zer0Kerbal/DuoPods](https://github.com/zer0Kerbal/DuoPods)
+2. ❗️ Opened issue [#34](https://github.com/zer0Kerbal/DuoPods/issues/34) in [zer0Kerbal/DuoPods](https://github.com/zer0Kerbal/DuoPods)
+3. ❗️ Opened issue [#33](https://github.com/zer0Kerbal/DuoPods/issues/33) in [zer0Kerbal/DuoPods](https://github.com/zer0Kerbal/DuoPods)
+4. ❗️ Opened issue [#32](https://github.com/zer0Kerbal/DuoPods/issues/32) in [zer0Kerbal/DuoPods](https://github.com/zer0Kerbal/DuoPods)
+5. ❗️ Opened issue [#31](https://github.com/zer0Kerbal/DuoPods/issues/31) in [zer0Kerbal/DuoPods](https://github.com/zer0Kerbal/DuoPods)
+6. ❗️ Opened issue [#30](https://github.com/zer0Kerbal/DuoPods/issues/30) in [zer0Kerbal/DuoPods](https://github.com/zer0Kerbal/DuoPods)
+7. ❗️ Opened issue [#29](https://github.com/zer0Kerbal/DuoPods/issues/29) in [zer0Kerbal/DuoPods](https://github.com/zer0Kerbal/DuoPods)
+8. ❗️ Opened issue [#28](https://github.com/zer0Kerbal/DuoPods/issues/28) in [zer0Kerbal/DuoPods](https://github.com/zer0Kerbal/DuoPods)
+9. ❗️ Opened issue [#27](https://github.com/zer0Kerbal/DuoPods/issues/27) in [zer0Kerbal/DuoPods](https://github.com/zer0Kerbal/DuoPods)
+10. ❗️ Opened issue [#26](https://github.com/zer0Kerbal/DuoPods/issues/26) in [zer0Kerbal/DuoPods](https://github.com/zer0Kerbal/DuoPods)
 <!--END_SECTION:activity-->
 
 </details
