@@ -64,16 +64,16 @@ From
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#53](https://github.com/zer0Kerbal/MIR/issues/53) in [zer0Kerbal/MIR](https://github.com/zer0Kerbal/MIR)
-2. ❗️ Closed issue [#46](https://github.com/zer0Kerbal/MIR/issues/46) in [zer0Kerbal/MIR](https://github.com/zer0Kerbal/MIR)
-3. ❗️ Closed issue [#45](https://github.com/zer0Kerbal/MIR/issues/45) in [zer0Kerbal/MIR](https://github.com/zer0Kerbal/MIR)
-4. 🎉 Merged PR [#54](https://github.com/zer0Kerbal/MIR/pull/54) in [zer0Kerbal/MIR](https://github.com/zer0Kerbal/MIR)
-5. 🎉 Merged PR [#36](https://github.com/zer0Kerbal/Duopods/pull/36) in [zer0Kerbal/Duopods](https://github.com/zer0Kerbal/Duopods)
-6. 💪 Opened PR [#54](https://github.com/zer0Kerbal/MIR/pull/54) in [zer0Kerbal/MIR](https://github.com/zer0Kerbal/MIR)
-7. 🗣 Commented on [#14](https://github.com/zer0Kerbal/MIR/issues/14) in [zer0Kerbal/MIR](https://github.com/zer0Kerbal/MIR)
-8. ❗️ Opened issue [#52](https://github.com/zer0Kerbal/MIR/issues/52) in [zer0Kerbal/MIR](https://github.com/zer0Kerbal/MIR)
-9. ❗️ Opened issue [#51](https://github.com/zer0Kerbal/MIR/issues/51) in [zer0Kerbal/MIR](https://github.com/zer0Kerbal/MIR)
-10. ❗️ Opened issue [#35](https://github.com/zer0Kerbal/DuoPods/issues/35) in [zer0Kerbal/DuoPods](https://github.com/zer0Kerbal/DuoPods)
+1. ❗️ Closed issue [#44](https://github.com/zer0Kerbal/Proton/issues/44) in [zer0Kerbal/Proton](https://github.com/zer0Kerbal/Proton)
+2. ❗️ Closed issue [#19](https://github.com/zer0Kerbal/Proton/issues/19) in [zer0Kerbal/Proton](https://github.com/zer0Kerbal/Proton)
+3. ❗️ Closed issue [#43](https://github.com/zer0Kerbal/Proton/issues/43) in [zer0Kerbal/Proton](https://github.com/zer0Kerbal/Proton)
+4. 🎉 Merged PR [#48](https://github.com/zer0Kerbal/Proton/pull/48) in [zer0Kerbal/Proton](https://github.com/zer0Kerbal/Proton)
+5. 💪 Opened PR [#48](https://github.com/zer0Kerbal/Proton/pull/48) in [zer0Kerbal/Proton](https://github.com/zer0Kerbal/Proton)
+6. ❗️ Opened issue [#47](https://github.com/zer0Kerbal/Proton/issues/47) in [zer0Kerbal/Proton](https://github.com/zer0Kerbal/Proton)
+7. ❗️ Opened issue [#46](https://github.com/zer0Kerbal/Proton/issues/46) in [zer0Kerbal/Proton](https://github.com/zer0Kerbal/Proton)
+8. 🎉 Merged PR [#45](https://github.com/zer0Kerbal/Proton/pull/45) in [zer0Kerbal/Proton](https://github.com/zer0Kerbal/Proton)
+9. 🎉 Merged PR [#56](https://github.com/zer0Kerbal/MIR/pull/56) in [zer0Kerbal/MIR](https://github.com/zer0Kerbal/MIR)
+10. ❗️ Closed issue [#53](https://github.com/zer0Kerbal/MIR/issues/53) in [zer0Kerbal/MIR](https://github.com/zer0Kerbal/MIR)
 <!--END_SECTION:activity-->
 
 </details
