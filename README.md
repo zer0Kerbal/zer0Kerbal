@@ -64,16 +64,16 @@ From
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#77](https://github.com/zer0Kerbal/BehemothAerospaceEngineering/issues/77) in [zer0Kerbal/BehemothAerospaceEngineering](https://github.com/zer0Kerbal/BehemothAerospaceEngineering)
-2. 🗣 Commented on [#77](https://github.com/zer0Kerbal/BehemothAerospaceEngineering/issues/77) in [zer0Kerbal/BehemothAerospaceEngineering](https://github.com/zer0Kerbal/BehemothAerospaceEngineering)
-3. 🗣 Commented on [#77](https://github.com/zer0Kerbal/BehemothAerospaceEngineering/issues/77) in [zer0Kerbal/BehemothAerospaceEngineering](https://github.com/zer0Kerbal/BehemothAerospaceEngineering)
-4. ❗️ Opened issue [#77](https://github.com/zer0Kerbal/BehemothAerospaceEngineering/issues/77) in [zer0Kerbal/BehemothAerospaceEngineering](https://github.com/zer0Kerbal/BehemothAerospaceEngineering)
-5. 🗣 Commented on [#58](https://github.com/zer0Kerbal/MIR/issues/58) in [zer0Kerbal/MIR](https://github.com/zer0Kerbal/MIR)
-6. ❗️ Opened issue [#26](https://github.com/zer0Kerbal/RaptorAeroEspacial/issues/26) in [zer0Kerbal/RaptorAeroEspacial](https://github.com/zer0Kerbal/RaptorAeroEspacial)
-7. ❗️ Opened issue [#25](https://github.com/zer0Kerbal/RaptorAeroEspacial/issues/25) in [zer0Kerbal/RaptorAeroEspacial](https://github.com/zer0Kerbal/RaptorAeroEspacial)
-8. ❗️ Opened issue [#24](https://github.com/zer0Kerbal/RaptorAeroEspacial/issues/24) in [zer0Kerbal/RaptorAeroEspacial](https://github.com/zer0Kerbal/RaptorAeroEspacial)
-9. ❗️ Opened issue [#23](https://github.com/zer0Kerbal/RaptorAeroEspacial/issues/23) in [zer0Kerbal/RaptorAeroEspacial](https://github.com/zer0Kerbal/RaptorAeroEspacial)
-10. ❗️ Opened issue [#22](https://github.com/zer0Kerbal/RaptorAeroEspacial/issues/22) in [zer0Kerbal/RaptorAeroEspacial](https://github.com/zer0Kerbal/RaptorAeroEspacial)
+1. ❗️ Opened issue [#81](https://github.com/zer0Kerbal/BehemothAerospaceEngineering/issues/81) in [zer0Kerbal/BehemothAerospaceEngineering](https://github.com/zer0Kerbal/BehemothAerospaceEngineering)
+2. ❗️ Opened issue [#80](https://github.com/zer0Kerbal/BehemothAerospaceEngineering/issues/80) in [zer0Kerbal/BehemothAerospaceEngineering](https://github.com/zer0Kerbal/BehemothAerospaceEngineering)
+3. ❗️ Reopened issue [#41](https://github.com/zer0Kerbal/BehemothAerospaceEngineering/issues/41) in [zer0Kerbal/BehemothAerospaceEngineering](https://github.com/zer0Kerbal/BehemothAerospaceEngineering)
+4. ❗️ Closed issue [#42](https://github.com/zer0Kerbal/BehemothAerospaceEngineering/issues/42) in [zer0Kerbal/BehemothAerospaceEngineering](https://github.com/zer0Kerbal/BehemothAerospaceEngineering)
+5. ❗️ Closed issue [#25](https://github.com/zer0Kerbal/BehemothAerospaceEngineering/issues/25) in [zer0Kerbal/BehemothAerospaceEngineering](https://github.com/zer0Kerbal/BehemothAerospaceEngineering)
+6. ❗️ Closed issue [#24](https://github.com/zer0Kerbal/BehemothAerospaceEngineering/issues/24) in [zer0Kerbal/BehemothAerospaceEngineering](https://github.com/zer0Kerbal/BehemothAerospaceEngineering)
+7. ❗️ Closed issue [#23](https://github.com/zer0Kerbal/BehemothAerospaceEngineering/issues/23) in [zer0Kerbal/BehemothAerospaceEngineering](https://github.com/zer0Kerbal/BehemothAerospaceEngineering)
+8. ❗️ Closed issue [#58](https://github.com/zer0Kerbal/BehemothAerospaceEngineering/issues/58) in [zer0Kerbal/BehemothAerospaceEngineering](https://github.com/zer0Kerbal/BehemothAerospaceEngineering)
+9. ❗️ Closed issue [#22](https://github.com/zer0Kerbal/BehemothAerospaceEngineering/issues/22) in [zer0Kerbal/BehemothAerospaceEngineering](https://github.com/zer0Kerbal/BehemothAerospaceEngineering)
+10. ❗️ Closed issue [#41](https://github.com/zer0Kerbal/BehemothAerospaceEngineering/issues/41) in [zer0Kerbal/BehemothAerospaceEngineering](https://github.com/zer0Kerbal/BehemothAerospaceEngineering)
 <!--END_SECTION:activity-->
 
 </details
