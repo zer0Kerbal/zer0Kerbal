@@ -64,16 +64,16 @@ From
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#24](https://github.com/zer0Kerbal/AsteroidCities/pull/24) in [zer0Kerbal/AsteroidCities](https://github.com/zer0Kerbal/AsteroidCities)
-2. 💪 Opened PR [#24](https://github.com/zer0Kerbal/AsteroidCities/pull/24) in [zer0Kerbal/AsteroidCities](https://github.com/zer0Kerbal/AsteroidCities)
-3. 🎉 Merged PR [#44](https://github.com/zer0Kerbal/SpecialPartsDivision/pull/44) in [zer0Kerbal/SpecialPartsDivision](https://github.com/zer0Kerbal/SpecialPartsDivision)
-4. 🚀 Published release [Version 2.3.99.4-prerelease - `<Thank you dtobi>` edition](https://github.com/Version 2.3.99.4-prerelease - `<Thank you dtobi>` edition) in [zer0Kerbal/SpaceShuttleEngines](https://github.com/zer0Kerbal/SpaceShuttleEngines)
-5. 🔒 Closed issue [#82](https://github.com/zer0Kerbal/SpaceShuttleEngines/issues/82) in [zer0Kerbal/SpaceShuttleEngines](https://github.com/zer0Kerbal/SpaceShuttleEngines)
-6. 🔒 Closed issue [#81](https://github.com/zer0Kerbal/SpaceShuttleEngines/issues/81) in [zer0Kerbal/SpaceShuttleEngines](https://github.com/zer0Kerbal/SpaceShuttleEngines)
-7. 🎉 Merged PR [#86](https://github.com/zer0Kerbal/SpaceShuttleEngines/pull/86) in [zer0Kerbal/SpaceShuttleEngines](https://github.com/zer0Kerbal/SpaceShuttleEngines)
-8. 💪 Opened PR [#86](https://github.com/zer0Kerbal/SpaceShuttleEngines/pull/86) in [zer0Kerbal/SpaceShuttleEngines](https://github.com/zer0Kerbal/SpaceShuttleEngines)
-9. ❗ Opened issue [#85](https://github.com/zer0Kerbal/SpaceShuttleEngines/issues/85) in [zer0Kerbal/SpaceShuttleEngines](https://github.com/zer0Kerbal/SpaceShuttleEngines)
-10. ❗ Opened issue [#84](https://github.com/zer0Kerbal/SpaceShuttleEngines/issues/84) in [zer0Kerbal/SpaceShuttleEngines](https://github.com/zer0Kerbal/SpaceShuttleEngines)
+1. ❗ Opened issue [#57](https://github.com/zer0Kerbal/AsteroidCities/issues/57) in [zer0Kerbal/AsteroidCities](https://github.com/zer0Kerbal/AsteroidCities)
+2. ❗ Opened issue [#56](https://github.com/zer0Kerbal/AsteroidCities/issues/56) in [zer0Kerbal/AsteroidCities](https://github.com/zer0Kerbal/AsteroidCities)
+3. ❗ Opened issue [#55](https://github.com/zer0Kerbal/AsteroidCities/issues/55) in [zer0Kerbal/AsteroidCities](https://github.com/zer0Kerbal/AsteroidCities)
+4. ❗ Opened issue [#54](https://github.com/zer0Kerbal/AsteroidCities/issues/54) in [zer0Kerbal/AsteroidCities](https://github.com/zer0Kerbal/AsteroidCities)
+5. ❗ Opened issue [#53](https://github.com/zer0Kerbal/AsteroidCities/issues/53) in [zer0Kerbal/AsteroidCities](https://github.com/zer0Kerbal/AsteroidCities)
+6. ❗ Opened issue [#52](https://github.com/zer0Kerbal/AsteroidCities/issues/52) in [zer0Kerbal/AsteroidCities](https://github.com/zer0Kerbal/AsteroidCities)
+7. ❗ Opened issue [#51](https://github.com/zer0Kerbal/AsteroidCities/issues/51) in [zer0Kerbal/AsteroidCities](https://github.com/zer0Kerbal/AsteroidCities)
+8. ❗ Opened issue [#50](https://github.com/zer0Kerbal/AsteroidCities/issues/50) in [zer0Kerbal/AsteroidCities](https://github.com/zer0Kerbal/AsteroidCities)
+9. ❗ Opened issue [#49](https://github.com/zer0Kerbal/AsteroidCities/issues/49) in [zer0Kerbal/AsteroidCities](https://github.com/zer0Kerbal/AsteroidCities)
+10. ❗ Opened issue [#48](https://github.com/zer0Kerbal/AsteroidCities/issues/48) in [zer0Kerbal/AsteroidCities](https://github.com/zer0Kerbal/AsteroidCities)
 <!--END_SECTION:activity-->
 
 </details
