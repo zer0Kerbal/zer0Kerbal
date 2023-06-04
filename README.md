@@ -64,16 +64,16 @@ From
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#57](https://github.com/zer0Kerbal/AsteroidCities/issues/57) in [zer0Kerbal/AsteroidCities](https://github.com/zer0Kerbal/AsteroidCities)
-2. ❗ Opened issue [#56](https://github.com/zer0Kerbal/AsteroidCities/issues/56) in [zer0Kerbal/AsteroidCities](https://github.com/zer0Kerbal/AsteroidCities)
-3. ❗ Opened issue [#55](https://github.com/zer0Kerbal/AsteroidCities/issues/55) in [zer0Kerbal/AsteroidCities](https://github.com/zer0Kerbal/AsteroidCities)
-4. ❗ Opened issue [#54](https://github.com/zer0Kerbal/AsteroidCities/issues/54) in [zer0Kerbal/AsteroidCities](https://github.com/zer0Kerbal/AsteroidCities)
-5. ❗ Opened issue [#53](https://github.com/zer0Kerbal/AsteroidCities/issues/53) in [zer0Kerbal/AsteroidCities](https://github.com/zer0Kerbal/AsteroidCities)
-6. ❗ Opened issue [#52](https://github.com/zer0Kerbal/AsteroidCities/issues/52) in [zer0Kerbal/AsteroidCities](https://github.com/zer0Kerbal/AsteroidCities)
-7. ❗ Opened issue [#51](https://github.com/zer0Kerbal/AsteroidCities/issues/51) in [zer0Kerbal/AsteroidCities](https://github.com/zer0Kerbal/AsteroidCities)
-8. ❗ Opened issue [#50](https://github.com/zer0Kerbal/AsteroidCities/issues/50) in [zer0Kerbal/AsteroidCities](https://github.com/zer0Kerbal/AsteroidCities)
-9. ❗ Opened issue [#49](https://github.com/zer0Kerbal/AsteroidCities/issues/49) in [zer0Kerbal/AsteroidCities](https://github.com/zer0Kerbal/AsteroidCities)
-10. ❗ Opened issue [#48](https://github.com/zer0Kerbal/AsteroidCities/issues/48) in [zer0Kerbal/AsteroidCities](https://github.com/zer0Kerbal/AsteroidCities)
+1. ❗ Opened issue [#61](https://github.com/zer0Kerbal/AsteroidCities/issues/61) in [zer0Kerbal/AsteroidCities](https://github.com/zer0Kerbal/AsteroidCities)
+2. ❗ Opened issue [#60](https://github.com/zer0Kerbal/AsteroidCities/issues/60) in [zer0Kerbal/AsteroidCities](https://github.com/zer0Kerbal/AsteroidCities)
+3. 🚀 Published release [Version 2.1.99.0-adoption - `<Thank you dtobi>` edition](https://github.com/Version 2.1.99.0-adoption - `<Thank you dtobi>` edition) in [zer0Kerbal/AsteroidCities](https://github.com/zer0Kerbal/AsteroidCities)
+4. 🔒 Closed issue [#32](https://github.com/zer0Kerbal/AsteroidCities/issues/32) in [zer0Kerbal/AsteroidCities](https://github.com/zer0Kerbal/AsteroidCities)
+5. 🔒 Closed issue [#31](https://github.com/zer0Kerbal/AsteroidCities/issues/31) in [zer0Kerbal/AsteroidCities](https://github.com/zer0Kerbal/AsteroidCities)
+6. 🔒 Closed issue [#30](https://github.com/zer0Kerbal/AsteroidCities/issues/30) in [zer0Kerbal/AsteroidCities](https://github.com/zer0Kerbal/AsteroidCities)
+7. 🔒 Closed issue [#29](https://github.com/zer0Kerbal/AsteroidCities/issues/29) in [zer0Kerbal/AsteroidCities](https://github.com/zer0Kerbal/AsteroidCities)
+8. 🔒 Closed issue [#57](https://github.com/zer0Kerbal/AsteroidCities/issues/57) in [zer0Kerbal/AsteroidCities](https://github.com/zer0Kerbal/AsteroidCities)
+9. 🔒 Closed issue [#56](https://github.com/zer0Kerbal/AsteroidCities/issues/56) in [zer0Kerbal/AsteroidCities](https://github.com/zer0Kerbal/AsteroidCities)
+10. 🔒 Closed issue [#39](https://github.com/zer0Kerbal/AsteroidCities/issues/39) in [zer0Kerbal/AsteroidCities](https://github.com/zer0Kerbal/AsteroidCities)
 <!--END_SECTION:activity-->
 
 </details
