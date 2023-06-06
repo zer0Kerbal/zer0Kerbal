@@ -64,16 +64,16 @@ From
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#48](https://github.com/zer0Kerbal/SpecialPartsDivision/issues/48) in [zer0Kerbal/SpecialPartsDivision](https://github.com/zer0Kerbal/SpecialPartsDivision)
-2. ❗ Opened issue [#47](https://github.com/zer0Kerbal/SpecialPartsDivision/issues/47) in [zer0Kerbal/SpecialPartsDivision](https://github.com/zer0Kerbal/SpecialPartsDivision)
-3. 🚀 Published release [Version 2.2.99.0-adoption - `<Thank you dtobi>` edition](https://github.com/Version 2.2.99.0-adoption - `<Thank you dtobi>` edition) in [zer0Kerbal/SpecialPartsDivision](https://github.com/zer0Kerbal/SpecialPartsDivision)
-4. 🔒 Closed issue [#5](https://github.com/zer0Kerbal/SpecialPartsDivision/issues/5) in [zer0Kerbal/SpecialPartsDivision](https://github.com/zer0Kerbal/SpecialPartsDivision)
-5. 🔒 Closed issue [#4](https://github.com/zer0Kerbal/SpecialPartsDivision/issues/4) in [zer0Kerbal/SpecialPartsDivision](https://github.com/zer0Kerbal/SpecialPartsDivision)
-6. 🔒 Closed issue [#3](https://github.com/zer0Kerbal/SpecialPartsDivision/issues/3) in [zer0Kerbal/SpecialPartsDivision](https://github.com/zer0Kerbal/SpecialPartsDivision)
-7. 🔒 Closed issue [#2](https://github.com/zer0Kerbal/SpecialPartsDivision/issues/2) in [zer0Kerbal/SpecialPartsDivision](https://github.com/zer0Kerbal/SpecialPartsDivision)
-8. 🔒 Closed issue [#36](https://github.com/zer0Kerbal/SpecialPartsDivision/issues/36) in [zer0Kerbal/SpecialPartsDivision](https://github.com/zer0Kerbal/SpecialPartsDivision)
-9. 🔒 Closed issue [#23](https://github.com/zer0Kerbal/SpecialPartsDivision/issues/23) in [zer0Kerbal/SpecialPartsDivision](https://github.com/zer0Kerbal/SpecialPartsDivision)
-10. 🔒 Closed issue [#7](https://github.com/zer0Kerbal/SpecialPartsDivision/issues/7) in [zer0Kerbal/SpecialPartsDivision](https://github.com/zer0Kerbal/SpecialPartsDivision)
+1. 🚀 Published release [Version 1.0.3.0-release - `<Expansion: Asteroid Cities>` edition](https://github.com/Version 1.0.3.0-release - `<Expansion: Asteroid Cities>` edition) in [zer0Kerbal/KlockheedMartianLtd](https://github.com/zer0Kerbal/KlockheedMartianLtd)
+2. 🔒 Closed issue [#40](https://github.com/zer0Kerbal/KlockheedMartianLtd/issues/40) in [zer0Kerbal/KlockheedMartianLtd](https://github.com/zer0Kerbal/KlockheedMartianLtd)
+3. 🔒 Closed issue [#39](https://github.com/zer0Kerbal/KlockheedMartianLtd/issues/39) in [zer0Kerbal/KlockheedMartianLtd](https://github.com/zer0Kerbal/KlockheedMartianLtd)
+4. 🎉 Merged PR [#46](https://github.com/zer0Kerbal/KlockheedMartianLtd/pull/46) in [zer0Kerbal/KlockheedMartianLtd](https://github.com/zer0Kerbal/KlockheedMartianLtd)
+5. 💪 Opened PR [#46](https://github.com/zer0Kerbal/KlockheedMartianLtd/pull/46) in [zer0Kerbal/KlockheedMartianLtd](https://github.com/zer0Kerbal/KlockheedMartianLtd)
+6. 🗣 Commented on [#15](https://github.com/zer0Kerbal/KlockheedMartianLtd/issues/15) in [zer0Kerbal/KlockheedMartianLtd](https://github.com/zer0Kerbal/KlockheedMartianLtd)
+7. ❗ Opened issue [#48](https://github.com/zer0Kerbal/SpecialPartsDivision/issues/48) in [zer0Kerbal/SpecialPartsDivision](https://github.com/zer0Kerbal/SpecialPartsDivision)
+8. ❗ Opened issue [#47](https://github.com/zer0Kerbal/SpecialPartsDivision/issues/47) in [zer0Kerbal/SpecialPartsDivision](https://github.com/zer0Kerbal/SpecialPartsDivision)
+9. 🚀 Published release [Version 2.2.99.0-adoption - `<Thank you dtobi>` edition](https://github.com/Version 2.2.99.0-adoption - `<Thank you dtobi>` edition) in [zer0Kerbal/SpecialPartsDivision](https://github.com/zer0Kerbal/SpecialPartsDivision)
+10. 🔒 Closed issue [#5](https://github.com/zer0Kerbal/SpecialPartsDivision/issues/5) in [zer0Kerbal/SpecialPartsDivision](https://github.com/zer0Kerbal/SpecialPartsDivision)
 <!--END_SECTION:activity-->
 
 </details
