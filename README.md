@@ -64,16 +64,16 @@ From
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#68](https://github.com/zer0Kerbal/TheGoldStandard/issues/68) in [zer0Kerbal/TheGoldStandard](https://github.com/zer0Kerbal/TheGoldStandard)
-2. 🗣 Commented on [#20](https://github.com/zer0Kerbal/MIR/issues/20) in [zer0Kerbal/MIR](https://github.com/zer0Kerbal/MIR)
-3. 🎉 Merged PR [#59](https://github.com/zer0Kerbal/MIR/pull/59) in [zer0Kerbal/MIR](https://github.com/zer0Kerbal/MIR)
-4. ❗ Opened issue [#66](https://github.com/zer0Kerbal/MIR/issues/66) in [zer0Kerbal/MIR](https://github.com/zer0Kerbal/MIR)
-5. ❗ Opened issue [#65](https://github.com/zer0Kerbal/MIR/issues/65) in [zer0Kerbal/MIR](https://github.com/zer0Kerbal/MIR)
-6. 🗣 Commented on [#59](https://github.com/zer0Kerbal/MIR/issues/59) in [zer0Kerbal/MIR](https://github.com/zer0Kerbal/MIR)
-7. ❌ Reopened PR [#59](https://github.com/zer0Kerbal/MIR/pull/59) in [zer0Kerbal/MIR](https://github.com/zer0Kerbal/MIR)
-8. 🚀 Published release [Version 4.0.99.2-prerelease `<Gracias Fitiales>` edition](https://github.com/Version 4.0.99.2-prerelease `<Gracias Fitiales>` edition) in [zer0Kerbal/MIR](https://github.com/zer0Kerbal/MIR)
-9. 🔒 Closed issue [#58](https://github.com/zer0Kerbal/MIR/issues/58) in [zer0Kerbal/MIR](https://github.com/zer0Kerbal/MIR)
-10. 🔒 Closed issue [#48](https://github.com/zer0Kerbal/MIR/issues/48) in [zer0Kerbal/MIR](https://github.com/zer0Kerbal/MIR)
+1. ❗ Opened issue [#72](https://github.com/zer0Kerbal/TheGoldStandard/issues/72) in [zer0Kerbal/TheGoldStandard](https://github.com/zer0Kerbal/TheGoldStandard)
+2. ❗ Opened issue [#71](https://github.com/zer0Kerbal/TheGoldStandard/issues/71) in [zer0Kerbal/TheGoldStandard](https://github.com/zer0Kerbal/TheGoldStandard)
+3. 🔒 Closed issue [#68](https://github.com/zer0Kerbal/TheGoldStandard/issues/68) in [zer0Kerbal/TheGoldStandard](https://github.com/zer0Kerbal/TheGoldStandard)
+4. 🗣 Commented on [#20](https://github.com/zer0Kerbal/MIR/issues/20) in [zer0Kerbal/MIR](https://github.com/zer0Kerbal/MIR)
+5. 🎉 Merged PR [#59](https://github.com/zer0Kerbal/MIR/pull/59) in [zer0Kerbal/MIR](https://github.com/zer0Kerbal/MIR)
+6. ❗ Opened issue [#66](https://github.com/zer0Kerbal/MIR/issues/66) in [zer0Kerbal/MIR](https://github.com/zer0Kerbal/MIR)
+7. ❗ Opened issue [#65](https://github.com/zer0Kerbal/MIR/issues/65) in [zer0Kerbal/MIR](https://github.com/zer0Kerbal/MIR)
+8. 🗣 Commented on [#59](https://github.com/zer0Kerbal/MIR/issues/59) in [zer0Kerbal/MIR](https://github.com/zer0Kerbal/MIR)
+9. ❌ Reopened PR [#59](https://github.com/zer0Kerbal/MIR/pull/59) in [zer0Kerbal/MIR](https://github.com/zer0Kerbal/MIR)
+10. 🚀 Published release [Version 4.0.99.2-prerelease `<Gracias Fitiales>` edition](https://github.com/Version 4.0.99.2-prerelease `<Gracias Fitiales>` edition) in [zer0Kerbal/MIR](https://github.com/zer0Kerbal/MIR)
 <!--END_SECTION:activity-->
 
 </details
