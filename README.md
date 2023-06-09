@@ -64,16 +64,16 @@ From
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#77](https://github.com/zer0Kerbal/TheGoldStandard/issues/77) in [zer0Kerbal/TheGoldStandard](https://github.com/zer0Kerbal/TheGoldStandard)
-2. ❗ Opened issue [#76](https://github.com/zer0Kerbal/TheGoldStandard/issues/76) in [zer0Kerbal/TheGoldStandard](https://github.com/zer0Kerbal/TheGoldStandard)
-3. 🚀 Published release [Version 1.6.4.0-release - `<Thank you Dewar>`](https://github.com/Version 1.6.4.0-release - `<Thank you Dewar>`) in [zer0Kerbal/TheGoldStandard](https://github.com/zer0Kerbal/TheGoldStandard)
-4. 🔒 Closed issue [#43](https://github.com/zer0Kerbal/TheGoldStandard/issues/43) in [zer0Kerbal/TheGoldStandard](https://github.com/zer0Kerbal/TheGoldStandard)
-5. 🔒 Closed issue [#69](https://github.com/zer0Kerbal/TheGoldStandard/issues/69) in [zer0Kerbal/TheGoldStandard](https://github.com/zer0Kerbal/TheGoldStandard)
-6. 🔒 Closed issue [#70](https://github.com/zer0Kerbal/TheGoldStandard/issues/70) in [zer0Kerbal/TheGoldStandard](https://github.com/zer0Kerbal/TheGoldStandard)
-7. 🔒 Closed issue [#72](https://github.com/zer0Kerbal/TheGoldStandard/issues/72) in [zer0Kerbal/TheGoldStandard](https://github.com/zer0Kerbal/TheGoldStandard)
-8. 🔒 Closed issue [#43](https://github.com/zer0Kerbal/TheGoldStandard/issues/43) in [zer0Kerbal/TheGoldStandard](https://github.com/zer0Kerbal/TheGoldStandard)
-9. 🔒 Closed issue [#71](https://github.com/zer0Kerbal/TheGoldStandard/issues/71) in [zer0Kerbal/TheGoldStandard](https://github.com/zer0Kerbal/TheGoldStandard)
-10. 🎉 Merged PR [#74](https://github.com/zer0Kerbal/TheGoldStandard/pull/74) in [zer0Kerbal/TheGoldStandard](https://github.com/zer0Kerbal/TheGoldStandard)
+1. 🗣 Commented on [#49](https://github.com/zer0Kerbal/TheGoldStandard/issues/49) in [zer0Kerbal/TheGoldStandard](https://github.com/zer0Kerbal/TheGoldStandard)
+2. ❗ Opened issue [#77](https://github.com/zer0Kerbal/TheGoldStandard/issues/77) in [zer0Kerbal/TheGoldStandard](https://github.com/zer0Kerbal/TheGoldStandard)
+3. ❗ Opened issue [#76](https://github.com/zer0Kerbal/TheGoldStandard/issues/76) in [zer0Kerbal/TheGoldStandard](https://github.com/zer0Kerbal/TheGoldStandard)
+4. 🚀 Published release [Version 1.6.4.0-release - `<Thank you Dewar>`](https://github.com/Version 1.6.4.0-release - `<Thank you Dewar>`) in [zer0Kerbal/TheGoldStandard](https://github.com/zer0Kerbal/TheGoldStandard)
+5. 🔒 Closed issue [#43](https://github.com/zer0Kerbal/TheGoldStandard/issues/43) in [zer0Kerbal/TheGoldStandard](https://github.com/zer0Kerbal/TheGoldStandard)
+6. 🔒 Closed issue [#69](https://github.com/zer0Kerbal/TheGoldStandard/issues/69) in [zer0Kerbal/TheGoldStandard](https://github.com/zer0Kerbal/TheGoldStandard)
+7. 🔒 Closed issue [#70](https://github.com/zer0Kerbal/TheGoldStandard/issues/70) in [zer0Kerbal/TheGoldStandard](https://github.com/zer0Kerbal/TheGoldStandard)
+8. 🔒 Closed issue [#72](https://github.com/zer0Kerbal/TheGoldStandard/issues/72) in [zer0Kerbal/TheGoldStandard](https://github.com/zer0Kerbal/TheGoldStandard)
+9. 🔒 Closed issue [#43](https://github.com/zer0Kerbal/TheGoldStandard/issues/43) in [zer0Kerbal/TheGoldStandard](https://github.com/zer0Kerbal/TheGoldStandard)
+10. 🔒 Closed issue [#71](https://github.com/zer0Kerbal/TheGoldStandard/issues/71) in [zer0Kerbal/TheGoldStandard](https://github.com/zer0Kerbal/TheGoldStandard)
 <!--END_SECTION:activity-->
 
 </details
