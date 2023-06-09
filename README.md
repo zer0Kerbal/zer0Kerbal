@@ -64,16 +64,16 @@ From
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#72](https://github.com/zer0Kerbal/TheGoldStandard/issues/72) in [zer0Kerbal/TheGoldStandard](https://github.com/zer0Kerbal/TheGoldStandard)
-2. ❗ Opened issue [#71](https://github.com/zer0Kerbal/TheGoldStandard/issues/71) in [zer0Kerbal/TheGoldStandard](https://github.com/zer0Kerbal/TheGoldStandard)
-3. 🔒 Closed issue [#68](https://github.com/zer0Kerbal/TheGoldStandard/issues/68) in [zer0Kerbal/TheGoldStandard](https://github.com/zer0Kerbal/TheGoldStandard)
-4. 🗣 Commented on [#20](https://github.com/zer0Kerbal/MIR/issues/20) in [zer0Kerbal/MIR](https://github.com/zer0Kerbal/MIR)
-5. 🎉 Merged PR [#59](https://github.com/zer0Kerbal/MIR/pull/59) in [zer0Kerbal/MIR](https://github.com/zer0Kerbal/MIR)
-6. ❗ Opened issue [#66](https://github.com/zer0Kerbal/MIR/issues/66) in [zer0Kerbal/MIR](https://github.com/zer0Kerbal/MIR)
-7. ❗ Opened issue [#65](https://github.com/zer0Kerbal/MIR/issues/65) in [zer0Kerbal/MIR](https://github.com/zer0Kerbal/MIR)
-8. 🗣 Commented on [#59](https://github.com/zer0Kerbal/MIR/issues/59) in [zer0Kerbal/MIR](https://github.com/zer0Kerbal/MIR)
-9. ❌ Reopened PR [#59](https://github.com/zer0Kerbal/MIR/pull/59) in [zer0Kerbal/MIR](https://github.com/zer0Kerbal/MIR)
-10. 🚀 Published release [Version 4.0.99.2-prerelease `<Gracias Fitiales>` edition](https://github.com/Version 4.0.99.2-prerelease `<Gracias Fitiales>` edition) in [zer0Kerbal/MIR](https://github.com/zer0Kerbal/MIR)
+1. ❗ Opened issue [#77](https://github.com/zer0Kerbal/TheGoldStandard/issues/77) in [zer0Kerbal/TheGoldStandard](https://github.com/zer0Kerbal/TheGoldStandard)
+2. ❗ Opened issue [#76](https://github.com/zer0Kerbal/TheGoldStandard/issues/76) in [zer0Kerbal/TheGoldStandard](https://github.com/zer0Kerbal/TheGoldStandard)
+3. 🚀 Published release [Version 1.6.4.0-release - `<Thank you Dewar>`](https://github.com/Version 1.6.4.0-release - `<Thank you Dewar>`) in [zer0Kerbal/TheGoldStandard](https://github.com/zer0Kerbal/TheGoldStandard)
+4. 🔒 Closed issue [#43](https://github.com/zer0Kerbal/TheGoldStandard/issues/43) in [zer0Kerbal/TheGoldStandard](https://github.com/zer0Kerbal/TheGoldStandard)
+5. 🔒 Closed issue [#69](https://github.com/zer0Kerbal/TheGoldStandard/issues/69) in [zer0Kerbal/TheGoldStandard](https://github.com/zer0Kerbal/TheGoldStandard)
+6. 🔒 Closed issue [#70](https://github.com/zer0Kerbal/TheGoldStandard/issues/70) in [zer0Kerbal/TheGoldStandard](https://github.com/zer0Kerbal/TheGoldStandard)
+7. 🔒 Closed issue [#72](https://github.com/zer0Kerbal/TheGoldStandard/issues/72) in [zer0Kerbal/TheGoldStandard](https://github.com/zer0Kerbal/TheGoldStandard)
+8. 🔒 Closed issue [#43](https://github.com/zer0Kerbal/TheGoldStandard/issues/43) in [zer0Kerbal/TheGoldStandard](https://github.com/zer0Kerbal/TheGoldStandard)
+9. 🔒 Closed issue [#71](https://github.com/zer0Kerbal/TheGoldStandard/issues/71) in [zer0Kerbal/TheGoldStandard](https://github.com/zer0Kerbal/TheGoldStandard)
+10. 🎉 Merged PR [#74](https://github.com/zer0Kerbal/TheGoldStandard/pull/74) in [zer0Kerbal/TheGoldStandard](https://github.com/zer0Kerbal/TheGoldStandard)
 <!--END_SECTION:activity-->
 
 </details
