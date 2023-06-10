@@ -64,16 +64,16 @@ From
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Version 1.9.99.5-prerelease `<Sixth First Steps>` edition](https://github.com/Version 1.9.99.5-prerelease `<Sixth First Steps>` edition) in [zer0Kerbal/WernhersOldStuff](https://github.com/zer0Kerbal/WernhersOldStuff)
-2. 🔒 Closed issue [#64](https://github.com/zer0Kerbal/WernhersOldStuff/issues/64) in [zer0Kerbal/WernhersOldStuff](https://github.com/zer0Kerbal/WernhersOldStuff)
-3. 🔒 Closed issue [#66](https://github.com/zer0Kerbal/WernhersOldStuff/issues/66) in [zer0Kerbal/WernhersOldStuff](https://github.com/zer0Kerbal/WernhersOldStuff)
-4. 🔒 Closed issue [#65](https://github.com/zer0Kerbal/WernhersOldStuff/issues/65) in [zer0Kerbal/WernhersOldStuff](https://github.com/zer0Kerbal/WernhersOldStuff)
-5. 🔒 Closed issue [#36](https://github.com/zer0Kerbal/WernhersOldStuff/issues/36) in [zer0Kerbal/WernhersOldStuff](https://github.com/zer0Kerbal/WernhersOldStuff)
-6. 🔒 Closed issue [#32](https://github.com/zer0Kerbal/WernhersOldStuff/issues/32) in [zer0Kerbal/WernhersOldStuff](https://github.com/zer0Kerbal/WernhersOldStuff)
-7. 🔒 Closed issue [#69](https://github.com/zer0Kerbal/WernhersOldStuff/issues/69) in [zer0Kerbal/WernhersOldStuff](https://github.com/zer0Kerbal/WernhersOldStuff)
-8. 🔒 Closed issue [#67](https://github.com/zer0Kerbal/WernhersOldStuff/issues/67) in [zer0Kerbal/WernhersOldStuff](https://github.com/zer0Kerbal/WernhersOldStuff)
-9. 🔒 Closed issue [#57](https://github.com/zer0Kerbal/WernhersOldStuff/issues/57) in [zer0Kerbal/WernhersOldStuff](https://github.com/zer0Kerbal/WernhersOldStuff)
-10. 🔒 Closed issue [#31](https://github.com/zer0Kerbal/WernhersOldStuff/issues/31) in [zer0Kerbal/WernhersOldStuff](https://github.com/zer0Kerbal/WernhersOldStuff)
+1. 🗣 Commented on [#20](https://github.com/zer0Kerbal/WernhersOldStuff/issues/20) in [zer0Kerbal/WernhersOldStuff](https://github.com/zer0Kerbal/WernhersOldStuff)
+2. 🚀 Published release [Version 1.9.99.5-prerelease `<Sixth First Steps>` edition](https://github.com/Version 1.9.99.5-prerelease `<Sixth First Steps>` edition) in [zer0Kerbal/WernhersOldStuff](https://github.com/zer0Kerbal/WernhersOldStuff)
+3. 🔒 Closed issue [#64](https://github.com/zer0Kerbal/WernhersOldStuff/issues/64) in [zer0Kerbal/WernhersOldStuff](https://github.com/zer0Kerbal/WernhersOldStuff)
+4. 🔒 Closed issue [#66](https://github.com/zer0Kerbal/WernhersOldStuff/issues/66) in [zer0Kerbal/WernhersOldStuff](https://github.com/zer0Kerbal/WernhersOldStuff)
+5. 🔒 Closed issue [#65](https://github.com/zer0Kerbal/WernhersOldStuff/issues/65) in [zer0Kerbal/WernhersOldStuff](https://github.com/zer0Kerbal/WernhersOldStuff)
+6. 🔒 Closed issue [#36](https://github.com/zer0Kerbal/WernhersOldStuff/issues/36) in [zer0Kerbal/WernhersOldStuff](https://github.com/zer0Kerbal/WernhersOldStuff)
+7. 🔒 Closed issue [#32](https://github.com/zer0Kerbal/WernhersOldStuff/issues/32) in [zer0Kerbal/WernhersOldStuff](https://github.com/zer0Kerbal/WernhersOldStuff)
+8. 🔒 Closed issue [#69](https://github.com/zer0Kerbal/WernhersOldStuff/issues/69) in [zer0Kerbal/WernhersOldStuff](https://github.com/zer0Kerbal/WernhersOldStuff)
+9. 🔒 Closed issue [#67](https://github.com/zer0Kerbal/WernhersOldStuff/issues/67) in [zer0Kerbal/WernhersOldStuff](https://github.com/zer0Kerbal/WernhersOldStuff)
+10. 🔒 Closed issue [#57](https://github.com/zer0Kerbal/WernhersOldStuff/issues/57) in [zer0Kerbal/WernhersOldStuff](https://github.com/zer0Kerbal/WernhersOldStuff)
 <!--END_SECTION:activity-->
 
 </details
