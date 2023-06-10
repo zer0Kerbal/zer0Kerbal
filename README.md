@@ -64,16 +64,16 @@ From
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#73](https://github.com/zer0Kerbal/WernhersOldStuff/issues/73) in [zer0Kerbal/WernhersOldStuff](https://github.com/zer0Kerbal/WernhersOldStuff)
-2. ❗ Opened issue [#72](https://github.com/zer0Kerbal/WernhersOldStuff/issues/72) in [zer0Kerbal/WernhersOldStuff](https://github.com/zer0Kerbal/WernhersOldStuff)
-3. 🗣 Commented on [#49](https://github.com/zer0Kerbal/TheGoldStandard/issues/49) in [zer0Kerbal/TheGoldStandard](https://github.com/zer0Kerbal/TheGoldStandard)
-4. ❗ Opened issue [#77](https://github.com/zer0Kerbal/TheGoldStandard/issues/77) in [zer0Kerbal/TheGoldStandard](https://github.com/zer0Kerbal/TheGoldStandard)
-5. ❗ Opened issue [#76](https://github.com/zer0Kerbal/TheGoldStandard/issues/76) in [zer0Kerbal/TheGoldStandard](https://github.com/zer0Kerbal/TheGoldStandard)
-6. 🚀 Published release [Version 1.6.4.0-release - `<Thank you Dewar>`](https://github.com/Version 1.6.4.0-release - `<Thank you Dewar>`) in [zer0Kerbal/TheGoldStandard](https://github.com/zer0Kerbal/TheGoldStandard)
-7. 🔒 Closed issue [#43](https://github.com/zer0Kerbal/TheGoldStandard/issues/43) in [zer0Kerbal/TheGoldStandard](https://github.com/zer0Kerbal/TheGoldStandard)
-8. 🔒 Closed issue [#69](https://github.com/zer0Kerbal/TheGoldStandard/issues/69) in [zer0Kerbal/TheGoldStandard](https://github.com/zer0Kerbal/TheGoldStandard)
-9. 🔒 Closed issue [#70](https://github.com/zer0Kerbal/TheGoldStandard/issues/70) in [zer0Kerbal/TheGoldStandard](https://github.com/zer0Kerbal/TheGoldStandard)
-10. 🔒 Closed issue [#72](https://github.com/zer0Kerbal/TheGoldStandard/issues/72) in [zer0Kerbal/TheGoldStandard](https://github.com/zer0Kerbal/TheGoldStandard)
+1. 🚀 Published release [Version 1.9.99.5-prerelease `<Sixth First Steps>` edition](https://github.com/Version 1.9.99.5-prerelease `<Sixth First Steps>` edition) in [zer0Kerbal/WernhersOldStuff](https://github.com/zer0Kerbal/WernhersOldStuff)
+2. 🔒 Closed issue [#64](https://github.com/zer0Kerbal/WernhersOldStuff/issues/64) in [zer0Kerbal/WernhersOldStuff](https://github.com/zer0Kerbal/WernhersOldStuff)
+3. 🔒 Closed issue [#66](https://github.com/zer0Kerbal/WernhersOldStuff/issues/66) in [zer0Kerbal/WernhersOldStuff](https://github.com/zer0Kerbal/WernhersOldStuff)
+4. 🔒 Closed issue [#65](https://github.com/zer0Kerbal/WernhersOldStuff/issues/65) in [zer0Kerbal/WernhersOldStuff](https://github.com/zer0Kerbal/WernhersOldStuff)
+5. 🔒 Closed issue [#36](https://github.com/zer0Kerbal/WernhersOldStuff/issues/36) in [zer0Kerbal/WernhersOldStuff](https://github.com/zer0Kerbal/WernhersOldStuff)
+6. 🔒 Closed issue [#32](https://github.com/zer0Kerbal/WernhersOldStuff/issues/32) in [zer0Kerbal/WernhersOldStuff](https://github.com/zer0Kerbal/WernhersOldStuff)
+7. 🔒 Closed issue [#69](https://github.com/zer0Kerbal/WernhersOldStuff/issues/69) in [zer0Kerbal/WernhersOldStuff](https://github.com/zer0Kerbal/WernhersOldStuff)
+8. 🔒 Closed issue [#67](https://github.com/zer0Kerbal/WernhersOldStuff/issues/67) in [zer0Kerbal/WernhersOldStuff](https://github.com/zer0Kerbal/WernhersOldStuff)
+9. 🔒 Closed issue [#57](https://github.com/zer0Kerbal/WernhersOldStuff/issues/57) in [zer0Kerbal/WernhersOldStuff](https://github.com/zer0Kerbal/WernhersOldStuff)
+10. 🔒 Closed issue [#31](https://github.com/zer0Kerbal/WernhersOldStuff/issues/31) in [zer0Kerbal/WernhersOldStuff](https://github.com/zer0Kerbal/WernhersOldStuff)
 <!--END_SECTION:activity-->
 
 </details
