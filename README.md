@@ -64,16 +64,16 @@ From
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Version 1.8.99.0-adoption - `<Thank you Alshain, dueb and Jiraiyah>` edition](https://github.com/Version 1.8.99.0-adoption - `<Thank you Alshain, dueb and Jiraiyah>` edition) in [zer0Kerbal/BULB](https://github.com/zer0Kerbal/BULB)
-2. 🔒 Closed issue [#5](https://github.com/zer0Kerbal/BULB/issues/5) in [zer0Kerbal/BULB](https://github.com/zer0Kerbal/BULB)
-3. 🔒 Closed issue [#7](https://github.com/zer0Kerbal/BULB/issues/7) in [zer0Kerbal/BULB](https://github.com/zer0Kerbal/BULB)
-4. 🔒 Closed issue [#4](https://github.com/zer0Kerbal/BULB/issues/4) in [zer0Kerbal/BULB](https://github.com/zer0Kerbal/BULB)
-5. 🔒 Closed issue [#3](https://github.com/zer0Kerbal/BULB/issues/3) in [zer0Kerbal/BULB](https://github.com/zer0Kerbal/BULB)
-6. 🔒 Closed issue [#2](https://github.com/zer0Kerbal/BULB/issues/2) in [zer0Kerbal/BULB](https://github.com/zer0Kerbal/BULB)
-7. 🔒 Closed issue [#6](https://github.com/zer0Kerbal/BULB/issues/6) in [zer0Kerbal/BULB](https://github.com/zer0Kerbal/BULB)
-8. 🔒 Closed issue [#17](https://github.com/zer0Kerbal/BULB/issues/17) in [zer0Kerbal/BULB](https://github.com/zer0Kerbal/BULB)
-9. 🔒 Closed issue [#34](https://github.com/zer0Kerbal/BULB/issues/34) in [zer0Kerbal/BULB](https://github.com/zer0Kerbal/BULB)
-10. 🎉 Merged PR [#37](https://github.com/zer0Kerbal/BULB/pull/37) in [zer0Kerbal/BULB](https://github.com/zer0Kerbal/BULB)
+1. 🚀 Published release [Version 2.0.99.1-prerelease - `<Спасибо evanisrael>` edition](https://github.com/Version 2.0.99.1-prerelease - `<Спасибо evanisrael>` edition) in [zer0Kerbal/NearFutureRovers](https://github.com/zer0Kerbal/NearFutureRovers)
+2. 🔒 Closed issue [#39](https://github.com/zer0Kerbal/NearFutureRovers/issues/39) in [zer0Kerbal/NearFutureRovers](https://github.com/zer0Kerbal/NearFutureRovers)
+3. 🔒 Closed issue [#38](https://github.com/zer0Kerbal/NearFutureRovers/issues/38) in [zer0Kerbal/NearFutureRovers](https://github.com/zer0Kerbal/NearFutureRovers)
+4. 🔒 Closed issue [#21](https://github.com/zer0Kerbal/NearFutureRovers/issues/21) in [zer0Kerbal/NearFutureRovers](https://github.com/zer0Kerbal/NearFutureRovers)
+5. 🎉 Merged PR [#45](https://github.com/zer0Kerbal/NearFutureRovers/pull/45) in [zer0Kerbal/NearFutureRovers](https://github.com/zer0Kerbal/NearFutureRovers)
+6. 💪 Opened PR [#45](https://github.com/zer0Kerbal/NearFutureRovers/pull/45) in [zer0Kerbal/NearFutureRovers](https://github.com/zer0Kerbal/NearFutureRovers)
+7. ❗ Opened issue [#44](https://github.com/zer0Kerbal/NearFutureRovers/issues/44) in [zer0Kerbal/NearFutureRovers](https://github.com/zer0Kerbal/NearFutureRovers)
+8. ❗ Opened issue [#43](https://github.com/zer0Kerbal/NearFutureRovers/issues/43) in [zer0Kerbal/NearFutureRovers](https://github.com/zer0Kerbal/NearFutureRovers)
+9. 🎉 Merged PR [#42](https://github.com/zer0Kerbal/NearFutureRovers/pull/42) in [zer0Kerbal/NearFutureRovers](https://github.com/zer0Kerbal/NearFutureRovers)
+10. 🚀 Published release [Version 1.8.99.0-adoption - `<Thank you Alshain, dueb and Jiraiyah>` edition](https://github.com/Version 1.8.99.0-adoption - `<Thank you Alshain, dueb and Jiraiyah>` edition) in [zer0Kerbal/BULB](https://github.com/zer0Kerbal/BULB)
 <!--END_SECTION:activity-->
 
 </details
