@@ -64,16 +64,16 @@ From
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Version 1.8.1.1-release - `<Archival Release>`](https://github.com/Version 1.8.1.1-release - `<Archival Release>`) in [zer0Kerbal/BULB](https://github.com/zer0Kerbal/BULB)
-2. 🎉 Merged PR [#14](https://github.com/zer0Kerbal/BULB/pull/14) in [zer0Kerbal/BULB](https://github.com/zer0Kerbal/BULB)
-3. 💪 Opened PR [#14](https://github.com/zer0Kerbal/BULB/pull/14) in [zer0Kerbal/BULB](https://github.com/zer0Kerbal/BULB)
-4. 🚀 Published release [Version 1.8.1.0-release - `<Archival Release>`](https://github.com/Version 1.8.1.0-release - `<Archival Release>`) in [zer0Kerbal/BULB](https://github.com/zer0Kerbal/BULB)
-5. 🎉 Merged PR [#13](https://github.com/zer0Kerbal/BULB/pull/13) in [zer0Kerbal/BULB](https://github.com/zer0Kerbal/BULB)
-6. 💪 Opened PR [#13](https://github.com/zer0Kerbal/BULB/pull/13) in [zer0Kerbal/BULB](https://github.com/zer0Kerbal/BULB)
-7. 🚀 Published release [Version 1.3.5.0-release - `<Archival Release>`](https://github.com/Version 1.3.5.0-release - `<Archival Release>`) in [zer0Kerbal/BULB](https://github.com/zer0Kerbal/BULB)
-8. 🎉 Merged PR [#12](https://github.com/zer0Kerbal/BULB/pull/12) in [zer0Kerbal/BULB](https://github.com/zer0Kerbal/BULB)
-9. 💪 Opened PR [#12](https://github.com/zer0Kerbal/BULB/pull/12) in [zer0Kerbal/BULB](https://github.com/zer0Kerbal/BULB)
-10. 🚀 Published release [Version 1.3.4.2-release - `<Archival Release>`](https://github.com/Version 1.3.4.2-release - `<Archival Release>`) in [zer0Kerbal/BULB](https://github.com/zer0Kerbal/BULB)
+1. ❗ Opened issue [#36](https://github.com/zer0Kerbal/BULB/issues/36) in [zer0Kerbal/BULB](https://github.com/zer0Kerbal/BULB)
+2. ❗ Opened issue [#35](https://github.com/zer0Kerbal/BULB/issues/35) in [zer0Kerbal/BULB](https://github.com/zer0Kerbal/BULB)
+3. ❗ Opened issue [#34](https://github.com/zer0Kerbal/BULB/issues/34) in [zer0Kerbal/BULB](https://github.com/zer0Kerbal/BULB)
+4. ❗ Opened issue [#33](https://github.com/zer0Kerbal/BULB/issues/33) in [zer0Kerbal/BULB](https://github.com/zer0Kerbal/BULB)
+5. ❗ Opened issue [#32](https://github.com/zer0Kerbal/BULB/issues/32) in [zer0Kerbal/BULB](https://github.com/zer0Kerbal/BULB)
+6. ❗ Opened issue [#31](https://github.com/zer0Kerbal/BULB/issues/31) in [zer0Kerbal/BULB](https://github.com/zer0Kerbal/BULB)
+7. ❗ Opened issue [#30](https://github.com/zer0Kerbal/BULB/issues/30) in [zer0Kerbal/BULB](https://github.com/zer0Kerbal/BULB)
+8. ❗ Opened issue [#29](https://github.com/zer0Kerbal/BULB/issues/29) in [zer0Kerbal/BULB](https://github.com/zer0Kerbal/BULB)
+9. ❗ Opened issue [#28](https://github.com/zer0Kerbal/BULB/issues/28) in [zer0Kerbal/BULB](https://github.com/zer0Kerbal/BULB)
+10. ❗ Opened issue [#27](https://github.com/zer0Kerbal/BULB/issues/27) in [zer0Kerbal/BULB](https://github.com/zer0Kerbal/BULB)
 <!--END_SECTION:activity-->
 
 </details
