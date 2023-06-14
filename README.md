@@ -64,16 +64,16 @@ From
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#49](https://github.com/zer0Kerbal/SafetyWall/pull/49) in [zer0Kerbal/SafetyWall](https://github.com/zer0Kerbal/SafetyWall)
-2. 🗣 Commented on [#24](https://github.com/zer0Kerbal/SafetyWall/issues/24) in [zer0Kerbal/SafetyWall](https://github.com/zer0Kerbal/SafetyWall)
-3. ❌ Reopened PR [#49](https://github.com/zer0Kerbal/SafetyWall/pull/49) in [zer0Kerbal/SafetyWall](https://github.com/zer0Kerbal/SafetyWall)
-4. ❗ Opened issue [#53](https://github.com/zer0Kerbal/SafetyWall/issues/53) in [zer0Kerbal/SafetyWall](https://github.com/zer0Kerbal/SafetyWall)
-5. ❗ Opened issue [#52](https://github.com/zer0Kerbal/SafetyWall/issues/52) in [zer0Kerbal/SafetyWall](https://github.com/zer0Kerbal/SafetyWall)
-6. 🚀 Published release [Version 1.3.3.0-release - `<Bedankt wittekop38>` edition](https://github.com/Version 1.3.3.0-release - `<Bedankt wittekop38>` edition) in [zer0Kerbal/SafetyWall](https://github.com/zer0Kerbal/SafetyWall)
-7. 🔒 Closed issue [#28](https://github.com/zer0Kerbal/SafetyWall/issues/28) in [zer0Kerbal/SafetyWall](https://github.com/zer0Kerbal/SafetyWall)
-8. ❌ Closed PR [#49](https://github.com/zer0Kerbal/SafetyWall/pull/49) in [zer0Kerbal/SafetyWall](https://github.com/zer0Kerbal/SafetyWall)
-9. 🎉 Merged PR [#50](https://github.com/zer0Kerbal/SafetyWall/pull/50) in [zer0Kerbal/SafetyWall](https://github.com/zer0Kerbal/SafetyWall)
-10. 💪 Opened PR [#50](https://github.com/zer0Kerbal/SafetyWall/pull/50) in [zer0Kerbal/SafetyWall](https://github.com/zer0Kerbal/SafetyWall)
+1. 🚀 Published release [Version 3.9.99.2-prerelease - `<Спасибо evanisrael>` edition](https://github.com/Version 3.9.99.2-prerelease - `<Спасибо evanisrael>` edition) in [zer0Kerbal/Proton](https://github.com/zer0Kerbal/Proton)
+2. 🔒 Closed issue [#47](https://github.com/zer0Kerbal/Proton/issues/47) in [zer0Kerbal/Proton](https://github.com/zer0Kerbal/Proton)
+3. 🔒 Closed issue [#46](https://github.com/zer0Kerbal/Proton/issues/46) in [zer0Kerbal/Proton](https://github.com/zer0Kerbal/Proton)
+4. 🔒 Closed issue [#23](https://github.com/zer0Kerbal/Proton/issues/23) in [zer0Kerbal/Proton](https://github.com/zer0Kerbal/Proton)
+5. 🎉 Merged PR [#53](https://github.com/zer0Kerbal/Proton/pull/53) in [zer0Kerbal/Proton](https://github.com/zer0Kerbal/Proton)
+6. 💪 Opened PR [#53](https://github.com/zer0Kerbal/Proton/pull/53) in [zer0Kerbal/Proton](https://github.com/zer0Kerbal/Proton)
+7. 🎉 Merged PR [#50](https://github.com/zer0Kerbal/Proton/pull/50) in [zer0Kerbal/Proton](https://github.com/zer0Kerbal/Proton)
+8. ❗ Opened issue [#52](https://github.com/zer0Kerbal/Proton/issues/52) in [zer0Kerbal/Proton](https://github.com/zer0Kerbal/Proton)
+9. ❗ Opened issue [#51](https://github.com/zer0Kerbal/Proton/issues/51) in [zer0Kerbal/Proton](https://github.com/zer0Kerbal/Proton)
+10. 🎉 Merged PR [#49](https://github.com/zer0Kerbal/SafetyWall/pull/49) in [zer0Kerbal/SafetyWall](https://github.com/zer0Kerbal/SafetyWall)
 <!--END_SECTION:activity-->
 
 </details
