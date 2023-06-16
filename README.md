@@ -64,16 +64,16 @@ From
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#69](https://github.com/zer0Kerbal/MIR/issues/69) in [zer0Kerbal/MIR](https://github.com/zer0Kerbal/MIR)
-2. 🗣 Commented on [#70](https://github.com/zer0Kerbal/MIR/issues/70) in [zer0Kerbal/MIR](https://github.com/zer0Kerbal/MIR)
-3. ❗ Opened issue [#70](https://github.com/zer0Kerbal/MIR/issues/70) in [zer0Kerbal/MIR](https://github.com/zer0Kerbal/MIR)
-4. ❗ Opened issue [#69](https://github.com/zer0Kerbal/MIR/issues/69) in [zer0Kerbal/MIR](https://github.com/zer0Kerbal/MIR)
-5. ❗ Opened issue [#68](https://github.com/zer0Kerbal/MIR/issues/68) in [zer0Kerbal/MIR](https://github.com/zer0Kerbal/MIR)
-6. ❗ Opened issue [#67](https://github.com/zer0Kerbal/MIR/issues/67) in [zer0Kerbal/MIR](https://github.com/zer0Kerbal/MIR)
-7. ❗ Opened issue [#46](https://github.com/zer0Kerbal/BobCatInd/issues/46) in [zer0Kerbal/BobCatInd](https://github.com/zer0Kerbal/BobCatInd)
-8. ❗ Opened issue [#45](https://github.com/zer0Kerbal/BobCatInd/issues/45) in [zer0Kerbal/BobCatInd](https://github.com/zer0Kerbal/BobCatInd)
-9. 🚀 Published release [Version 0.9.99.3-prerelease - `<Спасибо evanisrael>` edition](https://github.com/Version 0.9.99.3-prerelease - `<Спасибо evanisrael>` edition) in [zer0Kerbal/BobCatInd](https://github.com/zer0Kerbal/BobCatInd)
-10. 🚀 Published release [Version 0.9.99.3-prerelease - `<Спасибо evanisrael>` edition](https://github.com/Version 0.9.99.3-prerelease - `<Спасибо evanisrael>` edition) in [zer0Kerbal/BobCatInd](https://github.com/zer0Kerbal/BobCatInd)
+1. 🚀 Published release [Version 4.0.99.3-prerelease `<Спасибо evanisrael>` edition](https://github.com/Version 4.0.99.3-prerelease `<Спасибо evanisrael>` edition) in [zer0Kerbal/MIR](https://github.com/zer0Kerbal/MIR)
+2. 🔒 Closed issue [#66](https://github.com/zer0Kerbal/MIR/issues/66) in [zer0Kerbal/MIR](https://github.com/zer0Kerbal/MIR)
+3. 🔒 Closed issue [#65](https://github.com/zer0Kerbal/MIR/issues/65) in [zer0Kerbal/MIR](https://github.com/zer0Kerbal/MIR)
+4. 🔒 Closed issue [#70](https://github.com/zer0Kerbal/MIR/issues/70) in [zer0Kerbal/MIR](https://github.com/zer0Kerbal/MIR)
+5. 🔒 Closed issue [#20](https://github.com/zer0Kerbal/MIR/issues/20) in [zer0Kerbal/MIR](https://github.com/zer0Kerbal/MIR)
+6. 🔒 Closed issue [#69](https://github.com/zer0Kerbal/MIR/issues/69) in [zer0Kerbal/MIR](https://github.com/zer0Kerbal/MIR)
+7. 🎉 Merged PR [#71](https://github.com/zer0Kerbal/MIR/pull/71) in [zer0Kerbal/MIR](https://github.com/zer0Kerbal/MIR)
+8. 💪 Opened PR [#71](https://github.com/zer0Kerbal/MIR/pull/71) in [zer0Kerbal/MIR](https://github.com/zer0Kerbal/MIR)
+9. 🗣 Commented on [#62](https://github.com/zer0Kerbal/MIR/issues/62) in [zer0Kerbal/MIR](https://github.com/zer0Kerbal/MIR)
+10. 🗣 Commented on [#69](https://github.com/zer0Kerbal/MIR/issues/69) in [zer0Kerbal/MIR](https://github.com/zer0Kerbal/MIR)
 <!--END_SECTION:activity-->
 
 </details
