@@ -64,16 +64,16 @@ From
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#41](https://github.com/zer0Kerbal/BobCatInd/pull/41) in [zer0Kerbal/BobCatInd](https://github.com/zer0Kerbal/BobCatInd)
-2. 🗣 Commented on [#28](https://github.com/zer0Kerbal/LithobrakeExplorationTechnologies/issues/28) in [zer0Kerbal/LithobrakeExplorationTechnologies](https://github.com/zer0Kerbal/LithobrakeExplorationTechnologies)
-3. 🚀 Published release [Version 3.9.99.2-prerelease - `<Спасибо evanisrael>` edition](https://github.com/Version 3.9.99.2-prerelease - `<Спасибо evanisrael>` edition) in [zer0Kerbal/Proton](https://github.com/zer0Kerbal/Proton)
-4. 🔒 Closed issue [#47](https://github.com/zer0Kerbal/Proton/issues/47) in [zer0Kerbal/Proton](https://github.com/zer0Kerbal/Proton)
-5. 🔒 Closed issue [#46](https://github.com/zer0Kerbal/Proton/issues/46) in [zer0Kerbal/Proton](https://github.com/zer0Kerbal/Proton)
-6. 🔒 Closed issue [#23](https://github.com/zer0Kerbal/Proton/issues/23) in [zer0Kerbal/Proton](https://github.com/zer0Kerbal/Proton)
-7. 🎉 Merged PR [#53](https://github.com/zer0Kerbal/Proton/pull/53) in [zer0Kerbal/Proton](https://github.com/zer0Kerbal/Proton)
-8. 💪 Opened PR [#53](https://github.com/zer0Kerbal/Proton/pull/53) in [zer0Kerbal/Proton](https://github.com/zer0Kerbal/Proton)
-9. 🎉 Merged PR [#50](https://github.com/zer0Kerbal/Proton/pull/50) in [zer0Kerbal/Proton](https://github.com/zer0Kerbal/Proton)
-10. ❗ Opened issue [#52](https://github.com/zer0Kerbal/Proton/issues/52) in [zer0Kerbal/Proton](https://github.com/zer0Kerbal/Proton)
+1. ❗ Opened issue [#46](https://github.com/zer0Kerbal/BobCatInd/issues/46) in [zer0Kerbal/BobCatInd](https://github.com/zer0Kerbal/BobCatInd)
+2. ❗ Opened issue [#45](https://github.com/zer0Kerbal/BobCatInd/issues/45) in [zer0Kerbal/BobCatInd](https://github.com/zer0Kerbal/BobCatInd)
+3. 🚀 Published release [Version 0.9.99.3-prerelease - `<Спасибо evanisrael>` edition](https://github.com/Version 0.9.99.3-prerelease - `<Спасибо evanisrael>` edition) in [zer0Kerbal/BobCatInd](https://github.com/zer0Kerbal/BobCatInd)
+4. 🚀 Published release [Version 0.9.99.3-prerelease - `<Спасибо evanisrael>` edition](https://github.com/Version 0.9.99.3-prerelease - `<Спасибо evanisrael>` edition) in [zer0Kerbal/BobCatInd](https://github.com/zer0Kerbal/BobCatInd)
+5. 🔒 Closed issue [#38](https://github.com/zer0Kerbal/BobCatInd/issues/38) in [zer0Kerbal/BobCatInd](https://github.com/zer0Kerbal/BobCatInd)
+6. 🔒 Closed issue [#37](https://github.com/zer0Kerbal/BobCatInd/issues/37) in [zer0Kerbal/BobCatInd](https://github.com/zer0Kerbal/BobCatInd)
+7. 🔒 Closed issue [#13](https://github.com/zer0Kerbal/BobCatInd/issues/13) in [zer0Kerbal/BobCatInd](https://github.com/zer0Kerbal/BobCatInd)
+8. 🎉 Merged PR [#42](https://github.com/zer0Kerbal/BobCatInd/pull/42) in [zer0Kerbal/BobCatInd](https://github.com/zer0Kerbal/BobCatInd)
+9. 💪 Opened PR [#42](https://github.com/zer0Kerbal/BobCatInd/pull/42) in [zer0Kerbal/BobCatInd](https://github.com/zer0Kerbal/BobCatInd)
+10. 🎉 Merged PR [#41](https://github.com/zer0Kerbal/BobCatInd/pull/41) in [zer0Kerbal/BobCatInd](https://github.com/zer0Kerbal/BobCatInd)
 <!--END_SECTION:activity-->
 
 </details
