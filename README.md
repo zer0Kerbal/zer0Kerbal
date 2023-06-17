@@ -64,16 +64,16 @@ From
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#118](https://github.com/zer0Kerbal/LithobrakeExplorationTechnologies/issues/118) in [zer0Kerbal/LithobrakeExplorationTechnologies](https://github.com/zer0Kerbal/LithobrakeExplorationTechnologies)
-2. ❗ Opened issue [#117](https://github.com/zer0Kerbal/LithobrakeExplorationTechnologies/issues/117) in [zer0Kerbal/LithobrakeExplorationTechnologies](https://github.com/zer0Kerbal/LithobrakeExplorationTechnologies)
-3. 🚀 Published release [Version 0.5.2.0-release - `<Спасибо Davian Lin>` edition](https://github.com/Version 0.5.2.0-release - `<Спасибо Davian Lin>` edition) in [zer0Kerbal/LithobrakeExplorationTechnologies](https://github.com/zer0Kerbal/LithobrakeExplorationTechnologies)
-4. 🔒 Closed issue [#114](https://github.com/zer0Kerbal/LithobrakeExplorationTechnologies/issues/114) in [zer0Kerbal/LithobrakeExplorationTechnologies](https://github.com/zer0Kerbal/LithobrakeExplorationTechnologies)
-5. 🔒 Closed issue [#113](https://github.com/zer0Kerbal/LithobrakeExplorationTechnologies/issues/113) in [zer0Kerbal/LithobrakeExplorationTechnologies](https://github.com/zer0Kerbal/LithobrakeExplorationTechnologies)
-6. 🔒 Closed issue [#112](https://github.com/zer0Kerbal/LithobrakeExplorationTechnologies/issues/112) in [zer0Kerbal/LithobrakeExplorationTechnologies](https://github.com/zer0Kerbal/LithobrakeExplorationTechnologies)
-7. 🔒 Closed issue [#111](https://github.com/zer0Kerbal/LithobrakeExplorationTechnologies/issues/111) in [zer0Kerbal/LithobrakeExplorationTechnologies](https://github.com/zer0Kerbal/LithobrakeExplorationTechnologies)
-8. 🔒 Closed issue [#28](https://github.com/zer0Kerbal/LithobrakeExplorationTechnologies/issues/28) in [zer0Kerbal/LithobrakeExplorationTechnologies](https://github.com/zer0Kerbal/LithobrakeExplorationTechnologies)
-9. 🎉 Merged PR [#115](https://github.com/zer0Kerbal/LithobrakeExplorationTechnologies/pull/115) in [zer0Kerbal/LithobrakeExplorationTechnologies](https://github.com/zer0Kerbal/LithobrakeExplorationTechnologies)
-10. 💪 Opened PR [#115](https://github.com/zer0Kerbal/LithobrakeExplorationTechnologies/pull/115) in [zer0Kerbal/LithobrakeExplorationTechnologies](https://github.com/zer0Kerbal/LithobrakeExplorationTechnologies)
+1. 🗣 Commented on [#81](https://github.com/zer0Kerbal/KeridianDynamics/issues/81) in [zer0Kerbal/KeridianDynamics](https://github.com/zer0Kerbal/KeridianDynamics)
+2. ❗ Opened issue [#118](https://github.com/zer0Kerbal/LithobrakeExplorationTechnologies/issues/118) in [zer0Kerbal/LithobrakeExplorationTechnologies](https://github.com/zer0Kerbal/LithobrakeExplorationTechnologies)
+3. ❗ Opened issue [#117](https://github.com/zer0Kerbal/LithobrakeExplorationTechnologies/issues/117) in [zer0Kerbal/LithobrakeExplorationTechnologies](https://github.com/zer0Kerbal/LithobrakeExplorationTechnologies)
+4. 🚀 Published release [Version 0.5.2.0-release - `<Спасибо Davian Lin>` edition](https://github.com/Version 0.5.2.0-release - `<Спасибо Davian Lin>` edition) in [zer0Kerbal/LithobrakeExplorationTechnologies](https://github.com/zer0Kerbal/LithobrakeExplorationTechnologies)
+5. 🔒 Closed issue [#114](https://github.com/zer0Kerbal/LithobrakeExplorationTechnologies/issues/114) in [zer0Kerbal/LithobrakeExplorationTechnologies](https://github.com/zer0Kerbal/LithobrakeExplorationTechnologies)
+6. 🔒 Closed issue [#113](https://github.com/zer0Kerbal/LithobrakeExplorationTechnologies/issues/113) in [zer0Kerbal/LithobrakeExplorationTechnologies](https://github.com/zer0Kerbal/LithobrakeExplorationTechnologies)
+7. 🔒 Closed issue [#112](https://github.com/zer0Kerbal/LithobrakeExplorationTechnologies/issues/112) in [zer0Kerbal/LithobrakeExplorationTechnologies](https://github.com/zer0Kerbal/LithobrakeExplorationTechnologies)
+8. 🔒 Closed issue [#111](https://github.com/zer0Kerbal/LithobrakeExplorationTechnologies/issues/111) in [zer0Kerbal/LithobrakeExplorationTechnologies](https://github.com/zer0Kerbal/LithobrakeExplorationTechnologies)
+9. 🔒 Closed issue [#28](https://github.com/zer0Kerbal/LithobrakeExplorationTechnologies/issues/28) in [zer0Kerbal/LithobrakeExplorationTechnologies](https://github.com/zer0Kerbal/LithobrakeExplorationTechnologies)
+10. 🎉 Merged PR [#115](https://github.com/zer0Kerbal/LithobrakeExplorationTechnologies/pull/115) in [zer0Kerbal/LithobrakeExplorationTechnologies](https://github.com/zer0Kerbal/LithobrakeExplorationTechnologies)
 <!--END_SECTION:activity-->
 
 </details
