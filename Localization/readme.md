@@ -2,14 +2,18 @@
 permalink: /readme.html
 title: Localization and Translation Readme
 ---
-
 <!--
-readme.md v2.1.2.0
+readme.md v2.1.2.1
 Localization project
 created: 01 Jan 2018
-updated: 13 May 2022  -->
+updated: 13 May 2022
+updated: 04 Jun 2023
 
-<!--from: @HebruSan (thank you) ![link](https://github.com/HebaruSan/Astrogator/tree/master/assets/lang)  -->
+THIS FILE:
+    CC BY-ND-4.0
+    by [zer0Kerbal](https://gitbug.com/zer0Kerbal)
+    inspired by: HebruSan (thank you)
+-->
 
 # Translating to your language
 
@@ -28,19 +32,19 @@ Note: Even though you will appear to be editing the project's files, don't worry
   * ![Brasil][BR] Brazilian <pt-br.cfg>
   * ![中文][CN] Simplified Chinese (中文) <zh-cn.cfg>
   * ![Deutsch][DE] German (Deutsch) <de.cfg>
-  * ![Español][ES]] [Spanish (Español) <es-es.cfg>
+  * ![Español][ES] Spanish (Español) <es-es.cfg>
   * ![Français][FR] French (Français)<fr-fr.cfg>
   * ![Italiano][IT] Italian (Italiano) <it-it.cfg>
   * ![日本語][JA] Japanese (日本語) <ja.cfg>
 * Included as well
   * ![한국어][KO] Korean (한국어) <ko.cfg>
-  * ![Español Mexicano][ME] Mexican Spanish (Español Mexicano) <es-mx.cfg>
+  * ![Español Mexicano][MX] Mexican Spanish (Español Mexicano) <es-mx.cfg>
   * ![Dutch][NL] Dutch <nl-nl.cfg>
   * ![Norsk][NO] Norwegian (Norsk) <no-no.cfg>
   * ![Polski][PO] Polish (Polski) <pl.cfg>
   * ![Русский][RU] Russian (Русский) <ru.cfg>
   * ![Svenska][SW] Swedish (Svenska) <sw-sw.cfg>
-  * ![国语][TW]] Taiwanese (国语) <zh-tw.cfg>
+  * ![国语][TW] Taiwanese (国语) <zh-tw.cfg>
 
 ## Creating or editing a translation
 
@@ -62,10 +66,10 @@ The remaining steps are different depending on whether the file already exists:
 
 Follow these steps to make improvements to an existing translation:
 
-4. Edit the file for your language in your favorite text editor
-5. Make the changes you wish to see in-game (see the [File format section](#file-format) below for details)
-6. Save your changes
-7. Remember to [test your changes](#testing)!
+4 Edit the file for your language in your favorite text editor
+5 Make the changes you wish to see in-game (see the [File format section](#file-format) below for details)
+6 Save your changes
+7 Remember to [test your changes](#testing)!
 
 ### If the file does not exist
 
@@ -167,4 +171,5 @@ Once all the questions and comments are resolved to my satisfaction, your change
 [SW]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/SW.png "Svenska"  
 [TW]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/TW.png "国语"
 
-<!-- CC BY-ND 4.0 by zer0Kerbal  -->
+THIS FILE: CC BY-ND 4.0 by [zer0Kerbal](https://github.com/zer0Kerbal)
+  used with express permission from zer0Kerbal
