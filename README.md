@@ -64,16 +64,16 @@ From
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#186](https://github.com/zer0Kerbal/SimpleConstruction/issues/186) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
-2. 🔒 Reopened issue [#32](https://github.com/zer0Kerbal/SimpleConstruction/issues/32) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
-3. 🔒 Reopened issue [#24](https://github.com/zer0Kerbal/SimpleConstruction/issues/24) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
-4. ❗ Opened issue [#85](https://github.com/zer0Kerbal/KeridianDynamics/issues/85) in [zer0Kerbal/KeridianDynamics](https://github.com/zer0Kerbal/KeridianDynamics)
-5. ❗ Opened issue [#84](https://github.com/zer0Kerbal/KeridianDynamics/issues/84) in [zer0Kerbal/KeridianDynamics](https://github.com/zer0Kerbal/KeridianDynamics)
-6. 🚀 Published release [Version 0.8.99.7-prerelease - `<#8 Please Read the Instructions>` edition](https://github.com/Version 0.8.99.7-prerelease - `<#8 Please Read the Instructions>` edition) in [zer0Kerbal/KeridianDynamics](https://github.com/zer0Kerbal/KeridianDynamics)
-7. 🔒 Closed issue [#80](https://github.com/zer0Kerbal/KeridianDynamics/issues/80) in [zer0Kerbal/KeridianDynamics](https://github.com/zer0Kerbal/KeridianDynamics)
-8. 🔒 Closed issue [#78](https://github.com/zer0Kerbal/KeridianDynamics/issues/78) in [zer0Kerbal/KeridianDynamics](https://github.com/zer0Kerbal/KeridianDynamics)
-9. 🔒 Closed issue [#77](https://github.com/zer0Kerbal/KeridianDynamics/issues/77) in [zer0Kerbal/KeridianDynamics](https://github.com/zer0Kerbal/KeridianDynamics)
-10. 🔒 Closed issue [#81](https://github.com/zer0Kerbal/KeridianDynamics/issues/81) in [zer0Kerbal/KeridianDynamics](https://github.com/zer0Kerbal/KeridianDynamics)
+1. 💪 Opened PR [#188](https://github.com/zer0Kerbal/SimpleConstruction/pull/188) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
+2. 🗣 Commented on [#184](https://github.com/zer0Kerbal/SimpleConstruction/issues/184) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
+3. 🗣 Commented on [#186](https://github.com/zer0Kerbal/SimpleConstruction/issues/186) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
+4. 🔒 Reopened issue [#32](https://github.com/zer0Kerbal/SimpleConstruction/issues/32) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
+5. 🔒 Reopened issue [#24](https://github.com/zer0Kerbal/SimpleConstruction/issues/24) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
+6. ❗ Opened issue [#85](https://github.com/zer0Kerbal/KeridianDynamics/issues/85) in [zer0Kerbal/KeridianDynamics](https://github.com/zer0Kerbal/KeridianDynamics)
+7. ❗ Opened issue [#84](https://github.com/zer0Kerbal/KeridianDynamics/issues/84) in [zer0Kerbal/KeridianDynamics](https://github.com/zer0Kerbal/KeridianDynamics)
+8. 🚀 Published release [Version 0.8.99.7-prerelease - `<#8 Please Read the Instructions>` edition](https://github.com/Version 0.8.99.7-prerelease - `<#8 Please Read the Instructions>` edition) in [zer0Kerbal/KeridianDynamics](https://github.com/zer0Kerbal/KeridianDynamics)
+9. 🔒 Closed issue [#80](https://github.com/zer0Kerbal/KeridianDynamics/issues/80) in [zer0Kerbal/KeridianDynamics](https://github.com/zer0Kerbal/KeridianDynamics)
+10. 🔒 Closed issue [#78](https://github.com/zer0Kerbal/KeridianDynamics/issues/78) in [zer0Kerbal/KeridianDynamics](https://github.com/zer0Kerbal/KeridianDynamics)
 <!--END_SECTION:activity-->
 
 </details
