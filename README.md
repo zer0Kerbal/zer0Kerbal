@@ -64,16 +64,16 @@ From
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Version 1.0.0.0-release - `<Archival>` release](https://github.com/Version 1.0.0.0-release - `<Archival>` release) in [zer0Kerbal/GimbalTrim](https://github.com/zer0Kerbal/GimbalTrim)
-2. 🔒 Closed issue [#11](https://github.com/zer0Kerbal/GimbalTrim/issues/11) in [zer0Kerbal/GimbalTrim](https://github.com/zer0Kerbal/GimbalTrim)
-3. 🎉 Merged PR [#33](https://github.com/zer0Kerbal/GimbalTrim/pull/33) in [zer0Kerbal/GimbalTrim](https://github.com/zer0Kerbal/GimbalTrim)
-4. 💪 Opened PR [#33](https://github.com/zer0Kerbal/GimbalTrim/pull/33) in [zer0Kerbal/GimbalTrim](https://github.com/zer0Kerbal/GimbalTrim)
-5. ❗ Opened issue [#32](https://github.com/zer0Kerbal/GimbalTrim/issues/32) in [zer0Kerbal/GimbalTrim](https://github.com/zer0Kerbal/GimbalTrim)
-6. ❗ Opened issue [#31](https://github.com/zer0Kerbal/GimbalTrim/issues/31) in [zer0Kerbal/GimbalTrim](https://github.com/zer0Kerbal/GimbalTrim)
-7. ❗ Opened issue [#30](https://github.com/zer0Kerbal/GimbalTrim/issues/30) in [zer0Kerbal/GimbalTrim](https://github.com/zer0Kerbal/GimbalTrim)
-8. ❗ Opened issue [#29](https://github.com/zer0Kerbal/GimbalTrim/issues/29) in [zer0Kerbal/GimbalTrim](https://github.com/zer0Kerbal/GimbalTrim)
-9. ❗ Opened issue [#28](https://github.com/zer0Kerbal/GimbalTrim/issues/28) in [zer0Kerbal/GimbalTrim](https://github.com/zer0Kerbal/GimbalTrim)
-10. ❗ Opened issue [#27](https://github.com/zer0Kerbal/GimbalTrim/issues/27) in [zer0Kerbal/GimbalTrim](https://github.com/zer0Kerbal/GimbalTrim)
+1. 🚀 Published release [Version 1.1.1.0-release - `<Archival>` release](https://github.com/Version 1.1.1.0-release - `<Archival>` release) in [zer0Kerbal/GimbalTrim](https://github.com/zer0Kerbal/GimbalTrim)
+2. 🔒 Closed issue [#8](https://github.com/zer0Kerbal/GimbalTrim/issues/8) in [zer0Kerbal/GimbalTrim](https://github.com/zer0Kerbal/GimbalTrim)
+3. 🔒 Closed issue [#13](https://github.com/zer0Kerbal/GimbalTrim/issues/13) in [zer0Kerbal/GimbalTrim](https://github.com/zer0Kerbal/GimbalTrim)
+4. 🎉 Merged PR [#35](https://github.com/zer0Kerbal/GimbalTrim/pull/35) in [zer0Kerbal/GimbalTrim](https://github.com/zer0Kerbal/GimbalTrim)
+5. 💪 Opened PR [#35](https://github.com/zer0Kerbal/GimbalTrim/pull/35) in [zer0Kerbal/GimbalTrim](https://github.com/zer0Kerbal/GimbalTrim)
+6. 🚀 Published release [Version 1.1.0.0-release - `<Archival>` release](https://github.com/Version 1.1.0.0-release - `<Archival>` release) in [zer0Kerbal/GimbalTrim](https://github.com/zer0Kerbal/GimbalTrim)
+7. 🔒 Closed issue [#12](https://github.com/zer0Kerbal/GimbalTrim/issues/12) in [zer0Kerbal/GimbalTrim](https://github.com/zer0Kerbal/GimbalTrim)
+8. 🎉 Merged PR [#34](https://github.com/zer0Kerbal/GimbalTrim/pull/34) in [zer0Kerbal/GimbalTrim](https://github.com/zer0Kerbal/GimbalTrim)
+9. 💪 Opened PR [#34](https://github.com/zer0Kerbal/GimbalTrim/pull/34) in [zer0Kerbal/GimbalTrim](https://github.com/zer0Kerbal/GimbalTrim)
+10. 🚀 Published release [Version 1.0.0.0-release - `<Archival>` release](https://github.com/Version 1.0.0.0-release - `<Archival>` release) in [zer0Kerbal/GimbalTrim](https://github.com/zer0Kerbal/GimbalTrim)
 <!--END_SECTION:activity-->
 
 </details
