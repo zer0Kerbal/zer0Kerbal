@@ -64,16 +64,16 @@ From
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#40](https://github.com/zer0Kerbal/GimbalTrim/issues/40) in [zer0Kerbal/GimbalTrim](https://github.com/zer0Kerbal/GimbalTrim)
-2. ❗ Opened issue [#39](https://github.com/zer0Kerbal/GimbalTrim/issues/39) in [zer0Kerbal/GimbalTrim](https://github.com/zer0Kerbal/GimbalTrim)
-3. 🚀 Published release [Version 1.1.99.0-adoption - `<Thank you sarbian>` release](https://github.com/Version 1.1.99.0-adoption - `<Thank you sarbian>` release) in [zer0Kerbal/GimbalTrim](https://github.com/zer0Kerbal/GimbalTrim)
-4. 🔒 Closed issue [#5](https://github.com/zer0Kerbal/GimbalTrim/issues/5) in [zer0Kerbal/GimbalTrim](https://github.com/zer0Kerbal/GimbalTrim)
-5. 🔒 Closed issue [#4](https://github.com/zer0Kerbal/GimbalTrim/issues/4) in [zer0Kerbal/GimbalTrim](https://github.com/zer0Kerbal/GimbalTrim)
-6. 🔒 Closed issue [#3](https://github.com/zer0Kerbal/GimbalTrim/issues/3) in [zer0Kerbal/GimbalTrim](https://github.com/zer0Kerbal/GimbalTrim)
-7. 🔒 Closed issue [#2](https://github.com/zer0Kerbal/GimbalTrim/issues/2) in [zer0Kerbal/GimbalTrim](https://github.com/zer0Kerbal/GimbalTrim)
-8. 🔒 Closed issue [#10](https://github.com/zer0Kerbal/GimbalTrim/issues/10) in [zer0Kerbal/GimbalTrim](https://github.com/zer0Kerbal/GimbalTrim)
-9. 🔒 Closed issue [#6](https://github.com/zer0Kerbal/GimbalTrim/issues/6) in [zer0Kerbal/GimbalTrim](https://github.com/zer0Kerbal/GimbalTrim)
-10. 🔒 Closed issue [#7](https://github.com/zer0Kerbal/GimbalTrim/issues/7) in [zer0Kerbal/GimbalTrim](https://github.com/zer0Kerbal/GimbalTrim)
+1. ❗ Opened issue [#95](https://github.com/zer0Kerbal/NotSoSimpleConstruction/issues/95) in [zer0Kerbal/NotSoSimpleConstruction](https://github.com/zer0Kerbal/NotSoSimpleConstruction)
+2. ❗ Opened issue [#94](https://github.com/zer0Kerbal/NotSoSimpleConstruction/issues/94) in [zer0Kerbal/NotSoSimpleConstruction](https://github.com/zer0Kerbal/NotSoSimpleConstruction)
+3. 🚀 Published release [Version 1.0.99.8-prerelease `<Thank you RealGecko>` edition](https://github.com/Version 1.0.99.8-prerelease `<Thank you RealGecko>` edition) in [zer0Kerbal/NotSoSimpleConstruction](https://github.com/zer0Kerbal/NotSoSimpleConstruction)
+4. 🔒 Closed issue [#91](https://github.com/zer0Kerbal/NotSoSimpleConstruction/issues/91) in [zer0Kerbal/NotSoSimpleConstruction](https://github.com/zer0Kerbal/NotSoSimpleConstruction)
+5. 🔒 Closed issue [#90](https://github.com/zer0Kerbal/NotSoSimpleConstruction/issues/90) in [zer0Kerbal/NotSoSimpleConstruction](https://github.com/zer0Kerbal/NotSoSimpleConstruction)
+6. 🎉 Merged PR [#92](https://github.com/zer0Kerbal/NotSoSimpleConstruction/pull/92) in [zer0Kerbal/NotSoSimpleConstruction](https://github.com/zer0Kerbal/NotSoSimpleConstruction)
+7. 💪 Opened PR [#92](https://github.com/zer0Kerbal/NotSoSimpleConstruction/pull/92) in [zer0Kerbal/NotSoSimpleConstruction](https://github.com/zer0Kerbal/NotSoSimpleConstruction)
+8. ❗ Opened issue [#40](https://github.com/zer0Kerbal/GimbalTrim/issues/40) in [zer0Kerbal/GimbalTrim](https://github.com/zer0Kerbal/GimbalTrim)
+9. ❗ Opened issue [#39](https://github.com/zer0Kerbal/GimbalTrim/issues/39) in [zer0Kerbal/GimbalTrim](https://github.com/zer0Kerbal/GimbalTrim)
+10. 🚀 Published release [Version 1.1.99.0-adoption - `<Thank you sarbian>` release](https://github.com/Version 1.1.99.0-adoption - `<Thank you sarbian>` release) in [zer0Kerbal/GimbalTrim](https://github.com/zer0Kerbal/GimbalTrim)
 <!--END_SECTION:activity-->
 
 </details
