@@ -64,16 +64,16 @@ From
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#70](https://github.com/zer0Kerbal/DropTanks/pull/70) in [zer0Kerbal/DropTanks](https://github.com/zer0Kerbal/DropTanks)
-2. ❗ Opened issue [#37](https://github.com/zer0Kerbal/DropTanksIII/issues/37) in [zer0Kerbal/DropTanksIII](https://github.com/zer0Kerbal/DropTanksIII)
-3. ❗ Opened issue [#36](https://github.com/zer0Kerbal/DropTanksIII/issues/36) in [zer0Kerbal/DropTanksIII](https://github.com/zer0Kerbal/DropTanksIII)
-4. 🚀 Published release [Version 0.9.99.1-prerelease - `<Спасибо evanisrael>` edition](https://github.com/Version 0.9.99.1-prerelease - `<Спасибо evanisrael>` edition) in [zer0Kerbal/DropTanksIII](https://github.com/zer0Kerbal/DropTanksIII)
-5. 🔒 Closed issue [#30](https://github.com/zer0Kerbal/DropTanksIII/issues/30) in [zer0Kerbal/DropTanksIII](https://github.com/zer0Kerbal/DropTanksIII)
-6. 🔒 Closed issue [#31](https://github.com/zer0Kerbal/DropTanksIII/issues/31) in [zer0Kerbal/DropTanksIII](https://github.com/zer0Kerbal/DropTanksIII)
-7. 🔒 Closed issue [#18](https://github.com/zer0Kerbal/DropTanksIII/issues/18) in [zer0Kerbal/DropTanksIII](https://github.com/zer0Kerbal/DropTanksIII)
-8. 🔒 Closed issue [#10](https://github.com/zer0Kerbal/DropTanksIII/issues/10) in [zer0Kerbal/DropTanksIII](https://github.com/zer0Kerbal/DropTanksIII)
-9. 🔒 Closed issue [#33](https://github.com/zer0Kerbal/DropTanksIII/issues/33) in [zer0Kerbal/DropTanksIII](https://github.com/zer0Kerbal/DropTanksIII)
-10. 🎉 Merged PR [#34](https://github.com/zer0Kerbal/DropTanksIII/pull/34) in [zer0Kerbal/DropTanksIII](https://github.com/zer0Kerbal/DropTanksIII)
+1. ❗ Opened issue [#74](https://github.com/zer0Kerbal/DropTanks/issues/74) in [zer0Kerbal/DropTanks](https://github.com/zer0Kerbal/DropTanks)
+2. ❗ Opened issue [#73](https://github.com/zer0Kerbal/DropTanks/issues/73) in [zer0Kerbal/DropTanks](https://github.com/zer0Kerbal/DropTanks)
+3. 🚀 Published release [Version 1.2.1.0-release - `<Спасибо evanisrael>` edition](https://github.com/Version 1.2.1.0-release - `<Спасибо evanisrael>` edition) in [zer0Kerbal/DropTanks](https://github.com/zer0Kerbal/DropTanks)
+4. 🔒 Closed issue [#68](https://github.com/zer0Kerbal/DropTanks/issues/68) in [zer0Kerbal/DropTanks](https://github.com/zer0Kerbal/DropTanks)
+5. 🔒 Closed issue [#67](https://github.com/zer0Kerbal/DropTanks/issues/67) in [zer0Kerbal/DropTanks](https://github.com/zer0Kerbal/DropTanks)
+6. 🔒 Closed issue [#22](https://github.com/zer0Kerbal/DropTanks/issues/22) in [zer0Kerbal/DropTanks](https://github.com/zer0Kerbal/DropTanks)
+7. 🎉 Merged PR [#71](https://github.com/zer0Kerbal/DropTanks/pull/71) in [zer0Kerbal/DropTanks](https://github.com/zer0Kerbal/DropTanks)
+8. 💪 Opened PR [#71](https://github.com/zer0Kerbal/DropTanks/pull/71) in [zer0Kerbal/DropTanks](https://github.com/zer0Kerbal/DropTanks)
+9. 🎉 Merged PR [#70](https://github.com/zer0Kerbal/DropTanks/pull/70) in [zer0Kerbal/DropTanks](https://github.com/zer0Kerbal/DropTanks)
+10. ❗ Opened issue [#37](https://github.com/zer0Kerbal/DropTanksIII/issues/37) in [zer0Kerbal/DropTanksIII](https://github.com/zer0Kerbal/DropTanksIII)
 <!--END_SECTION:activity-->
 
 </details
