@@ -64,16 +64,16 @@ From
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#42](https://github.com/zer0Kerbal/KerbalHacksLtd/pull/42) in [zer0Kerbal/KerbalHacksLtd](https://github.com/zer0Kerbal/KerbalHacksLtd)
-2. ❗ Opened issue [#74](https://github.com/zer0Kerbal/DropTanks/issues/74) in [zer0Kerbal/DropTanks](https://github.com/zer0Kerbal/DropTanks)
-3. ❗ Opened issue [#73](https://github.com/zer0Kerbal/DropTanks/issues/73) in [zer0Kerbal/DropTanks](https://github.com/zer0Kerbal/DropTanks)
-4. 🚀 Published release [Version 1.2.1.0-release - `<Спасибо evanisrael>` edition](https://github.com/Version 1.2.1.0-release - `<Спасибо evanisrael>` edition) in [zer0Kerbal/DropTanks](https://github.com/zer0Kerbal/DropTanks)
-5. 🔒 Closed issue [#68](https://github.com/zer0Kerbal/DropTanks/issues/68) in [zer0Kerbal/DropTanks](https://github.com/zer0Kerbal/DropTanks)
-6. 🔒 Closed issue [#67](https://github.com/zer0Kerbal/DropTanks/issues/67) in [zer0Kerbal/DropTanks](https://github.com/zer0Kerbal/DropTanks)
-7. 🔒 Closed issue [#22](https://github.com/zer0Kerbal/DropTanks/issues/22) in [zer0Kerbal/DropTanks](https://github.com/zer0Kerbal/DropTanks)
-8. 🎉 Merged PR [#71](https://github.com/zer0Kerbal/DropTanks/pull/71) in [zer0Kerbal/DropTanks](https://github.com/zer0Kerbal/DropTanks)
-9. 💪 Opened PR [#71](https://github.com/zer0Kerbal/DropTanks/pull/71) in [zer0Kerbal/DropTanks](https://github.com/zer0Kerbal/DropTanks)
-10. 🎉 Merged PR [#70](https://github.com/zer0Kerbal/DropTanks/pull/70) in [zer0Kerbal/DropTanks](https://github.com/zer0Kerbal/DropTanks)
+1. ❗ Opened issue [#47](https://github.com/zer0Kerbal/KerbalHacksLtd/issues/47) in [zer0Kerbal/KerbalHacksLtd](https://github.com/zer0Kerbal/KerbalHacksLtd)
+2. ❗ Opened issue [#46](https://github.com/zer0Kerbal/KerbalHacksLtd/issues/46) in [zer0Kerbal/KerbalHacksLtd](https://github.com/zer0Kerbal/KerbalHacksLtd)
+3. 🚀 Published release [Version 1.0.2.0-release - `<Space.Just.Got.Hacked.™ Спасибо evanisrael>` edition](https://github.com/Version 1.0.2.0-release - `<Space.Just.Got.Hacked.™ Спасибо evanisrael>` edition) in [zer0Kerbal/KerbalHacksLtd](https://github.com/zer0Kerbal/KerbalHacksLtd)
+4. 🔒 Closed issue [#39](https://github.com/zer0Kerbal/KerbalHacksLtd/issues/39) in [zer0Kerbal/KerbalHacksLtd](https://github.com/zer0Kerbal/KerbalHacksLtd)
+5. 🔒 Closed issue [#38](https://github.com/zer0Kerbal/KerbalHacksLtd/issues/38) in [zer0Kerbal/KerbalHacksLtd](https://github.com/zer0Kerbal/KerbalHacksLtd)
+6. 🔒 Closed issue [#13](https://github.com/zer0Kerbal/KerbalHacksLtd/issues/13) in [zer0Kerbal/KerbalHacksLtd](https://github.com/zer0Kerbal/KerbalHacksLtd)
+7. 🔒 Closed issue [#43](https://github.com/zer0Kerbal/KerbalHacksLtd/issues/43) in [zer0Kerbal/KerbalHacksLtd](https://github.com/zer0Kerbal/KerbalHacksLtd)
+8. 🎉 Merged PR [#44](https://github.com/zer0Kerbal/KerbalHacksLtd/pull/44) in [zer0Kerbal/KerbalHacksLtd](https://github.com/zer0Kerbal/KerbalHacksLtd)
+9. 💪 Opened PR [#44](https://github.com/zer0Kerbal/KerbalHacksLtd/pull/44) in [zer0Kerbal/KerbalHacksLtd](https://github.com/zer0Kerbal/KerbalHacksLtd)
+10. ❗ Opened issue [#43](https://github.com/zer0Kerbal/KerbalHacksLtd/issues/43) in [zer0Kerbal/KerbalHacksLtd](https://github.com/zer0Kerbal/KerbalHacksLtd)
 <!--END_SECTION:activity-->
 
 </details
