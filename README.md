@@ -64,16 +64,16 @@ From
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#113](https://github.com/zer0Kerbal/SpaceYExpanded/pull/113) in [zer0Kerbal/SpaceYExpanded](https://github.com/zer0Kerbal/SpaceYExpanded)
-2. ❗ Opened issue [#8](https://github.com/zer0Kerbal/MagneticEVA/issues/8) in [zer0Kerbal/MagneticEVA](https://github.com/zer0Kerbal/MagneticEVA)
-3. ❗ Opened issue [#7](https://github.com/zer0Kerbal/MagneticEVA/issues/7) in [zer0Kerbal/MagneticEVA](https://github.com/zer0Kerbal/MagneticEVA)
-4. ❗ Opened issue [#6](https://github.com/zer0Kerbal/MagneticEVA/issues/6) in [zer0Kerbal/MagneticEVA](https://github.com/zer0Kerbal/MagneticEVA)
-5. ❗ Opened issue [#5](https://github.com/zer0Kerbal/MagneticEVA/issues/5) in [zer0Kerbal/MagneticEVA](https://github.com/zer0Kerbal/MagneticEVA)
-6. ❗ Opened issue [#4](https://github.com/zer0Kerbal/MagneticEVA/issues/4) in [zer0Kerbal/MagneticEVA](https://github.com/zer0Kerbal/MagneticEVA)
-7. ❗ Opened issue [#3](https://github.com/zer0Kerbal/MagneticEVA/issues/3) in [zer0Kerbal/MagneticEVA](https://github.com/zer0Kerbal/MagneticEVA)
-8. ❗ Opened issue [#2](https://github.com/zer0Kerbal/MagneticEVA/issues/2) in [zer0Kerbal/MagneticEVA](https://github.com/zer0Kerbal/MagneticEVA)
-9. ❗ Opened issue [#47](https://github.com/zer0Kerbal/KerbalHacksLtd/issues/47) in [zer0Kerbal/KerbalHacksLtd](https://github.com/zer0Kerbal/KerbalHacksLtd)
-10. ❗ Opened issue [#46](https://github.com/zer0Kerbal/KerbalHacksLtd/issues/46) in [zer0Kerbal/KerbalHacksLtd](https://github.com/zer0Kerbal/KerbalHacksLtd)
+1. 🚀 Published release [Version 1.4.99.3-prerelease - `<Block III: Спасибо evanisrael>` edition](https://github.com/Version 1.4.99.3-prerelease - `<Block III: Спасибо evanisrael>` edition) in [zer0Kerbal/SpaceYExpanded](https://github.com/zer0Kerbal/SpaceYExpanded)
+2. 🔒 Closed issue [#110](https://github.com/zer0Kerbal/SpaceYExpanded/issues/110) in [zer0Kerbal/SpaceYExpanded](https://github.com/zer0Kerbal/SpaceYExpanded)
+3. 🔒 Closed issue [#109](https://github.com/zer0Kerbal/SpaceYExpanded/issues/109) in [zer0Kerbal/SpaceYExpanded](https://github.com/zer0Kerbal/SpaceYExpanded)
+4. 🔒 Closed issue [#47](https://github.com/zer0Kerbal/SpaceYExpanded/issues/47) in [zer0Kerbal/SpaceYExpanded](https://github.com/zer0Kerbal/SpaceYExpanded)
+5. 🎉 Merged PR [#114](https://github.com/zer0Kerbal/SpaceYExpanded/pull/114) in [zer0Kerbal/SpaceYExpanded](https://github.com/zer0Kerbal/SpaceYExpanded)
+6. 💪 Opened PR [#114](https://github.com/zer0Kerbal/SpaceYExpanded/pull/114) in [zer0Kerbal/SpaceYExpanded](https://github.com/zer0Kerbal/SpaceYExpanded)
+7. 🎉 Merged PR [#113](https://github.com/zer0Kerbal/SpaceYExpanded/pull/113) in [zer0Kerbal/SpaceYExpanded](https://github.com/zer0Kerbal/SpaceYExpanded)
+8. ❗ Opened issue [#8](https://github.com/zer0Kerbal/MagneticEVA/issues/8) in [zer0Kerbal/MagneticEVA](https://github.com/zer0Kerbal/MagneticEVA)
+9. ❗ Opened issue [#7](https://github.com/zer0Kerbal/MagneticEVA/issues/7) in [zer0Kerbal/MagneticEVA](https://github.com/zer0Kerbal/MagneticEVA)
+10. ❗ Opened issue [#6](https://github.com/zer0Kerbal/MagneticEVA/issues/6) in [zer0Kerbal/MagneticEVA](https://github.com/zer0Kerbal/MagneticEVA)
 <!--END_SECTION:activity-->
 
 </details
