@@ -64,16 +64,16 @@ From
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#47](https://github.com/zer0Kerbal/KerbalHacksLtd/issues/47) in [zer0Kerbal/KerbalHacksLtd](https://github.com/zer0Kerbal/KerbalHacksLtd)
-2. ❗ Opened issue [#46](https://github.com/zer0Kerbal/KerbalHacksLtd/issues/46) in [zer0Kerbal/KerbalHacksLtd](https://github.com/zer0Kerbal/KerbalHacksLtd)
-3. 🚀 Published release [Version 1.0.2.0-release - `<Space.Just.Got.Hacked.™ Спасибо evanisrael>` edition](https://github.com/Version 1.0.2.0-release - `<Space.Just.Got.Hacked.™ Спасибо evanisrael>` edition) in [zer0Kerbal/KerbalHacksLtd](https://github.com/zer0Kerbal/KerbalHacksLtd)
-4. 🔒 Closed issue [#39](https://github.com/zer0Kerbal/KerbalHacksLtd/issues/39) in [zer0Kerbal/KerbalHacksLtd](https://github.com/zer0Kerbal/KerbalHacksLtd)
-5. 🔒 Closed issue [#38](https://github.com/zer0Kerbal/KerbalHacksLtd/issues/38) in [zer0Kerbal/KerbalHacksLtd](https://github.com/zer0Kerbal/KerbalHacksLtd)
-6. 🔒 Closed issue [#13](https://github.com/zer0Kerbal/KerbalHacksLtd/issues/13) in [zer0Kerbal/KerbalHacksLtd](https://github.com/zer0Kerbal/KerbalHacksLtd)
-7. 🔒 Closed issue [#43](https://github.com/zer0Kerbal/KerbalHacksLtd/issues/43) in [zer0Kerbal/KerbalHacksLtd](https://github.com/zer0Kerbal/KerbalHacksLtd)
-8. 🎉 Merged PR [#44](https://github.com/zer0Kerbal/KerbalHacksLtd/pull/44) in [zer0Kerbal/KerbalHacksLtd](https://github.com/zer0Kerbal/KerbalHacksLtd)
-9. 💪 Opened PR [#44](https://github.com/zer0Kerbal/KerbalHacksLtd/pull/44) in [zer0Kerbal/KerbalHacksLtd](https://github.com/zer0Kerbal/KerbalHacksLtd)
-10. ❗ Opened issue [#43](https://github.com/zer0Kerbal/KerbalHacksLtd/issues/43) in [zer0Kerbal/KerbalHacksLtd](https://github.com/zer0Kerbal/KerbalHacksLtd)
+1. ❗ Opened issue [#8](https://github.com/zer0Kerbal/MagneticEVA/issues/8) in [zer0Kerbal/MagneticEVA](https://github.com/zer0Kerbal/MagneticEVA)
+2. ❗ Opened issue [#7](https://github.com/zer0Kerbal/MagneticEVA/issues/7) in [zer0Kerbal/MagneticEVA](https://github.com/zer0Kerbal/MagneticEVA)
+3. ❗ Opened issue [#6](https://github.com/zer0Kerbal/MagneticEVA/issues/6) in [zer0Kerbal/MagneticEVA](https://github.com/zer0Kerbal/MagneticEVA)
+4. ❗ Opened issue [#5](https://github.com/zer0Kerbal/MagneticEVA/issues/5) in [zer0Kerbal/MagneticEVA](https://github.com/zer0Kerbal/MagneticEVA)
+5. ❗ Opened issue [#4](https://github.com/zer0Kerbal/MagneticEVA/issues/4) in [zer0Kerbal/MagneticEVA](https://github.com/zer0Kerbal/MagneticEVA)
+6. ❗ Opened issue [#3](https://github.com/zer0Kerbal/MagneticEVA/issues/3) in [zer0Kerbal/MagneticEVA](https://github.com/zer0Kerbal/MagneticEVA)
+7. ❗ Opened issue [#2](https://github.com/zer0Kerbal/MagneticEVA/issues/2) in [zer0Kerbal/MagneticEVA](https://github.com/zer0Kerbal/MagneticEVA)
+8. ❗ Opened issue [#47](https://github.com/zer0Kerbal/KerbalHacksLtd/issues/47) in [zer0Kerbal/KerbalHacksLtd](https://github.com/zer0Kerbal/KerbalHacksLtd)
+9. ❗ Opened issue [#46](https://github.com/zer0Kerbal/KerbalHacksLtd/issues/46) in [zer0Kerbal/KerbalHacksLtd](https://github.com/zer0Kerbal/KerbalHacksLtd)
+10. 🚀 Published release [Version 1.0.2.0-release - `<Space.Just.Got.Hacked.™ Спасибо evanisrael>` edition](https://github.com/Version 1.0.2.0-release - `<Space.Just.Got.Hacked.™ Спасибо evanisrael>` edition) in [zer0Kerbal/KerbalHacksLtd](https://github.com/zer0Kerbal/KerbalHacksLtd)
 <!--END_SECTION:activity-->
 
 </details
