@@ -64,16 +64,16 @@ From
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Version 1.4.99.3-prerelease - `<Block III: Спасибо evanisrael>` edition](https://github.com/Version 1.4.99.3-prerelease - `<Block III: Спасибо evanisrael>` edition) in [zer0Kerbal/SpaceYExpanded](https://github.com/zer0Kerbal/SpaceYExpanded)
-2. 🔒 Closed issue [#110](https://github.com/zer0Kerbal/SpaceYExpanded/issues/110) in [zer0Kerbal/SpaceYExpanded](https://github.com/zer0Kerbal/SpaceYExpanded)
-3. 🔒 Closed issue [#109](https://github.com/zer0Kerbal/SpaceYExpanded/issues/109) in [zer0Kerbal/SpaceYExpanded](https://github.com/zer0Kerbal/SpaceYExpanded)
-4. 🔒 Closed issue [#47](https://github.com/zer0Kerbal/SpaceYExpanded/issues/47) in [zer0Kerbal/SpaceYExpanded](https://github.com/zer0Kerbal/SpaceYExpanded)
-5. 🎉 Merged PR [#114](https://github.com/zer0Kerbal/SpaceYExpanded/pull/114) in [zer0Kerbal/SpaceYExpanded](https://github.com/zer0Kerbal/SpaceYExpanded)
-6. 💪 Opened PR [#114](https://github.com/zer0Kerbal/SpaceYExpanded/pull/114) in [zer0Kerbal/SpaceYExpanded](https://github.com/zer0Kerbal/SpaceYExpanded)
-7. 🎉 Merged PR [#113](https://github.com/zer0Kerbal/SpaceYExpanded/pull/113) in [zer0Kerbal/SpaceYExpanded](https://github.com/zer0Kerbal/SpaceYExpanded)
-8. ❗ Opened issue [#8](https://github.com/zer0Kerbal/MagneticEVA/issues/8) in [zer0Kerbal/MagneticEVA](https://github.com/zer0Kerbal/MagneticEVA)
-9. ❗ Opened issue [#7](https://github.com/zer0Kerbal/MagneticEVA/issues/7) in [zer0Kerbal/MagneticEVA](https://github.com/zer0Kerbal/MagneticEVA)
-10. ❗ Opened issue [#6](https://github.com/zer0Kerbal/MagneticEVA/issues/6) in [zer0Kerbal/MagneticEVA](https://github.com/zer0Kerbal/MagneticEVA)
+1. 🎉 Merged PR [#116](https://github.com/zer0Kerbal/SpaceYLifters/pull/116) in [zer0Kerbal/SpaceYLifters](https://github.com/zer0Kerbal/SpaceYLifters)
+2. ❗ Opened issue [#117](https://github.com/zer0Kerbal/SpaceYExpanded/issues/117) in [zer0Kerbal/SpaceYExpanded](https://github.com/zer0Kerbal/SpaceYExpanded)
+3. ❗ Opened issue [#116](https://github.com/zer0Kerbal/SpaceYExpanded/issues/116) in [zer0Kerbal/SpaceYExpanded](https://github.com/zer0Kerbal/SpaceYExpanded)
+4. 🚀 Published release [Version 1.4.99.3-prerelease - `<Block III: Спасибо evanisrael>` edition](https://github.com/Version 1.4.99.3-prerelease - `<Block III: Спасибо evanisrael>` edition) in [zer0Kerbal/SpaceYExpanded](https://github.com/zer0Kerbal/SpaceYExpanded)
+5. 🔒 Closed issue [#110](https://github.com/zer0Kerbal/SpaceYExpanded/issues/110) in [zer0Kerbal/SpaceYExpanded](https://github.com/zer0Kerbal/SpaceYExpanded)
+6. 🔒 Closed issue [#109](https://github.com/zer0Kerbal/SpaceYExpanded/issues/109) in [zer0Kerbal/SpaceYExpanded](https://github.com/zer0Kerbal/SpaceYExpanded)
+7. 🔒 Closed issue [#47](https://github.com/zer0Kerbal/SpaceYExpanded/issues/47) in [zer0Kerbal/SpaceYExpanded](https://github.com/zer0Kerbal/SpaceYExpanded)
+8. 🎉 Merged PR [#114](https://github.com/zer0Kerbal/SpaceYExpanded/pull/114) in [zer0Kerbal/SpaceYExpanded](https://github.com/zer0Kerbal/SpaceYExpanded)
+9. 💪 Opened PR [#114](https://github.com/zer0Kerbal/SpaceYExpanded/pull/114) in [zer0Kerbal/SpaceYExpanded](https://github.com/zer0Kerbal/SpaceYExpanded)
+10. 🎉 Merged PR [#113](https://github.com/zer0Kerbal/SpaceYExpanded/pull/113) in [zer0Kerbal/SpaceYExpanded](https://github.com/zer0Kerbal/SpaceYExpanded)
 <!--END_SECTION:activity-->
 
 </details
