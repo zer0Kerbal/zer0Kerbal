@@ -64,16 +64,16 @@ From
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#57](https://github.com/zer0Kerbal/SpaceYCorp/issues/57) in [zer0Kerbal/SpaceYCorp](https://github.com/zer0Kerbal/SpaceYCorp)
-2. ❗ Opened issue [#56](https://github.com/zer0Kerbal/SpaceYCorp/issues/56) in [zer0Kerbal/SpaceYCorp](https://github.com/zer0Kerbal/SpaceYCorp)
-3. 🚀 Published release [Version 1.0.4.0-release - `<Спасибо evanisrael` edition](https://github.com/Version 1.0.4.0-release - `<Спасибо evanisrael` edition) in [zer0Kerbal/SpaceYCorp](https://github.com/zer0Kerbal/SpaceYCorp)
-4. 🔒 Closed issue [#50](https://github.com/zer0Kerbal/SpaceYCorp/issues/50) in [zer0Kerbal/SpaceYCorp](https://github.com/zer0Kerbal/SpaceYCorp)
-5. 🔒 Closed issue [#49](https://github.com/zer0Kerbal/SpaceYCorp/issues/49) in [zer0Kerbal/SpaceYCorp](https://github.com/zer0Kerbal/SpaceYCorp)
-6. 🔒 Closed issue [#14](https://github.com/zer0Kerbal/SpaceYCorp/issues/14) in [zer0Kerbal/SpaceYCorp](https://github.com/zer0Kerbal/SpaceYCorp)
-7. 🎉 Merged PR [#54](https://github.com/zer0Kerbal/SpaceYCorp/pull/54) in [zer0Kerbal/SpaceYCorp](https://github.com/zer0Kerbal/SpaceYCorp)
-8. 💪 Opened PR [#54](https://github.com/zer0Kerbal/SpaceYCorp/pull/54) in [zer0Kerbal/SpaceYCorp](https://github.com/zer0Kerbal/SpaceYCorp)
-9. 🎉 Merged PR [#53](https://github.com/zer0Kerbal/SpaceYCorp/pull/53) in [zer0Kerbal/SpaceYCorp](https://github.com/zer0Kerbal/SpaceYCorp)
-10. ❗ Opened issue [#120](https://github.com/zer0Kerbal/SpaceYLifters/issues/120) in [zer0Kerbal/SpaceYLifters](https://github.com/zer0Kerbal/SpaceYLifters)
+1. 🎉 Merged PR [#97](https://github.com/zer0Kerbal/MiniSampleReturnCapsule/pull/97) in [zer0Kerbal/MiniSampleReturnCapsule](https://github.com/zer0Kerbal/MiniSampleReturnCapsule)
+2. 🎉 Merged PR [#98](https://github.com/zer0Kerbal/MiniSampleReturnCapsule/pull/98) in [zer0Kerbal/MiniSampleReturnCapsule](https://github.com/zer0Kerbal/MiniSampleReturnCapsule)
+3. 💪 Opened PR [#98](https://github.com/zer0Kerbal/MiniSampleReturnCapsule/pull/98) in [zer0Kerbal/MiniSampleReturnCapsule](https://github.com/zer0Kerbal/MiniSampleReturnCapsule)
+4. ❗ Opened issue [#57](https://github.com/zer0Kerbal/SpaceYCorp/issues/57) in [zer0Kerbal/SpaceYCorp](https://github.com/zer0Kerbal/SpaceYCorp)
+5. ❗ Opened issue [#56](https://github.com/zer0Kerbal/SpaceYCorp/issues/56) in [zer0Kerbal/SpaceYCorp](https://github.com/zer0Kerbal/SpaceYCorp)
+6. 🚀 Published release [Version 1.0.4.0-release - `<Спасибо evanisrael` edition](https://github.com/Version 1.0.4.0-release - `<Спасибо evanisrael` edition) in [zer0Kerbal/SpaceYCorp](https://github.com/zer0Kerbal/SpaceYCorp)
+7. 🔒 Closed issue [#50](https://github.com/zer0Kerbal/SpaceYCorp/issues/50) in [zer0Kerbal/SpaceYCorp](https://github.com/zer0Kerbal/SpaceYCorp)
+8. 🔒 Closed issue [#49](https://github.com/zer0Kerbal/SpaceYCorp/issues/49) in [zer0Kerbal/SpaceYCorp](https://github.com/zer0Kerbal/SpaceYCorp)
+9. 🔒 Closed issue [#14](https://github.com/zer0Kerbal/SpaceYCorp/issues/14) in [zer0Kerbal/SpaceYCorp](https://github.com/zer0Kerbal/SpaceYCorp)
+10. 🎉 Merged PR [#54](https://github.com/zer0Kerbal/SpaceYCorp/pull/54) in [zer0Kerbal/SpaceYCorp](https://github.com/zer0Kerbal/SpaceYCorp)
 <!--END_SECTION:activity-->
 
 </details
