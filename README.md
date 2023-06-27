@@ -64,16 +64,16 @@ From
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#120](https://github.com/zer0Kerbal/SpaceYLifters/issues/120) in [zer0Kerbal/SpaceYLifters](https://github.com/zer0Kerbal/SpaceYLifters)
-2. ❗ Opened issue [#119](https://github.com/zer0Kerbal/SpaceYLifters/issues/119) in [zer0Kerbal/SpaceYLifters](https://github.com/zer0Kerbal/SpaceYLifters)
-3. 🚀 Published release [Version 1.9.99.3-prerelease - `<Спасибо evanisrael>` edition](https://github.com/Version 1.9.99.3-prerelease - `<Спасибо evanisrael>` edition) in [zer0Kerbal/SpaceYLifters](https://github.com/zer0Kerbal/SpaceYLifters)
-4. 🔒 Closed issue [#113](https://github.com/zer0Kerbal/SpaceYLifters/issues/113) in [zer0Kerbal/SpaceYLifters](https://github.com/zer0Kerbal/SpaceYLifters)
-5. 🔒 Closed issue [#112](https://github.com/zer0Kerbal/SpaceYLifters/issues/112) in [zer0Kerbal/SpaceYLifters](https://github.com/zer0Kerbal/SpaceYLifters)
-6. 🔒 Closed issue [#58](https://github.com/zer0Kerbal/SpaceYLifters/issues/58) in [zer0Kerbal/SpaceYLifters](https://github.com/zer0Kerbal/SpaceYLifters)
-7. 🎉 Merged PR [#117](https://github.com/zer0Kerbal/SpaceYLifters/pull/117) in [zer0Kerbal/SpaceYLifters](https://github.com/zer0Kerbal/SpaceYLifters)
-8. 💪 Opened PR [#117](https://github.com/zer0Kerbal/SpaceYLifters/pull/117) in [zer0Kerbal/SpaceYLifters](https://github.com/zer0Kerbal/SpaceYLifters)
-9. ❗ Opened issue [#118](https://github.com/zer0Kerbal/SpaceYExpanded/issues/118) in [zer0Kerbal/SpaceYExpanded](https://github.com/zer0Kerbal/SpaceYExpanded)
-10. 🎉 Merged PR [#116](https://github.com/zer0Kerbal/SpaceYLifters/pull/116) in [zer0Kerbal/SpaceYLifters](https://github.com/zer0Kerbal/SpaceYLifters)
+1. 🚀 Published release [Version 1.0.4.0-release - `<Спасибо evanisrael` edition](https://github.com/Version 1.0.4.0-release - `<Спасибо evanisrael` edition) in [zer0Kerbal/SpaceYCorp](https://github.com/zer0Kerbal/SpaceYCorp)
+2. 🔒 Closed issue [#50](https://github.com/zer0Kerbal/SpaceYCorp/issues/50) in [zer0Kerbal/SpaceYCorp](https://github.com/zer0Kerbal/SpaceYCorp)
+3. 🔒 Closed issue [#49](https://github.com/zer0Kerbal/SpaceYCorp/issues/49) in [zer0Kerbal/SpaceYCorp](https://github.com/zer0Kerbal/SpaceYCorp)
+4. 🔒 Closed issue [#14](https://github.com/zer0Kerbal/SpaceYCorp/issues/14) in [zer0Kerbal/SpaceYCorp](https://github.com/zer0Kerbal/SpaceYCorp)
+5. 🎉 Merged PR [#54](https://github.com/zer0Kerbal/SpaceYCorp/pull/54) in [zer0Kerbal/SpaceYCorp](https://github.com/zer0Kerbal/SpaceYCorp)
+6. 💪 Opened PR [#54](https://github.com/zer0Kerbal/SpaceYCorp/pull/54) in [zer0Kerbal/SpaceYCorp](https://github.com/zer0Kerbal/SpaceYCorp)
+7. 🎉 Merged PR [#53](https://github.com/zer0Kerbal/SpaceYCorp/pull/53) in [zer0Kerbal/SpaceYCorp](https://github.com/zer0Kerbal/SpaceYCorp)
+8. ❗ Opened issue [#120](https://github.com/zer0Kerbal/SpaceYLifters/issues/120) in [zer0Kerbal/SpaceYLifters](https://github.com/zer0Kerbal/SpaceYLifters)
+9. ❗ Opened issue [#119](https://github.com/zer0Kerbal/SpaceYLifters/issues/119) in [zer0Kerbal/SpaceYLifters](https://github.com/zer0Kerbal/SpaceYLifters)
+10. 🚀 Published release [Version 1.9.99.3-prerelease - `<Спасибо evanisrael>` edition](https://github.com/Version 1.9.99.3-prerelease - `<Спасибо evanisrael>` edition) in [zer0Kerbal/SpaceYLifters](https://github.com/zer0Kerbal/SpaceYLifters)
 <!--END_SECTION:activity-->
 
 </details
