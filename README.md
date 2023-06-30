@@ -64,16 +64,16 @@ From
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#102](https://github.com/zer0Kerbal/MiniSampleReturnCapsule/issues/102) in [zer0Kerbal/MiniSampleReturnCapsule](https://github.com/zer0Kerbal/MiniSampleReturnCapsule)
-2. ❗ Opened issue [#101](https://github.com/zer0Kerbal/MiniSampleReturnCapsule/issues/101) in [zer0Kerbal/MiniSampleReturnCapsule](https://github.com/zer0Kerbal/MiniSampleReturnCapsule)
-3. 🚀 Published release [Version 1.4.4.0-release - `<Спасибо evanisrael>` edition](https://github.com/Version 1.4.4.0-release - `<Спасибо evanisrael>` edition) in [zer0Kerbal/MiniSampleReturnCapsule](https://github.com/zer0Kerbal/MiniSampleReturnCapsule)
-4. 🔒 Closed issue [#95](https://github.com/zer0Kerbal/MiniSampleReturnCapsule/issues/95) in [zer0Kerbal/MiniSampleReturnCapsule](https://github.com/zer0Kerbal/MiniSampleReturnCapsule)
-5. 🔒 Closed issue [#33](https://github.com/zer0Kerbal/MiniSampleReturnCapsule/issues/33) in [zer0Kerbal/MiniSampleReturnCapsule](https://github.com/zer0Kerbal/MiniSampleReturnCapsule)
-6. 🔒 Closed issue [#96](https://github.com/zer0Kerbal/MiniSampleReturnCapsule/issues/96) in [zer0Kerbal/MiniSampleReturnCapsule](https://github.com/zer0Kerbal/MiniSampleReturnCapsule)
-7. 🎉 Merged PR [#99](https://github.com/zer0Kerbal/MiniSampleReturnCapsule/pull/99) in [zer0Kerbal/MiniSampleReturnCapsule](https://github.com/zer0Kerbal/MiniSampleReturnCapsule)
-8. 🗣 Commented on [#99](https://github.com/zer0Kerbal/MiniSampleReturnCapsule/issues/99) in [zer0Kerbal/MiniSampleReturnCapsule](https://github.com/zer0Kerbal/MiniSampleReturnCapsule)
-9. 💪 Opened PR [#99](https://github.com/zer0Kerbal/MiniSampleReturnCapsule/pull/99) in [zer0Kerbal/MiniSampleReturnCapsule](https://github.com/zer0Kerbal/MiniSampleReturnCapsule)
-10. 🎉 Merged PR [#97](https://github.com/zer0Kerbal/MiniSampleReturnCapsule/pull/97) in [zer0Kerbal/MiniSampleReturnCapsule](https://github.com/zer0Kerbal/MiniSampleReturnCapsule)
+1. ❗ Opened issue [#43](https://github.com/zer0Kerbal/NukesTinyPods/issues/43) in [zer0Kerbal/NukesTinyPods](https://github.com/zer0Kerbal/NukesTinyPods)
+2. ❗ Opened issue [#42](https://github.com/zer0Kerbal/NukesTinyPods/issues/42) in [zer0Kerbal/NukesTinyPods](https://github.com/zer0Kerbal/NukesTinyPods)
+3. 🚀 Published release [Version 1.0.0.0-release - `<Sooner or later>` edition](https://github.com/Version 1.0.0.0-release - `<Sooner or later>` edition) in [zer0Kerbal/NukesTinyPods](https://github.com/zer0Kerbal/NukesTinyPods)
+4. 🔒 Closed issue [#35](https://github.com/zer0Kerbal/NukesTinyPods/issues/35) in [zer0Kerbal/NukesTinyPods](https://github.com/zer0Kerbal/NukesTinyPods)
+5. 🔒 Closed issue [#34](https://github.com/zer0Kerbal/NukesTinyPods/issues/34) in [zer0Kerbal/NukesTinyPods](https://github.com/zer0Kerbal/NukesTinyPods)
+6. 🔒 Closed issue [#33](https://github.com/zer0Kerbal/NukesTinyPods/issues/33) in [zer0Kerbal/NukesTinyPods](https://github.com/zer0Kerbal/NukesTinyPods)
+7. 🔒 Closed issue [#32](https://github.com/zer0Kerbal/NukesTinyPods/issues/32) in [zer0Kerbal/NukesTinyPods](https://github.com/zer0Kerbal/NukesTinyPods)
+8. 🔒 Closed issue [#38](https://github.com/zer0Kerbal/NukesTinyPods/issues/38) in [zer0Kerbal/NukesTinyPods](https://github.com/zer0Kerbal/NukesTinyPods)
+9. 🔒 Closed issue [#39](https://github.com/zer0Kerbal/NukesTinyPods/issues/39) in [zer0Kerbal/NukesTinyPods](https://github.com/zer0Kerbal/NukesTinyPods)
+10. 🎉 Merged PR [#40](https://github.com/zer0Kerbal/NukesTinyPods/pull/40) in [zer0Kerbal/NukesTinyPods](https://github.com/zer0Kerbal/NukesTinyPods)
 <!--END_SECTION:activity-->
 
 </details
