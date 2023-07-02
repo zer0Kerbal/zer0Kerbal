@@ -64,16 +64,16 @@ From
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#43](https://github.com/zer0Kerbal/NukesTinyPods/issues/43) in [zer0Kerbal/NukesTinyPods](https://github.com/zer0Kerbal/NukesTinyPods)
-2. ❗ Opened issue [#42](https://github.com/zer0Kerbal/NukesTinyPods/issues/42) in [zer0Kerbal/NukesTinyPods](https://github.com/zer0Kerbal/NukesTinyPods)
-3. 🚀 Published release [Version 1.0.0.0-release - `<Sooner or later>` edition](https://github.com/Version 1.0.0.0-release - `<Sooner or later>` edition) in [zer0Kerbal/NukesTinyPods](https://github.com/zer0Kerbal/NukesTinyPods)
-4. 🔒 Closed issue [#35](https://github.com/zer0Kerbal/NukesTinyPods/issues/35) in [zer0Kerbal/NukesTinyPods](https://github.com/zer0Kerbal/NukesTinyPods)
-5. 🔒 Closed issue [#34](https://github.com/zer0Kerbal/NukesTinyPods/issues/34) in [zer0Kerbal/NukesTinyPods](https://github.com/zer0Kerbal/NukesTinyPods)
-6. 🔒 Closed issue [#33](https://github.com/zer0Kerbal/NukesTinyPods/issues/33) in [zer0Kerbal/NukesTinyPods](https://github.com/zer0Kerbal/NukesTinyPods)
-7. 🔒 Closed issue [#32](https://github.com/zer0Kerbal/NukesTinyPods/issues/32) in [zer0Kerbal/NukesTinyPods](https://github.com/zer0Kerbal/NukesTinyPods)
-8. 🔒 Closed issue [#38](https://github.com/zer0Kerbal/NukesTinyPods/issues/38) in [zer0Kerbal/NukesTinyPods](https://github.com/zer0Kerbal/NukesTinyPods)
-9. 🔒 Closed issue [#39](https://github.com/zer0Kerbal/NukesTinyPods/issues/39) in [zer0Kerbal/NukesTinyPods](https://github.com/zer0Kerbal/NukesTinyPods)
-10. 🎉 Merged PR [#40](https://github.com/zer0Kerbal/NukesTinyPods/pull/40) in [zer0Kerbal/NukesTinyPods](https://github.com/zer0Kerbal/NukesTinyPods)
+1. ❗ Opened issue [#92](https://github.com/zer0Kerbal/SpaceShuttleEngines/issues/92) in [zer0Kerbal/SpaceShuttleEngines](https://github.com/zer0Kerbal/SpaceShuttleEngines)
+2. ❗ Opened issue [#91](https://github.com/zer0Kerbal/SpaceShuttleEngines/issues/91) in [zer0Kerbal/SpaceShuttleEngines](https://github.com/zer0Kerbal/SpaceShuttleEngines)
+3. 🚀 Published release [Version 2.3.99.5-prerelease - `<Спасибо evanisrael>` edition](https://github.com/Version 2.3.99.5-prerelease - `<Спасибо evanisrael>` edition) in [zer0Kerbal/SpaceShuttleEngines](https://github.com/zer0Kerbal/SpaceShuttleEngines)
+4. 🔒 Closed issue [#85](https://github.com/zer0Kerbal/SpaceShuttleEngines/issues/85) in [zer0Kerbal/SpaceShuttleEngines](https://github.com/zer0Kerbal/SpaceShuttleEngines)
+5. 🔒 Closed issue [#84](https://github.com/zer0Kerbal/SpaceShuttleEngines/issues/84) in [zer0Kerbal/SpaceShuttleEngines](https://github.com/zer0Kerbal/SpaceShuttleEngines)
+6. 🔒 Closed issue [#25](https://github.com/zer0Kerbal/SpaceShuttleEngines/issues/25) in [zer0Kerbal/SpaceShuttleEngines](https://github.com/zer0Kerbal/SpaceShuttleEngines)
+7. 🎉 Merged PR [#89](https://github.com/zer0Kerbal/SpaceShuttleEngines/pull/89) in [zer0Kerbal/SpaceShuttleEngines](https://github.com/zer0Kerbal/SpaceShuttleEngines)
+8. 💪 Opened PR [#89](https://github.com/zer0Kerbal/SpaceShuttleEngines/pull/89) in [zer0Kerbal/SpaceShuttleEngines](https://github.com/zer0Kerbal/SpaceShuttleEngines)
+9. 🎉 Merged PR [#88](https://github.com/zer0Kerbal/SpaceShuttleEngines/pull/88) in [zer0Kerbal/SpaceShuttleEngines](https://github.com/zer0Kerbal/SpaceShuttleEngines)
+10. ❗ Opened issue [#43](https://github.com/zer0Kerbal/NukesTinyPods/issues/43) in [zer0Kerbal/NukesTinyPods](https://github.com/zer0Kerbal/NukesTinyPods)
 <!--END_SECTION:activity-->
 
 </details
