@@ -173,3 +173,5 @@
   * [New Shepard (NSHPD)](https://curseforge.com/kerbal/ksp-mods/NewShepard)
   * [TESS](https://curseforge.com/kerbal/ksp-mods/TESS)
   * [Ariane 6 (S3L)](https://curseforge.com/kerbal/ksp-mods/Ariane6)
+
+[zedK]: https://github.com/zer0Kerbal "zer0Kerbal (zed'K)"
