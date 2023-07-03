@@ -78,8 +78,6 @@
 
 * by [nli2work][nli2work]
   * [Cluster O'Lanters (COL)][COL]
-  * [Dr. Kermanassus Part Emporium (DKPE)][DKPE]
-  * [Orbital Utility Vehicle (OUV)][OUV]
   * [Radial Omni Separators (ROS)][ROS]
   * [Transparent Command Pods (TCP)][PODS]
 
