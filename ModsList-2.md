@@ -1,3 +1,9 @@
+<!-- NewModList.md v1.0.0.0
+zer0Kerbal (zed'K)
+created: 08 Aug 2021
+updated: 04 Jul 2023
+ -->
+
 # Addons by [zer0Kerbal][zedK]
 
 * [Adjustable Mod Panel (KAMP)](https://curseforge.com/kerbal/ksp-mods/AdjustableModPanel)
