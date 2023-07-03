@@ -6,7 +6,8 @@
 ## Documents
 - [About](About.md)
 - [DocumentationStyle](DocumentationStyle.md)
-- [ModList](ModList.md)
-- [README](README.md)
+- [New Mod List](ModList-2.md)
+- [Mod List](ModList.md)
+- [READ ME](README.md)
 - [projects](projects.md)
 - [rules](rules.md)
