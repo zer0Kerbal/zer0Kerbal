@@ -1,10 +1,45 @@
-<!-- NewModList.md v1.0.0.0
+---
+permalink: /AddonListing.html
+title: New Mod List
+description: The Opening Credits, and the closing credits, plus the first of two (or is three) end credit scenes
+tags: addon-list,mod-list,ksp-mod,page,kerbal,ksp,zer0Kerbal,zedK
+---
+<!-- NewModList.md v1.0.1.0
 zer0Kerbal (zed'K)
 created: 08 Aug 2021
-updated: 04 Jul 2023
- -->
-
+updated: 07 Jul 2023 -->
 # Addons by [zer0Kerbal][zedK]
+1. [Addons by zer0Kerbal](#addons-by-zer0kerbal)
+2. [Addons by zer0Kerbal](#addons-by-zer0kerbal-1)
+      1. [NecroBones](#necrobones)
+      2. [enceos](#enceos)
+      3. [Axial Aerospace](#axial-aerospace)
+      4. [nli2work a.k.a NohArk](#nli2work-aka-nohark)
+      5. [by Exodus Solis](#by-exodus-solis)
+      6. [by DaMichel's Ltd](#by-damichels-ltd)
+      7. [By Nuke](#by-nuke)
+      8. [by Coyote Space Industries Ltd (CSIL)](#by-coyote-space-industries-ltd-csil)
+      9. [by \[Kerb Simple Co (KSC)\]](#by-kerb-simple-co-ksc)
+      10. [by V2 Industries (V2IL)](#by-v2-industries-v2il)
+      11. [By QuickBASIC](#by-quickbasic)
+      12. [By Exodus\_Solis](#by-exodus_solis)
+      13. [by Lunatic Aeronautics (LAL)](#by-lunatic-aeronautics-lal)
+      14. [by Mkerb Inc (MKERB)](#by-mkerb-inc-mkerb)
+      15. [BobCat Industries (BOB)](#bobcat-industries-bob)
+      16. [by godarklight](#by-godarklight)
+      17. [Klockheed Martian Ltd (KML)](#klockheed-martian-ltd-kml)
+      18. [by Matheo G](#by-matheo-g)
+      19. [Rusty Star](#rusty-star)
+      20. [Parts](#parts)
+      21. [Addons](#addons)
+      22. [Patches](#patches)
+      23. [Simple](#simple)
+      24. [In the Queue](#in-the-queue)
+
+
+# Addons by [zer0Kerbal](https://github.com/zer0Kerbal)
+
+<small><i>[top](#addons-by-zer0kerbal)</small></i>
 
 * [Adjustable Mod Panel (KAMP)](https://curseforge.com/kerbal/ksp-mods/AdjustableModPanel)
 * [B9 Stock Patches](https://curseforge.com/kerbal/ksp-mods/b9stockpatches)
@@ -45,7 +80,11 @@ updated: 04 Jul 2023
   * [WhimChaser (WHIM)](https://curseforge.com/kerbal/ksp-mods/WhimChaser)
 * [Olympic's ARP Icons (ARPI)](https://curseforge.com/kerbal/ksp-mods/arpicons)
 
-* [NecroBones](https://forum.kerbalspaceprogram.com/index.php?/profile/105424-*/) suite of mods that play nicely together
+### [NecroBones](https://forum.kerbalspaceprogram.com/index.php?/profile/105424-*/)
+
+<small><i>[top](#addons-by-zer0kerbal)</small></i>
+
+* by [NecroBones](https://forum.kerbalspaceprogram.com/index.php?/profile/105424-*/) <i><small> suite of mods that play nicely together</i></small>
   * [Lithobrake Exploration Technologies (LET)](https://curseforge.com/kerbal/ksp-mods/LithobrakeExplorationTechnologies) lander parts, large chutes/legs/ladders/etc
   * [SpaceY Corporation (SYC)](https://curseforge.com/kerbal/ksp-mods/SpaceYCorp)
     * [SpaceY Lifters (SYL)](https://curseforge.com/kerbal/ksp-mods/SpaceYLifters) stock-balanced large rocket parts, 5m parts, large SRBs
@@ -63,6 +102,10 @@ updated: 04 Jul 2023
     * [Fuel Tanks Plus Xtra Kerbal (FTPXK)](https://curseforge.com/kerbal/ksp-mods/FTPXK)
     * [Fuel Tanks Plus IS (FTPIS)](https://curseforge.com/kerbal/ksp-mods/FTPIS)
 
+### [enceos](https://forum.kerbalspaceprogram.com/index.php?/profile/110725-*/)
+
+<small><i>[top](#addons-by-zer0kerbal)</small></i>
+
 * By [Kerbal Hacks Ltd (KHL)](https://curseforge.com/kerbal/ksp-mods/kerbalhacksltd)
   * [Animated Station Screens (ASS)](https://forum.kerbalspaceprogram.com/index.php?/topic/134889-*/)
   * [Asphalt Tiles (AT)](https://forum.kerbalspaceprogram.com/index.php?/topic/134889-*/)
@@ -76,23 +119,40 @@ updated: 04 Jul 2023
   * [Simple Mission Flags (SMF)](https://curseforge.com/kerbal/ksp-mods/SimpleMisisonFlags)
   * [Ven's Style Textures (VST)](https://forum.kerbalspaceprogram.com/index.php?/topic/134889-*/)
 
+### Axial Aerospace
+
+<small><i>[top](#addons-by-zer0kerbal)</small></i>
+
 * by [Axial Aerospace](https://curseforge.com/kerbal/ksp-mods/AxialAerospaceLtd)
   * [Dreamer (DREAM)](https://curseforge.com/kerbal/ksp-mods/SimpleCargoSolutions)
   * [LanderTek (LTK)](https://curseforge.com/kerbal/ksp-mods/Dreamer)
   * [Simple Cargo Solutions (CARGO)](https://curseforge.com/kerbal/ksp-mods/LanderTek)
   * [WhimChaser (WHIM)](https://curseforge.com/kerbal/ksp-mods/WhimChaser)
 
-* by [nli2work][nli2work]
-  * [Cluster O'Lanters (COL)][COL]
-  * [Radial Omni Separators (ROS)][ROS]
-  * [Transparent Command Pods (TCP)][PODS]
+### [nli2work a.k.a NohArk](https://forum.kerbalspaceprogram.com/index.php?/profile/106805-*/)
 
-* by [Exodus Solis](https://forum.kerbalspaceprogram.com/index.php?/profile/61673-*/)
-  * [LazTek Dev (LTD)](https://curseforge.com/kerbal/ksp-mods/LazTekDev)
+<small><i>[top](#addons-by-zer0kerbal)</small></i>
+
+* by [NohArk's Pick'n'Pull (PNP)](https://curseforge.com/kerbal/ksp-mods/PicknPull)
+  * [Cluster O'Lanterns (COL)](https://curseforge.com/kerbal/ksp-mods/ClusterOLantern)
+  <!-- * [Dr. Kermanassus Part Emporium (DKPE)](https://curseforge.com/kerbal/ksp-mods/DrKermanassusPartEmporium) -->
+  <!-- * [Orbital Utility Vehicle (OUV)](https://curseforge.com/kerbal/ksp-mods/OrbitalUtilityVehicle) -->
+  * [Radial Omni Separators (ROS)](https://curseforge.com/kerbal/ksp-mods/RadialOmniSeparators)
+  * [Transparent Command Pods (TCP)](https://curseforge.com/kerbal/ksp-mods/TransparentCommandPods)
+
+### by [Exodus Solis](https://forum.kerbalspaceprogram.com/index.php?/profile/61673-*/)
+
+<small><i>[top](#addons-by-zer0kerbal)</small></i>
+
+* by [LazTek Dev (LTD)](https://curseforge.com/kerbal/ksp-mods/LazTekDev)
   * [Colonial Transporter (LCT)](https://curseforge.com/kerbal/ksp-mods/ColonialTransporter)
   * [Exploration Expansion (LEE)](https://curseforge.com/kerbal/ksp-mods/ExplorationExpansion)
   * [Historic Archive (LHA)](https://curseforge.com/kerbal/ksp-mods/HistoricArchive)
   * [Launch Pack (LLP)](https://curseforge.com/kerbal/ksp-mods/LaunchPack)
+
+### by [DaMichel's Ltd](https://curseforge.com/kerbal/ksp-mods/damichelltd)
+
+<small><i>[top](#addons-by-zer0kerbal)</small></i>
 
 * by [DaMichel's Ltd](https://curseforge.com/kerbal/ksp-mods/damichelltd)
   * [DaMichel's AeroRadial (DAR)](https://curseforge.com/kerbal/ksp-mods/AeroRadial)
@@ -100,7 +160,11 @@ updated: 04 Jul 2023
   * [DaMichel's Fuselage (DMF)](https://curseforge.com/kerbal/ksp-mods/Fuselage)
   * [DaMichel's SphericalTanks(DST)](https://curseforge.com/kerbal/ksp-mods/SphericalTanks)
 
-* By [Nuke](https://curseforge.com/kerbal/ksp-mods/NukesUnlimited)
+### By [Nuke](https://curseforge.com/kerbal/ksp-mods/NukesUnlimited)
+
+<small><i>[top](#addons-by-zer0kerbal)</small></i>
+
+* By [Nuke's Unlimted](https://curseforge.com/kerbal/ksp-mods/NukesUnlimited)
   * [Nuke's Tiny Aero (NtA)](https://curseforge.com/kerbal/ksp-mods/NukesTinyAero)
   * [Nuke's Tiny Engines (NtE)](https://curseforge.com/kerbal/ksp-mods/NukesTinyEngines)
   * [Nuke's Tiny Experimental (NX)](https://curseforge.com/kerbal/ksp-mods/NukesTinyExperimental)
@@ -110,17 +174,33 @@ updated: 04 Jul 2023
   * [Nuke's Tiny Utility (NtU)](https://curseforge.com/kerbal/ksp-mods/NukesTinyUtility)
   * [Nuke's Tiny Parts Pack (NtPP)](https://curseforge.com/kerbal/ksp-mods/NukesTinyPartsPack)
 
+### by [Coyote Space Industries Ltd (CSIL)](https://curseforge.com/kerbal/ksp-mods/CoyoteSpaceIndustriesLtd)
+
+<small><i>[top](#addons-by-zer0kerbal)</small></i>
+
 * by [Coyote Space Industries Ltd (CSIL)](https://curseforge.com/kerbal/ksp-mods/CoyoteSpaceIndustriesLtd)
   * [Coyote Cargo Freighter (CCF)](https://curseforge.com/kerbal/ksp-mods/CoyoteCargoFreighter)
   * [CSI Tools (CSIT)](https://curseforge.com/kerbal/ksp-mods/CSITools)
 
-* by [Kerb Simple Co (KSC)]
+### by [Kerb Simple Co (KSC)]
+
+<small><i>[top](#addons-by-zer0kerbal)</small></i>
+
+* by [Kerb Simple Co (KSC)](https://curseforge.com/kerbal/ksp-mods/KerbSimpleCo)
   * [More: Hitchhikers (MHH)](https://curseforge.com/kerbal/ksp-mods/morehitchhikers)
 
-* by [V2 Industries (V2IL)][V2Il]
-  * [Puma (PUMA)][PUMA]
-  * [HoneyBadger (HoneyBadger)][HONEYBADGER]
+### by [V2 Industries (V2IL)](https://curseforge.com/kerbal/ksp-mods/V2Industries)
+
+<small><i>[top](#addons-by-zer0kerbal)</small></i>
+
+* by [V2 Industries (V2IL)](https://curseforge.com/kerbal/ksp-mods/V2Industries)
+  * [Puma (PUMA)](https://curseforge.com/kerbal/ksp-mods/Puma)
+  * [HoneyBadger (HoneyBadger)](https://curseforge.com/kerbal/ksp-mods/HONEYBADGER)
   * [Near Future Rovers (NFR)](https://curseforge.com/kerbal/ksp-mods/NearFutureRovers)
+
+### By [QuickBASIC](https://forum.kerbalspaceprogram.com/index.php?/profile/148013-*/)
+
+<small><i>[top](#addons-by-zer0kerbal)</small></i>
 
 * By [QuickBASIC](https://forum.kerbalspaceprogram.com/index.php?/profile/148013-*/)
   * [ISRU Thanks But No Tanks (QBTT)](https://curseforge.com/kerbal/ksp-mods/isruthanksbutnotanks)
@@ -128,23 +208,34 @@ updated: 04 Jul 2023
   * [Monero Flags (QBMF)](https://curseforge.com/kerbal/ksp-mods/moneroflags)
   * [UniversalStorageStockResourceFuelCell (QBUS)](https://curseforge.com/kerbal/ksp-mods/universalstoragestockresourcefuelcell)
 
+### By [Exodus_Solis](https://forum.kerbalspaceprogram.com/index.php?/profile/189895-*/)
+
+<small><i>[top](#addons-by-zer0kerbal)</small></i>
+
 * By [Exodus_Solis](https://forum.kerbalspaceprogram.com/index.php?/profile/189895-*/)
   * [Simple Hyperdrive! (HYPE)](https://curseforge.com/kerbal/ksp-mods/SimpleHyperdrive)
   * [Kerbals of All Trades (KOAT)](https://curseforge.com/kerbal/ksp-mods/KerbalsofAllTrades)
 
-* By [nli2work][nli2work]
-  * [NohArk's Pick'n'Pull (PNP)][PNP]
-  * [Orbital Utility Vehicle (OUV)][OUV]
-  * [Radial Omni Separators (ROS)][ROS]
+### by [Lunatic Aeronautics (LAL)](https://curseforge.com/kerbal/ksp-mods/lunaticaeronauticsltd)
+
+<small><i>[top](#addons-by-zer0kerbal)</small></i>
 
 * by [Lunatic Aeronautics (LAL)](https://curseforge.com/kerbal/ksp-mods/lunaticaeronauticsltd)
   * [Anti Grav Room (LAAGR)](https://curseforge.com/kerbal/ksp-mods/antigravroom)
   * [Kerbal XMAS (XMAS)](https://curseforge.com/kerbal/ksp-mods/KerbalXMAS)
   * [Rover Anti Gravity System (RAGS)](https://curseforge.com/kerbal/ksp-mods/roverantigravitysystem)
 
+### by [Mkerb Inc (MKERB)](https://curseforge.com/kerbal/ksp-mods/MkerbInc)
+
+<small><i>[top](#addons-by-zer0kerbal)</small></i>
+
 * by [Mkerb Inc (MKERB)](https://curseforge.com/kerbal/ksp-mods/MkerbInc)
   * [Mkerb Science Instruments](https://curseforge.com/kerbal/ksp-mods/ScienceInstruments)
   * [Mkerb Oxidizer Tanks (MOT)](https://curseforge.com/kerbal/ksp-mods/OxidizerTank)
+
+### [BobCat Industries (BOB)](https://curseforge.com/kerbal/ksp-mods/BobCatInd)
+
+<small><i>[top](#addons-by-zer0kerbal)</small></i>
 
 * The collection of [BobCat Industries (BOB)](https://curseforge.com/kerbal/ksp-mods/BobCatInd)
   * [Soviet Engines](https://github.com/zer0Kerbal/SovietEnginePack)
@@ -164,20 +255,114 @@ updated: 04 Jul 2023
     * Rovers
     * [DEMV](https://github.com/zer0Kerbal/DEMV)
 
+### by [godarklight](https://forum.kerbalspaceprogram.com/index.php?/profile/92588-*/)
+
+<small><i>[top](#addons-by-zer0kerbal)</small></i>
+
 * by [godarklight](https://forum.kerbalspaceprogram.com/index.php?/profile/92588-*/)
   * [Exception Detector (EXCD)](https://curseforge.com/kerbal/ksp-mods/ExceptionDetector)
   * [NyanCat (NYAN)](https://curseforge.com/kerbal/ksp-mods/NyanCat)
   * [SafetyWall (WALL)](https://curseforge.com/kerbal/ksp-mods/SafetyWall)
 
-* [Klockheed Martian Ltd (KML)](https://curseforge.com/kerbal/ksp-mods/KlockheedMartianLtd) by [dtobi][dtobi]
-  * [Asteroid Cities (AC)](https://curseforge.com/kerbal/ksp-mods/AsteroidCities)
-  * [Space Shuttle Engines (SSE)](https://curseforge.com/kerbal/ksp-mods/SpaceShuttleEngines)
-  * [Special Parts Division (SPD)](https://curseforge.com/kerbal/ksp-mods/SpecialPartsDivision)
+### [Klockheed Martian Ltd (KML)](https://curseforge.com/kerbal/ksp-mods/KlockheedMartianLtd)
+
+<small><i>[top](#addons-by-zer0kerbal)</small></i>
+
+* [Klockheed Martian Ltd (KML)](https://curseforge.com/kerbal/ksp-mods/KlockheedMartianLtd) by [dtobi](https://forum.kerbalspaceprogram.com/index.php?/profile/90882-*/) ![](https://img.shields.io/github/v/release/zer0Kerbal/KlockheedMartianLtd?include_prereleases) ![release](https://img.shields.io/github/release-date/zer0kerbal/KlockheedMartianLtd)
+  * [Asteroid Cities (AC)](https://curseforge.com/kerbal/ksp-mods/AsteroidCities) ![](https://img.shields.io/github/v/release/zer0Kerbal/AsteroidCities?include_prereleases) ![release](https://img.shields.io/github/release-date/zer0kerbal/AsteroidCities)
+  * [Space Shuttle Engines (SSE)](https://curseforge.com/kerbal/ksp-mods/SpaceShuttleEngines) ![](https://img.shields.io/github/v/release/zer0Kerbal/SpaceShuttleEngines?include_prereleases) ![release](https://img.shields.io/github/release-date/zer0kerbal/SpaceShuttleEngines)
+  * [Special Parts Division (SPD)](https://curseforge.com/kerbal/ksp-mods/SpecialPartsDivision) ![](https://img.shields.io/github/v/release/zer0Kerbal/SpecialPartsDivision?include_prereleases) ![release](https://img.shields.io/github/release-date/zer0kerbal/SpecialPartsDivision)
+
+### by [Matheo G](https://forum.kerbalspaceprogram.com/index.php?/profile/185325-*/)
+
+<small><i>[top](#addons-by-zer0kerbal)</small></i>
 
 * by [Matheo G](https://forum.kerbalspaceprogram.com/index.php?/profile/185325-*/)
-  * [Insight Lander (INSIGHT)](https://curseforge.com/kerbal/ksp-mods/Insight)
-  * [New Shepard (NSHPD)](https://curseforge.com/kerbal/ksp-mods/NewShepard)
-  * [TESS](https://curseforge.com/kerbal/ksp-mods/TESS)
-  * [Ariane 6 (S3L)](https://curseforge.com/kerbal/ksp-mods/Ariane6)
+  * [Insight Lander (INSIGHT)](https://curseforge.com/kerbal/ksp-mods/Insight) ![](https://img.shields.io/github/v/release/zer0Kerbal/Insight?include_prereleases)
+  ![release](https://img.shields.io/github/release-date/zer0kerbal/Insight)
+  * [New Shepard (NSHPD)](https://curseforge.com/kerbal/ksp-mods/NewShepard) ![](https://img.shields.io/github/v/release/zer0Kerbal/NewShepard?include_prereleases) ![release](https://img.shields.io/github/release-date/zer0kerbal/NewShepard)
+  * [TESS](https://curseforge.com/kerbal/ksp-mods/TESS) ![](https://img.shields.io/github/v/release/zer0Kerbal/Tess?include_prereleases) ![release](https://img.shields.io/github/release-date/zer0kerbal/Tess)
+  * [Ariane 6 (S3L)](https://curseforge.com/kerbal/ksp-mods/Ariane6) ![](https://img.shields.io/github/v/release/zer0Kerbal/Ariane6?include_prereleases) ![release](https://img.shields.io/github/release-date/zer0kerbal/Ariane6)
+
+### Rusty Star
+
+<small><i>[top](#addons-by-zer0kerbal)</small></i>
+
+* by [Rusty Star Rockets (RSR)](https://curseforge.com/kerbal/ksp-mods/RustyStarShipyards) ![](https://img.shields.io/github/v/release/zer0Kerbal/RustyStarShipyards?include_prereleases) ![release](https://img.shields.io/github/release-date/zer0kerbal/RustyStarShipyards)
+  * [Rusty Star Rockets (RSR)](https://curseforge.com/kerbal/ksp-mods/RustyStarRockets) ![](https://img.shields.io/github/v/release/zer0Kerbal/RustyStarRockets?include_prereleases) ![release](https://img.shields.io/github/release-date/zer0kerbal/RustyStarRockets)
+  * [Pirates of the Keribbean (PoK)](https://curseforge.com/kerbal/ksp-mods/PiratesoftheKeribbean) ![](https://img.shields.io/github/v/release/zer0Kerbal/PiratesoftheKeribbean?include_prereleases) ![release](https://img.shields.io/github/release-date/zer0kerbal/PiratesoftheKeribbean)
+  * [Rusty Textures for Procedural Parts (RTP)](https://curseforge.com/kerbal/ksp-mods/RustyTexturesforProceduralParts)
+  * [ZPE Propulsion System (ZPE)](https://curseforge.com/kerbal/ksp-mods/ZPEPropulsionSystem)
+  * [Rusty Panels (RP)](https://curseforge.com/kerbal/ksp-mods/RustyPanels) by [Sooner266](https://forum.kerbalspaceprogram.com/index.php?/profile/107575-*/)
+
+### Parts 
+
+* [Mini Sample Return Capsule (MSRC)](https://github.com/zer0Kerbal/MiniSampleReturnCapsule "Mini Sample Return Capsule (MSRC")  
+![](https://img.shields.io/github/v/release/zer0Kerbal/MiniSampleReturnCapsule?include_prereleases?style=plastic)
+![](https://github.com/zer0Kerbal/MiniSampleReturnCapsule/workflows/Validate%20AVC%20.version%20files/badge.svg "AVC-Valid")
+![](https://img.shields.io/github/repo-size/zer0Kerbal/MiniSampleReturnCapsule?style=plastic)
+![](https://img.shields.io/github/downloads/zer0Kerbal/MiniSampleReturnCapsule/total?style=plastic)
+![](https://img.shields.io/github/contributors/zer0kerbal/MiniSampleReturnCapsule?style=plastic)  
+![release](https://img.shields.io/github/release-date/zer0kerbal/MiniSampleReturnCapsule?style=plastic)
+![prerelease](https://img.shields.io/github/release-date-pre/zer0kerbal/MiniSampleReturnCapsule?style=plastic)
+
+### Addons
+
+* [On Demand Fuel Cells (ODFC)](https://github.com/zer0Kerbal/ODFCr "On Demand Fuel Cells")  
+![](https://img.shields.io/github/v/release/zer0Kerbal/ODFCr?include_prereleases?style=plastic) 
+![](https://github.com/zer0Kerbal/ODFCr/workflows/Validate%20AVC%20.version%20files/badge.svg "AVC-Valid") 
+![](https://img.shields.io/github/repo-size/zer0Kerbal/ODFCr?style=plastic)
+![](https://img.shields.io/github/downloads/zer0Kerbal/ODFCr/total?style=plastic)
+![](https://img.shields.io/github/contributors/zer0kerbal/ODFCr?style=plastic)  
+![release](https://img.shields.io/github/release-date/zer0kerbal/ODFCr?style=plastic)
+![prerelease](https://img.shields.io/github/release-date-pre/zer0kerbal/ODFCr?style=plastic)
+
+### Patches
+
+* [Komplexity™ (KPLX)](https://github.com/zer0Kerbal/Komplexity "Komplexity™ (KPLX)")  
+![](https://img.shields.io/github/v/release/zer0Kerbal/Komplexity?include_prereleases?style=plastic)
+![](https://github.com/zer0Kerbal/Komplexity/workflows/Validate%20AVC%20.version%20files/badge.svg "AVC-Valid")
+![](https://img.shields.io/github/repo-size/zer0Kerbal/Komplexity?style=plastic)
+![](https://img.shields.io/github/downloads/zer0Kerbal/Komplexity/total?style=plastic)
+![](http://img.shields.io/github/labels/zer0Kerbal/Komplexity/help-wanted?style=plastic)
+![](https://img.shields.io/github/contributors/zer0kerbal/Komplexity?style=plastic)  
+![release](https://img.shields.io/github/release-date/zer0kerbal/Komplexity?style=plastic)
+![prerelease](https://img.shields.io/github/release-date-pre/zer0kerbal/Komplexity?style=plastic)
+
+### Simple
+
+* [SimpleConstruction! (SC!)](https://github.com/zer0Kerbal/SimpleConstruction "SimpleConstruction!™ (SC!)")  
+![](https://img.shields.io/github/v/release/zer0Kerbal/SimpleConstruction?include_prereleases?style=plastic)
+![](https://github.com/zer0Kerbal/SimpleConstruction/workflows/Validate%20AVC%20.version%20files/badge.svg "AVC-Valid")
+![](https://img.shields.io/github/repo-size/zer0Kerbal/SimpleConstruction?style=plastic)
+![](https://img.shields.io/github/downloads/zer0Kerbal/SimpleConstruction/total?style=plastic)
+![](http://img.shields.io/github/labels/zer0Kerbal/SimpleConstruction/help-wanted?style=plastic)
+![](https://img.shields.io/github/contributors/SimpleConstruction/Komplexity?style=plastic)  
+![release](https://img.shields.io/github/release-date/zer0kerbal/SimpleConstruction?style=plastic)
+![prerelease](https://img.shields.io/github/release-date-pre/zer0kerbal/SimpleConstruction?style=plastic)
+* [SimpleLogistics! (SL!)](https://github.com/zer0Kerbal/SimpleLogistics "SimpleLogicists!™ (SL!)")  
+![](https://img.shields.io/github/v/release/zer0Kerbal/SimpleLogistics?include_prereleases?style=plastic)
+![](https://github.com/zer0Kerbal/SimpleLogistics/workflows/Validate%20AVC%20.version%20files/badge.svg "AVC-Valid")
+![](https://img.shields.io/github/repo-size/zer0Kerbal/SimpleLogistics?style=plastic)
+![](https://img.shields.io/github/downloads/zer0Kerbal/SimpleLogistics/total?style=plastic)
+![](http://img.shields.io/github/labels/zer0Kerbal/SimpleLogistics/help-wanted?style=plastic)
+![](https://img.shields.io/github/contributors/SimpleLogistics/Komplexity?style=plastic)  
+![release](https://img.shields.io/github/release-date/zer0kerbal/SimpleLogistics?style=plastic)
+![prerelease](https://img.shields.io/github/release-date-pre/zer0kerbal/SimpleLogistics?style=plastic)
+
+### In the Queue
+
+* [HotBeveragesIrradiated! (HOT)](https://github.com/zer0Kerbal/SimpleConstruction "HotBeveragesIrradiated!™ (HOT)")  
+![](https://img.shields.io/github/v/release/zer0Kerbal/HotBeveragesIrradiated?include_prereleases?style=plastic)
+![](https://github.com/zer0Kerbal/HotBeveragesIrradiated/workflows/Validate%20AVC%20.version%20files/badge.svg "AVC-Valid")
+![](https://img.shields.io/github/repo-size/zer0Kerbal/HotBeveragesIrradiated?style=plastic)
+![](https://img.shields.io/github/downloads/zer0Kerbal/HotBeveragesIrradiated/total?style=plastic)
+![](http://img.shields.io/github/labels/zer0Kerbal/HotBeveragesIrradiated/help-wanted?style=plastic)
+![](https://img.shields.io/github/contributors/HotBeveragesIrradiated/Komplexity?style=plastic)  
+![release](https://img.shields.io/github/release-date/zer0kerbal/HotBeveragesIrradiated?style=plastic)
+![prerelease](https://img.shields.io/github/release-date-pre/zer0kerbal/HotBeveragesIrradiated?style=plastic)
 
 [zedK]: https://github.com/zer0Kerbal "zer0Kerbal (zed'K)"
+
+THIS FILE: CC BY-ND 4.0 by zer0Kerbal
+  used with express permission from zer0Kerbal
