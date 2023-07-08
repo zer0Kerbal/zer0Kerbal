@@ -43,7 +43,7 @@ aka `zed'K™`
    23. [Simple](#simple)
    24. [In the Queue](#in-the-queue)
 
-<small><i>[top](#addons-by-zer0kerbal)</small></i>
+<small><i>[top](#addons-by-zer0kerbal)</i></small>
 
 * [Adjustable Mod Panel (KAMP)](https://curseforge.com/kerbal/ksp-mods/AdjustableModPanel)
 * [B9 Stock Patches](https://curseforge.com/kerbal/ksp-mods/b9stockpatches)
@@ -64,13 +64,13 @@ aka `zed'K™`
 * [Pteron (MSRV)](https://curseforge.com/kerbal/Pteron)
 * [ScrapYard (SCRAP)](https://curseforge.com/kerbal/ksp-mods/ScrapYard)
 * [SimpleConstruction! (SCON)](https://curseforge.com/kerbal/ksp-mods/SimpleConstruction)
-  * [Keridian Dynamics Vessel Assembly (KDVA)](https://curseforge.com/kerbal/ksp-mods/KeridianDynamics) <i><small>lots of stockalike parts</small></i>
-  * [Not So SimpleConstructon! (NSSC)](https://curseforge.com/kerbal/ksp-mods/NotSoSimpleConstructon) <i><small>adds recyling and surveying</small></i>
+  * [Keridian Dynamics Vessel Assembly (KDVA)](https://curseforge.com/kerbal/ksp-mods/KeridianDynamics) <i><small>lots of stockalike parts</i></small>
+  * [Not So SimpleConstructon! (NSSC)](https://curseforge.com/kerbal/ksp-mods/NotSoSimpleConstructon) <i><small>adds recyling and surveying</i></small>
 * [SimpleLife! (LIFE)](https://curseforge.com/kerbal/ksp-mods/SimpleLife)
 * [SimpleLogistics! (SLOG)](https://curseforge.com/kerbal/ksp-mods/SimpleLogistics)
 * [SimpleNotes! (NOTE)](https://curseforge.com/kerbal/ksp-mods/Notes)
 * [Stack Inline Lights (SIL)](https://curseforge.com/kerbal/ksp-mods/StackInlineLights)
-* [Foundations (FND)](https://curseforge.com/kerbal/ksp-mods/Foundations) <small><i>Helps prevent ground constructions from floating away</small></i>
+* [Foundations (FND)](https://curseforge.com/kerbal/ksp-mods/Foundations) <small><i>Helps prevent ground constructions from floating away</i></small>
 * Science!
   * [Mini Sample Return Capsule (MSRC)](https://www.curseforge.com/kerbal/ksp-mods/MiniSampleReturnCapsule)
   * [Mkerb Science Instruments](https://curseforge.com/kerbal/ksp-mods/ScienceInstruments)
@@ -86,7 +86,7 @@ aka `zed'K™`
 
 ## [NecroBones](https://forum.kerbalspaceprogram.com/index.php?/profile/105424-*/)
 
-<small><i>[top](#addons-by-zer0kerbal)</small></i>
+<small><i>[top](#addons-by-zer0kerbal)</i></small>
 
 * by [NecroBones](https://forum.kerbalspaceprogram.com/index.php?/profile/105424-*/) <i><small> suite of mods that play nicely together</i></small>
   * [Lithobrake Exploration Technologies (LET)](https://curseforge.com/kerbal/ksp-mods/LithobrakeExplorationTechnologies) lander parts, large chutes/legs/ladders/etc
@@ -108,7 +108,7 @@ aka `zed'K™`
 
 ## [enceos](https://forum.kerbalspaceprogram.com/index.php?/profile/110725-*/)
 
-<small><i>[top](#addons-by-zer0kerbal)</small></i>
+<small><i>[top](#addons-by-zer0kerbal)</i></small>
 
 * By [Kerbal Hacks Ltd (KHL)](https://curseforge.com/kerbal/ksp-mods/kerbalhacksltd)
   * [Animated Station Screens (ASS)](https://forum.kerbalspaceprogram.com/index.php?/topic/134889-*/)
@@ -125,7 +125,7 @@ aka `zed'K™`
 
 ## Axial Aerospace
 
-<small><i>[top](#addons-by-zer0kerbal)</small></i>
+<small><i>[top](#addons-by-zer0kerbal)</i></small>
 
 * by [Axial Aerospace](https://curseforge.com/kerbal/ksp-mods/AxialAerospaceLtd)
   * [Dreamer (DREAM)](https://curseforge.com/kerbal/ksp-mods/SimpleCargoSolutions)
@@ -135,7 +135,7 @@ aka `zed'K™`
 
 ## [nli2work a.k.a NohArk](https://forum.kerbalspaceprogram.com/index.php?/profile/106805-*/)
 
-<small><i>[top](#addons-by-zer0kerbal)</small></i>
+<small><i>[top](#addons-by-zer0kerbal)</i></small>
 
 * by [NohArk's Pick'n'Pull (PNP)](https://curseforge.com/kerbal/ksp-mods/PicknPull)
   * [Cluster O'Lanterns (COL)](https://curseforge.com/kerbal/ksp-mods/ClusterOLantern)
@@ -146,7 +146,7 @@ aka `zed'K™`
 
 ## by [Exodus Solis](https://forum.kerbalspaceprogram.com/index.php?/profile/61673-*/)
 
-<small><i>[top](#addons-by-zer0kerbal)</small></i>
+<small><i>[top](#addons-by-zer0kerbal)</i></small>
 
 * by [LazTek Dev (LTD)](https://curseforge.com/kerbal/ksp-mods/LazTekDev)
   * [Colonial Transporter (LCT)](https://curseforge.com/kerbal/ksp-mods/ColonialTransporter)
@@ -156,7 +156,7 @@ aka `zed'K™`
 
 ## by [DaMichel's Ltd](https://curseforge.com/kerbal/ksp-mods/damichelltd)
 
-<small><i>[top](#addons-by-zer0kerbal)</small></i>
+<small><i>[top](#addons-by-zer0kerbal)</i></small>
 
 * by [DaMichel's Ltd](https://curseforge.com/kerbal/ksp-mods/damichelltd)
   * [DaMichel's AeroRadial (DAR)](https://curseforge.com/kerbal/ksp-mods/AeroRadial)
@@ -166,7 +166,7 @@ aka `zed'K™`
 
 ## By [Nuke](https://curseforge.com/kerbal/ksp-mods/NukesUnlimited)
 
-<small><i>[top](#addons-by-zer0kerbal)</small></i>
+<small><i>[top](#addons-by-zer0kerbal)</i></small>
 
 * By [Nuke's Unlimted](https://curseforge.com/kerbal/ksp-mods/NukesUnlimited)
   * [Nuke's Tiny Aero (NtA)](https://curseforge.com/kerbal/ksp-mods/NukesTinyAero)
@@ -180,7 +180,7 @@ aka `zed'K™`
 
 ## by [Coyote Space Industries Ltd (CSIL)](https://curseforge.com/kerbal/ksp-mods/CoyoteSpaceIndustriesLtd)
 
-<small><i>[top](#addons-by-zer0kerbal)</small></i>
+<small><i>[top](#addons-by-zer0kerbal)</i></small>
 
 * by [Coyote Space Industries Ltd (CSIL)](https://curseforge.com/kerbal/ksp-mods/CoyoteSpaceIndustriesLtd)
   * [Coyote Cargo Freighter (CCF)](https://curseforge.com/kerbal/ksp-mods/CoyoteCargoFreighter)
@@ -188,14 +188,14 @@ aka `zed'K™`
 
 ## by [Kerb Simple Co (KSC)]
 
-<small><i>[top](#addons-by-zer0kerbal)</small></i>
+<small><i>[top](#addons-by-zer0kerbal)</i></small>
 
 * by [Kerb Simple Co (KSC)](https://curseforge.com/kerbal/ksp-mods/KerbSimpleCo)
   * [More: Hitchhikers (MHH)](https://curseforge.com/kerbal/ksp-mods/morehitchhikers)
 
 ## by [V2 Industries (V2IL)](https://curseforge.com/kerbal/ksp-mods/V2Industries)
 
-<small><i>[top](#addons-by-zer0kerbal)</small></i>
+<small><i>[top](#addons-by-zer0kerbal)</i></small>
 
 * by [V2 Industries (V2IL)](https://curseforge.com/kerbal/ksp-mods/V2Industries)
   * [Puma (PUMA)](https://curseforge.com/kerbal/ksp-mods/Puma)
@@ -204,7 +204,7 @@ aka `zed'K™`
 
 ## By [QuickBASIC](https://forum.kerbalspaceprogram.com/index.php?/profile/148013-*/)
 
-<small><i>[top](#addons-by-zer0kerbal)</small></i>
+<small><i>[top](#addons-by-zer0kerbal)</i></small>
 
 * By [QuickBASIC](https://forum.kerbalspaceprogram.com/index.php?/profile/148013-*/)
   * [ISRU Thanks But No Tanks (QBTT)](https://curseforge.com/kerbal/ksp-mods/isruthanksbutnotanks)
@@ -214,7 +214,7 @@ aka `zed'K™`
 
 ## By [Exodus_Solis](https://forum.kerbalspaceprogram.com/index.php?/profile/189895-*/)
 
-<small><i>[top](#addons-by-zer0kerbal)</small></i>
+<small><i>[top](#addons-by-zer0kerbal)</i></small>
 
 * By [Exodus_Solis](https://forum.kerbalspaceprogram.com/index.php?/profile/189895-*/)
   * [Simple Hyperdrive! (HYPE)](https://curseforge.com/kerbal/ksp-mods/SimpleHyperdrive)
@@ -222,7 +222,7 @@ aka `zed'K™`
 
 ## by [Lunatic Aeronautics (LAL)](https://curseforge.com/kerbal/ksp-mods/lunaticaeronauticsltd)
 
-<small><i>[top](#addons-by-zer0kerbal)</small></i>
+<small><i>[top](#addons-by-zer0kerbal)</i></small>
 
 * by [Lunatic Aeronautics (LAL)](https://curseforge.com/kerbal/ksp-mods/lunaticaeronauticsltd)
   * [Anti Grav Room (LAAGR)](https://curseforge.com/kerbal/ksp-mods/antigravroom)
@@ -231,7 +231,7 @@ aka `zed'K™`
 
 ## by [Mkerb Inc (MKERB)](https://curseforge.com/kerbal/ksp-mods/MkerbInc)
 
-<small><i>[top](#addons-by-zer0kerbal)</small></i>
+<small><i>[top](#addons-by-zer0kerbal)</i></small>
 
 * by [Mkerb Inc (MKERB)](https://curseforge.com/kerbal/ksp-mods/MkerbInc)
   * [Mkerb Science Instruments](https://curseforge.com/kerbal/ksp-mods/ScienceInstruments)
@@ -239,7 +239,7 @@ aka `zed'K™`
 
 ## [BobCat Industries (BOB)](https://curseforge.com/kerbal/ksp-mods/BobCatInd)
 
-<small><i>[top](#addons-by-zer0kerbal)</small></i>
+<small><i>[top](#addons-by-zer0kerbal)</i></small>
 
 * The collection of [BobCat Industries (BOB)](https://curseforge.com/kerbal/ksp-mods/BobCatInd)
   * [Soviet Engines](https://github.com/zer0Kerbal/SovietEnginePack)
@@ -261,7 +261,7 @@ aka `zed'K™`
 
 ## by [godarklight](https://forum.kerbalspaceprogram.com/index.php?/profile/92588-*/)
 
-<small><i>[top](#addons-by-zer0kerbal)</small></i>
+<small><i>[top](#addons-by-zer0kerbal)</i></small>
 
 * by [godarklight](https://forum.kerbalspaceprogram.com/index.php?/profile/92588-*/)
   * [Exception Detector (EXCD)](https://curseforge.com/kerbal/ksp-mods/ExceptionDetector)
@@ -270,7 +270,7 @@ aka `zed'K™`
 
 ## [Klockheed Martian Ltd (KML)](https://curseforge.com/kerbal/ksp-mods/KlockheedMartianLtd)
 
-<small><i>[top](#addons-by-zer0kerbal)</small></i>
+<small><i>[top](#addons-by-zer0kerbal)</i></small>
 
 * [Klockheed Martian Ltd (KML)](https://curseforge.com/kerbal/ksp-mods/KlockheedMartianLtd) by [dtobi](https://forum.kerbalspaceprogram.com/index.php?/profile/90882-*/) ![](https://img.shields.io/github/v/release/zer0Kerbal/KlockheedMartianLtd?include_prereleases) ![release](https://img.shields.io/github/release-date/zer0kerbal/KlockheedMartianLtd)
   * [Asteroid Cities (AC)](https://curseforge.com/kerbal/ksp-mods/AsteroidCities) ![](https://img.shields.io/github/v/release/zer0Kerbal/AsteroidCities?include_prereleases) ![release](https://img.shields.io/github/release-date/zer0kerbal/AsteroidCities)
@@ -279,7 +279,7 @@ aka `zed'K™`
 
 ## by [Matheo G](https://forum.kerbalspaceprogram.com/index.php?/profile/185325-*/)
 
-<small><i>[top](#addons-by-zer0kerbal)</small></i>
+<small><i>[top](#addons-by-zer0kerbal)</i></small>
 
 * by [Matheo G](https://forum.kerbalspaceprogram.com/index.php?/profile/185325-*/)
   * [Insight Lander (INSIGHT)](https://curseforge.com/kerbal/ksp-mods/Insight) ![](https://img.shields.io/github/v/release/zer0Kerbal/Insight?include_prereleases)
@@ -290,7 +290,7 @@ aka `zed'K™`
 
 ## Rusty Star
 
-<small><i>[top](#addons-by-zer0kerbal)</small></i>
+<small><i>[top](#addons-by-zer0kerbal)</i></small>
 
 * by [Rusty Star Rockets (RSR)](https://curseforge.com/kerbal/ksp-mods/RustyStarShipyards) ![](https://img.shields.io/github/v/release/zer0Kerbal/RustyStarShipyards?include_prereleases) ![release](https://img.shields.io/github/release-date/zer0kerbal/RustyStarShipyards)
   * [Rusty Star Rockets (RSR)](https://curseforge.com/kerbal/ksp-mods/RustyStarRockets) ![](https://img.shields.io/github/v/release/zer0Kerbal/RustyStarRockets?include_prereleases) ![release](https://img.shields.io/github/release-date/zer0kerbal/RustyStarRockets)
