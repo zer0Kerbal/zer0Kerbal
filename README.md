@@ -64,16 +64,16 @@ From
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#162](https://github.com/zer0Kerbal/ModularRocketSystems/issues/162) in [zer0Kerbal/ModularRocketSystems](https://github.com/zer0Kerbal/ModularRocketSystems)
-2. ❗ Opened issue [#161](https://github.com/zer0Kerbal/ModularRocketSystems/issues/161) in [zer0Kerbal/ModularRocketSystems](https://github.com/zer0Kerbal/ModularRocketSystems)
-3. 🚀 Published release [Version 1.13.99.2-prerelease - `<Спасибо evanisrael+ngx-ree>` edition](https://github.com/Version 1.13.99.2-prerelease - `<Спасибо evanisrael+ngx-ree>` edition) in [zer0Kerbal/ModularRocketSystems](https://github.com/zer0Kerbal/ModularRocketSystems)
-4. 🔒 Closed issue [#154](https://github.com/zer0Kerbal/ModularRocketSystems/issues/154) in [zer0Kerbal/ModularRocketSystems](https://github.com/zer0Kerbal/ModularRocketSystems)
-5. 🔒 Closed issue [#157](https://github.com/zer0Kerbal/ModularRocketSystems/issues/157) in [zer0Kerbal/ModularRocketSystems](https://github.com/zer0Kerbal/ModularRocketSystems)
-6. 🎉 Merged PR [#159](https://github.com/zer0Kerbal/ModularRocketSystems/pull/159) in [zer0Kerbal/ModularRocketSystems](https://github.com/zer0Kerbal/ModularRocketSystems)
-7. 💪 Opened PR [#159](https://github.com/zer0Kerbal/ModularRocketSystems/pull/159) in [zer0Kerbal/ModularRocketSystems](https://github.com/zer0Kerbal/ModularRocketSystems)
-8. 🚀 Published release [Version 1.0.1.0-release `<Спасибо evanisrael, Tack chakra2017>` edition](https://github.com/Version 1.0.1.0-release `<Спасибо evanisrael, Tack chakra2017>` edition) in [zer0Kerbal/MkerbInc](https://github.com/zer0Kerbal/MkerbInc)
-9. 🔒 Closed issue [#33](https://github.com/zer0Kerbal/MkerbInc/issues/33) in [zer0Kerbal/MkerbInc](https://github.com/zer0Kerbal/MkerbInc)
-10. 🔒 Closed issue [#34](https://github.com/zer0Kerbal/MkerbInc/issues/34) in [zer0Kerbal/MkerbInc](https://github.com/zer0Kerbal/MkerbInc)
+1. ❗ Opened issue [#84](https://github.com/zer0Kerbal/RustyStarRockets/issues/84) in [zer0Kerbal/RustyStarRockets](https://github.com/zer0Kerbal/RustyStarRockets)
+2. ❗ Opened issue [#162](https://github.com/zer0Kerbal/ModularRocketSystems/issues/162) in [zer0Kerbal/ModularRocketSystems](https://github.com/zer0Kerbal/ModularRocketSystems)
+3. ❗ Opened issue [#161](https://github.com/zer0Kerbal/ModularRocketSystems/issues/161) in [zer0Kerbal/ModularRocketSystems](https://github.com/zer0Kerbal/ModularRocketSystems)
+4. 🚀 Published release [Version 1.13.99.2-prerelease - `<Спасибо evanisrael+ngx-ree>` edition](https://github.com/Version 1.13.99.2-prerelease - `<Спасибо evanisrael+ngx-ree>` edition) in [zer0Kerbal/ModularRocketSystems](https://github.com/zer0Kerbal/ModularRocketSystems)
+5. 🔒 Closed issue [#154](https://github.com/zer0Kerbal/ModularRocketSystems/issues/154) in [zer0Kerbal/ModularRocketSystems](https://github.com/zer0Kerbal/ModularRocketSystems)
+6. 🔒 Closed issue [#157](https://github.com/zer0Kerbal/ModularRocketSystems/issues/157) in [zer0Kerbal/ModularRocketSystems](https://github.com/zer0Kerbal/ModularRocketSystems)
+7. 🎉 Merged PR [#159](https://github.com/zer0Kerbal/ModularRocketSystems/pull/159) in [zer0Kerbal/ModularRocketSystems](https://github.com/zer0Kerbal/ModularRocketSystems)
+8. 💪 Opened PR [#159](https://github.com/zer0Kerbal/ModularRocketSystems/pull/159) in [zer0Kerbal/ModularRocketSystems](https://github.com/zer0Kerbal/ModularRocketSystems)
+9. 🚀 Published release [Version 1.0.1.0-release `<Спасибо evanisrael, Tack chakra2017>` edition](https://github.com/Version 1.0.1.0-release `<Спасибо evanisrael, Tack chakra2017>` edition) in [zer0Kerbal/MkerbInc](https://github.com/zer0Kerbal/MkerbInc)
+10. 🔒 Closed issue [#33](https://github.com/zer0Kerbal/MkerbInc/issues/33) in [zer0Kerbal/MkerbInc](https://github.com/zer0Kerbal/MkerbInc)
 <!--END_SECTION:activity-->
 
 </details
