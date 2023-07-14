@@ -64,16 +64,16 @@ From
   <summary>GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Version 0.2.0.0-release `<Archival>` edition](https://github.com/zer0Kerbal/PiratesoftheKeribbean/releases/tag/0.2.0.0-release) in [zer0Kerbal/PiratesoftheKeribbean](https://github.com/zer0Kerbal/PiratesoftheKeribbean)
-2. 🔒 Closed issue [#13](https://github.com/zer0Kerbal/PiratesoftheKeribbean/issues/13) in [zer0Kerbal/PiratesoftheKeribbean](https://github.com/zer0Kerbal/PiratesoftheKeribbean)
-3. 🎉 Merged PR [#15](https://github.com/zer0Kerbal/PiratesoftheKeribbean/pull/15) in [zer0Kerbal/PiratesoftheKeribbean](https://github.com/zer0Kerbal/PiratesoftheKeribbean)
-4. 💪 Opened PR [#15](https://github.com/zer0Kerbal/PiratesoftheKeribbean/pull/15) in [zer0Kerbal/PiratesoftheKeribbean](https://github.com/zer0Kerbal/PiratesoftheKeribbean)
-5. 🚀 Published release [Version 0.1.0.0-release `<Archival>` edition](https://github.com/zer0Kerbal/PiratesoftheKeribbean/releases/tag/0.1.0.0-release) in [zer0Kerbal/PiratesoftheKeribbean](https://github.com/zer0Kerbal/PiratesoftheKeribbean)
-6. 🔒 Closed issue [#12](https://github.com/zer0Kerbal/PiratesoftheKeribbean/issues/12) in [zer0Kerbal/PiratesoftheKeribbean](https://github.com/zer0Kerbal/PiratesoftheKeribbean)
-7. 🎉 Merged PR [#14](https://github.com/zer0Kerbal/PiratesoftheKeribbean/pull/14) in [zer0Kerbal/PiratesoftheKeribbean](https://github.com/zer0Kerbal/PiratesoftheKeribbean)
-8. 💪 Opened PR [#14](https://github.com/zer0Kerbal/PiratesoftheKeribbean/pull/14) in [zer0Kerbal/PiratesoftheKeribbean](https://github.com/zer0Kerbal/PiratesoftheKeribbean)
-9. ❗ Opened issue [#13](https://github.com/zer0Kerbal/PiratesoftheKeribbean/issues/13) in [zer0Kerbal/PiratesoftheKeribbean](https://github.com/zer0Kerbal/PiratesoftheKeribbean)
-10. ❗ Opened issue [#12](https://github.com/zer0Kerbal/PiratesoftheKeribbean/issues/12) in [zer0Kerbal/PiratesoftheKeribbean](https://github.com/zer0Kerbal/PiratesoftheKeribbean)
+1. ❗ Opened issue [#36](https://github.com/zer0Kerbal/PiratesoftheKeribbean/issues/36) in [zer0Kerbal/PiratesoftheKeribbean](https://github.com/zer0Kerbal/PiratesoftheKeribbean)
+2. ❗ Opened issue [#35](https://github.com/zer0Kerbal/PiratesoftheKeribbean/issues/35) in [zer0Kerbal/PiratesoftheKeribbean](https://github.com/zer0Kerbal/PiratesoftheKeribbean)
+3. ❗ Opened issue [#34](https://github.com/zer0Kerbal/PiratesoftheKeribbean/issues/34) in [zer0Kerbal/PiratesoftheKeribbean](https://github.com/zer0Kerbal/PiratesoftheKeribbean)
+4. ❗ Opened issue [#33](https://github.com/zer0Kerbal/PiratesoftheKeribbean/issues/33) in [zer0Kerbal/PiratesoftheKeribbean](https://github.com/zer0Kerbal/PiratesoftheKeribbean)
+5. ❗ Opened issue [#32](https://github.com/zer0Kerbal/PiratesoftheKeribbean/issues/32) in [zer0Kerbal/PiratesoftheKeribbean](https://github.com/zer0Kerbal/PiratesoftheKeribbean)
+6. ❗ Opened issue [#31](https://github.com/zer0Kerbal/PiratesoftheKeribbean/issues/31) in [zer0Kerbal/PiratesoftheKeribbean](https://github.com/zer0Kerbal/PiratesoftheKeribbean)
+7. ❗ Opened issue [#30](https://github.com/zer0Kerbal/PiratesoftheKeribbean/issues/30) in [zer0Kerbal/PiratesoftheKeribbean](https://github.com/zer0Kerbal/PiratesoftheKeribbean)
+8. ❗ Opened issue [#29](https://github.com/zer0Kerbal/PiratesoftheKeribbean/issues/29) in [zer0Kerbal/PiratesoftheKeribbean](https://github.com/zer0Kerbal/PiratesoftheKeribbean)
+9. ❗ Opened issue [#28](https://github.com/zer0Kerbal/PiratesoftheKeribbean/issues/28) in [zer0Kerbal/PiratesoftheKeribbean](https://github.com/zer0Kerbal/PiratesoftheKeribbean)
+10. ❗ Opened issue [#27](https://github.com/zer0Kerbal/PiratesoftheKeribbean/issues/27) in [zer0Kerbal/PiratesoftheKeribbean](https://github.com/zer0Kerbal/PiratesoftheKeribbean)
 <!--END_SECTION:activity-->
 
 </details
