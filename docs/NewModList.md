@@ -296,10 +296,10 @@ aka `zed'K™`
   * [Rusty Star Rockets (RSR)](https://curseforge.com/kerbal/ksp-mods/RustyStarRockets) ![](https://img.shields.io/github/v/release/zer0Kerbal/RustyStarRockets?include_prereleases) ![release](https://img.shields.io/github/release-date/zer0kerbal/RustyStarRockets)
   * [Pirates of the Keribbean (PoK)](https://curseforge.com/kerbal/ksp-mods/PiratesoftheKeribbean) ![](https://img.shields.io/github/v/release/zer0Kerbal/PiratesoftheKeribbean?include_prereleases) ![release](https://img.shields.io/github/release-date/zer0kerbal/PiratesoftheKeribbean)
   * [Rusty Textures for Procedural Parts (RTP)](https://curseforge.com/kerbal/ksp-mods/RustyTexturesforProceduralParts)
-  * [ZPE Propulsion System (ZPE)](https://curseforge.com/kerbal/ksp-mods/ZPEPropulsionSystem)
+  * [Zero Point Energy (ZPE)](https://curseforge.com/kerbal/ksp-mods/ZPEPropulsionSystem) ![](https://img.shields.io/github/v/release/zer0Kerbal/ZeroPointEnergy?include_prereleases) ![release](https://img.shields.io/github/release-date/zer0kerbal/ZeroPointEnergy)
   * [Rusty Panels (RP)](https://curseforge.com/kerbal/ksp-mods/RustyPanels) by [Sooner266](https://forum.kerbalspaceprogram.com/index.php?/profile/107575-*/)
 
-## Parts 
+## Parts
 
 * [Mini Sample Return Capsule (MSRC)](https://github.com/zer0Kerbal/MiniSampleReturnCapsule "Mini Sample Return Capsule (MSRC")  
 ![](https://img.shields.io/github/v/release/zer0Kerbal/MiniSampleReturnCapsule?include_prereleases?style=plastic)
