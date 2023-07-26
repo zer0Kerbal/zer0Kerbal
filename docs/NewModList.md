@@ -9,47 +9,52 @@ zer0Kerbal (zed'K)
 created: 08 Aug 2021
 updated: 07 Jul 2023 -->
 
-<H1>👨‍🚀 `zer0Kerbal™`</H1>  <!-- omit from toc -->
+# 👨‍🚀 Addons by [zer0Kerbal™][zedK]  <!-- omit from toc -->
 
 aka `zed'K™`
 
-# Addons by [zer0Kerbal][zedK]
-
 [🏠](Home)  
 
-1. [Addons by zer0Kerbal](#addons-by-zer0kerbal)
+## Table of Contents
+
+1. [Table of Contents](#table-of-contents)
    1. [NecroBones](#necrobones)
    2. [enceos](#enceos)
-   3. [Axial Aerospace](#axial-aerospace)
-   4. [nli2work a.k.a NohArk](#nli2work-aka-nohark)
-   5. [by Exodus Solis](#by-exodus-solis)
-   6. [by DaMichel's Ltd](#by-damichels-ltd)
-   7. [By Nuke](#by-nuke)
-   8. [by Coyote Space Industries Ltd (CSIL)](#by-coyote-space-industries-ltd-csil)
-   9. [by \[Kerb Simple Co (KSC)\]](#by-kerb-simple-co-ksc)
-   10. [by V2 Industries (V2IL)](#by-v2-industries-v2il)
-   11. [By QuickBASIC](#by-quickbasic)
-   12. [By Exodus\_Solis](#by-exodus_solis)
-   13. [by Lunatic Aeronautics (LAL)](#by-lunatic-aeronautics-lal)
-   14. [by Mkerb Inc (MKERB)](#by-mkerb-inc-mkerb)
-   15. [BobCat Industries (BOB)](#bobcat-industries-bob)
-   16. [by godarklight](#by-godarklight)
-   17. [Klockheed Martian Ltd (KML)](#klockheed-martian-ltd-kml)
-   18. [by Matheo G](#by-matheo-g)
-   19. [Rusty Star](#rusty-star)
-   20. [Parts](#parts)
-   21. [Addons](#addons)
-   22. [Patches](#patches)
-   23. [Simple](#simple)
-   24. [Hot Beverages! Inc! (HOT) Agency](#hot-beverages-inc-hot-agency)
-       1. [Fuel Cells (FUEL)](#fuel-cells-fuel)
-       2. [Sensor Modules (SENS)](#sensor-modules-sens)
-       3. [Service Modules (SERV)](#service-modules-serv)
-       4. [Radioisotope Thermoelectric Generators (RTG)](#radioisotope-thermoelectric-generators-rtg)
-       5. [Irradiated Parts (HBEx) *experimental parts*](#irradiated-parts-hbex-experimental-parts)
-       6. [Kerturn (KAT)](#kerturn-kat)
+2. [Axial Aerospace](#axial-aerospace)
+   1. [nli2work a.k.a NohArk](#nli2work-aka-nohark)
+3. [by Exodus Solis](#by-exodus-solis)
+4. [by DaMichel's Ltd](#by-damichels-ltd)
+5. [By Nuke](#by-nuke)
+6. [by Coyote Space Industries Ltd (CSIL)](#by-coyote-space-industries-ltd-csil)
+7. [by \[Kerb Simple Co (KSC)\]](#by-kerb-simple-co-ksc)
+8. [by V2 Industries (V2IL)](#by-v2-industries-v2il)
+9. [By QuickBASIC](#by-quickbasic)
+10. [By Exodus\_Solis](#by-exodus_solis)
+11. [by Lunatic Aeronautics (LAL)](#by-lunatic-aeronautics-lal)
+12. [by Mkerb Inc (MKERB)](#by-mkerb-inc-mkerb)
+    1. [BobCat Industries (BOB)](#bobcat-industries-bob)
+13. [by godarklight](#by-godarklight)
+    1. [Klockheed Martian Ltd (KML)](#klockheed-martian-ltd-kml)
+14. [by Matheo G](#by-matheo-g)
+15. [Rusty Star](#rusty-star)
+16. [Parts](#parts)
+17. [Addons](#addons)
+18. [Patches](#patches)
+19. [KerbSimpleCo](#kerbsimpleco)
+    1. [SimpleConstruction! (SCON!)](#simpleconstruction-scon)
+    2. [SimpleLogistics! (SLOG)](#simplelogistics-slog)
+    3. [SimpleNotes!](#simplenotes)
+    4. [SimpleLife!](#simplelife)
+    5. [SimpleSurvival!](#simplesurvival)
+20. [Hot Beverages! Inc! (HOT) Agency](#hot-beverages-inc-hot-agency)
+    1. [Fuel Cells (FUEL)](#fuel-cells-fuel)
+    2. [Sensor Modules (SENS)](#sensor-modules-sens)
+    3. [Service Modules (SERV)](#service-modules-serv)
+    4. [Radioisotope Thermoelectric Generators (RTG)](#radioisotope-thermoelectric-generators-rtg)
+    5. [Irradiated Parts (HBEx) *experimental parts*](#irradiated-parts-hbex-experimental-parts)
+    6. [Kerturn (KAT)](#kerturn-kat)
 
-<small><i>[top](#addons-by-zer0kerbal)</i></small>
+<small><i>[top](#table-of-contents)</i></small>
 
 * [Adjustable Mod Panel (KAMP)](https://curseforge.com/kerbal/ksp-mods/AdjustableModPanel)
 * [B9 Stock Patches](https://curseforge.com/kerbal/ksp-mods/b9stockpatches)
@@ -90,9 +95,9 @@ aka `zed'K™`
   * [WhimChaser (WHIM)](https://curseforge.com/kerbal/ksp-mods/WhimChaser)
 * [Olympic's ARP Icons (ARPI)](https://curseforge.com/kerbal/ksp-mods/arpicons)
 
-## [NecroBones](https://forum.kerbalspaceprogram.com/index.php?/profile/105424-*/)
+### [NecroBones](https://forum.kerbalspaceprogram.com/index.php?/profile/105424-*/)
 
-<small><i>[top](#addons-by-zer0kerbal)</i></small>
+<small><i>[top](#table-of-contents)</i></small>
 
 * by [NecroBones](https://forum.kerbalspaceprogram.com/index.php?/profile/105424-*/) <i><small> suite of mods that play nicely together</i></small>
   * [Lithobrake Exploration Technologies (LET)](https://curseforge.com/kerbal/ksp-mods/LithobrakeExplorationTechnologies) lander parts, large chutes/legs/ladders/etc
@@ -112,9 +117,9 @@ aka `zed'K™`
     * [Fuel Tanks Plus Xtra Kerbal (FTPXK)](https://curseforge.com/kerbal/ksp-mods/FTPXK)
     * [Fuel Tanks Plus IS (FTPIS)](https://curseforge.com/kerbal/ksp-mods/FTPIS)
 
-## [enceos](https://forum.kerbalspaceprogram.com/index.php?/profile/110725-*/)
+### [enceos](https://forum.kerbalspaceprogram.com/index.php?/profile/110725-*/)
 
-<small><i>[top](#addons-by-zer0kerbal)</i></small>
+<small><i>[top](#table-of-contents)</i></small>
 
 * By [Kerbal Hacks Ltd (KHL)](https://curseforge.com/kerbal/ksp-mods/kerbalhacksltd)
   * [Animated Station Screens (ASS)](https://forum.kerbalspaceprogram.com/index.php?/topic/134889-*/)
@@ -131,7 +136,7 @@ aka `zed'K™`
 
 ## Axial Aerospace
 
-<small><i>[top](#addons-by-zer0kerbal)</i></small>
+<small><i>[top](#table-of-contents)</i></small>
 
 * by [Axial Aerospace](https://curseforge.com/kerbal/ksp-mods/AxialAerospaceLtd)
   * [Dreamer (DREAM)](https://curseforge.com/kerbal/ksp-mods/SimpleCargoSolutions)
@@ -139,9 +144,9 @@ aka `zed'K™`
   * [Simple Cargo Solutions (CARGO)](https://curseforge.com/kerbal/ksp-mods/LanderTek)
   * [WhimChaser (WHIM)](https://curseforge.com/kerbal/ksp-mods/WhimChaser)
 
-## [nli2work a.k.a NohArk](https://forum.kerbalspaceprogram.com/index.php?/profile/106805-*/)
+### [nli2work a.k.a NohArk](https://forum.kerbalspaceprogram.com/index.php?/profile/106805-*/)
 
-<small><i>[top](#addons-by-zer0kerbal)</i></small>
+<small><i>[top](#table-of-contents)</i></small>
 
 * by [NohArk's Pick'n'Pull (PNP)](https://curseforge.com/kerbal/ksp-mods/PicknPull)
   * [Cluster O'Lanterns (COL)](https://curseforge.com/kerbal/ksp-mods/ClusterOLantern)
@@ -152,7 +157,7 @@ aka `zed'K™`
 
 ## by [Exodus Solis](https://forum.kerbalspaceprogram.com/index.php?/profile/61673-*/)
 
-<small><i>[top](#addons-by-zer0kerbal)</i></small>
+<small><i>[top](#table-of-contents)</i></small>
 
 * by [LazTek Dev (LTD)](https://curseforge.com/kerbal/ksp-mods/LazTekDev)
   * [Colonial Transporter (LCT)](https://curseforge.com/kerbal/ksp-mods/ColonialTransporter)
@@ -162,7 +167,7 @@ aka `zed'K™`
 
 ## by [DaMichel's Ltd](https://curseforge.com/kerbal/ksp-mods/damichelltd)
 
-<small><i>[top](#addons-by-zer0kerbal)</i></small>
+<small><i>[top](#table-of-contents)</i></small>
 
 * by [DaMichel's Ltd](https://curseforge.com/kerbal/ksp-mods/damichelltd)
   * [DaMichel's AeroRadial (DAR)](https://curseforge.com/kerbal/ksp-mods/AeroRadial)
@@ -172,7 +177,7 @@ aka `zed'K™`
 
 ## By [Nuke](https://curseforge.com/kerbal/ksp-mods/NukesUnlimited)
 
-<small><i>[top](#addons-by-zer0kerbal)</i></small>
+<small><i>[top](#table-of-contents)</i></small>
 
 * By [Nuke's Unlimted](https://curseforge.com/kerbal/ksp-mods/NukesUnlimited)
   * [Nuke's Tiny Aero (NtA)](https://curseforge.com/kerbal/ksp-mods/NukesTinyAero)
@@ -186,7 +191,7 @@ aka `zed'K™`
 
 ## by [Coyote Space Industries Ltd (CSIL)](https://curseforge.com/kerbal/ksp-mods/CoyoteSpaceIndustriesLtd)
 
-<small><i>[top](#addons-by-zer0kerbal)</i></small>
+<small><i>[top](#table-of-contents)</i></small>
 
 * by [Coyote Space Industries Ltd (CSIL)](https://curseforge.com/kerbal/ksp-mods/CoyoteSpaceIndustriesLtd)
   * [Coyote Cargo Freighter (CCF)](https://curseforge.com/kerbal/ksp-mods/CoyoteCargoFreighter)
@@ -194,14 +199,14 @@ aka `zed'K™`
 
 ## by [Kerb Simple Co (KSC)]
 
-<small><i>[top](#addons-by-zer0kerbal)</i></small>
+<small><i>[top](#table-of-contents)</i></small>
 
 * by [Kerb Simple Co (KSC)](https://curseforge.com/kerbal/ksp-mods/KerbSimpleCo)
   * [More: Hitchhikers (MHH)](https://curseforge.com/kerbal/ksp-mods/morehitchhikers)
 
 ## by [V2 Industries (V2IL)](https://curseforge.com/kerbal/ksp-mods/V2Industries)
 
-<small><i>[top](#addons-by-zer0kerbal)</i></small>
+<small><i>[top](#table-of-contents)</i></small>
 
 * by [V2 Industries (V2IL)](https://curseforge.com/kerbal/ksp-mods/V2Industries)
   * [Puma (PUMA)](https://curseforge.com/kerbal/ksp-mods/Puma)
@@ -210,7 +215,7 @@ aka `zed'K™`
 
 ## By [QuickBASIC](https://forum.kerbalspaceprogram.com/index.php?/profile/148013-*/)
 
-<small><i>[top](#addons-by-zer0kerbal)</i></small>
+<small><i>[top](#table-of-contents)</i></small>
 
 * By [QuickBASIC](https://forum.kerbalspaceprogram.com/index.php?/profile/148013-*/)
   * [ISRU Thanks But No Tanks (QBTT)](https://curseforge.com/kerbal/ksp-mods/isruthanksbutnotanks)
@@ -220,7 +225,7 @@ aka `zed'K™`
 
 ## By [Exodus_Solis](https://forum.kerbalspaceprogram.com/index.php?/profile/189895-*/)
 
-<small><i>[top](#addons-by-zer0kerbal)</i></small>
+<small><i>[top](#table-of-contents)</i></small>
 
 * By [Exodus_Solis](https://forum.kerbalspaceprogram.com/index.php?/profile/189895-*/)
   * [Simple Hyperdrive! (HYPE)](https://curseforge.com/kerbal/ksp-mods/SimpleHyperdrive)
@@ -228,7 +233,7 @@ aka `zed'K™`
 
 ## by [Lunatic Aeronautics (LAL)](https://curseforge.com/kerbal/ksp-mods/lunaticaeronauticsltd)
 
-<small><i>[top](#addons-by-zer0kerbal)</i></small>
+<small><i>[top](#table-of-contents)</i></small>
 
 * by [Lunatic Aeronautics (LAL)](https://curseforge.com/kerbal/ksp-mods/lunaticaeronauticsltd)
   * [Anti Grav Room (LAAGR)](https://curseforge.com/kerbal/ksp-mods/antigravroom)
@@ -237,15 +242,15 @@ aka `zed'K™`
 
 ## by [Mkerb Inc (MKERB)](https://curseforge.com/kerbal/ksp-mods/MkerbInc)
 
-<small><i>[top](#addons-by-zer0kerbal)</i></small>
+<small><i>[top](#table-of-contents)</i></small>
 
 * by [Mkerb Inc (MKERB)](https://curseforge.com/kerbal/ksp-mods/MkerbInc)
   * [Mkerb Science Instruments](https://curseforge.com/kerbal/ksp-mods/ScienceInstruments)
   * [Mkerb Oxidizer Tanks (MOT)](https://curseforge.com/kerbal/ksp-mods/OxidizerTank)
 
-## [BobCat Industries (BOB)](https://curseforge.com/kerbal/ksp-mods/BobCatInd)
+### [BobCat Industries (BOB)](https://curseforge.com/kerbal/ksp-mods/BobCatInd)
 
-<small><i>[top](#addons-by-zer0kerbal)</i></small>
+<small><i>[top](#table-of-contents)</i></small>
 
 * The collection of [BobCat Industries (BOB)](https://curseforge.com/kerbal/ksp-mods/BobCatInd)
   * [Soviet Engines](https://github.com/zer0Kerbal/SovietEnginePack)
@@ -267,16 +272,16 @@ aka `zed'K™`
 
 ## by [godarklight](https://forum.kerbalspaceprogram.com/index.php?/profile/92588-*/)
 
-<small><i>[top](#addons-by-zer0kerbal)</i></small>
+<small><i>[top](#table-of-contents)</i></small>
 
 * by [godarklight](https://forum.kerbalspaceprogram.com/index.php?/profile/92588-*/)
   * [Exception Detector (EXCD)](https://curseforge.com/kerbal/ksp-mods/ExceptionDetector)
   * [NyanCat (NYAN)](https://curseforge.com/kerbal/ksp-mods/NyanCat)
   * [SafetyWall (WALL)](https://curseforge.com/kerbal/ksp-mods/SafetyWall)
 
-## [Klockheed Martian Ltd (KML)](https://curseforge.com/kerbal/ksp-mods/KlockheedMartianLtd)
+### [Klockheed Martian Ltd (KML)](https://curseforge.com/kerbal/ksp-mods/KlockheedMartianLtd)
 
-<small><i>[top](#addons-by-zer0kerbal)</i></small>
+<small><i>[top](#table-of-contents)</i></small>
 
 * [Klockheed Martian Ltd (KML)](https://curseforge.com/kerbal/ksp-mods/KlockheedMartianLtd) by [dtobi](https://forum.kerbalspaceprogram.com/index.php?/profile/90882-*/) ![](https://img.shields.io/github/v/release/zer0Kerbal/KlockheedMartianLtd?include_prereleases) ![release](https://img.shields.io/github/release-date/zer0kerbal/KlockheedMartianLtd)
   * [Asteroid Cities (AC)](https://curseforge.com/kerbal/ksp-mods/AsteroidCities) ![](https://img.shields.io/github/v/release/zer0Kerbal/AsteroidCities?include_prereleases) ![release](https://img.shields.io/github/release-date/zer0kerbal/AsteroidCities)
@@ -285,7 +290,7 @@ aka `zed'K™`
 
 ## by [Matheo G](https://forum.kerbalspaceprogram.com/index.php?/profile/185325-*/)
 
-<small><i>[top](#addons-by-zer0kerbal)</i></small>
+<small><i>[top](#table-of-contents)</i></small>
 
 * by [Matheo G](https://forum.kerbalspaceprogram.com/index.php?/profile/185325-*/)
   * [Insight Lander (INSIGHT)](https://curseforge.com/kerbal/ksp-mods/Insight) ![](https://img.shields.io/github/v/release/zer0Kerbal/Insight?include_prereleases)
@@ -296,7 +301,7 @@ aka `zed'K™`
 
 ## Rusty Star
 
-<small><i>[top](#addons-by-zer0kerbal)</i></small>
+<small><i>[top](#table-of-contents)</i></small>
 
 * by [Rusty Star Rockets (RSR)](https://curseforge.com/kerbal/ksp-mods/RustyStarShipyards) ![](https://img.shields.io/github/v/release/zer0Kerbal/RustyStarShipyards?include_prereleases) ![release](https://img.shields.io/github/release-date/zer0kerbal/RustyStarShipyards)
   * [Rusty Star Rockets (RSR)](https://curseforge.com/kerbal/ksp-mods/RustyStarRockets) ![](https://img.shields.io/github/v/release/zer0Kerbal/RustyStarRockets?include_prereleases) ![release](https://img.shields.io/github/release-date/zer0kerbal/RustyStarRockets)
@@ -339,9 +344,9 @@ aka `zed'K™`
 ![release](https://img.shields.io/github/release-date/zer0kerbal/Komplexity?style=plastic)
 ![prerelease](https://img.shields.io/github/release-date-pre/zer0kerbal/Komplexity?style=plastic)
 
-## Simple
+## KerbSimpleCo
 
-* [SimpleConstruction! (SC!)](https://github.com/zer0Kerbal/SimpleConstruction "SimpleConstruction!™ (SC!)")  
+### [SimpleConstruction! (SCON!)](https://github.com/zer0Kerbal/SimpleConstruction "SimpleConstruction!™ (SC!)")  
 ![](https://img.shields.io/github/v/release/zer0Kerbal/SimpleConstruction?include_prereleases?style=plastic)
 ![](https://github.com/zer0Kerbal/SimpleConstruction/workflows/Validate%20AVC%20.version%20files/badge.svg "AVC-Valid")
 ![](https://img.shields.io/github/repo-size/zer0Kerbal/SimpleConstruction?style=plastic)
@@ -350,7 +355,9 @@ aka `zed'K™`
 ![](https://img.shields.io/github/contributors/SimpleConstruction/Komplexity?style=plastic)  
 ![release](https://img.shields.io/github/release-date/zer0kerbal/SimpleConstruction?style=plastic)
 ![prerelease](https://img.shields.io/github/release-date-pre/zer0kerbal/SimpleConstruction?style=plastic)
-* [SimpleLogistics! (SL!)](https://github.com/zer0Kerbal/SimpleLogistics "SimpleLogicists!™ (SL!)")  
+<small><i>[top](#table-of-contents)</i></small>
+
+### [SimpleLogistics! (SLOG)](https://github.com/zer0Kerbal/SimpleLogistics "SimpleLogicists!™ (SL!)")  
 ![](https://img.shields.io/github/v/release/zer0Kerbal/SimpleLogistics?include_prereleases?style=plastic)
 ![](https://github.com/zer0Kerbal/SimpleLogistics/workflows/Validate%20AVC%20.version%20files/badge.svg "AVC-Valid")
 ![](https://img.shields.io/github/repo-size/zer0Kerbal/SimpleLogistics?style=plastic)
@@ -358,35 +365,55 @@ aka `zed'K™`
 ![](http://img.shields.io/github/labels/zer0Kerbal/SimpleLogistics/help-wanted?style=plastic)
 ![](https://img.shields.io/github/contributors/SimpleLogistics/Komplexity?style=plastic)  
 ![release](https://img.shields.io/github/release-date/zer0kerbal/SimpleLogistics?style=plastic)
-![prerelease](https://img.shields.io/github/release-date-pre/zer0kerbal/SimpleLogistics?style=plastic)
+![prerelease](https://img.shields.io/github/release-date-pre/zer0kerbal/SimpleLogistics?style=plastic)  
+<small><i>[top](#table-of-contents)</i></small>
+
+### SimpleNotes!
+
+<small><i>[top](#table-of-contents)</i></small>
+
+### SimpleLife!
+
+<small><i>[top](#table-of-contents)</i></small>
+
+### SimpleSurvival!
+
+<small><i>[top](#table-of-contents)</i></small>
 
 ## [Hot Beverages! Inc! (HOT)](https://www.curseforge.com/kerbal/ksp-mods/HotBeverageInc) Agency
 
-* [![Current Version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/HotBeverageInc/master/json/mod.json)](https://www.curseforge.com/kerbal/ksp-mods/HotBeverageInc) ![release](https://img.shields.io/github/release-date/zer0kerbal/HotBeveragesIrradiated?style=plastic) ![License](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/HotBeverageInc/master/json/license.json) [![Pages][SHD:pgs]](https://zer0kerbal.github.io/HotBeverageInc/)
+* [![Current Version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/HotBeverageInc/master/json/mod.json)](https://www.curseforge.com/kerbal/ksp-mods/HotBeverageInc) ![release](https://img.shields.io/github/release-date/zer0kerbal/HotBeveragesIrradiated?style=plastic) ![License](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/HotBeverageInc/master/json/license.json) [![Pages][SHD:pgs]](https://zer0kerbal.github.io/HotBeverageInc/)  
+<small><i>[top](#table-of-contents)</i></small>
 
 ### [Fuel Cells (FUEL)](https://www.curseforge.com/kerbal/ksp-mods/FuelCells)
 
-* [![Current Version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/FuelCells/master/json/mod.json)](https://www.curseforge.com/kerbal/ksp-mods/FuelCells) ![release](https://img.shields.io/github/release-date/zer0kerbal/HotBeveragesIrradiated?style=plastic) ![License](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/FuelCells/master/json/license.json) [![Pages][SHD:pgs]](https://zer0kerbal.github.io/FuelCells/)
+* [![Current Version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/FuelCells/master/json/mod.json)](https://www.curseforge.com/kerbal/ksp-mods/FuelCells) ![release](https://img.shields.io/github/release-date/zer0kerbal/HotBeveragesIrradiated?style=plastic) ![License](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/FuelCells/master/json/license.json) [![Pages][SHD:pgs]](https://zer0kerbal.github.io/FuelCells/)  
+<small><i>[top](#table-of-contents)</i></small>
 
 ### [Sensor Modules (SENS)](https://www.curseforge.com/kerbal/ksp-mods/SensorModules)
 
-* [![Current Version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/SensorModules/master/json/mod.json)](https://www.curseforge.com/kerbal/ksp-mods/SensorModules) ![release](https://img.shields.io/github/release-date/zer0kerbal/HotBeveragesIrradiated?style=plastic) ![License](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/SensorModules/master/json/license.json) [![Pages][SHD:pgs]](https://zer0kerbal.github.io/SensorModules/)
+* [![Current Version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/SensorModules/master/json/mod.json)](https://www.curseforge.com/kerbal/ksp-mods/SensorModules) ![release](https://img.shields.io/github/release-date/zer0kerbal/HotBeveragesIrradiated?style=plastic) ![License](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/SensorModules/master/json/license.json) [![Pages][SHD:pgs]](https://zer0kerbal.github.io/SensorModules/)  
+<small><i>[top](#table-of-contents)</i></small>
 
 ### [Service Modules (SERV)](https://www.curseforge.com/kerbal/ksp-mods/ServiceModules)
 
-* [![Current Version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/SensorModules/master/json/mod.json)](https://www.curseforge.com/kerbal/ksp-mods/SensorModules) ![release](https://img.shields.io/github/release-date/zer0kerbal/HotBeveragesIrradiated?style=plastic) ![License](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/SensorModules/master/json/license.json) [![Pages][SHD:pgs]](https://zer0kerbal.github.io/SensorModules/)
+* [![Current Version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/SensorModules/master/json/mod.json)](https://www.curseforge.com/kerbal/ksp-mods/SensorModules) ![release](https://img.shields.io/github/release-date/zer0kerbal/HotBeveragesIrradiated?style=plastic) ![License](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/SensorModules/master/json/license.json) [![Pages][SHD:pgs]](https://zer0kerbal.github.io/SensorModules/)  
+<small><i>[top](#table-of-contents)</i></small>
 
 ### [Radioisotope Thermoelectric Generators (RTG)](https://www.curseforge.com/kerbal/ksp-mods/RadioisotopeThermoelectricGenerators)
 
-* [![Current Version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/RadioisotopeThermoelectricGenerators/master/json/mod.json)](https://www.curseforge.com/kerbal/ksp-mods/RadioisotopeThermoelectricGenerators) ![release](https://img.shields.io/github/release-date/zer0kerbal/HotBeveragesIrradiated?style=plastic) ![License](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/RadioisotopeThermoelectricGenerators/master/json/license.json) [![Pages][SHD:pgs]](https://zer0kerbal.github.io/RadioisotopeThermoelectricGenerators/)
+* [![Current Version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/RadioisotopeThermoelectricGenerators/master/json/mod.json)](https://www.curseforge.com/kerbal/ksp-mods/RadioisotopeThermoelectricGenerators) ![release](https://img.shields.io/github/release-date/zer0kerbal/HotBeveragesIrradiated?style=plastic) ![License](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/RadioisotopeThermoelectricGenerators/master/json/license.json) [![Pages][SHD:pgs]](https://zer0kerbal.github.io/RadioisotopeThermoelectricGenerators/)  
+<small><i>[top](#table-of-contents)</i></small>
 
 ### [Irradiated Parts (HBEx)](https://www.curseforge.com/kerbal/ksp-mods//IrradiatedParts) *experimental parts*
 
-* [![Current Version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/IrradiatedParts/master/json/mod.json)](https://www.curseforge.com/kerbal/ksp-mods/IrradiatedParts) ![release](https://img.shields.io/github/release-date/zer0kerbal/HotBeveragesIrradiated?style=plastic) ![License](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/IrradiatedParts/master/json/license.json) [![Pages][SHD:pgs]](https://zer0kerbal.github.io/IrradiatedParts/)
+* [![Current Version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/IrradiatedParts/master/json/mod.json)](https://www.curseforge.com/kerbal/ksp-mods/IrradiatedParts) ![release](https://img.shields.io/github/release-date/zer0kerbal/HotBeveragesIrradiated?style=plastic) ![License](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/IrradiatedParts/master/json/license.json) [![Pages][SHD:pgs]](https://zer0kerbal.github.io/IrradiatedParts/)  
+<small><i>[top](#table-of-contents)</i></small>
 
 ### [Kerturn (KAT)](https://www.curseforge.com/kerbal/ksp-mods/Kerturn)
 
-* [![Current Version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/Kerturn/master/json/mod.json)](https://www.curseforge.com/kerbal/ksp-mods/Kerturn) ![release](https://img.shields.io/github/release-date/zer0kerbal/HotBeveragesIrradiated?style=plastic) ![License](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/Kerturn/master/json/license.json) [![Pages][SHD:pgs]](https://zer0kerbal.github.io/Kerturn/)
+* [![Current Version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/Kerturn/master/json/mod.json)](https://www.curseforge.com/kerbal/ksp-mods/Kerturn) ![release](https://img.shields.io/github/release-date/zer0kerbal/HotBeveragesIrradiated?style=plastic) ![License](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/Kerturn/master/json/license.json) [![Pages][SHD:pgs]](https://zer0kerbal.github.io/Kerturn/)  
+<small><i>[top](#table-of-contents)</i></small>
 
 [zedK]: https://github.com/zer0Kerbal "zer0Kerbal (zed'K)"
 
