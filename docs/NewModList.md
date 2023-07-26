@@ -41,7 +41,9 @@ aka `zed'K™`
    21. [Addons](#addons)
    22. [Patches](#patches)
    23. [Simple](#simple)
-   24. [In the Queue](#in-the-queue)
+   24. [Hot Beverages](#hot-beverages)
+       1. [Hot Beverages! Inc! (HOT) Agency](#hot-beverages-inc-hot-agency)
+       2. [FuelCells (FUEL)](#fuelcells-fuel)
 
 <small><i>[top](#addons-by-zer0kerbal)</i></small>
 
@@ -354,19 +356,33 @@ aka `zed'K™`
 ![release](https://img.shields.io/github/release-date/zer0kerbal/SimpleLogistics?style=plastic)
 ![prerelease](https://img.shields.io/github/release-date-pre/zer0kerbal/SimpleLogistics?style=plastic)
 
-## In the Queue
+## Hot Beverages
 
-* [HotBeveragesIrradiated! (HOT)](https://github.com/zer0Kerbal/SimpleConstruction "HotBeveragesIrradiated!™ (HOT)")  
-![](https://img.shields.io/github/v/release/zer0Kerbal/HotBeveragesIrradiated?include_prereleases?style=plastic)
-![](https://github.com/zer0Kerbal/HotBeveragesIrradiated/workflows/Validate%20AVC%20.version%20files/badge.svg "AVC-Valid")
-![](https://img.shields.io/github/repo-size/zer0Kerbal/HotBeveragesIrradiated?style=plastic)
-![](https://img.shields.io/github/downloads/zer0Kerbal/HotBeveragesIrradiated/total?style=plastic)
-![](http://img.shields.io/github/labels/zer0Kerbal/HotBeveragesIrradiated/help-wanted?style=plastic)
-![](https://img.shields.io/github/contributors/HotBeveragesIrradiated/Komplexity?style=plastic)  
-![release](https://img.shields.io/github/release-date/zer0kerbal/HotBeveragesIrradiated?style=plastic)
-![prerelease](https://img.shields.io/github/release-date-pre/zer0kerbal/HotBeveragesIrradiated?style=plastic)
+### [Hot Beverages! Inc! (HOT)](https://www.curseforge.com/kerbal/ksp-mods/HotBeverageInc) Agency
+
+* [![Current Version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/HotBeverageInc/master/json/mod.json)](https://www.curseforge.com/kerbal/ksp-mods/HotBeverageInc) ![release](https://img.shields.io/github/release-date/zer0kerbal/HotBeveragesIrradiated?style=plastic) ![License](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/HotBeverageInc/master/json/license.json) [![Pages][SHD:pgs]](https://zer0kerbal.github.io/HotBeverageInc/)
+
+
+### [FuelCells (FUEL)](https://www.curseforge.com/kerbal/ksp-mods/FuelCells)
+
+* [![Current Version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/FuelCells/master/json/mod.json)](https://www.curseforge.com/kerbal/ksp-mods/FuelCells) ![release](https://img.shields.io/github/release-date/zer0kerbal/HotBeveragesIrradiated?style=plastic) ![License](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/FuelCells/master/json/license.json) [![Pages][SHD:pgs]](https://zer0kerbal.github.io/FuelCells/)
+
+
+  * [Irradiated Parts (HBEx)](https://www.curseforge.com/kerbal/ksp-mods//IrradiatedParts) *experimental parts*
+  * [Kerturn (KAT)](https://www.curseforge.com/kerbal/ksp-mods/Kerturn)
+  * [Radioisotope Thermoelectric Generators (RTG)](https://www.curseforge.com/kerbal/ksp-mods/RadioisotopeThermoelectricGenerators)
+  * [Sensor Modules (SENS)](https://www.curseforge.com/kerbal/ksp-mods/SensorModules)
+  * [Service Modules (SERV)](https://www.curseforge.com/kerbal/ksp-mods/ServiceModules)
+
+
+[Forum](https://github.com/zer0Kerbal/HBRTG "Radioisotope Thermoelectric Generators (RTG)"
+[Forum](https://forum.kerbalspaceprogram.com/index.php?/topic/211277-*/ "Fuel Cells (FUEL)"
+[Forum](https://forum.kerbalspaceprogram.com/index.php?/topic/211260-*/  "Sensor Modules (SENS)"
+[Forum](https://forum.kerbalspaceprogram.com/index.php?/topic/211246-*/  "Service Modules (SERV)"
 
 [zedK]: https://github.com/zer0Kerbal "zer0Kerbal (zed'K)"
 
 THIS FILE: CC BY-ND 4.0 by zer0Kerbal
   used with express permission from zer0Kerbal
+
+[SHD:pgs]: https://img.shields.io/badge/GitHub-Pages-white?style=plastic&labelColor=9cf&logoColor=181717&logo=github "GitHub IO"
