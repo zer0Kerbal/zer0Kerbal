@@ -40,6 +40,7 @@ aka `zed'K™`
 16. [Parts](#parts)
 17. [Addons](#addons)
 18. [Patches](#patches)
+    1. [Komplexity™ (KPLX)](#komplexity-kplx)
 19. [KerbSimpleCo](#kerbsimpleco)
     1. [SimpleConstruction! (SCON!)](#simpleconstruction-scon)
     2. [SimpleLogistics! (SLOG)](#simplelogistics-slog)
@@ -334,15 +335,14 @@ aka `zed'K™`
 
 ## Patches
 
-* [Komplexity™ (KPLX)](https://github.com/zer0Kerbal/Komplexity "Komplexity™ (KPLX)")  
-![](https://img.shields.io/github/v/release/zer0Kerbal/Komplexity?include_prereleases?style=plastic)
-![](https://github.com/zer0Kerbal/Komplexity/workflows/Validate%20AVC%20.version%20files/badge.svg "AVC-Valid")
-![](https://img.shields.io/github/repo-size/zer0Kerbal/Komplexity?style=plastic)
-![](https://img.shields.io/github/downloads/zer0Kerbal/Komplexity/total?style=plastic)
-![](http://img.shields.io/github/labels/zer0Kerbal/Komplexity/help-wanted?style=plastic)
-![](https://img.shields.io/github/contributors/zer0kerbal/Komplexity?style=plastic)  
-![release](https://img.shields.io/github/release-date/zer0kerbal/Komplexity?style=plastic)
-![prerelease](https://img.shields.io/github/release-date-pre/zer0kerbal/Komplexity?style=plastic)
+### [Komplexity™ (KPLX)](https://github.com/zer0Kerbal/Komplexity "Komplexity™ (KPLX)")
+
+A Custom Barn Kit config addon that increases Kerbal Space Center buildings to ten levels instead of the stock game's four. For Kerbal Space Program. Doesn't add more building models.
+
+[![Current Version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/Komplexity/master/json/mod.json)](https://www.curseforge.com/kerbal/ksp-mods/Komplexity) ![release](https://img.shields.io/github/release-date/zer0kerbal/Komplexity?style=plastic) ![License](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/Komplexity/master/json/license.json) [![Pages][SHD:pgs]](https://zer0kerbal.github.io/Komplexity/)
+<img src="https://raw.githubusercontent.com/zer0Kerbal/Komplexity/master/img/HeroLogo_1920x1920.png" alt="Komplexity Hero" width="45%" height="45%">
+  
+<small><i>[top](#table-of-contents)</i></small>
 
 ## KerbSimpleCo
 
