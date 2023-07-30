@@ -19,7 +19,8 @@ aka `zed'K™`
 
 1. [Table of Contents](#table-of-contents)
    1. [NecroBones](#necrobones)
-   2. [enceos](#enceos)
+   2. [Moho HVAC (HVAC)](#moho-hvac-hvac)
+   3. [Enceos](#enceos)
 2. [Axial Aerospace](#axial-aerospace)
    1. [nli2work a.k.a NohArk](#nli2work-aka-nohark)
 3. [by Exodus Solis](#by-exodus-solis)
@@ -118,7 +119,18 @@ aka `zed'K™`
     * [Fuel Tanks Plus Xtra Kerbal (FTPXK)](https://curseforge.com/kerbal/ksp-mods/FTPXK)
     * [Fuel Tanks Plus IS (FTPIS)](https://curseforge.com/kerbal/ksp-mods/FTPIS)
 
-### [enceos](https://forum.kerbalspaceprogram.com/index.php?/profile/110725-*/)
+### [Moho HVAC (HVAC)](https://curseforge.com/kerbal/ksp-mods/MohoHVAC)
+
+* Also by [Moho HVAC (HVAC)](https://curseforge.com/kerbal/ksp-mods/MohoHVAC)
+  * [Oblivion Aerospace (AOP)](https://curseforge.com/kerbal/ksp-mods/OblivionAerospace)
+  * [Art Of Reentry (AOR)](https://curseforge.com/kerbal/ksp-mods/ArtOfReentry)
+  * [Radial Heat Shields (RHS)](https://curseforge.com/kerbal/ksp-mods/RadialHeatShields)
+
+<small><i>[top](#table-of-contents)</i></small>
+
+
+
+### [Enceos](https://forum.kerbalspaceprogram.com/index.php?/profile/110725-*/)
 
 <small><i>[top](#table-of-contents)</i></small>
 
