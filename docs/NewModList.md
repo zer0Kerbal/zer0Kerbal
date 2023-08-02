@@ -44,6 +44,7 @@ aka `zed'K™`
    20. [by Matheo G](#by-matheo-g)
    21. [Rusty Star](#rusty-star)
 2. [Parts](#parts)
+   1. [Mini Sample Return Capsule (MSRC)](#mini-sample-return-capsule-msrc)
 3. [Addons](#addons)
 4. [Patches](#patches)
    1. [Komplexity™ (KPLX)](#komplexity-kplx)
@@ -343,14 +344,16 @@ aka `zed'K™`
 
 ## Parts
 
-* [Mini Sample Return Capsule (MSRC)](https://github.com/zer0Kerbal/MiniSampleReturnCapsule "Mini Sample Return Capsule (MSRC")  
-![](https://img.shields.io/github/v/release/zer0Kerbal/MiniSampleReturnCapsule?include_prereleases?style=plastic)
-![](https://github.com/zer0Kerbal/MiniSampleReturnCapsule/workflows/Validate%20AVC%20.version%20files/badge.svg "AVC-Valid")
-![](https://img.shields.io/github/repo-size/zer0Kerbal/MiniSampleReturnCapsule?style=plastic)
-![](https://img.shields.io/github/downloads/zer0Kerbal/MiniSampleReturnCapsule/total?style=plastic)
-![](https://img.shields.io/github/contributors/zer0kerbal/MiniSampleReturnCapsule?style=plastic)  
-![release](https://img.shields.io/github/release-date/zer0kerbal/MiniSampleReturnCapsule?style=plastic)
-![prerelease](https://img.shields.io/github/release-date-pre/zer0kerbal/MiniSampleReturnCapsule?style=plastic)
+### [Mini Sample Return Capsule (MSRC)](https://github.com/zer0Kerbal/MiniSampleReturnCapsule "Mini Sample Return Capsule (MSRC")  
+
+Two size zero (0.625m) parts that make up an autonomous return capsule to stuff your experiments in for Kerbal Space Program.
+
+[![Current Version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/MiniSampleReturnCapsule/master/json/mod.json)](https://www.curseforge.com/kerbal/ksp-mods/MiniSampleReturnCapsule) ![release](https://img.shields.io/github/release-date/zer0kerbal/MiniSampleReturnCapsule?style=plastic) ![License](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/MiniSampleReturnCapsule/master/json/license.json) [![Pages][SHD:pgs]](https://zer0kerbal.github.io/MiniSampleReturnCapsule/)
+
+<img src="https://raw.githubusercontent.com/zer0Kerbal/MiniSampleReturnCapsule/master/img/HeroLogo.png" alt="MiniSampleReturnCapsule Hero" width="45%" height="45%">
+
+<small><i>[top](#table-of-contents)</i></small>
+
 
 ## Addons
 
@@ -371,7 +374,7 @@ A Custom Barn Kit config addon that increases Kerbal Space Center buildings to t
 
 [![Current Version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/Komplexity/master/json/mod.json)](https://www.curseforge.com/kerbal/ksp-mods/Komplexity) ![release](https://img.shields.io/github/release-date/zer0kerbal/Komplexity?style=plastic) ![License](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/Komplexity/master/json/license.json) [![Pages][SHD:pgs]](https://zer0kerbal.github.io/Komplexity/)
 <img src="https://raw.githubusercontent.com/zer0Kerbal/Komplexity/master/img/HeroLogo_1920x1920.png" alt="Komplexity Hero" width="45%" height="45%">
-  
+
 <small><i>[top](#table-of-contents)</i></small>
 
 ## KerbSimpleCo
