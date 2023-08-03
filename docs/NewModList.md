@@ -46,6 +46,7 @@ aka `zed'K™`
 2. [Parts](#parts)
    1. [Mini Sample Return Capsule (MSRC)](#mini-sample-return-capsule-msrc)
 3. [Addons](#addons)
+   1. [On Demand Fuel Cells (ODFC)](#on-demand-fuel-cells-odfc)
 4. [Patches](#patches)
    1. [Komplexity™ (KPLX)](#komplexity-kplx)
 5. [KerbSimpleCo](#kerbsimpleco)
@@ -54,7 +55,7 @@ aka `zed'K™`
    3. [SimpleNotes!](#simplenotes)
    4. [SimpleLife!](#simplelife)
    5. [SimpleSurvival!](#simplesurvival)
-   6. [Hot Beverages! Inc! (HOT) Agency](#hot-beverages-inc-hot-agency)
+6. [Hot Beverages! Inc! (HOT) Agency](#hot-beverages-inc-hot-agency)
       1. [Fuel Cells (FUEL)](#fuel-cells-fuel)
       2. [Sensor Modules (SENS)](#sensor-modules-sens)
       3. [Service Modules (SERV)](#service-modules-serv)
@@ -354,17 +355,15 @@ Two size zero (0.625m) parts that make up an autonomous return capsule to stuff 
 
 <small><i>[top](#table-of-contents)</i></small>
 
-
 ## Addons
 
-* [On Demand Fuel Cells (ODFC)](https://github.com/zer0Kerbal/ODFCr "On Demand Fuel Cells")  
-![](https://img.shields.io/github/v/release/zer0Kerbal/ODFCr?include_prereleases?style=plastic) 
-![](https://github.com/zer0Kerbal/ODFCr/workflows/Validate%20AVC%20.version%20files/badge.svg "AVC-Valid") 
-![](https://img.shields.io/github/repo-size/zer0Kerbal/ODFCr?style=plastic)
-![](https://img.shields.io/github/downloads/zer0Kerbal/ODFCr/total?style=plastic)
-![](https://img.shields.io/github/contributors/zer0kerbal/ODFCr?style=plastic)  
-![release](https://img.shields.io/github/release-date/zer0kerbal/ODFCr?style=plastic)
-![prerelease](https://img.shields.io/github/release-date-pre/zer0kerbal/ODFCr?style=plastic)
+### [On Demand Fuel Cells (ODFC)](https://github.com/zer0Kerbal/ODFCr "On Demand Fuel Cells")
+
+[![Current Version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/OnDemandFuelCells/master/json/mod.json)](https://www.curseforge.com/kerbal/ksp-mods/OnDemandFuelCells) ![release](https://img.shields.io/github/release-date/zer0kerbal/OnDemandFuelCells?style=plastic) ![License](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/OnDemandFuelCells/master/json/license.json) [![Pages][SHD:pgs]](https://zer0kerbal.github.io/OnDemandFuelCells/)
+
+<img src="https://raw.githubusercontent.com/zer0Kerbal/OnDemandFuelCells/master/img/HeroLogo.png" alt="OnDemandFuelCells Hero" width="45%" height="45%">
+
+<small><i>[top](#table-of-contents)</i></small>
 
 ## Patches
 
@@ -413,7 +412,7 @@ A Custom Barn Kit config addon that increases Kerbal Space Center buildings to t
 
 <small><i>[top](#table-of-contents)</i></small>
 
-### [Hot Beverages! Inc! (HOT)](https://www.curseforge.com/kerbal/ksp-mods/HotBeverageInc) Agency
+## [Hot Beverages! Inc! (HOT)](https://www.curseforge.com/kerbal/ksp-mods/HotBeverageInc) Agency
 
 * [![Current Version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/HotBeverageInc/master/json/mod.json)](https://www.curseforge.com/kerbal/ksp-mods/HotBeverageInc) ![release](https://img.shields.io/github/release-date/zer0kerbal/HotBeveragesIrradiated?style=plastic) ![License](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/HotBeverageInc/master/json/license.json) [![Pages][SHD:pgs]](https://zer0kerbal.github.io/HotBeverageInc/)  
 <small><i>[top](#table-of-contents)</i></small>
