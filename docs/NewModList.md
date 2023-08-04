@@ -38,6 +38,8 @@ aka `zed'K™`
    14. [By Exodus\_Solis](#by-exodus_solis)
    15. [by Lunatic Aeronautics (LAL)](#by-lunatic-aeronautics-lal)
    16. [by Mkerb Inc (MKERB)](#by-mkerb-inc-mkerb)
+       1. [Mkerb Science Instruments](#mkerb-science-instruments)
+       2. [Mkerb Oxidizer Tanks (MOT)](#mkerb-oxidizer-tanks-mot)
    17. [BobCat Industries (BOB)](#bobcat-industries-bob)
    18. [by godarklight](#by-godarklight)
    19. [Klockheed Martian Ltd (KML)](#klockheed-martian-ltd-kml)
@@ -275,11 +277,44 @@ aka `zed'K™`
 
 ### by [Mkerb Inc (MKERB)](https://curseforge.com/kerbal/ksp-mods/MkerbInc)
 
+[![Current Version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/MkerbInc/master/json/mod.json)](https://www.curseforge.com/kerbal/ksp-mods/MkerbInc) ![release](https://img.shields.io/github/release-date/zer0kerbal/HotBeveragesIrradiated?style=plastic) ![License](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/MkerbInc/master/json/license.json) [![Pages][SHD:pgs]](https://zer0kerbal.github.io/MkerbInc/)
+
+<img src="https://raw.githubusercontent.com/zer0Kerbal/MkerbInc/master/img/HeroLogo_1920x1920.png" alt="Mkerb Industries (MKERB)" width=45% height=45%>
+
+<img src="https://raw.githubusercontent.com/zer0Kerbal/MkerbInc/master/img/HeroLogo.png" alt="Mkerb Industries (MKERB)" width=40% height=40% >
+
+<table>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/zer0Kerbal/MkerbInc/master/img/HeroLogo_1920x1920.png" alt="Mkerb Industries (MKERB)" width = 400px height = 400px></td>
+    <td>[![Current Version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/MkerbInc/master/json/mod.json)](https://www.curseforge.com/kerbal/ksp-mods/MkerbInc) ![release](https://img.shields.io/github/release-date/zer0kerbal/HotBeveragesIrradiated?style=plastic) ![License](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/MkerbInc/master/json/license.json) [![Pages][SHD:pgs]](https://zer0kerbal.github.io/MkerbInc/)</td>
+   </tr>
+  </tr>
+</table>
+
+
 <small><i>[top](#table-of-contents)</i></small>
 
-* by [Mkerb Inc (MKERB)](https://curseforge.com/kerbal/ksp-mods/MkerbInc)
-  * [Mkerb Science Instruments](https://curseforge.com/kerbal/ksp-mods/ScienceInstruments)
-  * [Mkerb Oxidizer Tanks (MOT)](https://curseforge.com/kerbal/ksp-mods/OxidizerTank)
+#### [Mkerb Science Instruments](https://curseforge.com/kerbal/ksp-mods/ScienceInstruments)
+
+New rocket science, how hard can it be... Four new science instruments partly based on real world experiments
+
+[![Current Version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/ScienceInstruments/master/json/mod.json)](https://www.curseforge.com/kerbal/ksp-mods/ScienceInstruments) ![release](https://img.shields.io/github/release-date/zer0kerbal/HotBeveragesIrradiated?style=plastic) ![License](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/ScienceInstruments/master/json/license.json) [![Pages][SHD:pgs]](https://zer0kerbal.github.io/ScienceInstruments/)
+
+<img src="https://raw.githubusercontent.com/zer0Kerbal/ScienceInstruments/master/img/HeroLogo.png" alt="Science Instruments Hero" width="45%" height="45%">
+
+<small><i>[top](#table-of-contents)</i></small>
+
+#### [Mkerb Oxidizer Tanks (MOT)](https://curseforge.com/kerbal/ksp-mods/OxidizerTank)
+
+Just when you need that extra oxidizer on your spaceplane...
+
+[![Current Version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/OxidizerTank/master/json/mod.json)](https://www.curseforge.com/kerbal/ksp-mods/OxidizerTank) ![release](https://img.shields.io/github/release-date/zer0kerbal/HotBeveragesIrradiated?style=plastic) ![License](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/OxidizerTank/master/json/license.json) [![Pages][SHD:pgs]](https://zer0kerbal.github.io/OxidizerTank/)  
+
+<img src="https://raw.githubusercontent.com/zer0Kerbal/OxidizerTank/master/img/HeroLogo.png" alt="Oxidizer Tank Hero" width="45%" height="45%">
+
+<small><i>[top](#table-of-contents)</i></small>
+
+---
 
 ### [BobCat Industries (BOB)](https://curseforge.com/kerbal/ksp-mods/BobCatInd)
 
