@@ -21,10 +21,9 @@ aka `zed'K™`
    1. [Loose listings](#loose-listings)
    2. [by NecroBones](#by-necrobones)
    3. [Moho HVAC (HVAC)](#moho-hvac-hvac)
-      1. [Moho HVAC (HVAC)](#moho-hvac-hvac-1)
-      2. [Oblivion Aerospace (AOP)](#oblivion-aerospace-aop)
-      3. [Art Of Reentry (AOR)](#art-of-reentry-aor)
-      4. [Radial Heat Shields (RHS)](#radial-heat-shields-rhs)
+      1. [Oblivion Aerospace (OAP)](#oblivion-aerospace-oap)
+      2. [Art Of Reentry (AOR)](#art-of-reentry-aor)
+      3. [Radial Heat Shields (RHS)](#radial-heat-shields-rhs)
    4. [by Enceos](#by-enceos)
    5. [Axial Aerospace](#axial-aerospace)
    6. [nli2work a.k.a NohArk](#nli2work-aka-nohark)
@@ -132,24 +131,34 @@ aka `zed'K™`
 
 ### [Moho HVAC (HVAC)](https://curseforge.com/kerbal/ksp-mods/MohoHVAC)
 
-#### [Moho HVAC (HVAC)](https://curseforge.com/kerbal/ksp-mods/MohoHVAC)
+[![Current Version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/MohoHVAC/master/json/mod.json)](https://www.curseforge.com/kerbal/ksp-mods/MohoHVAC) ![release](https://img.shields.io/github/release-date/zer0kerbal/MohoHVAC?style=plastic) ![License](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/MohoHVAC/master/json/license.json) [![Pages][SHD:pgs]](https://zer0kerbal.github.io/MohoHVAC/)
 
-* [![Current Version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/MohoHVAC/master/json/mod.json)](https://www.curseforge.com/kerbal/ksp-mods/MohoHVAC) ![release](https://img.shields.io/github/release-date/zer0kerbal/HotBeveragesIrradiated?style=plastic) ![License](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/MohoHVAC/master/json/license.json) [![Pages][SHD:pgs]](https://zer0kerbal.github.io/MohoHVAC/)  
+ <img src="https://raw.githubusercontent.com/zer0Kerbal/MkerbInc/master/img/HeroLogo.png" alt="MohoHVAC (HAVC)" width=45% height=45%>
+
 <small><i>[top](#table-of-contents)</i></small>
 
-#### [Oblivion Aerospace (AOP)](https://curseforge.com/kerbal/ksp-mods/OblivionAerospace)
+#### [Oblivion Aerospace (OAP)](https://curseforge.com/kerbal/ksp-mods/OblivionAerospace)
 
-* [![Current Version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/OblivionAerospace/master/json/mod.json)](https://www.curseforge.com/kerbal/ksp-mods/OblivionAerospace) ![release](https://img.shields.io/github/release-date/zer0kerbal/HotBeveragesIrradiated?style=plastic) ![License](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/OblivionAerospace/master/json/license.json) [![Pages][SHD:pgs]](https://zer0kerbal.github.io/OblivionAerospace/)  
+[![Current Version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/OblivionAerospace/master/json/mod.json)](https://www.curseforge.com/kerbal/ksp-mods/OblivionAerospace) ![release](https://img.shields.io/github/release-date/zer0kerbal/OblivionAerospace?style=plastic) ![License](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/OblivionAerospace/master/json/license.json) [![Pages][SHD:pgs]](https://zer0kerbal.github.io/OblivionAerospace/)
+
+ <img src="https://raw.githubusercontent.com/zer0Kerbal/OblivionAerospace/master/img/HeroLogo_1920x1920.png" alt="Oblivion Aerospace (OAP)" width=45% height=45%>
+
 <small><i>[top](#table-of-contents)</i></small>
 
 #### [Art Of Reentry (AOR)](https://curseforge.com/kerbal/ksp-mods/ArtOfReentry)
 
-* [![Current Version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/ArtOfReentry/master/json/mod.json)](https://www.curseforge.com/kerbal/ksp-mods/ArtOfReentry) ![release](https://img.shields.io/github/release-date/zer0kerbal/HotBeveragesIrradiated?style=plastic) ![License](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/ArtOfReentry/master/json/license.json) [![Pages][SHD:pgs]](https://zer0kerbal.github.io/ArtOfReentry/)  
+[![Current Version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/ArtOfReentry/master/json/mod.json)](https://www.curseforge.com/kerbal/ksp-mods/ArtOfReentry) ![release](https://img.shields.io/github/release-date/zer0kerbal/ArtOfReentry?style=plastic) ![License](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/ArtOfReentry/master/json/license.json) [![Pages][SHD:pgs]](https://zer0kerbal.github.io/ArtOfReentry/)
+
+ <img src="https://raw.githubusercontent.com/zer0Kerbal/ArtOfReentry/master/img/HeroLogo_1920x1920.png" alt="Art Of Reentry (AOR)" width=45% height=45%>
+
 <small><i>[top](#table-of-contents)</i></small>
 
 #### [Radial Heat Shields (RHS)](https://curseforge.com/kerbal/ksp-mods/RadialHeatShields)
 
-* [![Current Version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/RadialHeatShields/master/json/mod.json)](https://www.curseforge.com/kerbal/ksp-mods/RadialHeatShields) ![release](https://img.shields.io/github/release-date/zer0kerbal/HotBeveragesIrradiated?style=plastic) ![License](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/RadialHeatShields/master/json/license.json) [![Pages][SHD:pgs]](https://zer0kerbal.github.io/RadialHeatShields/)  
+* [![Current Version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/RadialHeatShields/master/json/mod.json)](https://www.curseforge.com/kerbal/ksp-mods/RadialHeatShields) ![release](https://img.shields.io/github/release-date/zer0kerbal/RadialHeatShields?style=plastic) ![License](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/RadialHeatShields/master/json/license.json) [![Pages][SHD:pgs]](https://zer0kerbal.github.io/RadialHeatShields/)
+
+ <img src="https://raw.githubusercontent.com/zer0Kerbal/RadialHeatShields/master/img/HeroLogo_1920x1920.png" alt="Mkerb Industries (MKERB)" width=45% height=45%>
+
 <small><i>[top](#table-of-contents)</i></small>
 
 ### by [Enceos](https://forum.kerbalspaceprogram.com/index.php?/profile/110725-*/)
