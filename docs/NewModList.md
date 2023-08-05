@@ -308,7 +308,7 @@ Just when you need that extra oxidizer on your spaceplane...
 
 [![Current Version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/OxidizerTank/master/json/mod.json)](https://www.curseforge.com/kerbal/ksp-mods/OxidizerTank) ![release](https://img.shields.io/github/release-date/zer0kerbal/OxidizerTank?style=plastic) ![License](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/OxidizerTank/master/json/license.json) [![Pages][SHD:pgs]](https://zer0kerbal.github.io/OxidizerTank/)  
 
-<img src="https://raw.githubusercontent.com/zer0Kerbal/OxidizerTank/master/img/HeroLogo_1920x1920.png" alt="Oxidizer Tank Hero" width="45%" height="45%">
+<img src="https://raw.githubusercontent.com/zer0Kerbal/OxidizerTank/master/img/HeroLogo.png" alt="Oxidizer Tank Hero" width="45%" height="45%">
 
 <small><i>[top](#table-of-contents)</i></small>
 
