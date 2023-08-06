@@ -25,14 +25,14 @@ aka `zed'K™`
          1. [SpaceY Lifters (SYL)](#spacey-lifters-syl)
          2. [SpaceY Expanded (SYX)](#spacey-expanded-syx)
       3. [Color Coded Canisters (CCC)](#color-coded-canisters-ccc)
-      4. [ColorFuel Lines (CFL) color-selectable fuel lines](#colorfuel-lines-cfl-color-selectable-fuel-lines)
+      4. [ColorFuel Lines (CFL)](#colorfuel-lines-cfl)
       5. [Joolian Discovery (JOOL)](#joolian-discovery-jool)
-      6. [Modular Rocket Systems (MRS) stock-alike parts pack, NASA-like alternatives, and filling the gaps](#modular-rocket-systems-mrs-stock-alike-parts-pack-nasa-like-alternatives-and-filling-the-gaps)
+      6. [Modular Rocket Systems (MRS)](#modular-rocket-systems-mrs)
       7. [Modular Rocket Systems LITE (MRSL)](#modular-rocket-systems-lite-mrsl)
       8. [SeaDragon (SEA)](#seadragon-sea)
       9. [The Burger Mod (BURG)](#the-burger-mod-burg)
       10. [The Elephant Engine (ELEP)](#the-elephant-engine-elep)
-      11. [The collection of Fuel Tanks Plus Ltd (FTPL) large stock-like tanks with Color Coded Canister style:](#the-collection-of-fuel-tanks-plus-ltd-ftpl-large-stock-like-tanks-with-color-coded-canister-style)
+      11. [Fuel Tanks Plus Ltd (FTPL)](#fuel-tanks-plus-ltd-ftpl)
           1. [Fuel Tanks Plus (FTP)](#fuel-tanks-plus-ftp)
           2. [Fuel Tanks Plus Xtra Kerbal (FTPXK)](#fuel-tanks-plus-xtra-kerbal-ftpxk)
           3. [Fuel Tanks Plus IS (FTPIS)](#fuel-tanks-plus-is-ftpis)
@@ -41,25 +41,37 @@ aka `zed'K™`
       2. [Art Of Reentry (AOR)](#art-of-reentry-aor)
       3. [Radial Heat Shields (RHS)](#radial-heat-shields-rhs)
    4. [by Enceos](#by-enceos)
-   5. [Axial Aerospace](#axial-aerospace)
-   6. [nli2work a.k.a NohArk](#nli2work-aka-nohark)
-   7. [by Exodus Solis](#by-exodus-solis)
-   8. [by DaMichel's Ltd](#by-damichels-ltd)
-   9. [By Nuke](#by-nuke)
-   10. [by Coyote Space Industries Ltd (CSIL)](#by-coyote-space-industries-ltd-csil)
-   11. [by Kerb Simple Co (KSC)](#by-kerb-simple-co-ksc)
-   12. [by V2 Industries (V2IL)](#by-v2-industries-v2il)
-   13. [By QuickBASIC](#by-quickbasic)
-   14. [By Exodus\_Solis](#by-exodus_solis)
-   15. [by Lunatic Aeronautics (LAL)](#by-lunatic-aeronautics-lal)
-   16. [by Mkerb Inc (MKERB)](#by-mkerb-inc-mkerb)
+   5. [By Kerbal Hacks Ltd (KHL)](#by-kerbal-hacks-ltd-khl)
+      1. [Animated Station Screens (ASS)](#animated-station-screens-ass)
+      2. [Asphalt Tiles (AT)](#asphalt-tiles-at)
+      3. [Drop Tanks (DROP)](#drop-tanks-drop)
+      4. [Drop Tanks III (DTIII)](#drop-tanks-iii-dtiii)
+      5. [Hazard Tanks Textures (HZT)](#hazard-tanks-textures-hzt)
+      6. [KIS Props (KISP)](#kis-props-kisp)
+      7. [Large Stock Fairings (LSF)](#large-stock-fairings-lsf)
+      8. [More Asphalt Tiles (AT)](#more-asphalt-tiles-at)
+      9. [Portable Science Container (PRC)](#portable-science-container-prc)
+      10. [Simple Mission Flags (SMF)](#simple-mission-flags-smf)
+      11. [Ven's Style Textures (VST)](#vens-style-textures-vst)
+   6. [Axial Aerospace](#axial-aerospace)
+   7. [nli2work a.k.a NohArk](#nli2work-aka-nohark)
+   8. [by Exodus Solis](#by-exodus-solis)
+   9. [by DaMichel's Ltd](#by-damichels-ltd)
+   10. [By Nuke](#by-nuke)
+   11. [by Coyote Space Industries Ltd (CSIL)](#by-coyote-space-industries-ltd-csil)
+   12. [by Kerb Simple Co (KSC)](#by-kerb-simple-co-ksc)
+   13. [by V2 Industries (V2IL)](#by-v2-industries-v2il)
+   14. [By QuickBASIC](#by-quickbasic)
+   15. [By Exodus\_Solis](#by-exodus_solis)
+   16. [by Lunatic Aeronautics (LAL)](#by-lunatic-aeronautics-lal)
+   17. [by Mkerb Inc (MKERB)](#by-mkerb-inc-mkerb)
        1. [Mkerb Science Instruments](#mkerb-science-instruments)
        2. [Mkerb Oxidizer Tanks (MOT)](#mkerb-oxidizer-tanks-mot)
-   17. [BobCat Industries (BOB)](#bobcat-industries-bob)
-   18. [by godarklight](#by-godarklight)
-   19. [Klockheed Martian Ltd (KML)](#klockheed-martian-ltd-kml)
-   20. [by Matheo G](#by-matheo-g)
-   21. [Rusty Star](#rusty-star)
+   18. [BobCat Industries (BOB)](#bobcat-industries-bob)
+   19. [by godarklight](#by-godarklight)
+   20. [Klockheed Martian Ltd (KML)](#klockheed-martian-ltd-kml)
+   21. [by Matheo G](#by-matheo-g)
+   22. [Rusty Star](#rusty-star)
 2. [Parts](#parts)
    1. [Mini Sample Return Capsule (MSRC)](#mini-sample-return-capsule-msrc)
 3. [Addons](#addons)
@@ -181,50 +193,121 @@ stock-balanced large rocket parts, 5m parts, large SRBs
 
 beautification replacement models/textures for stock tanks, with color-coded end caps, and auto-closing shrouds
 
+[![Current Version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/ColorCodedCanisters/master/json/mod.json)](https://www.curseforge.com/kerbal/ksp-mods/ColorCodedCanisters) ![release](https://img.shields.io/github/release-date/zer0kerbal/ColorCodedCanisters?style=plastic) ![License](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/ColorCodedCanisters/master/json/license.json) [![Pages][SHD:pgs]](https://zer0kerbal.github.io/ColorCodedCanisters/)
+
+<img src="https://raw.githubusercontent.com/zer0Kerbal/ColorCodedCanisters/master/img/HeroLogo.png" alt="ColorCodedCanisters Hero" width="45%" height="45%">
+
 <small><i>[top](#table-of-contents)</i></small>
 
-#### [ColorFuel Lines (CFL)](https://curseforge.com/kerbal/ksp-mods/ColorfulFuelLines) color-selectable fuel lines
+---
+
+#### [ColorFuel Lines (CFL)](https://curseforge.com/kerbal/ksp-mods/ColorfulFuelLines)
+
+color-selectable fuel lines
+
+[![Current Version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/ColorfulFuelLines/master/json/mod.json)](https://www.curseforge.com/kerbal/ksp-mods/ColorfulFuelLines) ![release](https://img.shields.io/github/release-date/zer0kerbal/ColorfulFuelLines?style=plastic) ![License](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/ColorfulFuelLines/master/json/license.json) [![Pages][SHD:pgs]](https://zer0kerbal.github.io/ColorfulFuelLines/)
+
+<img src="https://raw.githubusercontent.com/zer0Kerbal/ColorfulFuelLines/master/img/HeroLogo.png" alt="ColorfulFuelLines Hero" width="45%" height="45%">
 
 <small><i>[top](#table-of-contents)</i></small>
+
+---
 
 #### [Joolian Discovery (JOOL)](https://curseforge.com/kerbal/ksp-mods/JoolianDiscovery)
 
+[![Current Version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/JoolianDiscovery/master/json/mod.json)](https://www.curseforge.com/kerbal/ksp-mods/JoolianDiscovery) ![release](https://img.shields.io/github/release-date/zer0kerbal/JoolianDiscovery?style=plastic) ![License](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/JoolianDiscovery/master/json/license.json) [![Pages][SHD:pgs]](https://zer0kerbal.github.io/JoolianDiscovery/)
+
+<img src="https://raw.githubusercontent.com/zer0Kerbal/JoolianDiscovery/master/img/HeroLogo.png" alt="JoolianDiscovery Hero" width="45%" height="45%">
+
 <small><i>[top](#table-of-contents)</i></small>
 
-#### [Modular Rocket Systems (MRS)](https://curseforge.com/kerbal/ksp-mods/ModularRocketSystems) stock-alike parts pack, NASA-like alternatives, and filling the gaps
+---
+
+#### [Modular Rocket Systems (MRS)](https://curseforge.com/kerbal/ksp-mods/ModularRocketSystems)
+
+stock-alike parts pack, NASA-like alternatives, and filling the gaps
+
+[![Current Version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/ModularRocketSystems/master/json/mod.json)](https://www.curseforge.com/kerbal/ksp-mods/ModularRocketSystems) ![release](https://img.shields.io/github/release-date/zer0kerbal/ModularRocketSystems?style=plastic) ![License](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/ModularRocketSystems/master/json/license.json) [![Pages][SHD:pgs]](https://zer0kerbal.github.io/ModularRocketSystems/)
+
+<img src="https://raw.githubusercontent.com/zer0Kerbal/ModularRocketSystems/master/img/HeroLogo.png" alt="ModularRocketSystems Hero" width="45%" height="45%">
 
 <small><i>[top](#table-of-contents)</i></small>
+
+---
 
 #### [Modular Rocket Systems LITE (MRSL)](https://curseforge.com/kerbal/ksp-mods/ModularRocketSystemsLite)
 
+[![Current Version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/ModularRocketSystemsLite/master/json/mod.json)](https://www.curseforge.com/kerbal/ksp-mods/ModularRocketSystemsLite) ![release](https://img.shields.io/github/release-date/zer0kerbal/ModularRocketSystemsLite?style=plastic) ![License](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/ModularRocketSystemsLite/master/json/license.json) [![Pages][SHD:pgs]](https://zer0kerbal.github.io/ModularRocketSystemsLite/)
+
+<img src="https://raw.githubusercontent.com/zer0Kerbal/ModularRocketSystemsLite/master/img/HeroLogo.png" alt="ModularRocketSystemsLite Hero" width="45%" height="45%">
+
 <small><i>[top](#table-of-contents)</i></small>
+
+---
 
 #### [SeaDragon (SEA)](https://curseforge.com/kerbal/ksp-mods/SeaDragon)
 
+[![Current Version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/SeaDragon/master/json/mod.json)](https://www.curseforge.com/kerbal/ksp-mods/SeaDragon) ![release](https://img.shields.io/github/release-date/zer0kerbal/SeaDragon?style=plastic) ![License](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/SeaDragon/master/json/license.json) [![Pages][SHD:pgs]](https://zer0kerbal.github.io/SeaDragon/)
+
+<img src="https://raw.githubusercontent.com/zer0Kerbal/SeaDragon/master/img/HeroLogo.png" alt="SeaDragon Hero" width="45%" height="45%">
+
 <small><i>[top](#table-of-contents)</i></small>
+
+---
 
 #### [The Burger Mod (BURG)](https://curseforge.com/kerbal/ksp-mods/BurgerMod)
 
+[![Current Version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/BurgerMod/master/json/mod.json)](https://www.curseforge.com/kerbal/ksp-mods/BurgerMod) ![release](https://img.shields.io/github/release-date/zer0kerbal/BurgerMod?style=plastic) ![License](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/BurgerMod/master/json/license.json) [![Pages][SHD:pgs]](https://zer0kerbal.github.io/BurgerMod/)
+
+<img src="https://raw.githubusercontent.com/zer0Kerbal/BurgerMod/master/img/HeroLogo.png" alt="BurgerMod Hero" width="45%" height="45%">
+
 <small><i>[top](#table-of-contents)</i></small>
+
+---
 
 #### [The Elephant Engine (ELEP)](https://curseforge.com/kerbal/ksp-mods/ElephantEngine)
 
+[![Current Version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/ElephantEngine/master/json/mod.json)](https://www.curseforge.com/kerbal/ksp-mods/ElephantEngine) ![release](https://img.shields.io/github/release-date/zer0kerbal/ElephantEngine?style=plastic) ![License](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/ElephantEngine/master/json/license.json) [![Pages][SHD:pgs]](https://zer0kerbal.github.io/ElephantEngine/)
+
+<img src="https://raw.githubusercontent.com/zer0Kerbal/ElephantEngine/master/img/HeroLogo.png" alt="ElephantEngine Hero" width="45%" height="45%">
+
 <small><i>[top](#table-of-contents)</i></small>
 
-#### The collection of [Fuel Tanks Plus Ltd (FTPL)](https://curseforge.com/kerbal/ksp-mods/FTPLtd) large stock-like tanks with Color Coded Canister style:
+---
+
+#### [Fuel Tanks Plus Ltd (FTPL)](https://curseforge.com/kerbal/ksp-mods/FTPLtd)
+
+The collection of large stock-like tanks with Color Coded Canister style.
+
+Agent, flags and common files for Fuel Tanks Plus Ltd
+
+[![Current Version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/FTPLtd/master/json/mod.json)](https://www.curseforge.com/kerbal/ksp-mods/FTPLtd) ![release](https://img.shields.io/github/release-date/zer0kerbal/FTPLtd?style=plastic) ![License](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/FTPLtd/master/json/license.json) [![Pages][SHD:pgs]](https://zer0kerbal.github.io/FTPLtd/)
+
+<img src="https://raw.githubusercontent.com/zer0Kerbal/FTPLtd/master/img/HeroLogo.png" alt="FTPLtd Hero" width="45%" height="45%">
 
 <small><i>[top](#table-of-contents)</i></small>
 
 ##### [Fuel Tanks Plus (FTP)](https://curseforge.com/kerbal/ksp-mods/FuelTanksPlus)
 
+[![Current Version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/FuelTanksPlus/master/json/mod.json)](https://www.curseforge.com/kerbal/ksp-mods/FuelTanksPlus) ![release](https://img.shields.io/github/release-date/zer0kerbal/FuelTanksPlus?style=plastic) ![License](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/FuelTanksPlus/master/json/license.json) [![Pages][SHD:pgs]](https://zer0kerbal.github.io/FuelTanksPlus/)
+
+<img src="https://raw.githubusercontent.com/zer0Kerbal/FuelTanksPlus/master/img/HeroLogo.png" alt="FuelTanksPlus Hero" width="45%" height="45%">
+
 <small><i>[top](#table-of-contents)</i></small>
 
+---
+
 ##### [Fuel Tanks Plus Xtra Kerbal (FTPXK)](https://curseforge.com/kerbal/ksp-mods/FTPXK)
+
+<i>coming soon</i>
 
 <small><i>[top](#table-of-contents)</i></small>
 
 ##### [Fuel Tanks Plus IS (FTPIS)](https://curseforge.com/kerbal/ksp-mods/FTPIS)
 
+<i>coming soon</i>
+
+<small><i>[top](#table-of-contents)</i></small>
 
 ### [Moho HVAC (HVAC)](https://curseforge.com/kerbal/ksp-mods/MohoHVAC)
 
@@ -262,19 +345,52 @@ beautification replacement models/textures for stock tanks, with color-coded end
 
 <small><i>[top](#table-of-contents)</i></small>
 
-* By [Kerbal Hacks Ltd (KHL)](https://curseforge.com/kerbal/ksp-mods/kerbalhacksltd)
-  * [Animated Station Screens (ASS)](https://forum.kerbalspaceprogram.com/index.php?/topic/134889-*/)
-  * [Asphalt Tiles (AT)](https://forum.kerbalspaceprogram.com/index.php?/topic/134889-*/)
-  * [Drop Tanks (DROP)](https://curseforge.com/kerbal/ksp-mods/DropTanks)
-  * [Drop Tanks III (DTIII)](https://curseforge.com/kerbal/ksp-mods/DropTanksIII)
-  * [Hazard Tanks Textures (HZT)](https://forum.kerbalspaceprogram.com/index.php?/topic/134889-*/)
-  * [KIS Props (KISP)](https://forum.kerbalspaceprogram.com/index.php?/topic/134889-*/)
-  * [Large Stock Fairings (LSF)](https://forum.kerbalspaceprogram.com/index.php?/topic/134889-*/)
-  * [More Asphalt Tiles (AT)](https://forum.kerbalspaceprogram.com/index.php?/topic/134889-*/)
-  * [Portable Science Container (PRC)](https://curseforge.com/kerbal/ksp-mods/PortableScienceContainer)
-  * [Simple Mission Flags (SMF)](https://curseforge.com/kerbal/ksp-mods/SimpleMisisonFlags)
-  * [Ven's Style Textures (VST)](https://forum.kerbalspaceprogram.com/index.php?/topic/134889-*/)
+### By [Kerbal Hacks Ltd (KHL)](https://curseforge.com/kerbal/ksp-mods/kerbalhacksltd)
 
+
+<small><i>[top](#table-of-contents)</i></small>
+
+#### [Animated Station Screens (ASS)](https://forum.kerbalspaceprogram.com/index.php?/topic/134889-*/)
+
+<small><i>[top](#table-of-contents)</i></small>
+
+#### [Asphalt Tiles (AT)](https://forum.kerbalspaceprogram.com/index.php?/topic/134889-*/)
+
+<small><i>[top](#table-of-contents)</i></small>
+
+#### [Drop Tanks (DROP)](https://curseforge.com/kerbal/ksp-mods/DropTanks)
+
+<small><i>[top](#table-of-contents)</i></small>
+
+#### [Drop Tanks III (DTIII)](https://curseforge.com/kerbal/ksp-mods/DropTanksIII)
+
+<small><i>[top](#table-of-contents)</i></small>
+
+#### [Hazard Tanks Textures (HZT)](https://forum.kerbalspaceprogram.com/index.php?/topic/134889-*/)
+
+<small><i>[top](#table-of-contents)</i></small>
+
+#### [KIS Props (KISP)](https://forum.kerbalspaceprogram.com/index.php?/topic/134889-*/)
+
+<small><i>[top](#table-of-contents)</i></small>
+
+#### [Large Stock Fairings (LSF)](https://forum.kerbalspaceprogram.com/index.php?/topic/134889-*/)
+
+<small><i>[top](#table-of-contents)</i></small>
+
+#### [More Asphalt Tiles (AT)](https://forum.kerbalspaceprogram.com/index.php?/topic/134889-*/)
+
+<small><i>[top](#table-of-contents)</i></small>
+
+#### [Portable Science Container (PRC)](https://curseforge.com/kerbal/ksp-mods/PortableScienceContainer)
+
+<small><i>[top](#table-of-contents)</i></small>
+
+#### [Simple Mission Flags (SMF)](https://curseforge.com/kerbal/ksp-mods/SimpleMisisonFlags)
+
+<small><i>[top](#table-of-contents)</i></small>
+
+#### [Ven's Style Textures (VST)](https://forum.kerbalspaceprogram.com/index.php?/topic/134889-*/)
 ### [Axial Aerospace](https://curseforge.com/kerbal/ksp-mods/AxialAerospaceLtd)
 
 <small><i>[top](#table-of-contents)</i></small>
