@@ -20,6 +20,22 @@ aka `zed'K™`
 1. [Table of Contents](#table-of-contents)
    1. [Loose listings](#loose-listings)
    2. [by NecroBones](#by-necrobones)
+      1. [Lithobrake Exploration Technologies (LET)](#lithobrake-exploration-technologies-let)
+      2. [SpaceY Corporation (SYC)](#spacey-corporation-syc)
+         1. [SpaceY Lifters (SYL)](#spacey-lifters-syl)
+         2. [SpaceY Expanded (SYX)](#spacey-expanded-syx)
+      3. [Color Coded Canisters (CCC)](#color-coded-canisters-ccc)
+      4. [ColorFuel Lines (CFL) color-selectable fuel lines](#colorfuel-lines-cfl-color-selectable-fuel-lines)
+      5. [Joolian Discovery (JOOL)](#joolian-discovery-jool)
+      6. [Modular Rocket Systems (MRS) stock-alike parts pack, NASA-like alternatives, and filling the gaps](#modular-rocket-systems-mrs-stock-alike-parts-pack-nasa-like-alternatives-and-filling-the-gaps)
+      7. [Modular Rocket Systems LITE (MRSL)](#modular-rocket-systems-lite-mrsl)
+      8. [SeaDragon (SEA)](#seadragon-sea)
+      9. [The Burger Mod (BURG)](#the-burger-mod-burg)
+      10. [The Elephant Engine (ELEP)](#the-elephant-engine-elep)
+      11. [The collection of Fuel Tanks Plus Ltd (FTPL) large stock-like tanks with Color Coded Canister style:](#the-collection-of-fuel-tanks-plus-ltd-ftpl-large-stock-like-tanks-with-color-coded-canister-style)
+          1. [Fuel Tanks Plus (FTP)](#fuel-tanks-plus-ftp)
+          2. [Fuel Tanks Plus Xtra Kerbal (FTPXK)](#fuel-tanks-plus-xtra-kerbal-ftpxk)
+          3. [Fuel Tanks Plus IS (FTPIS)](#fuel-tanks-plus-is-ftpis)
    3. [Moho HVAC (HVAC)](#moho-hvac-hvac)
       1. [Oblivion Aerospace (OAP)](#oblivion-aerospace-oap)
       2. [Art Of Reentry (AOR)](#art-of-reentry-aor)
@@ -107,27 +123,108 @@ aka `zed'K™`
   * [WhimChaser (WHIM)](https://curseforge.com/kerbal/ksp-mods/WhimChaser)
 * [Olympic's ARP Icons (ARPI)](https://curseforge.com/kerbal/ksp-mods/arpicons)
 
+---
+
 ### by [NecroBones](https://forum.kerbalspaceprogram.com/index.php?/profile/105424-*/)
+
+<i>suite of mods that play nicely together</i>
 
 <small><i>[top](#table-of-contents)</i></small>
 
-* by [NecroBones](https://forum.kerbalspaceprogram.com/index.php?/profile/105424-*/) <i><small> suite of mods that play nicely together</i></small>
-  * [Lithobrake Exploration Technologies (LET)](https://curseforge.com/kerbal/ksp-mods/LithobrakeExplorationTechnologies) lander parts, large chutes/legs/ladders/etc
-  * [SpaceY Corporation (SYC)](https://curseforge.com/kerbal/ksp-mods/SpaceYCorp)
-    * [SpaceY Lifters (SYL)](https://curseforge.com/kerbal/ksp-mods/SpaceYLifters) stock-balanced large rocket parts, 5m parts, large SRBs
-    * [SpaceY Expanded (SYX)](https://curseforge.com/kerbal/ksp-mods/SpaceYExpanded)
-  * [Color Coded Canisters (CCC)](https://curseforge.com/kerbal/ksp-mods/ColorCodedCanisters) beautification replacement models/textures for stock tanks, with color-coded end caps, and auto-closing shrouds
-  * [ColorFuel Lines (CFL)](https://curseforge.com/kerbal/ksp-mods/ColorfulFuelLines) color-selectable fuel lines
-  * [Joolian Discovery (JOOL)](https://curseforge.com/kerbal/ksp-mods/JoolianDiscovery)
-  * [Modular Rocket Systems (MRS)](https://curseforge.com/kerbal/ksp-mods/ModularRocketSystems) stock-alike parts pack, NASA-like alternatives, and filling the gaps
-  * [Modular Rocket Systems LITE (MRSL)](https://curseforge.com/kerbal/ksp-mods/ModularRocketSystemsLite)
-  * [SeaDragon (SEA)](https://curseforge.com/kerbal/ksp-mods/SeaDragon)
-  * [The Burger Mod (BURG)](https://curseforge.com/kerbal/ksp-mods/BurgerMod)
-  * [The Elephant Engine (ELEP)](https://curseforge.com/kerbal/ksp-mods/ElephantEngine)
-  * The collection of [Fuel Tanks Plus Ltd (FTPL)](https://curseforge.com/kerbal/ksp-mods/FTPLtd) large stock-like tanks with Color Coded Canister style:
-    * [Fuel Tanks Plus (FTP)](https://curseforge.com/kerbal/ksp-mods/FuelTanksPlus)
-    * [Fuel Tanks Plus Xtra Kerbal (FTPXK)](https://curseforge.com/kerbal/ksp-mods/FTPXK)
-    * [Fuel Tanks Plus IS (FTPIS)](https://curseforge.com/kerbal/ksp-mods/FTPIS)
+#### [Lithobrake Exploration Technologies (LET)](https://curseforge.com/kerbal/ksp-mods/LithobrakeExplorationTechnologies)
+
+lander parts, large chutes/legs/ladders/etc
+
+[![Current Version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/LithobrakeExplorationTechnologies/master/json/mod.json)](https://www.curseforge.com/kerbal/ksp-mods/LithobrakeExplorationTechnologies) ![release](https://img.shields.io/github/release-date/zer0kerbal/LithobrakeExplorationTechnologies?style=plastic) ![License](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/LithobrakeExplorationTechnologies/master/json/license.json) [![Pages][SHD:pgs]](https://zer0kerbal.github.io/LithobrakeExplorationTechnologies/)
+
+<img src="https://raw.githubusercontent.com/zer0Kerbal/LithobrakeExplorationTechnologies/master/img/HeroLogo.png" alt="LithobrakeExplorationTechnologies Hero" width="45%" height="45%">
+
+<small><i>[top](#table-of-contents)</i></small>
+
+---
+
+#### [SpaceY Corporation (SYC)](https://curseforge.com/kerbal/ksp-mods/SpaceYCorp)
+
+Agent, flags, and common files for SpaceY Corporation products
+
+[![Current Version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/SpaceYCorp/master/json/mod.json)](https://www.curseforge.com/kerbal/ksp-mods/SpaceYCorp) ![release](https://img.shields.io/github/release-date/zer0kerbal/SpaceYCorp?style=plastic) ![License](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/SpaceYCorp/master/json/license.json) [![Pages][SHD:pgs]](https://zer0kerbal.github.io/SpaceYCorp/)
+
+<img src="https://raw.githubusercontent.com/zer0Kerbal/SpaceYCorp/master/img/HeroLogo.png" alt="SpaceYCorp Hero" width="45%" height="45%">
+
+<small><i>[top](#table-of-contents)</i></small>
+
+---
+
+##### [SpaceY Lifters (SYL)](https://curseforge.com/kerbal/ksp-mods/SpaceYLifters) 
+
+stock-balanced large rocket parts, 5m parts, large SRBs
+
+[![Current Version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/SpaceYLifters/master/json/mod.json)](https://www.curseforge.com/kerbal/ksp-mods/SpaceYLifters) ![release](https://img.shields.io/github/release-date/zer0kerbal/SpaceYLifters?style=plastic) ![License](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/SpaceYLifters/master/json/license.json) [![Pages][SHD:pgs]](https://zer0kerbal.github.io/SpaceYLifters/)
+
+<img src="https://raw.githubusercontent.com/zer0Kerbal/SpaceYLifters/master/img/HeroLogo.png" alt="SpaceYLifters Hero" width="45%" height="45%">
+
+<small><i>[top](#table-of-contents)</i></small>
+
+---
+
+##### [SpaceY Expanded (SYX)](https://curseforge.com/kerbal/ksp-mods/SpaceYExpanded)
+
+[![Current Version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/SpaceYExpanded/master/json/mod.json)](https://www.curseforge.com/kerbal/ksp-mods/SpaceYExpanded) ![release](https://img.shields.io/github/release-date/zer0kerbal/SpaceYExpanded?style=plastic) ![License](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/SpaceYExpanded/master/json/license.json) [![Pages][SHD:pgs]](https://zer0kerbal.github.io/SpaceYExpanded/)
+
+<img src="https://raw.githubusercontent.com/zer0Kerbal/SpaceYExpanded/master/img/HeroLogo.png" alt="SpaceYExpanded Hero" width="45%" height="45%">
+
+<small><i>[top](#table-of-contents)</i></small>
+
+---
+
+#### [Color Coded Canisters (CCC)](https://curseforge.com/kerbal/ksp-mods/ColorCodedCanisters)
+
+beautification replacement models/textures for stock tanks, with color-coded end caps, and auto-closing shrouds
+
+<small><i>[top](#table-of-contents)</i></small>
+
+#### [ColorFuel Lines (CFL)](https://curseforge.com/kerbal/ksp-mods/ColorfulFuelLines) color-selectable fuel lines
+
+<small><i>[top](#table-of-contents)</i></small>
+
+#### [Joolian Discovery (JOOL)](https://curseforge.com/kerbal/ksp-mods/JoolianDiscovery)
+
+<small><i>[top](#table-of-contents)</i></small>
+
+#### [Modular Rocket Systems (MRS)](https://curseforge.com/kerbal/ksp-mods/ModularRocketSystems) stock-alike parts pack, NASA-like alternatives, and filling the gaps
+
+<small><i>[top](#table-of-contents)</i></small>
+
+#### [Modular Rocket Systems LITE (MRSL)](https://curseforge.com/kerbal/ksp-mods/ModularRocketSystemsLite)
+
+<small><i>[top](#table-of-contents)</i></small>
+
+#### [SeaDragon (SEA)](https://curseforge.com/kerbal/ksp-mods/SeaDragon)
+
+<small><i>[top](#table-of-contents)</i></small>
+
+#### [The Burger Mod (BURG)](https://curseforge.com/kerbal/ksp-mods/BurgerMod)
+
+<small><i>[top](#table-of-contents)</i></small>
+
+#### [The Elephant Engine (ELEP)](https://curseforge.com/kerbal/ksp-mods/ElephantEngine)
+
+<small><i>[top](#table-of-contents)</i></small>
+
+#### The collection of [Fuel Tanks Plus Ltd (FTPL)](https://curseforge.com/kerbal/ksp-mods/FTPLtd) large stock-like tanks with Color Coded Canister style:
+
+<small><i>[top](#table-of-contents)</i></small>
+
+##### [Fuel Tanks Plus (FTP)](https://curseforge.com/kerbal/ksp-mods/FuelTanksPlus)
+
+<small><i>[top](#table-of-contents)</i></small>
+
+##### [Fuel Tanks Plus Xtra Kerbal (FTPXK)](https://curseforge.com/kerbal/ksp-mods/FTPXK)
+
+<small><i>[top](#table-of-contents)</i></small>
+
+##### [Fuel Tanks Plus IS (FTPIS)](https://curseforge.com/kerbal/ksp-mods/FTPIS)
+
 
 ### [Moho HVAC (HVAC)](https://curseforge.com/kerbal/ksp-mods/MohoHVAC)
 
