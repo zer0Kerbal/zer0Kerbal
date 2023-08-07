@@ -40,8 +40,7 @@ aka `zed'K™`
       1. [Oblivion Aerospace (OAP)](#oblivion-aerospace-oap)
       2. [Art Of Reentry (AOR)](#art-of-reentry-aor)
       3. [Radial Heat Shields (RHS)](#radial-heat-shields-rhs)
-   4. [by Enceos](#by-enceos)
-   5. [By Kerbal Hacks Ltd (KHL)](#by-kerbal-hacks-ltd-khl)
+   4. [By Kerbal Hacks Ltd (KHL)](#by-kerbal-hacks-ltd-khl)
       1. [Animated Station Screens (ASS)](#animated-station-screens-ass)
       2. [Asphalt Tiles (AT)](#asphalt-tiles-at)
       3. [Drop Tanks (DROP)](#drop-tanks-drop)
@@ -53,25 +52,49 @@ aka `zed'K™`
       9. [Portable Science Container (PRC)](#portable-science-container-prc)
       10. [Simple Mission Flags (SMF)](#simple-mission-flags-smf)
       11. [Ven's Style Textures (VST)](#vens-style-textures-vst)
-   6. [Axial Aerospace](#axial-aerospace)
-   7. [nli2work a.k.a NohArk](#nli2work-aka-nohark)
-   8. [by Exodus Solis](#by-exodus-solis)
-   9. [by DaMichel's Ltd](#by-damichels-ltd)
-   10. [By Nuke](#by-nuke)
-   11. [by Coyote Space Industries Ltd (CSIL)](#by-coyote-space-industries-ltd-csil)
-   12. [by Kerb Simple Co (KSC)](#by-kerb-simple-co-ksc)
-   13. [by V2 Industries (V2IL)](#by-v2-industries-v2il)
-   14. [By QuickBASIC](#by-quickbasic)
-   15. [By Exodus\_Solis](#by-exodus_solis)
-   16. [by Lunatic Aeronautics (LAL)](#by-lunatic-aeronautics-lal)
-   17. [by Mkerb Inc (MKERB)](#by-mkerb-inc-mkerb)
+   5. [Axial Aerospace](#axial-aerospace)
+      1. [Dreamer (DREAM)](#dreamer-dream)
+      2. [LanderTek (LTK)](#landertek-ltk)
+      3. [Simple Cargo Solutions (CARGO)](#simple-cargo-solutions-cargo)
+      4. [WhimChaser (WHIM)](#whimchaser-whim)
+   6. [nli2work a.k.a NohArk](#nli2work-aka-nohark)
+      1. [NohArk's Pick'n'Pull (PNP)](#noharks-picknpull-pnp)
+      2. [Cluster O'Lanterns (COL)](#cluster-olanterns-col)
+      3. [Radial Omni Separators (ROS)](#radial-omni-separators-ros)
+      4. [Transparent Command Pods (TCP)](#transparent-command-pods-tcp)
+   7. [by LazTek Dev (LTD)](#by-laztek-dev-ltd)
+      1. [Colonial Transporter (LCT)](#colonial-transporter-lct)
+      2. [Exploration Expansion (LEE)](#exploration-expansion-lee)
+      3. [Historic Archive (LHA)](#historic-archive-lha)
+      4. [Launch Pack (LLP)](#launch-pack-llp)
+   8. [by DaMichel's Ltd](#by-damichels-ltd)
+      1. [DaMichel's AeroRadial (DAR)](#damichels-aeroradial-dar)
+      2. [DaMichel's CargoBays (DCB)](#damichels-cargobays-dcb)
+      3. [DaMichel's Fuselage (DMF)](#damichels-fuselage-dmf)
+      4. [DaMichel's SphericalTanks(DST)](#damichels-sphericaltanksdst)
+   9. [By Nuke's Unlimited](#by-nukes-unlimited)
+      1. [Nuke's Tiny Aero (NtA)](#nukes-tiny-aero-nta)
+      2. [Nuke's Tiny Engines (NtE)](#nukes-tiny-engines-nte)
+      3. [Nuke's Tiny Experimental (NX)](#nukes-tiny-experimental-nx)
+      4. [Nuke's Tiny Girders (NtG)](#nukes-tiny-girders-ntg)
+      5. [Nuke's Tiny Pods (NtP)](#nukes-tiny-pods-ntp)
+      6. [Nuke's Tiny Tanks (NtT)](#nukes-tiny-tanks-ntt)
+      7. [Nuke's Tiny Utility (NtU)](#nukes-tiny-utility-ntu)
+      8. [Nuke's Tiny Parts Pack (NtPP)](#nukes-tiny-parts-pack-ntpp)
+   10. [by Coyote Space Industries Ltd (CSIL)](#by-coyote-space-industries-ltd-csil)
+   11. [by Kerb Simple Co (KSC)](#by-kerb-simple-co-ksc)
+   12. [by V2 Industries (V2IL)](#by-v2-industries-v2il)
+   13. [By QuickBASIC](#by-quickbasic)
+   14. [By Exodus\_Solis](#by-exodus_solis)
+   15. [by Lunatic Aeronautics (LAL)](#by-lunatic-aeronautics-lal)
+   16. [by Mkerb Inc (MKERB)](#by-mkerb-inc-mkerb)
        1. [Mkerb Science Instruments](#mkerb-science-instruments)
        2. [Mkerb Oxidizer Tanks (MOT)](#mkerb-oxidizer-tanks-mot)
-   18. [BobCat Industries (BOB)](#bobcat-industries-bob)
-   19. [by godarklight](#by-godarklight)
-   20. [Klockheed Martian Ltd (KML)](#klockheed-martian-ltd-kml)
-   21. [by Matheo G](#by-matheo-g)
-   22. [Rusty Star](#rusty-star)
+   17. [BobCat Industries (BOB)](#bobcat-industries-bob)
+   18. [by godarklight](#by-godarklight)
+   19. [Klockheed Martian Ltd (KML)](#klockheed-martian-ltd-kml)
+   20. [by Matheo G](#by-matheo-g)
+   21. [Rusty Star](#rusty-star)
 2. [Parts](#parts)
    1. [Mini Sample Return Capsule (MSRC)](#mini-sample-return-capsule-msrc)
 3. [Addons](#addons)
@@ -341,12 +364,11 @@ Agent, flags and common files for Fuel Tanks Plus Ltd
 
 <small><i>[top](#table-of-contents)</i></small>
 
-### by [Enceos](https://forum.kerbalspaceprogram.com/index.php?/profile/110725-*/)
-
-<small><i>[top](#table-of-contents)</i></small>
+---
 
 ### By [Kerbal Hacks Ltd (KHL)](https://curseforge.com/kerbal/ksp-mods/kerbalhacksltd)
 
+by [Enceos](https://forum.kerbalspaceprogram.com/index.php?/profile/110725-*/)
 
 <small><i>[top](#table-of-contents)</i></small>
 
@@ -368,6 +390,10 @@ Agent, flags and common files for Fuel Tanks Plus Ltd
 
 #### [Drop Tanks III (DTIII)](https://curseforge.com/kerbal/ksp-mods/DropTanksIII)
 
+[![Current Version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/DropTanksIII/master/json/mod.json)](https://www.curseforge.com/kerbal/ksp-mods/DropTanksIII) ![release](https://img.shields.io/github/release-date/zer0kerbal/DropTanksIII?style=plastic) ![License](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/DropTanksIII/master/json/license.json) [![Pages][SHD:pgs]](https://zer0kerbal.github.io/DropTanksIII/)
+
+<img src="https://raw.githubusercontent.com/zer0Kerbal/DropTanksIII/master/img/HeroLogo.png" alt="DropTanksIII Hero" width="45%" height="45%">
+
 <small><i>[top](#table-of-contents)</i></small>
 
 #### [Hazard Tanks Textures (HZT)](https://forum.kerbalspaceprogram.com/index.php?/topic/134889-*/)
@@ -388,67 +414,169 @@ Agent, flags and common files for Fuel Tanks Plus Ltd
 
 #### [Portable Science Container (PRC)](https://curseforge.com/kerbal/ksp-mods/PortableScienceContainer)
 
+[![Current Version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/PortableScienceContainer/master/json/mod.json)](https://www.curseforge.com/kerbal/ksp-mods/PortableScienceContainer) ![release](https://img.shields.io/github/release-date/zer0kerbal/PortableScienceContainer?style=plastic) ![License](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/PortableScienceContainer/master/json/license.json) [![Pages][SHD:pgs]](https://zer0kerbal.github.io/PortableScienceContainer/)
+
+<img src="https://raw.githubusercontent.com/zer0Kerbal/PortableScienceContainer/master/img/HeroLogo.png" alt="PortableScienceContainer Hero" width="45%" height="45%">
+
 <small><i>[top](#table-of-contents)</i></small>
 
 #### [Simple Mission Flags (SMF)](https://curseforge.com/kerbal/ksp-mods/SimpleMisisonFlags)
 
+[![Current Version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/SimpleMisisonFlags/master/json/mod.json)](https://www.curseforge.com/kerbal/ksp-mods/SimpleMisisonFlags) ![release](https://img.shields.io/github/release-date/zer0kerbal/SimpleMisisonFlags?style=plastic) ![License](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/SimpleMisisonFlags/master/json/license.json) [![Pages][SHD:pgs]](https://zer0kerbal.github.io/SimpleMisisonFlags/)
+
+<img src="https://raw.githubusercontent.com/zer0Kerbal/SimpleMisisonFlags/master/img/HeroLogo.png" alt="SimpleMisisonFlags Hero" width="45%" height="45%">
+
 <small><i>[top](#table-of-contents)</i></small>
 
 #### [Ven's Style Textures (VST)](https://forum.kerbalspaceprogram.com/index.php?/topic/134889-*/)
+
+---
+
 ### [Axial Aerospace](https://curseforge.com/kerbal/ksp-mods/AxialAerospaceLtd)
+
+Agent, flags and common files
+
+[![Current Version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/AxialAerospaceLtd/master/json/mod.json)](https://www.curseforge.com/kerbal/ksp-mods/AxialAerospaceLtd) ![release](https://img.shields.io/github/release-date/zer0kerbal/AxialAerospaceLtd?style=plastic) ![License](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/AxialAerospaceLtd/master/json/license.json) [![Pages][SHD:pgs]](https://zer0kerbal.github.io/AxialAerospaceLtd/)
+
+<img src="https://raw.githubusercontent.com/zer0Kerbal/AxialAerospaceLtd/master/img/HeroLogo.png" alt="AxialAerospaceLtd Hero" width="45%" height="45%">
 
 <small><i>[top](#table-of-contents)</i></small>
 
-* by [Axial Aerospace](https://curseforge.com/kerbal/ksp-mods/AxialAerospaceLtd)
-  * [Dreamer (DREAM)](https://curseforge.com/kerbal/ksp-mods/SimpleCargoSolutions)
-  * [LanderTek (LTK)](https://curseforge.com/kerbal/ksp-mods/Dreamer)
-  * [Simple Cargo Solutions (CARGO)](https://curseforge.com/kerbal/ksp-mods/LanderTek)
-  * [WhimChaser (WHIM)](https://curseforge.com/kerbal/ksp-mods/WhimChaser)
+#### [Dreamer (DREAM)](https://curseforge.com/kerbal/ksp-mods/Dreamer)
+
+[![Current Version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/Dreamer/master/json/mod.json)](https://www.curseforge.com/kerbal/ksp-mods/Dreamer) ![release](https://img.shields.io/github/release-date/zer0kerbal/Dreamer?style=plastic) ![License](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/Dreamer/master/json/license.json) [![Pages][SHD:pgs]](https://zer0kerbal.github.io/Dreamer/)
+
+<img src="https://raw.githubusercontent.com/zer0Kerbal/Dreamer/master/img/HeroLogo.png" alt="Dreamer Hero" width="45%" height="45%">
+
+<small><i>[top](#table-of-contents)</i></small>
+
+#### [LanderTek (LTK)](https://curseforge.com/kerbal/ksp-mods/LanderTek)
+
+[![Current Version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/LanderTek/master/json/mod.json)](https://www.curseforge.com/kerbal/ksp-mods/LanderTek) ![release](https://img.shields.io/github/release-date/zer0kerbal/LanderTek?style=plastic) ![License](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/LanderTek/master/json/license.json) [![Pages][SHD:pgs]](https://zer0kerbal.github.io/LanderTek/)
+
+<img src="https://raw.githubusercontent.com/zer0Kerbal/LanderTek/master/img/HeroLogo.png" alt="LanderTek Hero" width="45%" height="45%">
+
+<small><i>[top](#table-of-contents)</i></small>
+
+#### [Simple Cargo Solutions (CARGO)](https://curseforge.com/kerbal/ksp-mods/SimpleCargoSolutions)
+
+[![Current Version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/SimpleCargoSolutions/master/json/mod.json)](https://www.curseforge.com/kerbal/ksp-mods/SimpleCargoSolutions) ![release](https://img.shields.io/github/release-date/zer0kerbal/SimpleCargoSolutions?style=plastic) ![License](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/SimpleCargoSolutions/master/json/license.json) [![Pages][SHD:pgs]](https://zer0kerbal.github.io/SimpleCargoSolutions/)
+
+<img src="https://raw.githubusercontent.com/zer0Kerbal/SimpleCargoSolutions/master/img/HeroLogo.png" alt="SimpleCargoSolutions Hero" width="45%" height="45%">
+
+<small><i>[top](#table-of-contents)</i></small>
+
+#### [WhimChaser (WHIM)](https://curseforge.com/kerbal/ksp-mods/WhimChaser)
+
+[![Current Version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/WhimChaser/master/json/mod.json)](https://www.curseforge.com/kerbal/ksp-mods/WhimChaser) ![release](https://img.shields.io/github/release-date/zer0kerbal/WhimChaser?style=plastic) ![License](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/WhimChaser/master/json/license.json) [![Pages][SHD:pgs]](https://zer0kerbal.github.io/WhimChaser/)
+
+<img src="https://raw.githubusercontent.com/zer0Kerbal/WhimChaser/master/img/HeroLogo.png" alt="WhimChaser Hero" width="45%" height="45%">
+
+<small><i>[top](#table-of-contents)</i></small>
+
+---
 
 ### [nli2work a.k.a NohArk](https://forum.kerbalspaceprogram.com/index.php?/profile/106805-*/)
 
 <small><i>[top](#table-of-contents)</i></small>
 
-* by [NohArk's Pick'n'Pull (PNP)](https://curseforge.com/kerbal/ksp-mods/PicknPull)
-  * [Cluster O'Lanterns (COL)](https://curseforge.com/kerbal/ksp-mods/ClusterOLantern)
-  <!-- * [Dr. Kermanassus Part Emporium (DKPE)](https://curseforge.com/kerbal/ksp-mods/DrKermanassusPartEmporium) -->
-  <!-- * [Orbital Utility Vehicle (OUV)](https://curseforge.com/kerbal/ksp-mods/OrbitalUtilityVehicle) -->
-  * [Radial Omni Separators (ROS)](https://curseforge.com/kerbal/ksp-mods/RadialOmniSeparators)
-  * [Transparent Command Pods (TCP)](https://curseforge.com/kerbal/ksp-mods/TransparentCommandPods)
+#### [NohArk's Pick'n'Pull (PNP)](https://curseforge.com/kerbal/ksp-mods/PicknPull)
 
-### by [Exodus Solis](https://forum.kerbalspaceprogram.com/index.php?/profile/61673-*/)
+#### [Cluster O'Lanterns (COL)](https://curseforge.com/kerbal/ksp-mods/ClusterOLantern)
+  <!-- #### [Dr. Kermanassus Part Emporium (DKPE)](https://curseforge.com/kerbal/ksp-mods/DrKermanassusPartEmporium) -->
+  <!-- #### [Orbital Utility Vehicle (OUV)](https://curseforge.com/kerbal/ksp-mods/OrbitalUtilityVehicle) -->
+
+#### [Radial Omni Separators (ROS)](https://curseforge.com/kerbal/ksp-mods/RadialOmniSeparators)
+
+#### [Transparent Command Pods (TCP)](https://curseforge.com/kerbal/ksp-mods/TransparentCommandPods)
+
+---
+
+### by [LazTek Dev (LTD)](https://curseforge.com/kerbal/ksp-mods/LazTekDev)
+
+by [Exodus Solis](https://forum.kerbalspaceprogram.com/index.php?/profile/61673-*/)
 
 <small><i>[top](#table-of-contents)</i></small>
 
-* by [LazTek Dev (LTD)](https://curseforge.com/kerbal/ksp-mods/LazTekDev)
-  * [Colonial Transporter (LCT)](https://curseforge.com/kerbal/ksp-mods/ColonialTransporter)
-  * [Exploration Expansion (LEE)](https://curseforge.com/kerbal/ksp-mods/ExplorationExpansion)
-  * [Historic Archive (LHA)](https://curseforge.com/kerbal/ksp-mods/HistoricArchive)
-  * [Launch Pack (LLP)](https://curseforge.com/kerbal/ksp-mods/LaunchPack)
+#### [Colonial Transporter (LCT)](https://curseforge.com/kerbal/ksp-mods/ColonialTransporter)
+
+#### [Exploration Expansion (LEE)](https://curseforge.com/kerbal/ksp-mods/ExplorationExpansion)
+
+#### [Historic Archive (LHA)](https://curseforge.com/kerbal/ksp-mods/HistoricArchive)
+
+#### [Launch Pack (LLP)](https://curseforge.com/kerbal/ksp-mods/LaunchPack)
+
+---
 
 ### by [DaMichel's Ltd](https://curseforge.com/kerbal/ksp-mods/damichelltd)
 
 <small><i>[top](#table-of-contents)</i></small>
 
-* by [DaMichel's Ltd](https://curseforge.com/kerbal/ksp-mods/damichelltd)
-  * [DaMichel's AeroRadial (DAR)](https://curseforge.com/kerbal/ksp-mods/AeroRadial)
-  * [DaMichel's CargoBays (DCB)](https://curseforge.com/kerbal/ksp-mods/CargoBays)
-  * [DaMichel's Fuselage (DMF)](https://curseforge.com/kerbal/ksp-mods/Fuselage)
-  * [DaMichel's SphericalTanks(DST)](https://curseforge.com/kerbal/ksp-mods/SphericalTanks)
+#### [DaMichel's AeroRadial (DAR)](https://curseforge.com/kerbal/ksp-mods/AeroRadial)
 
-### By [Nuke](https://curseforge.com/kerbal/ksp-mods/NukesUnlimited)
+#### [DaMichel's CargoBays (DCB)](https://curseforge.com/kerbal/ksp-mods/CargoBays)
+
+#### [DaMichel's Fuselage (DMF)](https://curseforge.com/kerbal/ksp-mods/Fuselage)
+
+#### [DaMichel's SphericalTanks(DST)](https://curseforge.com/kerbal/ksp-mods/SphericalTanks)
+
+---
+
+### By [Nuke's Unlimited](https://curseforge.com/kerbal/ksp-mods/NukesUnlimited)
+
+By [Nuke](https://curseforge.com/kerbal/ksp-mods/NukesUnlimited)
+
+[![Current Version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/NukesUnlimited/master/json/mod.json)](https://www.curseforge.com/kerbal/ksp-mods/NukesUnlimited) ![release](https://img.shields.io/github/release-date/zer0kerbal/NukesUnlimited?style=plastic) ![License](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/NukesUnlimited/master/json/license.json) [![Pages][SHD:pgs]](https://zer0kerbal.github.io/NukesUnlimited/)
+
+<img src="https://raw.githubusercontent.com/zer0Kerbal/NukesUnlimited/master/img/HeroLogo.png" alt="NukesUnlimited Hero" width="45%" height="45%">
 
 <small><i>[top](#table-of-contents)</i></small>
 
-* By [Nuke's Unlimted](https://curseforge.com/kerbal/ksp-mods/NukesUnlimited)
-  * [Nuke's Tiny Aero (NtA)](https://curseforge.com/kerbal/ksp-mods/NukesTinyAero)
-  * [Nuke's Tiny Engines (NtE)](https://curseforge.com/kerbal/ksp-mods/NukesTinyEngines)
-  * [Nuke's Tiny Experimental (NX)](https://curseforge.com/kerbal/ksp-mods/NukesTinyExperimental)
-  * [Nuke's Tiny Girders (NtG)](https://curseforge.com/kerbal/ksp-mods/NukesTinyGirders)
-  * [Nuke's Tiny Pods (NtP)](https://curseforge.com/kerbal/ksp-mods/NukesTinyPods)
-  * [Nuke's Tiny Tanks (NtT)](https://curseforge.com/kerbal/ksp-mods/NukesTinyTanks)
-  * [Nuke's Tiny Utility (NtU)](https://curseforge.com/kerbal/ksp-mods/NukesTinyUtility)
-  * [Nuke's Tiny Parts Pack (NtPP)](https://curseforge.com/kerbal/ksp-mods/NukesTinyPartsPack)
+#### [Nuke's Tiny Aero (NtA)](https://curseforge.com/kerbal/ksp-mods/NukesTinyAero)
+
+<small><i>[top](#table-of-contents)</i></small>
+
+#### [Nuke's Tiny Engines (NtE)](https://curseforge.com/kerbal/ksp-mods/NukesTinyEngines)
+
+[![Current Version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/NukesTinyEngines/master/json/mod.json)](https://www.curseforge.com/kerbal/ksp-mods/NukesTinyEngines) ![release](https://img.shields.io/github/release-date/zer0kerbal/NukesTinyEngines?style=plastic) ![License](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/NukesTinyEngines/master/json/license.json) [![Pages][SHD:pgs]](https://zer0kerbal.github.io/NukesTinyEngines/)
+
+<img src="https://raw.githubusercontent.com/zer0Kerbal/NukesTinyEngines/master/img/HeroLogo.png" alt="NukesTinyEngines Hero" width="45%" height="45%">
+
+<small><i>[top](#table-of-contents)</i></small>
+
+#### [Nuke's Tiny Experimental (NX)](https://curseforge.com/kerbal/ksp-mods/NukesTinyExperimental)
+
+<small><i>[top](#table-of-contents)</i></small>
+
+#### [Nuke's Tiny Girders (NtG)](https://curseforge.com/kerbal/ksp-mods/NukesTinyGirders)
+
+[![Current Version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/NukesTinyGirders/master/json/mod.json)](https://www.curseforge.com/kerbal/ksp-mods/NukesTinyGirders) ![release](https://img.shields.io/github/release-date/zer0kerbal/NukesTinyGirders?style=plastic) ![License](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/NukesTinyGirders/master/json/license.json) [![Pages][SHD:pgs]](https://zer0kerbal.github.io/NukesTinyGirders/)
+
+<img src="https://raw.githubusercontent.com/zer0Kerbal/NukesTinyGirders/master/img/HeroLogo.png" alt="NukesTinyGirders Hero" width="45%" height="45%">
+
+<small><i>[top](#table-of-contents)</i></small>
+
+#### [Nuke's Tiny Pods (NtP)](https://curseforge.com/kerbal/ksp-mods/NukesTinyPods)
+
+[![Current Version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/NukesTinyPods/master/json/mod.json)](https://www.curseforge.com/kerbal/ksp-mods/NukesTinyPods) ![release](https://img.shields.io/github/release-date/zer0kerbal/NukesTinyPods?style=plastic) ![License](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/NukesTinyPods/master/json/license.json) [![Pages][SHD:pgs]](https://zer0kerbal.github.io/NukesTinyPods/)
+
+<img src="https://raw.githubusercontent.com/zer0Kerbal/NukesTinyPods/master/img/HeroLogo.png" alt="NukesTinyPods Hero" width="45%" height="45%">
+
+<small><i>[top](#table-of-contents)</i></small>
+
+#### [Nuke's Tiny Tanks (NtT)](https://curseforge.com/kerbal/ksp-mods/NukesTinyTanks)
+
+<small><i>[top](#table-of-contents)</i></small>
+
+#### [Nuke's Tiny Utility (NtU)](https://curseforge.com/kerbal/ksp-mods/NukesTinyUtility)
+
+<small><i>[top](#table-of-contents)</i></small>
+
+#### [Nuke's Tiny Parts Pack (NtPP)](https://curseforge.com/kerbal/ksp-mods/NukesTinyPartsPack)
+
+<small><i>[top](#table-of-contents)</i></small>
+
+---
 
 ### by [Coyote Space Industries Ltd (CSIL)](https://curseforge.com/kerbal/ksp-mods/CoyoteSpaceIndustriesLtd)
 
