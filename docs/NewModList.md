@@ -360,6 +360,10 @@ Agent, flags and common files for Fuel Tanks Plus Ltd
 
 #### [Drop Tanks (DROP)](https://curseforge.com/kerbal/ksp-mods/DropTanks)
 
+[![Current Version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/DropTanks/master/json/mod.json)](https://www.curseforge.com/kerbal/ksp-mods/DropTanks) ![release](https://img.shields.io/github/release-date/zer0kerbal/DropTanks?style=plastic) ![License](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/DropTanks/master/json/license.json) [![Pages][SHD:pgs]](https://zer0kerbal.github.io/DropTanks/)
+
+<img src="https://raw.githubusercontent.com/zer0Kerbal/DropTanks/master/img/HeroLogo.png" alt="DropTanks Hero" width="45%" height="45%">
+
 <small><i>[top](#table-of-contents)</i></small>
 
 #### [Drop Tanks III (DTIII)](https://curseforge.com/kerbal/ksp-mods/DropTanksIII)
