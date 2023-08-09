@@ -82,19 +82,31 @@ aka `zed'K™`
       7. [Nuke's Tiny Utility (NtU)](#nukes-tiny-utility-ntu)
       8. [Nuke's Tiny Parts Pack (NtPP)](#nukes-tiny-parts-pack-ntpp)
    10. [by Coyote Space Industries Ltd (CSIL)](#by-coyote-space-industries-ltd-csil)
+       1. [Coyote Cargo Freighter (CCF)](#coyote-cargo-freighter-ccf)
+       2. [CSI Tools (CSIT)](#csi-tools-csit)
    11. [by Kerb Simple Co (KSC)](#by-kerb-simple-co-ksc)
+       1. [More: Hitchhikers (MHH)](#more-hitchhikers-mhh)
    12. [by V2 Industries (V2IL)](#by-v2-industries-v2il)
    13. [By QuickBASIC](#by-quickbasic)
-   14. [By Exodus\_Solis](#by-exodus_solis)
-   15. [by Lunatic Aeronautics (LAL)](#by-lunatic-aeronautics-lal)
-   16. [by Mkerb Inc (MKERB)](#by-mkerb-inc-mkerb)
+   14. [ISRU Thanks But No Tanks (QBTT)](#isru-thanks-but-no-tanks-qbtt)
+   15. [Kerbal Inventory System No Fun (QBNF)](#kerbal-inventory-system-no-fun-qbnf)
+   16. [Monero Flags (QBMF)](#monero-flags-qbmf)
+   17. [UniversalStorageStockResourceFuelCell (QBUS)](#universalstoragestockresourcefuelcell-qbus)
+   18. [By Exodus\_Solis](#by-exodus_solis)
+       1. [Simple Hyperdrive! (HYPE)](#simple-hyperdrive-hype)
+       2. [Kerbals of All Trades (KOAT)](#kerbals-of-all-trades-koat)
+   19. [by Lunatic Aeronautics (LAL)](#by-lunatic-aeronautics-lal)
+       1. [Anti Grav Room (LAAGR)](#anti-grav-room-laagr)
+       2. [Kerbal XMAS (XMAS)](#kerbal-xmas-xmas)
+       3. [Rover Anti Gravity System (RAGS)](#rover-anti-gravity-system-rags)
+   20. [by Mkerb Inc (MKERB)](#by-mkerb-inc-mkerb)
        1. [Mkerb Science Instruments](#mkerb-science-instruments)
        2. [Mkerb Oxidizer Tanks (MOT)](#mkerb-oxidizer-tanks-mot)
-   17. [BobCat Industries (BOB)](#bobcat-industries-bob)
-   18. [by godarklight](#by-godarklight)
-   19. [Klockheed Martian Ltd (KML)](#klockheed-martian-ltd-kml)
-   20. [by Matheo G](#by-matheo-g)
-   21. [Rusty Star](#rusty-star)
+   21. [BobCat Industries (BOB)](#bobcat-industries-bob)
+   22. [by godarklight](#by-godarklight)
+   23. [Klockheed Martian Ltd (KML)](#klockheed-martian-ltd-kml)
+   24. [by Matheo G](#by-matheo-g)
+   25. [Rusty Star](#rusty-star)
 2. [Parts](#parts)
    1. [Mini Sample Return Capsule (MSRC)](#mini-sample-return-capsule-msrc)
 3. [Addons](#addons)
@@ -580,18 +592,41 @@ By [Nuke](https://curseforge.com/kerbal/ksp-mods/NukesUnlimited)
 
 ### by [Coyote Space Industries Ltd (CSIL)](https://curseforge.com/kerbal/ksp-mods/CoyoteSpaceIndustriesLtd)
 
+Agent, flags, and common files for Coyote Space Industries Ltd products
+
+[![Current Version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/CoyoteSpaceIndustriesLtd/master/json/mod.json)](https://www.curseforge.com/kerbal/ksp-mods/CoyoteSpaceIndustriesLtd) ![release](https://img.shields.io/github/release-date/zer0kerbal/CoyoteSpaceIndustriesLtd?style=plastic) ![License](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/CoyoteSpaceIndustriesLtd/master/json/license.json) [![Pages][SHD:pgs]](https://zer0kerbal.github.io/CoyoteSpaceIndustriesLtd/)
+
+<img src="https://raw.githubusercontent.com/zer0Kerbal/CoyoteSpaceIndustriesLtd/master/img/HeroLogo.png" alt="CoyoteSpaceIndustriesLtd Hero" width="45%" height="45%">
+
 <small><i>[top](#table-of-contents)</i></small>
 
-* by [Coyote Space Industries Ltd (CSIL)](https://curseforge.com/kerbal/ksp-mods/CoyoteSpaceIndustriesLtd)
-  * [Coyote Cargo Freighter (CCF)](https://curseforge.com/kerbal/ksp-mods/CoyoteCargoFreighter)
-  * [CSI Tools (CSIT)](https://curseforge.com/kerbal/ksp-mods/CSITools)
+#### [Coyote Cargo Freighter (CCF)](https://curseforge.com/kerbal/ksp-mods/CoyoteCargoFreighter)
+
+[![Current Version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/CoyoteCargoFreighter/master/json/mod.json)](https://www.curseforge.com/kerbal/ksp-mods/CoyoteCargoFreighter) ![release](https://img.shields.io/github/release-date/zer0kerbal/CoyoteCargoFreighter?style=plastic) ![License](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/CoyoteCargoFreighter/master/json/license.json) [![Pages][SHD:pgs]](https://zer0kerbal.github.io/CoyoteCargoFreighter/)
+
+<img src="https://raw.githubusercontent.com/zer0Kerbal/CoyoteCargoFreighter/master/img/HeroLogo.png" alt="CoyoteCargoFreighter Hero" width="45%" height="45%">
+
+<small><i>[top](#table-of-contents)</i></small>
+
+#### [CSI Tools (CSIT)](https://curseforge.com/kerbal/ksp-mods/CSITools)
+
+[![Current Version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/CSITools/master/json/mod.json)](https://www.curseforge.com/kerbal/ksp-mods/CSITools) ![release](https://img.shields.io/github/release-date/zer0kerbal/CSITools?style=plastic) ![License](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/CSITools/master/json/license.json) [![Pages][SHD:pgs]](https://zer0kerbal.github.io/CSITools/)
+
+<img src="https://raw.githubusercontent.com/zer0Kerbal/CSITools/master/img/HeroLogo.png" alt="CSITools Hero" width="45%" height="45%">
+
+<small><i>[top](#table-of-contents)</i></small>
+
+---
 
 ### by [Kerb Simple Co (KSC)](https://curseforge.com/kerbal/ksp-mods/KerbSimpleCo)
 
 <small><i>[top](#table-of-contents)</i></small>
 
 * by [Kerb Simple Co (KSC)](https://curseforge.com/kerbal/ksp-mods/KerbSimpleCo)
-  * [More: Hitchhikers (MHH)](https://curseforge.com/kerbal/ksp-mods/morehitchhikers)
+
+#### [More: Hitchhikers (MHH)](https://curseforge.com/kerbal/ksp-mods/morehitchhikers)
+
+---
 
 ### by [V2 Industries (V2IL)](https://curseforge.com/kerbal/ksp-mods/V2Industries)
 
@@ -606,28 +641,59 @@ By [Nuke](https://curseforge.com/kerbal/ksp-mods/NukesUnlimited)
 
 <small><i>[top](#table-of-contents)</i></small>
 
-* By [QuickBASIC](https://forum.kerbalspaceprogram.com/index.php?/profile/148013-*/)
-  * [ISRU Thanks But No Tanks (QBTT)](https://curseforge.com/kerbal/ksp-mods/isruthanksbutnotanks)
-  * [Kerbal Inventory System No Fun (QBNF)](https://curseforge.com/kerbal/ksp-mods/kerbalinventorysystemnofun)
-  * [Monero Flags (QBMF)](https://curseforge.com/kerbal/ksp-mods/moneroflags)
-  * [UniversalStorageStockResourceFuelCell (QBUS)](https://curseforge.com/kerbal/ksp-mods/universalstoragestockresourcefuelcell)
+### [ISRU Thanks But No Tanks (QBTT)](https://curseforge.com/kerbal/ksp-mods/isruthanksbutnotanks)
+
+<small><i>[top](#table-of-contents)</i></small>
+
+### [Kerbal Inventory System No Fun (QBNF)](https://curseforge.com/kerbal/ksp-mods/kerbalinventorysystemnofun)
+
+<small><i>[top](#table-of-contents)</i></small>
+
+### [Monero Flags (QBMF)](https://curseforge.com/kerbal/ksp-mods/moneroflags)
+
+<small><i>[top](#table-of-contents)</i></small>
+
+### [UniversalStorageStockResourceFuelCell (QBUS)](https://curseforge.com/kerbal/ksp-mods/universalstoragestockresourcefuelcell)
+
+<small><i>[top](#table-of-contents)</i></small>
+
+---
 
 ### By [Exodus_Solis](https://forum.kerbalspaceprogram.com/index.php?/profile/189895-*/)
 
 <small><i>[top](#table-of-contents)</i></small>
 
 * By [Exodus_Solis](https://forum.kerbalspaceprogram.com/index.php?/profile/189895-*/)
-  * [Simple Hyperdrive! (HYPE)](https://curseforge.com/kerbal/ksp-mods/SimpleHyperdrive)
-  * [Kerbals of All Trades (KOAT)](https://curseforge.com/kerbal/ksp-mods/KerbalsofAllTrades)
+
+#### [Simple Hyperdrive! (HYPE)](https://curseforge.com/kerbal/ksp-mods/SimpleHyperdrive)
+
+<small><i>[top](#table-of-contents)</i></small>
+
+#### [Kerbals of All Trades (KOAT)](https://curseforge.com/kerbal/ksp-mods/KerbalsofAllTrades)
+
+<small><i>[top](#table-of-contents)</i></small>
+
+---
 
 ### by [Lunatic Aeronautics (LAL)](https://curseforge.com/kerbal/ksp-mods/lunaticaeronauticsltd)
 
 <small><i>[top](#table-of-contents)</i></small>
 
 * by [Lunatic Aeronautics (LAL)](https://curseforge.com/kerbal/ksp-mods/lunaticaeronauticsltd)
-  * [Anti Grav Room (LAAGR)](https://curseforge.com/kerbal/ksp-mods/antigravroom)
-  * [Kerbal XMAS (XMAS)](https://curseforge.com/kerbal/ksp-mods/KerbalXMAS)
-  * [Rover Anti Gravity System (RAGS)](https://curseforge.com/kerbal/ksp-mods/roverantigravitysystem)
+
+#### [Anti Grav Room (LAAGR)](https://curseforge.com/kerbal/ksp-mods/antigravroom)
+
+<small><i>[top](#table-of-contents)</i></small>
+
+#### [Kerbal XMAS (XMAS)](https://curseforge.com/kerbal/ksp-mods/KerbalXMAS)
+
+<small><i>[top](#table-of-contents)</i></small>
+
+#### [Rover Anti Gravity System (RAGS)](https://curseforge.com/kerbal/ksp-mods/roverantigravitysystem)
+
+<small><i>[top](#table-of-contents)</i></small>
+
+---
 
 ### by [Mkerb Inc (MKERB)](https://curseforge.com/kerbal/ksp-mods/MkerbInc)
 
