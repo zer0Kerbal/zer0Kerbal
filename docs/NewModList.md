@@ -99,14 +99,19 @@ aka `zed'K™`
        1. [Anti Grav Room (LAAGR)](#anti-grav-room-laagr)
        2. [Kerbal XMAS (XMAS)](#kerbal-xmas-xmas)
        3. [Rover Anti Gravity System (RAGS)](#rover-anti-gravity-system-rags)
-   20. [by Mkerb Inc (MKERB)](#by-mkerb-inc-mkerb)
+   20. [by Yarbrough Aerospace R\&D (YARD)](#by-yarbrough-aerospace-rd-yard)
+       1. [MK2L](#mk2l)
+       2. [MK2W](#mk2w)
+       3. [MK2Y](#mk2y)
+       4. [MK2X](#mk2x)
+   21. [by Mkerb Inc (MKERB)](#by-mkerb-inc-mkerb)
        1. [Mkerb Science Instruments](#mkerb-science-instruments)
        2. [Mkerb Oxidizer Tanks (MOT)](#mkerb-oxidizer-tanks-mot)
-   21. [BobCat Industries (BOB)](#bobcat-industries-bob)
-   22. [by godarklight](#by-godarklight)
-   23. [Klockheed Martian Ltd (KML)](#klockheed-martian-ltd-kml)
-   24. [by Matheo G](#by-matheo-g)
-   25. [Rusty Star](#rusty-star)
+   22. [BobCat Industries (BOB)](#bobcat-industries-bob)
+   23. [by godarklight](#by-godarklight)
+   24. [Klockheed Martian Ltd (KML)](#klockheed-martian-ltd-kml)
+   25. [by Matheo G](#by-matheo-g)
+   26. [Rusty Star](#rusty-star)
 2. [Parts](#parts)
    1. [Mini Sample Return Capsule (MSRC)](#mini-sample-return-capsule-msrc)
 3. [Addons](#addons)
@@ -690,6 +695,58 @@ Agent, flags, and common files for Coyote Space Industries Ltd products
 <small><i>[top](#table-of-contents)</i></small>
 
 #### [Rover Anti Gravity System (RAGS)](https://curseforge.com/kerbal/ksp-mods/roverantigravitysystem)
+
+<small><i>[top](#table-of-contents)</i></small>
+
+---
+
+### by [Yarbrough Aerospace R&D (YARD)](https://curseforge.com/kerbal/ksp-mods/YARD)
+
+Agent, flags, and common file for all Yarbrough Aerospace R&D (YARD) products.
+
+[![Current Version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/YARD/master/json/mod.json)](https://www.curseforge.com/kerbal/ksp-mods/YARD) ![release](https://img.shields.io/github/release-date/zer0kerbal/YARD?style=plastic) ![License](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/YARD/master/json/license.json) [![Pages][SHD:pgs]](https://zer0kerbal.github.io/YARD/)
+
+<img src="https://raw.githubusercontent.com/zer0Kerbal/YARD/master/img/HeroLogo.png" alt="YARD Hero" width="45%" height="45%">
+
+<small><i>[top](#table-of-contents)</i></small>
+
+#### [MK2L](https://curseforge.com/kerbal/ksp-mods/MK2L)
+
+MK2 L fuselage
+
+[![Current Version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/MK2L/master/json/mod.json)](https://www.curseforge.com/kerbal/ksp-mods/MK2L) ![release](https://img.shields.io/github/release-date/zer0kerbal/MK2L?style=plastic) ![License](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/MK2L/master/json/license.json) [![Pages][SHD:pgs]](https://zer0kerbal.github.io/MK2L/)
+
+<img src="https://raw.githubusercontent.com/zer0Kerbal/MK2L/master/img/HeroLogo.png" alt="MK2L Hero" width="45%" height="45%">
+
+<small><i>[top](#table-of-contents)</i></small>
+
+#### [MK2W](https://curseforge.com/kerbal/ksp-mods/MK2W)
+
+MK2 Wings
+
+[![Current Version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/MK2W/master/json/mod.json)](https://www.curseforge.com/kerbal/ksp-mods/MK2W) ![release](https://img.shields.io/github/release-date/zer0kerbal/MK2W?style=plastic) ![License](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/MK2W/master/json/license.json) [![Pages][SHD:pgs]](https://zer0kerbal.github.io/MK2W/)
+
+<img src="https://raw.githubusercontent.com/zer0Kerbal/MK2W/master/img/HeroLogo.png" alt="MK2W Hero" width="45%" height="45%">
+
+<small><i>[top](#table-of-contents)</i></small>
+
+#### [MK2Y](https://curseforge.com/kerbal/ksp-mods/MK2Y)
+
+MK2 Command Pod 2A-1A
+
+[![Current Version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/MK2Y/master/json/mod.json)](https://www.curseforge.com/kerbal/ksp-mods/MK2Y) ![release](https://img.shields.io/github/release-date/zer0kerbal/MK2Y?style=plastic) ![License](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/MK2Y/master/json/license.json) [![Pages][SHD:pgs]](https://zer0kerbal.github.io/MK2Y/)
+
+<img src="https://raw.githubusercontent.com/zer0Kerbal/MK2Y/master/img/HeroLogo.png" alt="MK2Y Hero" width="45%" height="45%">
+
+<small><i>[top](#table-of-contents)</i></small>
+
+#### [MK2X](https://curseforge.com/kerbal/ksp-mods/MK2X)
+
+Heat shields with RCS
+
+[![Current Version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/MK2X/master/json/mod.json)](https://www.curseforge.com/kerbal/ksp-mods/MK2X) ![release](https://img.shields.io/github/release-date/zer0kerbal/MK2X?style=plastic) ![License](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/MK2X/master/json/license.json) [![Pages][SHD:pgs]](https://zer0kerbal.github.io/MK2X/)
+
+<img src="https://raw.githubusercontent.com/zer0Kerbal/MK2X/master/img/HeroLogo.png" alt="MK2X Hero" width="45%" height="45%">
 
 <small><i>[top](#table-of-contents)</i></small>
 
