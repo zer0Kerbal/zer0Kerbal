@@ -107,7 +107,18 @@ aka `zed'K™`
    21. [by Mkerb Inc (MKERB)](#by-mkerb-inc-mkerb)
        1. [Mkerb Science Instruments](#mkerb-science-instruments)
        2. [Mkerb Oxidizer Tanks (MOT)](#mkerb-oxidizer-tanks-mot)
-   22. [BobCat Industries (BOB)](#bobcat-industries-bob)
+   22. [The collection of BobCat Industries (BOB)](#the-collection-of-bobcat-industries-bob)
+       1. [Soviet Engines](#soviet-engines)
+       2. [Soviet Pack](#soviet-pack)
+          1. [Buran](#buran)
+          2. [Kliper](#kliper)
+          3. [Lunokchod1](#lunokchod1)
+          4. [Мир (MIR)](#мир-mir)
+          5. [N1L3](#n1l3)
+          6. [Progress](#progress)
+          7. [Протон (Proton)](#протон-proton)
+          8. [Soyuz](#soyuz)
+          9. [SoyuzU](#soyuzu)
    23. [by godarklight](#by-godarklight)
    24. [Klockheed Martian Ltd (KML)](#klockheed-martian-ltd-kml)
    25. [by Matheo G](#by-matheo-g)
@@ -782,22 +793,47 @@ Just when you need that extra oxidizer on your spaceplane...
 
 ---
 
-### [BobCat Industries (BOB)](https://curseforge.com/kerbal/ksp-mods/BobCatInd)
+### The collection of [BobCat Industries (BOB)](https://curseforge.com/kerbal/ksp-mods/BobCatInd)
 
 <small><i>[top](#table-of-contents)</i></small>
 
-* The collection of [BobCat Industries (BOB)](https://curseforge.com/kerbal/ksp-mods/BobCatInd)
-  * [Soviet Engines](https://github.com/zer0Kerbal/SovietEnginePack)
-  * Soviet Pack
-    * [Buran](https://github.com/zer0Kerbal/Buran)
-    * [Kliper](https://github.com/zer0Kerbal/Kliper)
-    * [Lunokchod1](https://github.com/zer0Kerbal/Lunokchod1)
-    * [Мир (MIR)](https://curseforge.com/kerbal/ksp-mods/MIR)
-    * [N1L3](https://github.com/zer0Kerbal/N1L3)
-    * [Progress](https://github.com/zer0Kerbal/Progress)
-    * [Протон (Proton)](https://curseforge.com/kerbal/ksp-mods/Proton)
-    * [Soyuz](https://github.com/zer0Kerbal/Soyuz)
-    * [SoyuzU](https://github.com/zer0Kerbal/SoyuzU)
+#### [Soviet Engines](https://github.com/zer0Kerbal/SovietEnginePack)
+  
+#### Soviet Pack
+
+##### [Buran](https://github.com/zer0Kerbal/Buran)
+
+##### [Kliper](https://github.com/zer0Kerbal/Kliper)
+
+##### [Lunokchod1](https://github.com/zer0Kerbal/Lunokchod1)
+
+##### [Мир (MIR)](https://curseforge.com/kerbal/ksp-mods/MIR)
+
+[![Current Version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/MIR/master/json/mod.json)](https://www.curseforge.com/kerbal/ksp-mods/MIR) ![release](https://img.shields.io/github/release-date/zer0kerbal/MIR?style=plastic) ![License](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/MIR/master/json/license.json) [![Pages][SHD:pgs]](https://zer0kerbal.github.io/MIR/)
+
+<img src="https://raw.githubusercontent.com/zer0Kerbal/MIR/master/img/HeroLogo.png" alt="MIR Hero" width="45%" height="45%">
+
+<small><i>[top](#table-of-contents)</i></small>
+
+---
+##### [N1L3](https://github.com/zer0Kerbal/N1L3)
+
+##### [Progress](https://github.com/zer0Kerbal/Progress)
+
+##### [Протон (Proton)](https://curseforge.com/kerbal/ksp-mods/Proton)
+
+[![Current Version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/Proton/master/json/mod.json)](https://www.curseforge.com/kerbal/ksp-mods/Proton) ![release](https://img.shields.io/github/release-date/zer0kerbal/Proton?style=plastic) ![License](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/Proton/master/json/license.json) [![Pages][SHD:pgs]](https://zer0kerbal.github.io/Proton/)
+
+<img src="https://raw.githubusercontent.com/zer0Kerbal/Proton/master/img/HeroLogo.png" alt="Proton Hero" width="45%" height="45%">
+
+<small><i>[top](#table-of-contents)</i></small>
+
+---
+
+##### [Soyuz](https://github.com/zer0Kerbal/Soyuz)
+
+##### [SoyuzU](https://github.com/zer0Kerbal/SoyuzU)
+
   * [JoolV](https://github.com/zer0Kerbal/JoolV)
   * [Nautilus](https://github.com/zer0Kerbal/Nautilus)
   * [HOME](https://github.com/zer0Kerbal/HOME)
