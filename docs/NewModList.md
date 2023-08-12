@@ -8,7 +8,7 @@ tags: addon-list,mod-list,ksp-mod,page,kerbal,ksp,zer0Kerbal,zedK
 zer0Kerbal (zed'K)
 created: 08 Aug 2021
 updated: 07 Jul 2023 -->
-
+<link rel="stylesheet" type="text/css" href="https://legoman8304.github.io/style.css">
 # 👨‍🚀 Addons by [zer0Kerbal™][zedK]  <!-- omit from toc -->
 
 aka `zed'K™`
@@ -120,6 +120,9 @@ aka `zed'K™`
           8. [Soyuz](#soyuz)
           9. [SoyuzU](#soyuzu)
    23. [by godarklight](#by-godarklight)
+       1. [Exception Detector (EXCD)](#exception-detector-excd)
+       2. [NyanCat (NYAN)](#nyancat-nyan)
+       3. [SafetyWall (WALL)](#safetywall-wall)
    24. [Klockheed Martian Ltd (KML)](#klockheed-martian-ltd-kml)
    25. [by Matheo G](#by-matheo-g)
    26. [Rusty Star](#rusty-star)
@@ -842,12 +845,32 @@ Just when you need that extra oxidizer on your spaceplane...
 
 ### by [godarklight](https://forum.kerbalspaceprogram.com/index.php?/profile/92588-*/)
 
+#### [Exception Detector (EXCD)](https://curseforge.com/kerbal/ksp-mods/ExceptionDetector)
+
+[![Current Version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/ExceptionDetector/master/json/mod.json)](https://www.curseforge.com/kerbal/ksp-mods/ExceptionDetector) ![release](https://img.shields.io/github/release-date/zer0kerbal/ExceptionDetector?style=plastic) ![License](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/ExceptionDetector/master/json/license.json) [![Pages][SHD:pgs]](https://zer0kerbal.github.io/ExceptionDetector/)
+
+<img src="https://raw.githubusercontent.com/zer0Kerbal/ExceptionDetector/master/img/HeroLogo.png" alt="ExceptionDetector Hero" width="45%" height="45%">
+
 <small><i>[top](#table-of-contents)</i></small>
 
-* by [godarklight](https://forum.kerbalspaceprogram.com/index.php?/profile/92588-*/)
-  * [Exception Detector (EXCD)](https://curseforge.com/kerbal/ksp-mods/ExceptionDetector)
-  * [NyanCat (NYAN)](https://curseforge.com/kerbal/ksp-mods/NyanCat)
-  * [SafetyWall (WALL)](https://curseforge.com/kerbal/ksp-mods/SafetyWall)
+#### [NyanCat (NYAN)](https://curseforge.com/kerbal/ksp-mods/NyanCat)
+
+[![Current Version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/NyanCat/master/json/mod.json)](https://www.curseforge.com/kerbal/ksp-mods/NyanCat) ![release](https://img.shields.io/github/release-date/zer0kerbal/NyanCat?style=plastic) ![License](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/NyanCat/master/json/license.json) [![Pages][SHD:pgs]](https://zer0kerbal.github.io/NyanCat/)
+
+<img src="https://raw.githubusercontent.com/zer0Kerbal/NyanCat/master/img/HeroLogo.png" alt="NyanCat Hero" width="45%" height="45%">
+
+<small><i>[top](#table-of-contents)</i></small>
+
+#### [SafetyWall (WALL)](https://curseforge.com/kerbal/ksp-mods/SafetyWall)
+
+[![Current Version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/SafetyWall/master/json/mod.json)](https://www.curseforge.com/kerbal/ksp-mods/SafetyWall) ![release](https://img.shields.io/github/release-date/zer0kerbal/SafetyWall?style=plastic) ![License](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/SafetyWall/master/json/license.json) [![Pages][SHD:pgs]](https://zer0kerbal.github.io/SafetyWall/)
+
+<detail>
+<summary>Hero Image</summary>
+<img src="https://raw.githubusercontent.com/zer0Kerbal/SafetyWall/master/img/HeroLogo_1920x1920.png" alt="SafetyWall Hero" width="45%" height="45%">
+</detail>
+
+---
 
 ### [Klockheed Martian Ltd (KML)](https://curseforge.com/kerbal/ksp-mods/KlockheedMartianLtd)
 
