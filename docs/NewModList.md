@@ -19,6 +19,25 @@ aka `zed'K™`
 
 1. [Table of Contents](#table-of-contents)
    1. [Loose listings](#loose-listings)
+      1. [Adjustable Mod Panel (KAMP)](#adjustable-mod-panel-kamp)
+      2. [B9 Stock Patches](#b9-stock-patches)
+      3. [Behemoth Aerospace Engineering (BAE)](#behemoth-aerospace-engineering-bae)
+      4. [Biomatic (BIO)](#biomatic-bio)
+      5. [Docking Port Descriptions (DPD)](#docking-port-descriptions-dpd)
+      6. [Exception Detector (EXCD)](#exception-detector-excd)
+      7. [Field Training Facility (FTF)](#field-training-facility-ftf)
+      8. [Field Training Lab (FTL)](#field-training-lab-ftl)
+      9. [Gimbal Trim (TRIM)](#gimbal-trim-trim)
+      10. [GPO (Goo Pumps \& Oils') Speed Pump (GPO)](#gpo-goo-pumps--oils-speed-pump-gpo)
+      11. [Kaboom! (BOOM)](#kaboom-boom)
+      12. [MoarKerbals (MOAR)](#moarkerbals-moar)
+      13. [Near Future Rovers (NFR)](#near-future-rovers-nfr)
+      14. [OhScrap! (OHS)](#ohscrap-ohs)
+      15. [On Demand Fuel Cells (ODFC)](#on-demand-fuel-cells-odfc)
+      16. [Precise Maneuver (PM)](#precise-maneuver-pm)
+      17. [Pteron (MSRV)](#pteron-msrv)
+      18. [ScrapYard (SCRAP)](#scrapyard-scrap)
+      19. [SimpleConstruction! (SCON)](#simpleconstruction-scon)
    2. [by NecroBones](#by-necrobones)
       1. [Lithobrake Exploration Technologies (LET)](#lithobrake-exploration-technologies-let)
       2. [SpaceY Corporation (SYC)](#spacey-corporation-syc)
@@ -120,7 +139,7 @@ aka `zed'K™`
           8. [Soyuz](#soyuz)
           9. [SoyuzU](#soyuzu)
    23. [by godarklight](#by-godarklight)
-       1. [Exception Detector (EXCD)](#exception-detector-excd)
+       1. [Exception Detector (EXCD)](#exception-detector-excd-1)
        2. [NyanCat (NYAN)](#nyancat-nyan)
        3. [SafetyWall (WALL)](#safetywall-wall)
    24. [Klockheed Martian Ltd (KML)](#klockheed-martian-ltd-kml)
@@ -129,11 +148,11 @@ aka `zed'K™`
 2. [Parts](#parts)
    1. [Mini Sample Return Capsule (MSRC)](#mini-sample-return-capsule-msrc)
 3. [Addons](#addons)
-   1. [On Demand Fuel Cells (ODFC)](#on-demand-fuel-cells-odfc)
+   1. [On Demand Fuel Cells (ODFC)](#on-demand-fuel-cells-odfc-1)
 4. [Patches](#patches)
    1. [Komplexity™ (KPLX)](#komplexity-kplx)
 5. [KerbSimpleCo](#kerbsimpleco)
-   1. [SimpleConstruction! (SCON!)](#simpleconstruction-scon)
+   1. [SimpleConstruction! (SCON!)](#simpleconstruction-scon-1)
    2. [SimpleLogistics! (SLOG)](#simplelogistics-slog)
    3. [SimpleNotes!](#simplenotes)
    4. [SimpleLife!](#simplelife)
@@ -150,25 +169,82 @@ aka `zed'K™`
 
 ### Loose listings
 
-* [Adjustable Mod Panel (KAMP)](https://curseforge.com/kerbal/ksp-mods/AdjustableModPanel)
-* [B9 Stock Patches](https://curseforge.com/kerbal/ksp-mods/b9stockpatches)
-* [Behemoth Aerospace Engineering (BAE)](https://curseforge.com/kerbal/ksp-mods/BehemothAerospaceEngineerings)
-* [Biomatic (BIO)](https://curseforge.com/kerbal/ksp-mods/Biomatic)
-* [Docking Port Descriptions (DPD)](https://curseforge.com/kerbal/ksp-mods/DockingPortDescriptions)
-* [Exception Detector (EXCD)](https://curseforge.com/kerbal/ksp-mods/ExceptionDetector)
-* [Field Training Facility (FTF)](https://curseforge.com/kerbal/ksp-mods/FieldTrainingFacility)
-* [Field Training Lab (FTL)](https://curseforge.com/kerbal/ksp-mods/FieldTrainingLab)
-* [Gimbal Trim (TRIM)](https://curseforge.com/kerbal/ksp-mods/GimbalTrim)
-* [GPO (Goo Pumps & Oils') Speed Pump (GPO)](https://curseforge.com/kerbal/ksp-mods/GPOSpeedPump)
-* [Kaboom! (BOOM)](https://curseforge.com/kerbal/ksp-mods/Kaboom)
-* [MoarKerbals (MOAR)](https://curseforge.com/kerbal/ksp-mods/MoarKerbals)
-* [Near Future Rovers (NFR)](https://curseforge.com/kerbal/ksp-mods/NearFutureRovers)
-* [OhScrap! (OHS)](https://curseforge.com/kerbal/ksp-mods/OhScrap)
-* [On Demand Fuel Cells (ODFC)](https://curseforge.com/kerbal/ksp-mods/OnDemandFuelCells)
-* [Precise Maneuver (PM)](https://curseforge.com/kerbal/ksp-mods/PreciseManeuver)
-* [Pteron (MSRV)](https://curseforge.com/kerbal/Pteron)
-* [ScrapYard (SCRAP)](https://curseforge.com/kerbal/ksp-mods/ScrapYard)
-* [SimpleConstruction! (SCON)](https://curseforge.com/kerbal/ksp-mods/SimpleConstruction)
+#### [Adjustable Mod Panel (KAMP)](https://curseforge.com/kerbal/ksp-mods/AdjustableModPanel)
+
+<small><i>[top](#table-of-contents)</i></small>
+
+#### [B9 Stock Patches](https://curseforge.com/kerbal/ksp-mods/b9stockpatches)
+
+<small><i>[top](#table-of-contents)</i></small>
+
+#### [Behemoth Aerospace Engineering (BAE)](https://curseforge.com/kerbal/ksp-mods/BehemothAerospaceEngineerings)
+
+<small><i>[top](#table-of-contents)</i></small>
+
+#### [Biomatic (BIO)](https://curseforge.com/kerbal/ksp-mods/Biomatic)
+
+<small><i>[top](#table-of-contents)</i></small>
+
+#### [Docking Port Descriptions (DPD)](https://curseforge.com/kerbal/ksp-mods/DockingPortDescriptions)
+
+<small><i>[top](#table-of-contents)</i></small>
+
+#### [Exception Detector (EXCD)](https://curseforge.com/kerbal/ksp-mods/ExceptionDetector)
+
+<small><i>[top](#table-of-contents)</i></small>
+
+#### [Field Training Facility (FTF)](https://curseforge.com/kerbal/ksp-mods/FieldTrainingFacility)
+
+<small><i>[top](#table-of-contents)</i></small>
+
+#### [Field Training Lab (FTL)](https://curseforge.com/kerbal/ksp-mods/FieldTrainingLab)
+
+<small><i>[top](#table-of-contents)</i></small>
+
+#### [Gimbal Trim (TRIM)](https://curseforge.com/kerbal/ksp-mods/GimbalTrim)
+
+<small><i>[top](#table-of-contents)</i></small>
+
+#### [GPO (Goo Pumps & Oils') Speed Pump (GPO)](https://curseforge.com/kerbal/ksp-mods/GPOSpeedPump)
+
+<small><i>[top](#table-of-contents)</i></small>
+
+#### [Kaboom! (BOOM)](https://curseforge.com/kerbal/ksp-mods/Kaboom)
+
+<small><i>[top](#table-of-contents)</i></small>
+
+#### [MoarKerbals (MOAR)](https://curseforge.com/kerbal/ksp-mods/MoarKerbals)
+
+<small><i>[top](#table-of-contents)</i></small>
+
+#### [Near Future Rovers (NFR)](https://curseforge.com/kerbal/ksp-mods/NearFutureRovers)
+
+<small><i>[top](#table-of-contents)</i></small>
+
+#### [OhScrap! (OHS)](https://curseforge.com/kerbal/ksp-mods/OhScrap)
+
+<small><i>[top](#table-of-contents)</i></small>
+
+#### [On Demand Fuel Cells (ODFC)](https://curseforge.com/kerbal/ksp-mods/OnDemandFuelCells)
+
+<small><i>[top](#table-of-contents)</i></small>
+
+#### [Precise Maneuver (PM)](https://curseforge.com/kerbal/ksp-mods/PreciseManeuver)
+
+<small><i>[top](#table-of-contents)</i></small>
+
+#### [Pteron (MSRV)](https://curseforge.com/kerbal/Pteron)
+
+<small><i>[top](#table-of-contents)</i></small>
+
+#### [ScrapYard (SCRAP)](https://curseforge.com/kerbal/ksp-mods/ScrapYard)
+
+<small><i>[top](#table-of-contents)</i></small>
+
+#### [SimpleConstruction! (SCON)](https://curseforge.com/kerbal/ksp-mods/SimpleConstruction)
+
+<small><i>[top](#table-of-contents)</i></small>
+
   * [Keridian Dynamics Vessel Assembly (KDVA)](https://curseforge.com/kerbal/ksp-mods/KeridianDynamics) <i><small>lots of stockalike parts</i></small>
   * [Not So SimpleConstructon! (NSSC)](https://curseforge.com/kerbal/ksp-mods/NotSoSimpleConstructon) <i><small>adds recyling and surveying</i></small>
 * [SimpleLife! (LIFE)](https://curseforge.com/kerbal/ksp-mods/SimpleLife)
