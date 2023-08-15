@@ -90,6 +90,7 @@ From
 
 
 ---
+[![Nitin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=zer0Kerbal&theme=github-compact)](https://github.com/zer0Kerbal/github-readme-activity-graph)
 
 <!--- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zer0Kerbal)](https://github.com/anuraghazra/github-readme-stats) -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zer0Kerbal&show_icons=true) <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zer0kerbal&layout=compact&hide_border=true&bg_color=bada55&langs_count=4">  
@@ -140,4 +141,3 @@ From
 [patreon]: https://www.patreon.com/zer0Kerbal
 [paypal]: https://www.paypal.com/donate?hosted_button_id=DC22YHMEJREKL
 [buymeacoffee]: http://buymeacoffee.com/zer0Kerbal
-
