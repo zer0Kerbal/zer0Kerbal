@@ -190,6 +190,12 @@ aka `zed'K™`
 
 ### [Adjustable Mod Panel (KAMP)](https://curseforge.com/kerbal/ksp-mods/AdjustableModPanel)
 
+<details>
+  <summary> Click arrow to see Hero Image</summary>
+  <p><img src="https://raw.githubusercontent.com/zer0Kerbal/AdjustableModPanel/master/img/HeroLogo_1920x1920_new.png" alt="AdjustableModPanel Hero" width="45%" height="45%"></p>
+</details>
+
+[![Current Version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/AdjustableModPanel/master/json/mod.json)](https://www.curseforge.com/kerbal/ksp-mods/AdjustableModPanel) ![release](https://img.shields.io/github/release-date/zer0kerbal/AdjustableModPanel?style=plastic) ![License](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/AdjustableModPanel/master/json/license.json) [![Pages][SHD:pgs]](https://zer0kerbal.github.io/AdjustableModPanel/)
 <small><i>[top](#table-of-contents)</i></small>
 
 ### [B9 Stock Patches](https://curseforge.com/kerbal/ksp-mods/b9stockpatches)
