@@ -223,29 +223,78 @@ aka `zed'K™`
 
 ### [Biomatic (BIO)](https://curseforge.com/kerbal/ksp-mods/Biomatic)
 
+<details>
+  <summary> Click arrow to see Hero Image</summary>
+  <p><img src="https://raw.githubusercontent.com/zer0Kerbal/Biomatic/master/img/HeroLogo.png" alt="Biomatic Hero" width="45%" height="45%"></p>
+</details>
+
+[![Current Version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/Biomatic/master/json/mod.json)](https://www.curseforge.com/kerbal/ksp-mods/Biomatic) ![release](https://img.shields.io/github/release-date/zer0kerbal/Biomatic?style=plastic) ![License](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/Biomatic/master/json/license.json) [![Pages][SHD:pgs]](https://zer0kerbal.github.io/Biomatic/)
+
 <small><i>[top](#table-of-contents)</i></small>
 
 ### [Docking Port Descriptions (DPD)](https://curseforge.com/kerbal/ksp-mods/DockingPortDescriptions)
+
+<details>
+  <summary> Click arrow to see Hero Image</summary>
+  <p><img src="https://raw.githubusercontent.com/zer0Kerbal/DockingPortDescriptions/master/img/HeroLogo_1920x1920.png" alt="DockingPortDescriptions Hero" width="45%" height="45%"></p>
+</details>
+
+[![Current Version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/DockingPortDescriptions/master/json/mod.json)](https://www.curseforge.com/kerbal/ksp-mods/DockingPortDescriptions) ![release](https://img.shields.io/github/release-date/zer0kerbal/DockingPortDescriptions?style=plastic) ![License](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/DockingPortDescriptions/master/json/license.json) [![Pages][SHD:pgs]](https://zer0kerbal.github.io/DockingPortDescriptions/)
 
 <small><i>[top](#table-of-contents)</i></small>
 
 ### [Exception Detector (EXCD)](https://curseforge.com/kerbal/ksp-mods/ExceptionDetector)
 
+<details>
+  <summary> Click arrow to see Hero Image</summary>
+  <p><img src="https://raw.githubusercontent.com/zer0Kerbal/ExceptionDetector/master/img/HeroLogo.png" alt="ExceptionDetector Hero" width="45%" height="45%"></p>
+</details>
+
+[![Current Version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/ExceptionDetector/master/json/mod.json)](https://www.curseforge.com/kerbal/ksp-mods/ExceptionDetector) ![release](https://img.shields.io/github/release-date/zer0kerbal/ExceptionDetector?style=plastic) ![License](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/ExceptionDetector/master/json/license.json) [![Pages][SHD:pgs]](https://zer0kerbal.github.io/ExceptionDetector/)
+
 <small><i>[top](#table-of-contents)</i></small>
 
 ### [Field Training Facility (FTF)](https://curseforge.com/kerbal/ksp-mods/FieldTrainingFacility)
+
+<details>
+  <summary> Click arrow to see Hero Image</summary>
+  <p><img src="https://raw.githubusercontent.com/zer0Kerbal/FieldTrainingFacility/master/img/HeroLogo_1920x1920.png" alt="FieldTrainingFacility Hero" width="45%" height="45%"></p>
+</details>
+
+[![Current Version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/FieldTrainingFacility/master/json/mod.json)](https://www.curseforge.com/kerbal/ksp-mods/FieldTrainingFacility) ![release](https://img.shields.io/github/release-date/zer0kerbal/FieldTrainingFacility?style=plastic) ![License](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/FieldTrainingFacility/master/json/license.json) [![Pages][SHD:pgs]](https://zer0kerbal.github.io/FieldTrainingFacility/)
 
 <small><i>[top](#table-of-contents)</i></small>
 
 ### [Field Training Lab (FTL)](https://curseforge.com/kerbal/ksp-mods/FieldTrainingLab)
 
+<details>
+  <summary> Click arrow to see Hero Image</summary>
+  <p><img src="https://raw.githubusercontent.com/zer0Kerbal/FieldTrainingLab/master/img/HeroLogo_1920x1920.png" alt="FieldTrainingLab Hero" width="45%" height="45%"></p>
+</details>
+
+[![Current Version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/FieldTrainingLab/master/json/mod.json)](https://www.curseforge.com/kerbal/ksp-mods/FieldTrainingLab) ![release](https://img.shields.io/github/release-date/zer0kerbal/FieldTrainingLab?style=plastic) ![License](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/FieldTrainingLab/master/json/license.json) [![Pages][SHD:pgs]](https://zer0kerbal.github.io/FieldTrainingLab/)
+
 <small><i>[top](#table-of-contents)</i></small>
 
 ### [Gimbal Trim (TRIM)](https://curseforge.com/kerbal/ksp-mods/GimbalTrim)
 
+<details>
+  <summary> Click arrow to see Hero Image</summary>
+  <p><img src="https://raw.githubusercontent.com/zer0Kerbal/GimbalTrim/master/img/HeroLogo.png" alt="GimbalTrim Hero" width="45%" height="45%"></p>
+</details>
+
+[![Current Version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/GimbalTrim/master/json/mod.json)](https://www.curseforge.com/kerbal/ksp-mods/GimbalTrim) ![release](https://img.shields.io/github/release-date/zer0kerbal/GimbalTrim?style=plastic) ![License](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/GimbalTrim/master/json/license.json) [![Pages][SHD:pgs]](https://zer0kerbal.github.io/GimbalTrim/)
+
 <small><i>[top](#table-of-contents)</i></small>
 
 ### [GPO (Goo Pumps & Oils') Speed Pump (GPO)](https://curseforge.com/kerbal/ksp-mods/GPOSpeedPump)
+
+<details>
+  <summary> Click arrow to see Hero Image</summary>
+  <p><img src="https://raw.githubusercontent.com/zer0Kerbal/GPOSpeedPump/master/img/HeroLogo_1920x1920.png" alt="GPOSpeedPump Hero" width="45%" height="45%"></p>
+</details>
+
+[![Current Version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/GPOSpeedPump/master/json/mod.json)](https://www.curseforge.com/kerbal/ksp-mods/GPOSpeedPump) ![release](https://img.shields.io/github/release-date/zer0kerbal/GPOSpeedPump?style=plastic) ![License](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/GPOSpeedPump/master/json/license.json) [![Pages][SHD:pgs]](https://zer0kerbal.github.io/GPOSpeedPump/)
 
 <small><i>[top](#table-of-contents)</i></small>
 
