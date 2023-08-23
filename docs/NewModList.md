@@ -322,6 +322,13 @@ aka `zed'K™`
 
 ### [Near Future Rovers (NFR)](https://curseforge.com/kerbal/ksp-mods/NearFutureRovers)
 
+<details>
+  <summary> Click arrow to see Hero Image</summary>
+  <p><img src="https://raw.githubusercontent.com/zer0Kerbal/NearFutureRovers/master/img/HeroLogo_1920x1920.png" alt="NearFutureRovers Hero" width="45%" height="45%"></p>
+</details>
+
+[![Current Version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/NearFutureRovers/master/json/mod.json)](https://www.curseforge.com/kerbal/ksp-mods/NearFutureRovers) ![release](https://img.shields.io/github/release-date/zer0kerbal/NearFutureRovers?style=plastic) ![License](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/NearFutureRovers/master/json/license.json) [![Pages][SHD:pgs]](https://zer0kerbal.github.io/NearFutureRovers/)
+
 <small><i>[top](#table-of-contents)</i></small>
 
 ### [OhScrap! (OHS)](https://curseforge.com/kerbal/ksp-mods/OhScrap)
