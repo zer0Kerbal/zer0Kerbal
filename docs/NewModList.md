@@ -333,6 +333,15 @@ aka `zed'K™`
 
 ### [OhScrap! (OHS)](https://curseforge.com/kerbal/ksp-mods/OhScrap)
 
+<details>
+  <summary> Click arrow to see Hero Image</summary>
+  <p><img src="https://raw.githubusercontent.com/zer0Kerbal/OhScrap/master/img/HeroLogo_1920x1920.png" alt="OhScrap Hero" width="45%" height="45%"></p>
+</details>
+
+[![Current Version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/OhScrap/master/json/mod.json)](https://www.curseforge.com/kerbal/ksp-mods/OhScrap) ![release](https://img.shields.io/github/release-date/zer0kerbal/OhScrap?style=plastic) ![License](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/OhScrap/master/json/license.json) [![Pages][SHD:pgs]](https://zer0kerbal.github.io/OhScrap/)
+
+<small><i>[top](#table-of-contents)</i></small>
+
 <small><i>[top](#table-of-contents)</i></small>
 
 ### [On Demand Fuel Cells (ODFC)](https://curseforge.com/kerbal/ksp-mods/OnDemandFuelCells)
