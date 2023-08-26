@@ -355,6 +355,13 @@ aka `zed'K™`
 
 ### [Precise Maneuver (PM)](https://curseforge.com/kerbal/ksp-mods/PreciseManeuver)
 
+<details>
+  <summary> Click arrow to see Hero Image</summary>
+  <p><img src="https://raw.githubusercontent.com/zer0Kerbal/PreciseManeuver/master/img/HeroLogo_1920x1920.png" alt="PreciseManeuver Hero" width="45%" height="45%"></p>
+</details>
+
+[![Current Version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/PreciseManeuver/master/json/mod.json)](https://www.curseforge.com/kerbal/ksp-mods/PreciseManeuver) ![release](https://img.shields.io/github/release-date/zer0kerbal/PreciseManeuver?style=plastic) ![License](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/PreciseManeuver/master/json/license.json) [![Pages][SHD:pgs]](https://zer0kerbal.github.io/PreciseManeuver/)
+
 <small><i>[top](#table-of-contents)</i></small>
 
 ### [Pteron (MSRV)](https://curseforge.com/kerbal/Pteron)
