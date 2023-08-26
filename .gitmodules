@@ -1,6 +1,7 @@
 [submodule "docs/AVeryKerbalChristmas"]
 	path = docs/AVeryKerbalChristmas
 	url = https://github.com/zer0Kerbal/AVeryKerbalChristmas.git
-[submodule "docs/docs/AVeryKerbalChristmas"]
-	path = docs/docs/AVeryKerbalChristmas
-	url = https://github.com/zer0Kerbal/AVeryKerbalChristmas.git
+[submodule "docs/Antennas"]
+	path = docs/Antennas
+	url = https://github.com/zer0Kerbal/Antennas.git
+
