@@ -35,7 +35,8 @@ jobs:
         continue-on-error: true
       - name: Execute if the job was cancelled
         if: ${{ cancelled() }}
-         exit
+        run: exit 1
+        # run: exit_with_success # I want to know what command I should write here
 
       - name: Execute if the job succeeded
         if: ${{ success() }} or ${{ failure() }}
