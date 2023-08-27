@@ -33,15 +33,6 @@ jobs:
 
       - name: Commit changes
         continue-on-error: true
-
-      - name: Execute if the job was cancelled
-        if: ${{ cancelled() }}
-        # run: exit 1
-        run: |
-          exit_with_success # I want to know what command I should write here
-
-      - name: Execute if the job succeeded
-        if: ${{ success() }} or ${{ failure() }}
         run: |
           cd ${{github.workspace}}
           git config --global user.email "39887717+zer0Kerbal@users.noreply.github.com"
@@ -49,13 +40,23 @@ jobs:
           git add .
           git commit -m "auto: Generated markdown indexes"
           git push
-          
-      - name: Execute if the job failed
-        if: ${{ failure() }}
-        run: |
-          cd ${{github.workspace}}
-          git config --global user.email "39887717+zer0Kerbal@users.noreply.github.com"
-          git config --global user.name "zer0Kerbal"
-          git add .
-          git commit -m "auto: Generated markdown indexes"
-          git push
+
+
+        #   - name: Execute if the job was cancelled
+        #   if: ${{ cancelled() }}
+        #   # run: exit 1
+        #   run: |
+        #     exit_with_success # I want to know what command I should write here
+  
+        # - name: Execute if the job succeeded
+        #   if: ${{ success() }} or ${{ failure() }}
+        #   run: |
+        #     cd ${{github.workspace}}
+        #     git config --global user.email "39887717+zer0Kerbal@users.noreply.github.com"
+        #     git config --global user.name "zer0Kerbal"
+        #     git add .
+        #     git commit -m "auto: Generated markdown indexes"
+        #     git push
+            
+        # - name: Execute if the job failed
+        #   if: ${{ failure() }}
