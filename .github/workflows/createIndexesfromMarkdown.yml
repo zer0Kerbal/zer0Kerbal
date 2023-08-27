@@ -34,7 +34,7 @@ jobs:
       - name: Commit changes
         continue-on-error: true
 
-        - name: Execute if the job was cancelled
+      - name: Execute if the job was cancelled
         if: ${{ cancelled() }}
         # run: exit 1
         run: |
