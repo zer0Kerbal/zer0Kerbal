@@ -85,14 +85,14 @@
 
 #### 📕 Latest Blog Posts
 
+<!-- REDDIT:START -->
+<!-- REDDIT:END -->
+
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
 <!-- X:START -->
 <!-- X:END -->
-
-<!-- REDDIT:START -->
-<!-- REDDIT:END -->
 
 [![@zer0kerbal's Holopin board](https://holopin.io/api/user/board?user=zer0kerbal)](https://www.holopin.io/@zer0kerbal)
 
