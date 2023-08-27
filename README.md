@@ -71,12 +71,16 @@ From
 
 #### 📺 Latest YouTube Videos
 
-<!-- YOUTUBE:START -->
-- [addon testing:  Stack Inline Lights &lpar;SIL&rpar; v0.9.0.0-release - `Thank you Alexustas`](https://www.youtube.com/watch?v=jKgDeIypCIc)
-- [addon testing:  KSP2](https://www.youtube.com/watch?v=pemj6xb-cc0)
-- [addon testing:  Space Shuttle Engines &lpar;SSE&rpar; v2.3.99.3-prerelease](https://www.youtube.com/watch?v=N7zOzyISIgM)
-- [addon testing:  Space Shuttle Engines &lpar;SSE&rpar; v2.3.99.3-prerelease](https://www.youtube.com/watch?v=4pDXn6Ir_Cw)
-- [addon testing:  Wernher&#39;s Old Stuff &lpar;WOS&rpar; V1.9.99.4-prerelease `Fifth First Steps`](https://www.youtube.com/watch?v=iHA_0eM0RnA)
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=jKgDeIypCIc"><img width="140px" src="http://img.youtube.com/vi/jKgDeIypCIc/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=jKgDeIypCIc">addon testing:  Stack Inline Lights &lpar;SIL&rpar; v0.9.0.0-release - `Thank you Alexustas`</a><br/>Feb 28, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=pemj6xb-cc0"><img width="140px" src="http://img.youtube.com/vi/pemj6xb-cc0/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=pemj6xb-cc0">addon testing:  KSP2</a><br/>Feb 24, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=N7zOzyISIgM"><img width="140px" src="http://img.youtube.com/vi/N7zOzyISIgM/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=N7zOzyISIgM">addon testing:  Space Shuttle Engines &lpar;SSE&rpar; v2.3.99.3-prerelease</a><br/>Feb 20, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=4pDXn6Ir_Cw"><img width="140px" src="http://img.youtube.com/vi/4pDXn6Ir_Cw/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=4pDXn6Ir_Cw">addon testing:  Space Shuttle Engines &lpar;SSE&rpar; v2.3.99.3-prerelease</a><br/>Feb 20, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=iHA_0eM0RnA"><img width="140px" src="http://img.youtube.com/vi/iHA_0eM0RnA/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=iHA_0eM0RnA">addon testing:  Wernher&#39;s Old Stuff &lpar;WOS&rpar; V1.9.99.4-prerelease `Fifth First Steps`</a><br/>Feb 19, 2023</td></tr></table>
 <!-- YOUTUBE:END -->
 
 #### 📕 Latest Blog Posts
