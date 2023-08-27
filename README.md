@@ -17,9 +17,9 @@
 
 ![](https://github.com/insolitum/insolitum/raw/main/contributions.svg)
 
-From
-* [insolitum](https://github.com/insolitum)
-* Expat-MIT
+ From
+- [insolitum](https://github.com/insolitum)
+- Expat-MIT
 
 ### Connect with me:
 
@@ -42,8 +42,8 @@ From
 
 ## Listing of zer0Kerbal addons (wip)
 
-* [New Mod list (wip)](https://zer0kerbal.github.io/zer0Kerbal/AddonListing.html)
-* [Mod list (wip)](https://zer0kerbal.github.io/zer0Kerbal/ModList.html)
+- [New Mod list (wip)](https://zer0kerbal.github.io/zer0Kerbal/AddonListing.html)
+- [Mod list (wip)](https://zer0kerbal.github.io/zer0Kerbal/ModList.html)
 
 ## Patrons
 
@@ -99,27 +99,27 @@ From
   
 ### WHY - Mission Statement
 
-* fun
-* learn
-* experience
-* give back
-* respect shown to authors
-* no mod left behind
-* enhance a game we love
-* continuous improvement of portfolio, documentation, experience, processes, procedures, communications, and knowledge.
-* Localizations: Kerbal Space Program players often aren't native English speakers; world focused - make sure every mod is translated to as many languages as possible.
-* Help to motivate STEAM and the future of science and innovation by facilitating players KSP play.
-* non-profit: yes some profit; however the *financial* RIO (return on investment) will be negative due to number of hours per day invested (6-10).
+- fun
+- learn
+- experience
+- give back
+- respect shown to authors
+- no mod left behind
+- enhance a game we love
+- continuous improvement of portfolio, documentation, experience, processes, procedures, communications, and knowledge.
+- Localizations: Kerbal Space Program players often aren't native English speakers; world focused - make sure every mod is translated to as many languages as possible.
+- Help to motivate STEAM and the future of science and innovation by facilitating players KSP play.
+- non-profit: yes some profit; however the *financial* RIO (return on investment) will be negative due to number of hours per day invested (6-10).
 
-# WHAT - clear vision
+## WHAT - clear vision
 
-* Kerbal Space Program exterior enhancements and adjustments
+- Kerbal Space Program exterior enhancements and adjustments
 
-# How - Strategy
+## How - Strategy
 
-* automated backend systems allowing maximum efficiency in updating and releasing mods.
-* rapid iterative / kaizen approach
-  * > ‘`Kaizen`, the Sino-Japanese word for ‘change for the better‘ or ‘rapid improvement’, is a concept referring to business activities that continuously improve all functions and involve all employees from the CEO to the assembly line workers. Kaizen also applies to processes, such as purchasing and logistics, that cross organizational boundaries into the supply chain’
+- automated backend systems allowing maximum efficiency in updating and releasing mods.
+- rapid iterative / kaizen approach
+  - > ‘`Kaizen`, the Sino-Japanese word for ‘change for the better‘ or ‘rapid improvement’, is a concept referring to business activities that continuously improve all functions and involve all employees from the CEO to the assembly line workers. Kaizen also applies to processes, such as purchasing and logistics, that cross organizational boundaries into the supply chain’
     >
     > The concept of kaizen encompasses a wide range of ideas. It involves making the work environment more efficient and effective by creating a team atmosphere, <u>improving everyday procedures</u>, ensuring <u>player engagement</u>, and making things <u>more fulfilling, less tiring, and safer</u>.
 - the best dependency is no dependency.
