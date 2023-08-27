@@ -76,7 +76,7 @@ From
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-<!-- :START -->
+<!-- X:START -->
 <!-- X:END -->
 
 <!-- REDDIT:START -->
