@@ -46,27 +46,6 @@ From
 
 ### :zap: Recent Activity
 
-#### 📺 Latest YouTube Videos
-
-<!-- YOUTUBE:START -->
-- [addon testing:  Stack Inline Lights &lpar;SIL&rpar; v0.9.0.0-release - `Thank you Alexustas`](https://www.youtube.com/watch?v=jKgDeIypCIc)
-- [addon testing:  KSP2](https://www.youtube.com/watch?v=pemj6xb-cc0)
-- [addon testing:  Space Shuttle Engines &lpar;SSE&rpar; v2.3.99.3-prerelease](https://www.youtube.com/watch?v=N7zOzyISIgM)
-- [addon testing:  Space Shuttle Engines &lpar;SSE&rpar; v2.3.99.3-prerelease](https://www.youtube.com/watch?v=4pDXn6Ir_Cw)
-- [addon testing:  Wernher&#39;s Old Stuff &lpar;WOS&rpar; V1.9.99.4-prerelease `Fifth First Steps`](https://www.youtube.com/watch?v=iHA_0eM0RnA)
-<!-- YOUTUBE:END -->
-
-### 📕 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<!-- REDDIT-LIST:START -->
-<!-- REDDIT-LIST:END -->
-
-<!-- REDDIT:START -->
-<!-- REDDIT:END -->
-
 #### :octocat: GitHub Activity
   
 <!--START_SECTION:activity-->
@@ -82,10 +61,29 @@ From
 10. ❗ Opened issue [#64](https://github.com/zer0Kerbal/ScienceInstruments/issues/64) in [zer0Kerbal/ScienceInstruments](https://github.com/zer0Kerbal/ScienceInstruments)
 <!--END_SECTION:activity-->
 
+#### 📺 Latest YouTube Videos
+
+<!-- YOUTUBE:START -->
+- [addon testing:  Stack Inline Lights &lpar;SIL&rpar; v0.9.0.0-release - `Thank you Alexustas`](https://www.youtube.com/watch?v=jKgDeIypCIc)
+- [addon testing:  KSP2](https://www.youtube.com/watch?v=pemj6xb-cc0)
+- [addon testing:  Space Shuttle Engines &lpar;SSE&rpar; v2.3.99.3-prerelease](https://www.youtube.com/watch?v=N7zOzyISIgM)
+- [addon testing:  Space Shuttle Engines &lpar;SSE&rpar; v2.3.99.3-prerelease](https://www.youtube.com/watch?v=4pDXn6Ir_Cw)
+- [addon testing:  Wernher&#39;s Old Stuff &lpar;WOS&rpar; V1.9.99.4-prerelease `Fifth First Steps`](https://www.youtube.com/watch?v=iHA_0eM0RnA)
+<!-- YOUTUBE:END -->
+
+#### 📕 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+<!-- :START -->
+<!-- X:END -->
+
+<!-- REDDIT:START -->
+<!-- REDDIT:END -->
+
 [![@zer0kerbal's Holopin board](https://holopin.io/api/user/board?user=zer0kerbal)](https://www.holopin.io/@zer0kerbal)
 
-
----
 [![Nitin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=zer0Kerbal&theme=github-compact)](https://github.com/zer0Kerbal/github-readme-activity-graph)
 
 <!--- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zer0Kerbal)](https://github.com/anuraghazra/github-readme-stats) -->
