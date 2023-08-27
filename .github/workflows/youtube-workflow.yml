@@ -13,5 +13,10 @@ jobs:
       - uses: actions/checkout@v3
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
-          comment_tag_name: "YOUTUBE"
+          comment_tag_name: "reddit"
+          feed_list: ".github/workflows/youtube-workflow.yml"
+          custom_tags: "channelId/yt:channelId/,videoId/yt:videoId/"
+          date_format: "mmm d, yyyy"
+          template: '<table><tr><td><a href="$url"><img width="140px" src="http://img.youtube.com/vi/$videoId/maxresdefault.jpg"></a></td>$newline<td><a href="$url">$title</a><br/>$date</td></tr></table>$newline'
           feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCp9c8IaK4Gjgfj3O9QxrbDw"
+          readme_path: "./readme.md"
