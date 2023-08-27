@@ -17,5 +17,5 @@ jobs:
           feed_list: "https://www.reddit.com/user/zer0Kerbal.rss"
           custom_tags: "channelId/yt:channelId/,videoId/yt:videoId/"
           date_format: "mmm d, yyyy"
-          template: '<table><tr><td><a href="$url"><img width="50px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/reddit.png" alt="reddit" height="50px"></a></td>$newline<td><a href="$url">$title</a><br/>$date</td></tr></table>$newline'
+          template: '<table><tr><td><a href="$url"><img width="25px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/reddit.png" alt="reddit" height="25px"></a></td>$newline<td><a href="$url">$title</a><br/>$date</td></tr></table>$newline'
           # readme_path: README.md
