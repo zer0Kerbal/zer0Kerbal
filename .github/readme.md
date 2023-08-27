@@ -67,7 +67,7 @@ From
 <!-- REDDIT:START -->
 <!-- REDDIT:END -->
 
-#### :octo: GitHub Activity
+#### :octocat: GitHub Activity
   
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#45](https://github.com/zer0Kerbal/CargoBays/issues/45#issuecomment-1678350108) in [zer0Kerbal/CargoBays](https://github.com/zer0Kerbal/CargoBays)
