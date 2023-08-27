@@ -20,4 +20,4 @@ jobs:
         with:
           MAX_LINES: 10
           COMMIT_NAME: GitHub Activity Readme
-          TARGET_FILE: "/docs/readme.md"
+          TARGET_FILE: readme.md
