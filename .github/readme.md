@@ -44,7 +44,9 @@ From
   <li><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/133828-*/"><img border="0" alt="eightiesboi" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/monthly_2018_01/happy_velociraptor_dinosaur_greeting_cards-r918b99ab65894a198682f360e419773a_xvuak_8byvr_512.thumb.jpg.00c28897eef8a91ee74f6cb59a9bbb5f.jpg" width="75" height="75" > eightiesboi</a> for KSP2 and so much more. o7</li>
 </ul>
 
-### 📺 Latest YouTube Videos
+### :zap: Recent Activity
+
+#### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
 - [addon testing:  Stack Inline Lights &lpar;SIL&rpar; v0.9.0.0-release - `Thank you Alexustas`](https://www.youtube.com/watch?v=jKgDeIypCIc)
@@ -54,14 +56,18 @@ From
 - [addon testing:  Wernher&#39;s Old Stuff &lpar;WOS&rpar; V1.9.99.4-prerelease `Fifth First Steps`](https://www.youtube.com/watch?v=iHA_0eM0RnA)
 <!-- YOUTUBE:END -->
 
----
+### 📕 Latest Blog Posts
 
-[![@zer0kerbal's Holopin board](https://holopin.io/api/user/board?user=zer0kerbal)](https://www.holopin.io/@zer0kerbal)
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
->### :zap: Recent Activity
+<!-- REDDIT-LIST:START -->
+<!-- REDDIT-LIST:END -->
 
-<details>
-  <summary>GitHub Activity</summary>
+<!-- REDDIT:START -->
+<!-- REDDIT:END -->
+
+#### :octo: GitHub Activity
   
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#45](https://github.com/zer0Kerbal/CargoBays/issues/45#issuecomment-1678350108) in [zer0Kerbal/CargoBays](https://github.com/zer0Kerbal/CargoBays)
@@ -76,17 +82,7 @@ From
 10. ❗ Opened issue [#64](https://github.com/zer0Kerbal/ScienceInstruments/issues/64) in [zer0Kerbal/ScienceInstruments](https://github.com/zer0Kerbal/ScienceInstruments)
 <!--END_SECTION:activity-->
 
-</details
-
----
-
-### 📕 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<!-- REDDIT-LIST:START -->
-<!-- REDDIT-LIST:END -->
+[![@zer0kerbal's Holopin board](https://holopin.io/api/user/board?user=zer0kerbal)](https://www.holopin.io/@zer0kerbal)
 
 
 ---
