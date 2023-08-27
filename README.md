@@ -33,15 +33,23 @@ From
 [<img align="left" alt="zer0Kerbal | PayPal" width="32px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/paypal_logo_icon_168055.png" />][paypal]
 [<img align="left" alt="zer0Kerbal | Buy Me a Coffee" width="32px" src="https://www.buymeacoffee.com/assets/img/bmc-meta-new/new/favicon.ico" />][buymeacoffee]
 <!-- [<img align="left" alt="zer0Kerbal | buy me a coffee" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/buymeacoffee.svg" />][buymeacoffee] -->
-[<img align="left" alt="zer0Kerbal | Twitter" width="32px" src="https://cdn.icon-icons.com/icons2/836/PNG/32/Twitter_icon-icons.com_66803.png" />][twitter]
+[<img align="left" alt="x@zer0Kerbal | Twitter" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/x.png" width="32px" height="32px" />][twitter]
+<!-- [<img align="left" alt="zer0Kerbal | Twitter" width="32px" src="https://cdn.icon-icons.com/icons2/836/PNG/32/Twitter_icon-icons.com_66803.png" />][twitter] -->
 <!-- [<img align="left" alt="zer0Kerbal | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] -->
 <br />
+
+## [Projects](https://zer0kerbal.github.io/zer0Kerbal/projects.html)
+
+## Listing of zer0Kerbal addons (wip)
+
+* [New Mod list (wip)](https://zer0kerbal.github.io/zer0Kerbal/AddonListing.html)
+* [Mod list (wip)](https://zer0kerbal.github.io/zer0Kerbal/ModList.html)
 
 ## Patrons
 
 <ul>
-  <li><a href="https://www.reddit.com/user/eengie/"><img border="0" alt="eengie" src="https://i.redd.it/snoovatar/avatars/96418e79-2cd4-4759-91c2-057701985e65.png" width="75" height="75" > eengie</a> for going above and beyond. o7</li>
-  <li><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/133828-*/"><img border="0" alt="eightiesboi" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/monthly_2018_01/happy_velociraptor_dinosaur_greeting_cards-r918b99ab65894a198682f360e419773a_xvuak_8byvr_512.thumb.jpg.00c28897eef8a91ee74f6cb59a9bbb5f.jpg" width="75" height="75" > eightiesboi</a> for KSP2 and so much more. o7</li>
+  <li><a href="https://www.reddit.com/user/eengie/"><img border="1" alt="eengie" src="https://i.redd.it/snoovatar/avatars/96418e79-2cd4-4759-91c2-057701985e65.png" width="50px" height="50ox" > eengie</a> for going above and beyond. o7</li>
+  <li><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/133828-*/"><img border="0" alt="eightiesboi" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/monthly_2018_01/happy_velociraptor_dinosaur_greeting_cards-r918b99ab65894a198682f360e419773a_xvuak_8byvr_512.thumb.jpg.00c28897eef8a91ee74f6cb59a9bbb5f.jpg" width="50px" height="50px" > eightiesboi</a> for KSP2 and so much more. o7</li>
 </ul>
 
 ### :zap: Recent Activity
@@ -88,13 +96,8 @@ From
 
 <!--- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zer0Kerbal)](https://github.com/anuraghazra/github-readme-stats) -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zer0Kerbal&show_icons=true) <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zer0kerbal&layout=compact&hide_border=true&bg_color=bada55&langs_count=4">  
-
-# [Projects](https://zer0kerbal.github.io/zer0Kerbal/projects.html)
-
-# [Mod list (wip)](https://zer0kerbal.github.io/zer0Kerbal/AddonListing.html)
-   
   
-# WHY - Mission Statement
+### WHY - Mission Statement
 
 * fun
 * learn
