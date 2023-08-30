@@ -388,6 +388,14 @@ aka `zed'K™`
 
 ### [SimpleConstruction! (SCON)](https://curseforge.com/kerbal/ksp-mods/SimpleConstruction)
 
+[![Current Version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/SimpleConstruction/master/json/mod.json)](https://www.curseforge.com/kerbal/ksp-mods/SimpleConstruction) ![release](https://img.shields.io/github/release-date/zer0kerbal/SimpleConstruction?style=plastic) ![License](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/SimpleConstruction/master/json/license.json) [![Pages][SHD:pgs]](https://zer0kerbal.github.io/SimpleConstruction/)
+
+<details>
+  <summary> Click arrow to see Hero Image</summary>
+  <p><img src="https://raw.githubusercontent.com/zer0Kerbal/SimpleConstruction/master/img/HeroLogo_1920x1920.png" alt="SimpleConstruction Hero" width="45%" height="45%"></p>
+</details>
+
+
 <small><i>[top](#table-of-contents)</i></small>
 
 #### [Keridian Dynamics Vessel Assembly (KDVA)](https://curseforge.com/kerbal/ksp-mods/KeridianDynamics) <i><small>lots of stockalike parts</i></small>
