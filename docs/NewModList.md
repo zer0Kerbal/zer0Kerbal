@@ -400,6 +400,13 @@ aka `zed'K™`
 
 #### [Keridian Dynamics Vessel Assembly (KDVA)](https://curseforge.com/kerbal/ksp-mods/KeridianDynamics) <i><small>lots of stockalike parts</i></small>
 
+[![Current Version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/KeridianDynamics/master/json/mod.json)](https://www.curseforge.com/kerbal/ksp-mods/KeridianDynamics) ![release](https://img.shields.io/github/release-date/zer0kerbal/KeridianDynamics?style=plastic) ![License](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/KeridianDynamics/master/json/license.json) [![Pages][SHD:pgs]](https://zer0kerbal.github.io/KeridianDynamics/)
+
+<details>
+  <summary> Click arrow to see Hero Image</summary>
+  <p><img src="https://raw.githubusercontent.com/zer0Kerbal/KeridianDynamics/master/img/HeroLogo_1920x1920.png" alt="KeridianDynamics Hero" width="45%" height="45%"></p>
+</details>
+
 <small><i>[top](#table-of-contents)</i></small>
 
 #### [Not So SimpleConstructon! (NSSC)](https://curseforge.com/kerbal/ksp-mods/NotSoSimpleConstructon) <i><small>adds recyling and surveying</i></small>
