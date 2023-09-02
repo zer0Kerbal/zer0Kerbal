@@ -411,20 +411,34 @@ aka `zed'K™`
 
 #### [Not So SimpleConstructon! (NSSC)](https://curseforge.com/kerbal/ksp-mods/NotSoSimpleConstructon) <i><small>adds recyling and surveying</i></small>
 
-[![Current Version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/NotSoSimpleConstructon/master/json/mod.json)](https://www.curseforge.com/kerbal/ksp-mods/NotSoSimpleConstructon) ![release](https://img.shields.io/github/release-date/zer0kerbal/NotSoSimpleConstructon?style=plastic) ![License](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/NotSoSimpleConstructon/master/json/license.json) [![Pages][SHD:pgs]](https://zer0kerbal.github.io/NotSoSimpleConstructon/)
+[![Current Version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/NotSoSimpleConstruction/master/json/mod.json)](https://www.curseforge.com/kerbal/ksp-mods/NotSoSimpleConstruction) ![release](https://img.shields.io/github/release-date/zer0kerbal/NotSoSimpleConstruction?style=plastic) ![License](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/NotSoSimpleConstruction/master/json/license.json) [![Pages][SHD:pgs]](https://zer0kerbal.github.io/NotSoSimpleConstruction/)
 
 <details>
   <summary> Click arrow to see Hero Image</summary>
-  <p><img src="https://raw.githubusercontent.com/zer0Kerbal/NotSoSimpleConstructon/master/img/HeroLogo_1920x1920.png" alt="NotSoSimpleConstructon Hero" width="45%" height="45%"></p>
+  <p><img src="https://raw.githubusercontent.com/zer0Kerbal/NotSoSimpleConstruction/master/img/HeroLogo_1920x1920.png" alt="NotSoSimpleConstruction Hero" width="45%" height="45%"></p>
 </details>
 
 <small><i>[top](#table-of-contents)</i></small>
 
 ### [SimpleLife! (LIFE)](https://curseforge.com/kerbal/ksp-mods/SimpleLife)
 
+[![Current Version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/SimpleLife/master/json/mod.json)](https://www.curseforge.com/kerbal/ksp-mods/SimpleLife) ![release](https://img.shields.io/github/release-date/zer0kerbal/SimpleLife?style=plastic) ![License](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/SimpleLife/master/json/license.json) [![Pages][SHD:pgs]](https://zer0kerbal.github.io/SimpleLife/)
+
+<details>
+  <summary> Click arrow to see Hero Image</summary>
+  <p><img src="https://raw.githubusercontent.com/zer0Kerbal/SimpleLife/master/img/HeroLogo_1920x1920.png" alt="SimpleLife Hero" width="45%" height="45%"></p>
+</details>
+
 <small><i>[top](#table-of-contents)</i></small>
 
 ### [SimpleLogistics! (SLOG)](https://curseforge.com/kerbal/ksp-mods/SimpleLogistics)
+
+[![Current Version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/SimpleLogistics/master/json/mod.json)](https://www.curseforge.com/kerbal/ksp-mods/SimpleLogistics) ![release](https://img.shields.io/github/release-date/zer0kerbal/SimpleLogistics?style=plastic) ![License](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/SimpleLogistics/master/json/license.json) [![Pages][SHD:pgs]](https://zer0kerbal.github.io/SimpleLogistics/)
+
+<details>
+  <summary> Click arrow to see Hero Image</summary>
+  <p><img src="https://raw.githubusercontent.com/zer0Kerbal/SimpleLogistics/master/img/HeroLogo_1920x1920.png" alt="SimpleLogistics Hero" width="45%" height="45%"></p>
+</details>
 
 <small><i>[top](#table-of-contents)</i></small>
 
