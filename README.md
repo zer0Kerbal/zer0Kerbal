@@ -85,16 +85,16 @@
 
 #### 📕 Latest Blog Posts
 
-<!-- REDDIT:START --><table><tr><td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1622wt8/what_would_be_the_current_price_of_ksp1_source/jxvci5n/"><img width="33px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/reddit.png" alt="reddit" height="33px"></a></td>
+<!-- REDDIT:START --><table><tr><td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/163zeku/what_do_you_think_went_wrong_with_ksp2_to_get_us/jysktmz/"><img width="33px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/reddit.png" alt="reddit" height="33px"></a></td>
+<td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/163zeku/what_do_you_think_went_wrong_with_ksp2_to_get_us/jysktmz/">/u/zer0Kerbal on What do you think went wrong with KSP2 to get us to where we are right now?</a><br/>Sep 2, 2023</td></tr></table>
+<table><tr><td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/163zeku/what_do_you_think_went_wrong_with_ksp2_to_get_us/jyskppy/"><img width="33px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/reddit.png" alt="reddit" height="33px"></a></td>
+<td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/163zeku/what_do_you_think_went_wrong_with_ksp2_to_get_us/jyskppy/">/u/zer0Kerbal on What do you think went wrong with KSP2 to get us to where we are right now?</a><br/>Sep 2, 2023</td></tr></table>
+<table><tr><td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1622wt8/what_would_be_the_current_price_of_ksp1_source/jxvci5n/"><img width="33px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/reddit.png" alt="reddit" height="33px"></a></td>
 <td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1622wt8/what_would_be_the_current_price_of_ksp1_source/jxvci5n/">/u/zer0Kerbal on What would be the current price of KSP1 source code you think ???</a><br/>Aug 26, 2023</td></tr></table>
 <table><tr><td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/15ic1sh/beep_beep_beep_science_instruments_msi/jutc4qo/"><img width="33px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/reddit.png" alt="reddit" height="33px"></a></td>
 <td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/15ic1sh/beep_beep_beep_science_instruments_msi/jutc4qo/">/u/zer0Kerbal on Beep! Beep! Beep! Science Instruments &lpar;MSI&rpar; 1.2.0.0-release `&lt;Спасибо evanisrael&gt;`</a><br/>Aug 4, 2023</td></tr></table>
 <table><tr><td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/15ic1sh/beep_beep_beep_science_instruments_msi/"><img width="33px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/reddit.png" alt="reddit" height="33px"></a></td>
 <td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/15ic1sh/beep_beep_beep_science_instruments_msi/">Beep! Beep! Beep! Science Instruments &lpar;MSI&rpar; 1.2.0.0-release `&lt;Спасибо evanisrael&gt;`</a><br/>Aug 4, 2023</td></tr></table>
-<table><tr><td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/15539kg/hoist_the_colors_pirates_of_the_keribbean_potk/jss5wp8/"><img width="33px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/reddit.png" alt="reddit" height="33px"></a></td>
-<td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/15539kg/hoist_the_colors_pirates_of_the_keribbean_potk/jss5wp8/">/u/zer0Kerbal on Hoist the Colors! Pirates of the Keribbean &lpar;PotK&rpar; - v0.9.99.0-adoption - `&lt;Thank you GagaX&gt;` edition</a><br/>Jul 20, 2023</td></tr></table>
-<table><tr><td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/15539kg/hoist_the_colors_pirates_of_the_keribbean_potk/"><img width="33px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/reddit.png" alt="reddit" height="33px"></a></td>
-<td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/15539kg/hoist_the_colors_pirates_of_the_keribbean_potk/">Hoist the Colors! Pirates of the Keribbean &lpar;PotK&rpar; - v0.9.99.0-adoption - `&lt;Thank you GagaX&gt;` edition</a><br/>Jul 20, 2023</td></tr></table>
 <!-- REDDIT:END -->
 
 <!-- BLOG-POST-LIST:START -->
