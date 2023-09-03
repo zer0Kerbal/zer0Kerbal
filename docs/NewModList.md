@@ -444,6 +444,12 @@ aka `zed'K™`
 
 ### [SimpleNotes! (NOTE)](https://curseforge.com/kerbal/ksp-mods/Notes)
 
+[![Current Version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/Notes/master/json/mod.json)](https://www.curseforge.com/kerbal/ksp-mods/Notes) ![release](https://img.shields.io/github/release-date/zer0kerbal/Notes?style=plastic) ![License](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/Notes/master/json/license.json) [![Pages][SHD:pgs]](https://zer0kerbal.github.io/Notes/)
+
+<details>
+  <summary> Click arrow to see Hero Image</summary>
+  <p><img src="https://raw.githubusercontent.com/zer0Kerbal/Notes/master/img/HeroLogo_1920x1920.png" alt="Notes Hero" width="45%" height="45%"></p>
+
 <small><i>[top](#table-of-contents)</i></small>
 
 ### [Stack Inline Lights (SIL)](https://curseforge.com/kerbal/ksp-mods/StackInlineLights)
