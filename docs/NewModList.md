@@ -465,6 +465,13 @@ aka `zed'K™`
 
 ### [Foundations (FND)](https://curseforge.com/kerbal/ksp-mods/Foundations) <small><i>Helps prevent ground constructions from floating away</i></small>
 
+[![Current Version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/Foundations/master/json/mod.json)](https://www.curseforge.com/kerbal/ksp-mods/Foundations) ![release](https://img.shields.io/github/release-date/zer0kerbal/Foundations?style=plastic) ![License](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/Foundations/master/json/license.json) [![Pages][SHD:pgs]](https://zer0kerbal.github.io/Foundations/)
+
+<details>
+  <summary> Click arrow to see Hero Image</summary>
+  <p><img src="https://raw.githubusercontent.com/zer0Kerbal/Foundations/master/img/HeroLogo_1920x1920.png" alt="Foundations Hero" width="45%" height="45%"></p>
+</details>
+
 <small><i>[top](#table-of-contents)</i></small>
 
 ## Science!
