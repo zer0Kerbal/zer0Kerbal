@@ -13,6 +13,9 @@ updated: 07 Jul 2023 -->
 
 aka `zed'K™`
 
+[zedK]: https://github.com/zer0Kerbal "zer0Kerbal (zed'K)"
+[SHD:pgs]: https://img.shields.io/badge/GitHub-Pages-white?style=plastic&labelColor=9cf&logoColor=181717&logo=github "GitHub IO"
+
 [🏠](Home)  
 
 ## Table of Contents
@@ -1382,11 +1385,7 @@ A Custom Barn Kit config addon that increases Kerbal Space Center buildings to t
 * [![Current Version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/Kerturn/master/json/mod.json)](https://www.curseforge.com/kerbal/ksp-mods/Kerturn) ![release](https://img.shields.io/github/release-date/zer0kerbal/HotBeveragesIrradiated?style=plastic) ![License](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/Kerturn/master/json/license.json) [![Pages][SHD:pgs]](https://zer0kerbal.github.io/Kerturn/)  
 <small><i>[top](#table-of-contents)</i></small>
 
-[zedK]: https://github.com/zer0Kerbal "zer0Kerbal (zed'K)"
-
-THIS FILE: CC BY-ND 4.0 by zer0Kerbal
-  used with express permission from zer0Kerbal
-
-[SHD:pgs]: https://img.shields.io/badge/GitHub-Pages-white?style=plastic&labelColor=9cf&logoColor=181717&logo=github "GitHub IO"
-
 </div>
+
+THIS FILE: CC BY-ND 4.0 by [zer0Kerbal][zedK]
+  used with express permission from [zer0Kerbal][zedK]
