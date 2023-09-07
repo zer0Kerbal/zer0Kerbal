@@ -487,13 +487,6 @@ aka `zed'K™`
   <p><img src="https://raw.githubusercontent.com/zer0Kerbal/MiniSampleReturnCapsule/master/img/HeroLogo_1920x1920.png" alt="MiniSampleReturnCapsule Hero" width="45%" height="45%"></p>
 </details>
 
-<details>
-  <summary> Click arrow to see Hero Image</summary>
-  <p><img src="https://raw.githubusercontent.com/zer0Kerbal/MiniSampleReturnCapsule/master/img/HeroLogo.png" alt="MiniSampleReturnCapsule Hero" width="45%" height="45%"></p>
-</details>
-
-[![Current Version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/MiniSampleReturnCapsule/master/json/mod.json)](https://www.curseforge.com/kerbal/ksp-mods/MiniSampleReturnCapsule) ![release](https://img.shields.io/github/release-date/zer0kerbal/MiniSampleReturnCapsule?style=plastic) ![License](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/MiniSampleReturnCapsule/master/json/license.json) [![Pages][SHD:pgs]](https://zer0kerbal.github.io/MiniSampleReturnCapsule/)
-
 <small><i>[top](#table-of-contents)</i></small>
 
 ### [Mkerb Science Instruments](https://curseforge.com/kerbal/ksp-mods/ScienceInstruments)
