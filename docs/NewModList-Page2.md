@@ -1,6 +1,6 @@
 ---
-permalink: /AddonListing.html
-title: New Mod List
+permalink: /AddonListing-Page2.html
+title: New Mod List - Page 2
 description: The Opening Credits, and the closing credits, plus the first of two (or is three) end credit scenes
 tags: addon-list,mod-list,ksp-mod,page,kerbal,ksp,zer0Kerbal,zedK
 ---
@@ -21,46 +21,19 @@ aka `zed'K™`
 ## Table of Contents
 
 1. [Table of Contents](#table-of-contents)
-2. [Loose listings](#loose-listings)
-   1. [Adjustable Mod Panel (KAMP)](#adjustable-mod-panel-kamp)
-   2. [B9 Stock Patches](#b9-stock-patches)
-   3. [Behemoth Aerospace Engineering (BAE)](#behemoth-aerospace-engineering-bae)
-   4. [Biomatic (BIO)](#biomatic-bio)
-   5. [Docking Port Descriptions (DPD)](#docking-port-descriptions-dpd)
-   6. [Exception Detector (EXCD)](#exception-detector-excd)
-   7. [Field Training Facility (FTF)](#field-training-facility-ftf)
-   8. [Field Training Lab (FTL)](#field-training-lab-ftl)
-   9. [Gimbal Trim (TRIM)](#gimbal-trim-trim)
-   10. [GPO (Goo Pumps \& Oils') Speed Pump (GPO)](#gpo-goo-pumps--oils-speed-pump-gpo)
-   11. [Kaboom! (BOOM)](#kaboom-boom)
-   12. [MoarKerbals (MOAR)](#moarkerbals-moar)
-   13. [Near Future Rovers (NFR)](#near-future-rovers-nfr)
-   14. [OhScrap! (OHS)](#ohscrap-ohs)
-   15. [On Demand Fuel Cells (ODFC)](#on-demand-fuel-cells-odfc)
-   16. [Precise Maneuver (PM)](#precise-maneuver-pm)
-   17. [Pteron (MSRV)](#pteron-msrv)
-   18. [ScrapYard (SCRAP)](#scrapyard-scrap)
-   19. [SimpleConstruction! (SCON)](#simpleconstruction-scon)
-       1. [Keridian Dynamics Vessel Assembly (KDVA) lots of stockalike parts](#keridian-dynamics-vessel-assembly-kdva-lots-of-stockalike-parts)
-       2. [Not So SimpleConstructon! (NSSC) adds recyling and surveying](#not-so-simpleconstructon-nssc-adds-recyling-and-surveying)
-   20. [SimpleLife! (LIFE)](#simplelife-life)
-   21. [SimpleLogistics! (SLOG)](#simplelogistics-slog)
-   22. [SimpleNotes! (NOTE)](#simplenotes-note)
-   23. [Stack Inline Lights (SIL)](#stack-inline-lights-sil)
-   24. [Foundations (FND) Helps prevent ground constructions from floating away](#foundations-fnd-helps-prevent-ground-constructions-from-floating-away)
-3. [Science!](#science)
+2. [Science!](#science)
    1. [Mini Sample Return Capsule (MSRC)](#mini-sample-return-capsule-msrc)
    2. [Mkerb Science Instruments](#mkerb-science-instruments)
    3. [OScience Laboratories (OSL)](#oscience-laboratories-osl)
    4. [Papa Kerballini's Pizza (PIZZA)](#papa-kerballinis-pizza-pizza)
       1. [Solar Science (SOL)](#solar-science-sol)
-4. [by Axial Aerospace](#by-axial-aerospace)
+3. [by Axial Aerospace](#by-axial-aerospace)
    1. [Dreamer (DREAM)](#dreamer-dream)
    2. [LanderTek (LTK)](#landertek-ltk)
    3. [Simple Cargo Solutions (CARGO)](#simple-cargo-solutions-cargo)
    4. [WhimChaser (WHIM)](#whimchaser-whim)
-5. [Olympic's ARP Icons (ARPI)](#olympics-arp-icons-arpi)
-6. [by NecroBones](#by-necrobones)
+4. [Olympic's ARP Icons (ARPI)](#olympics-arp-icons-arpi)
+5. [by NecroBones](#by-necrobones)
    1. [Lithobrake Exploration Technologies (LET)](#lithobrake-exploration-technologies-let)
    2. [SpaceY Corporation (SYC)](#spacey-corporation-syc)
       1. [SpaceY Lifters (SYL)](#spacey-lifters-syl)
@@ -77,11 +50,11 @@ aka `zed'K™`
        1. [Fuel Tanks Plus (FTP)](#fuel-tanks-plus-ftp)
        2. [Fuel Tanks Plus Xtra Kerbal (FTPXK)](#fuel-tanks-plus-xtra-kerbal-ftpxk)
        3. [Fuel Tanks Plus IS (FTPIS)](#fuel-tanks-plus-is-ftpis)
-7. [Moho HVAC (HVAC)](#moho-hvac-hvac)
+6. [Moho HVAC (HVAC)](#moho-hvac-hvac)
    1. [Oblivion Aerospace (OAP)](#oblivion-aerospace-oap)
    2. [Art Of Reentry (AOR)](#art-of-reentry-aor)
    3. [Radial Heat Shields (RHS)](#radial-heat-shields-rhs)
-8. [By Kerbal Hacks Ltd (KHL)](#by-kerbal-hacks-ltd-khl)
+7. [By Kerbal Hacks Ltd (KHL)](#by-kerbal-hacks-ltd-khl)
    1. [Animated Station Screens (ASS)](#animated-station-screens-ass)
    2. [Asphalt Tiles (AT)](#asphalt-tiles-at)
    3. [Drop Tanks (DROP)](#drop-tanks-drop)
@@ -93,27 +66,27 @@ aka `zed'K™`
    9. [Portable Science Container (PRC)](#portable-science-container-prc)
    10. [Simple Mission Flags (SMF)](#simple-mission-flags-smf)
    11. [Ven's Style Textures (VST)](#vens-style-textures-vst)
-9. [Axial Aerospace](#axial-aerospace)
+8. [Axial Aerospace](#axial-aerospace)
    1. [Dreamer (DREAM)](#dreamer-dream-1)
    2. [LanderTek (LTK)](#landertek-ltk-1)
    3. [Simple Cargo Solutions (CARGO)](#simple-cargo-solutions-cargo-1)
    4. [WhimChaser (WHIM)](#whimchaser-whim-1)
-10. [nli2work a.k.a NohArk](#nli2work-aka-nohark)
-    1. [NohArk's Pick'n'Pull (PNP)](#noharks-picknpull-pnp)
-    2. [Cluster O'Lanterns (COL)](#cluster-olanterns-col)
-    3. [Radial Omni Separators (ROS)](#radial-omni-separators-ros)
-    4. [Transparent Command Pods (TCP)](#transparent-command-pods-tcp)
-11. [by LazTek Dev (LTD)](#by-laztek-dev-ltd)
+9. [nli2work a.k.a NohArk](#nli2work-aka-nohark)
+   1. [NohArk's Pick'n'Pull (PNP)](#noharks-picknpull-pnp)
+   2. [Cluster O'Lanterns (COL)](#cluster-olanterns-col)
+   3. [Radial Omni Separators (ROS)](#radial-omni-separators-ros)
+   4. [Transparent Command Pods (TCP)](#transparent-command-pods-tcp)
+10. [by LazTek Dev (LTD)](#by-laztek-dev-ltd)
     1. [Colonial Transporter (LCT)](#colonial-transporter-lct)
     2. [Exploration Expansion (LEE)](#exploration-expansion-lee)
     3. [Historic Archive (LHA)](#historic-archive-lha)
     4. [Launch Pack (LLP)](#launch-pack-llp)
-12. [by DaMichel's Ltd](#by-damichels-ltd)
+11. [by DaMichel's Ltd](#by-damichels-ltd)
     1. [DaMichel's AeroRadial (DAR)](#damichels-aeroradial-dar)
     2. [DaMichel's CargoBays (DCB)](#damichels-cargobays-dcb)
     3. [DaMichel's Fuselage (DMF)](#damichels-fuselage-dmf)
     4. [DaMichel's SphericalTanks(DST)](#damichels-sphericaltanksdst)
-13. [By Nuke's Unlimited](#by-nukes-unlimited)
+12. [By Nuke's Unlimited](#by-nukes-unlimited)
     1. [Nuke's Tiny Aero (NtA)](#nukes-tiny-aero-nta)
     2. [Nuke's Tiny Engines (NtE)](#nukes-tiny-engines-nte)
     3. [Nuke's Tiny Experimental (NX)](#nukes-tiny-experimental-nx)
@@ -122,33 +95,33 @@ aka `zed'K™`
     6. [Nuke's Tiny Tanks (NtT)](#nukes-tiny-tanks-ntt)
     7. [Nuke's Tiny Utility (NtU)](#nukes-tiny-utility-ntu)
     8. [Nuke's Tiny Parts Pack (NtPP)](#nukes-tiny-parts-pack-ntpp)
-14. [by Coyote Space Industries Ltd (CSIL)](#by-coyote-space-industries-ltd-csil)
+13. [by Coyote Space Industries Ltd (CSIL)](#by-coyote-space-industries-ltd-csil)
     1. [Coyote Cargo Freighter (CCF)](#coyote-cargo-freighter-ccf)
     2. [CSI Tools (CSIT)](#csi-tools-csit)
-15. [by Kerb Simple Co (KSC)](#by-kerb-simple-co-ksc)
+14. [by Kerb Simple Co (KSC)](#by-kerb-simple-co-ksc)
     1. [More: Hitchhikers (MHH)](#more-hitchhikers-mhh)
-16. [by V2 Industries (V2IL)](#by-v2-industries-v2il)
-17. [By QuickBASIC](#by-quickbasic)
-18. [ISRU Thanks But No Tanks (QBTT)](#isru-thanks-but-no-tanks-qbtt)
-19. [Kerbal Inventory System No Fun (QBNF)](#kerbal-inventory-system-no-fun-qbnf)
-20. [Monero Flags (QBMF)](#monero-flags-qbmf)
-21. [UniversalStorageStockResourceFuelCell (QBUS)](#universalstoragestockresourcefuelcell-qbus)
-22. [By Exodus\_Solis](#by-exodus_solis)
+15. [by V2 Industries (V2IL)](#by-v2-industries-v2il)
+16. [By QuickBASIC](#by-quickbasic)
+17. [ISRU Thanks But No Tanks (QBTT)](#isru-thanks-but-no-tanks-qbtt)
+18. [Kerbal Inventory System No Fun (QBNF)](#kerbal-inventory-system-no-fun-qbnf)
+19. [Monero Flags (QBMF)](#monero-flags-qbmf)
+20. [UniversalStorageStockResourceFuelCell (QBUS)](#universalstoragestockresourcefuelcell-qbus)
+21. [By Exodus\_Solis](#by-exodus_solis)
     1. [Simple Hyperdrive! (HYPE)](#simple-hyperdrive-hype)
     2. [Kerbals of All Trades (KOAT)](#kerbals-of-all-trades-koat)
-23. [by Lunatic Aeronautics (LAL)](#by-lunatic-aeronautics-lal)
+22. [by Lunatic Aeronautics (LAL)](#by-lunatic-aeronautics-lal)
     1. [Anti Grav Room (LAAGR)](#anti-grav-room-laagr)
     2. [Kerbal XMAS (XMAS)](#kerbal-xmas-xmas)
     3. [Rover Anti Gravity System (RAGS)](#rover-anti-gravity-system-rags)
-24. [by Yarbrough Aerospace R\&D (YARD)](#by-yarbrough-aerospace-rd-yard)
+23. [by Yarbrough Aerospace R\&D (YARD)](#by-yarbrough-aerospace-rd-yard)
     1. [MK2L](#mk2l)
     2. [MK2W](#mk2w)
     3. [MK2Y](#mk2y)
     4. [MK2X](#mk2x)
-25. [by Mkerb Inc (MKERB)](#by-mkerb-inc-mkerb)
+24. [by Mkerb Inc (MKERB)](#by-mkerb-inc-mkerb)
     1. [Mkerb Science Instruments](#mkerb-science-instruments-1)
     2. [Mkerb Oxidizer Tanks (MOT)](#mkerb-oxidizer-tanks-mot)
-26. [The collection of BobCat Industries (BOB)](#the-collection-of-bobcat-industries-bob)
+25. [The collection of BobCat Industries (BOB)](#the-collection-of-bobcat-industries-bob)
     1. [Soviet Engines](#soviet-engines)
     2. [Soviet Pack](#soviet-pack)
        1. [Buran](#buran)
@@ -160,26 +133,26 @@ aka `zed'K™`
        7. [Протон (Proton)](#протон-proton)
        8. [Soyuz](#soyuz)
        9. [SoyuzU](#soyuzu)
-27. [by godarklight](#by-godarklight)
-    1. [Exception Detector (EXCD)](#exception-detector-excd-1)
+26. [by godarklight](#by-godarklight)
+    1. [Exception Detector (EXCD)](#exception-detector-excd)
     2. [NyanCat (NYAN)](#nyancat-nyan)
     3. [SafetyWall (WALL)](#safetywall-wall)
-28. [Klockheed Martian Ltd (KML)](#klockheed-martian-ltd-kml)
-29. [by Matheo G](#by-matheo-g)
-30. [Rusty Star](#rusty-star)
-31. [Parts](#parts)
-32. [Mini Sample Return Capsule (MSRC)](#mini-sample-return-capsule-msrc-1)
-33. [Addons](#addons)
-34. [On Demand Fuel Cells (ODFC)](#on-demand-fuel-cells-odfc-1)
-35. [Patches](#patches)
-36. [Komplexity™ (KPLX)](#komplexity-kplx)
-37. [KerbSimpleCo](#kerbsimpleco)
-38. [SimpleConstruction! (SCON!)](#simpleconstruction-scon-1)
-39. [SimpleLogistics! (SLOG)](#simplelogistics-slog-1)
-40. [SimpleNotes!](#simplenotes)
-41. [SimpleLife!](#simplelife)
-42. [SimpleSurvival!](#simplesurvival)
-43. [Hot Beverages! Inc! (HOT) Agency](#hot-beverages-inc-hot-agency)
+27. [Klockheed Martian Ltd (KML)](#klockheed-martian-ltd-kml)
+28. [by Matheo G](#by-matheo-g)
+29. [Rusty Star](#rusty-star)
+30. [Parts](#parts)
+31. [Mini Sample Return Capsule (MSRC)](#mini-sample-return-capsule-msrc-1)
+32. [Addons](#addons)
+33. [On Demand Fuel Cells (ODFC)](#on-demand-fuel-cells-odfc)
+34. [Patches](#patches)
+35. [Komplexity™ (KPLX)](#komplexity-kplx)
+36. [KerbSimpleCo](#kerbsimpleco)
+37. [SimpleConstruction! (SCON!)](#simpleconstruction-scon)
+38. [SimpleLogistics! (SLOG)](#simplelogistics-slog)
+39. [SimpleNotes!](#simplenotes)
+40. [SimpleLife!](#simplelife)
+41. [SimpleSurvival!](#simplesurvival)
+42. [Hot Beverages! Inc! (HOT) Agency](#hot-beverages-inc-hot-agency)
     1. [Fuel Cells (FUEL)](#fuel-cells-fuel)
     2. [Sensor Modules (SENS)](#sensor-modules-sens)
     3. [Service Modules (SERV)](#service-modules-serv)
@@ -188,299 +161,6 @@ aka `zed'K™`
     6. [Kerturn (KAT)](#kerturn-kat)
 
 <small><i>[top](#table-of-contents)</i></small>
-
-<div style="background-color: lightgrey; width:50%; height: 500px; float:left;">
-
-## Loose listings
-
-### [Adjustable Mod Panel (KAMP)](https://curseforge.com/kerbal/ksp-mods/AdjustableModPanel)
-
-<details>
-  <summary> Click arrow to see Hero Image</summary>
-  <p><img src="https://raw.githubusercontent.com/zer0Kerbal/AdjustableModPanel/master/img/HeroLogo_1920x1920_new.png" alt="AdjustableModPanel Hero" width="45%" height="45%"></p>
-</details>
-
-[![Current Version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/AdjustableModPanel/master/json/mod.json)](https://www.curseforge.com/kerbal/ksp-mods/AdjustableModPanel) ![release](https://img.shields.io/github/release-date/zer0kerbal/AdjustableModPanel?style=plastic) ![License](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/AdjustableModPanel/master/json/license.json) [![Pages][SHD:pgs]](https://zer0kerbal.github.io/AdjustableModPanel/)
-<small><i>[top](#table-of-contents)</i></small>
-
-### [B9 Stock Patches](https://curseforge.com/kerbal/ksp-mods/b9stockpatches)
-
-<details>
-  <summary> Click arrow to see Hero Image</summary>
-  <p><img src="https://raw.githubusercontent.com/zer0Kerbal/b9stockpatches/master/img/HeroLogo.png" alt="b9stockpatches Hero" width="45%" height="45%"></p>
-</details>
-
-[![Current Version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/b9stockpatches/master/json/mod.json)](https://www.curseforge.com/kerbal/ksp-mods/b9stockpatches) ![release](https://img.shields.io/github/release-date/zer0kerbal/b9stockpatches?style=plastic) ![License](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/b9stockpatches/master/json/license.json) [![Pages][SHD:pgs]](https://zer0kerbal.github.io/b9stockpatches/)
-
-<small><i>[top](#table-of-contents)</i></small>
-
-### [Behemoth Aerospace Engineering (BAE)](https://curseforge.com/kerbal/ksp-mods/BehemothAerospaceEngineering)
-
-<details>
-  <summary> Click arrow to see Hero Image</summary>
-  <p><img src="https://raw.githubusercontent.com/zer0Kerbal/BehemothAerospaceEngineering/master/img/HeroLogo.png" alt="BehemothAerospaceEngineering Hero" width="45%" height="45%"></p>
-</details>
-
-[![Current Version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/BehemothAerospaceEngineering/master/json/mod.json)](https://www.curseforge.com/kerbal/ksp-mods/BehemothAerospaceEngineering) ![release](https://img.shields.io/github/release-date/zer0kerbal/BehemothAerospaceEngineering?style=plastic) ![License](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/BehemothAerospaceEngineering/master/json/license.json) [![Pages][SHD:pgs]](https://zer0kerbal.github.io/BehemothAerospaceEngineering/)
-
-
-<small><i>[top](#table-of-contents)</i></small>
-
-### [Biomatic (BIO)](https://curseforge.com/kerbal/ksp-mods/Biomatic)
-
-<details>
-  <summary> Click arrow to see Hero Image</summary>
-  <p><img src="https://raw.githubusercontent.com/zer0Kerbal/Biomatic/master/img/HeroLogo.png" alt="Biomatic Hero" width="45%" height="45%"></p>
-</details>
-
-[![Current Version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/Biomatic/master/json/mod.json)](https://www.curseforge.com/kerbal/ksp-mods/Biomatic) ![release](https://img.shields.io/github/release-date/zer0kerbal/Biomatic?style=plastic) ![License](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/Biomatic/master/json/license.json) [![Pages][SHD:pgs]](https://zer0kerbal.github.io/Biomatic/)
-
-<small><i>[top](#table-of-contents)</i></small>
-
-### [Docking Port Descriptions (DPD)](https://curseforge.com/kerbal/ksp-mods/DockingPortDescriptions)
-
-<details>
-  <summary> Click arrow to see Hero Image</summary>
-  <p><img src="https://raw.githubusercontent.com/zer0Kerbal/DockingPortDescriptions/master/img/HeroLogo_1920x1920.png" alt="DockingPortDescriptions Hero" width="45%" height="45%"></p>
-</details>
-
-[![Current Version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/DockingPortDescriptions/master/json/mod.json)](https://www.curseforge.com/kerbal/ksp-mods/DockingPortDescriptions) ![release](https://img.shields.io/github/release-date/zer0kerbal/DockingPortDescriptions?style=plastic) ![License](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/DockingPortDescriptions/master/json/license.json) [![Pages][SHD:pgs]](https://zer0kerbal.github.io/DockingPortDescriptions/)
-
-<small><i>[top](#table-of-contents)</i></small>
-
-### [Exception Detector (EXCD)](https://curseforge.com/kerbal/ksp-mods/ExceptionDetector)
-
-<details>
-  <summary> Click arrow to see Hero Image</summary>
-  <p><img src="https://raw.githubusercontent.com/zer0Kerbal/ExceptionDetector/master/img/HeroLogo.png" alt="ExceptionDetector Hero" width="45%" height="45%"></p>
-</details>
-
-[![Current Version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/ExceptionDetector/master/json/mod.json)](https://www.curseforge.com/kerbal/ksp-mods/ExceptionDetector) ![release](https://img.shields.io/github/release-date/zer0kerbal/ExceptionDetector?style=plastic) ![License](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/ExceptionDetector/master/json/license.json) [![Pages][SHD:pgs]](https://zer0kerbal.github.io/ExceptionDetector/)
-
-<small><i>[top](#table-of-contents)</i></small>
-
-### [Field Training Facility (FTF)](https://curseforge.com/kerbal/ksp-mods/FieldTrainingFacility)
-
-<details>
-  <summary> Click arrow to see Hero Image</summary>
-  <p><img src="https://raw.githubusercontent.com/zer0Kerbal/FieldTrainingFacility/master/img/HeroLogo_1920x1920.png" alt="FieldTrainingFacility Hero" width="45%" height="45%"></p>
-</details>
-
-[![Current Version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/FieldTrainingFacility/master/json/mod.json)](https://www.curseforge.com/kerbal/ksp-mods/FieldTrainingFacility) ![release](https://img.shields.io/github/release-date/zer0kerbal/FieldTrainingFacility?style=plastic) ![License](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/FieldTrainingFacility/master/json/license.json) [![Pages][SHD:pgs]](https://zer0kerbal.github.io/FieldTrainingFacility/)
-
-<small><i>[top](#table-of-contents)</i></small>
-
-### [Field Training Lab (FTL)](https://curseforge.com/kerbal/ksp-mods/FieldTrainingLab)
-
-<details>
-  <summary> Click arrow to see Hero Image</summary>
-  <p><img src="https://raw.githubusercontent.com/zer0Kerbal/FieldTrainingLab/master/img/HeroLogo_1920x1920.png" alt="FieldTrainingLab Hero" width="45%" height="45%"></p>
-</details>
-
-[![Current Version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/FieldTrainingLab/master/json/mod.json)](https://www.curseforge.com/kerbal/ksp-mods/FieldTrainingLab) ![release](https://img.shields.io/github/release-date/zer0kerbal/FieldTrainingLab?style=plastic) ![License](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/FieldTrainingLab/master/json/license.json) [![Pages][SHD:pgs]](https://zer0kerbal.github.io/FieldTrainingLab/)
-
-<small><i>[top](#table-of-contents)</i></small>
-
-### [Gimbal Trim (TRIM)](https://curseforge.com/kerbal/ksp-mods/GimbalTrim)
-
-<details>
-  <summary> Click arrow to see Hero Image</summary>
-  <p><img src="https://raw.githubusercontent.com/zer0Kerbal/GimbalTrim/master/img/HeroLogo.png" alt="GimbalTrim Hero" width="45%" height="45%"></p>
-</details>
-
-[![Current Version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/GimbalTrim/master/json/mod.json)](https://www.curseforge.com/kerbal/ksp-mods/GimbalTrim) ![release](https://img.shields.io/github/release-date/zer0kerbal/GimbalTrim?style=plastic) ![License](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/GimbalTrim/master/json/license.json) [![Pages][SHD:pgs]](https://zer0kerbal.github.io/GimbalTrim/)
-
-<small><i>[top](#table-of-contents)</i></small>
-
-### [GPO (Goo Pumps & Oils') Speed Pump (GPO)](https://curseforge.com/kerbal/ksp-mods/GPOSpeedPump)
-
-<details>
-  <summary> Click arrow to see Hero Image</summary>
-  <p><img src="https://raw.githubusercontent.com/zer0Kerbal/GPOSpeedPump/master/img/HeroLogo_1920x1920.png" alt="GPOSpeedPump Hero" width="45%" height="45%"></p>
-</details>
-
-[![Current Version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/GPOSpeedPump/master/json/mod.json)](https://www.curseforge.com/kerbal/ksp-mods/GPOSpeedPump) ![release](https://img.shields.io/github/release-date/zer0kerbal/GPOSpeedPump?style=plastic) ![License](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/GPOSpeedPump/master/json/license.json) [![Pages][SHD:pgs]](https://zer0kerbal.github.io/GPOSpeedPump/)
-
-<small><i>[top](#table-of-contents)</i></small>
-
-### [Kaboom! (BOOM)](https://curseforge.com/kerbal/ksp-mods/Kaboom)
-
-<details>
-  <summary> Click arrow to see Hero Image</summary>
-  <p><img src="https://raw.githubusercontent.com/zer0Kerbal/Kaboom/master/img/HeroLogo_1920x1920.png" alt="Kaboom Hero" width="45%" height="45%"></p>
-</details>
-
-[![Current Version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/Kaboom/master/json/mod.json)](https://www.curseforge.com/kerbal/ksp-mods/Kaboom) ![release](https://img.shields.io/github/release-date/zer0kerbal/Kaboom?style=plastic) ![License](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/Kaboom/master/json/license.json) [![Pages][SHD:pgs]](https://zer0kerbal.github.io/Kaboom/)
-
-<small><i>[top](#table-of-contents)</i></small>
-
-### [MoarKerbals (MOAR)](https://curseforge.com/kerbal/ksp-mods/MoarKerbals)
-
-<details>
-  <summary> Click arrow to see Hero Image</summary>
-  <p><img src="https://raw.githubusercontent.com/zer0Kerbal/MoarKerbals/master/img/HeroLogo_1920x1920.png" alt="MoarKerbals Hero" width="45%" height="45%"></p>
-</details>
-
-[![Current Version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/MoarKerbals/master/json/mod.json)](https://www.curseforge.com/kerbal/ksp-mods/MoarKerbals) ![release](https://img.shields.io/github/release-date/zer0kerbal/MoarKerbals?style=plastic) ![License](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/MoarKerbals/master/json/license.json) [![Pages][SHD:pgs]](https://zer0kerbal.github.io/MoarKerbals/)
-
-<small><i>[top](#table-of-contents)</i></small>
-
-### [Near Future Rovers (NFR)](https://curseforge.com/kerbal/ksp-mods/NearFutureRovers)
-
-<details>
-  <summary> Click arrow to see Hero Image</summary>
-  <p><img src="https://raw.githubusercontent.com/zer0Kerbal/NearFutureRovers/master/img/HeroLogo_1920x1920.png" alt="NearFutureRovers Hero" width="45%" height="45%"></p>
-</details>
-
-[![Current Version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/NearFutureRovers/master/json/mod.json)](https://www.curseforge.com/kerbal/ksp-mods/NearFutureRovers) ![release](https://img.shields.io/github/release-date/zer0kerbal/NearFutureRovers?style=plastic) ![License](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/NearFutureRovers/master/json/license.json) [![Pages][SHD:pgs]](https://zer0kerbal.github.io/NearFutureRovers/)
-
-<small><i>[top](#table-of-contents)</i></small>
-
-### [OhScrap! (OHS)](https://curseforge.com/kerbal/ksp-mods/OhScrap)
-
-<details>
-  <summary> Click arrow to see Hero Image</summary>
-  <p><img src="https://raw.githubusercontent.com/zer0Kerbal/OhScrap/master/img/HeroLogo_1920x1920.png" alt="OhScrap Hero" width="45%" height="45%"></p>
-</details>
-
-[![Current Version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/OhScrap/master/json/mod.json)](https://www.curseforge.com/kerbal/ksp-mods/OhScrap) ![release](https://img.shields.io/github/release-date/zer0kerbal/OhScrap?style=plastic) ![License](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/OhScrap/master/json/license.json) [![Pages][SHD:pgs]](https://zer0kerbal.github.io/OhScrap/)
-
-<small><i>[top](#table-of-contents)</i></small>
-
-### [On Demand Fuel Cells (ODFC)](https://curseforge.com/kerbal/ksp-mods/OnDemandFuelCells)
-
-<details>
-  <summary> Click arrow to see Hero Image</summary>
-  <p><img src="https://raw.githubusercontent.com/zer0Kerbal/OnDemandFuelCells/master/img/HeroLogo_1920x1920.png" alt="OnDemandFuelCells Hero" width="45%" height="45%"></p>
-</details>
-
-[![Current Version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/OnDemandFuelCells/master/json/mod.json)](https://www.curseforge.com/kerbal/ksp-mods/OnDemandFuelCells) ![release](https://img.shields.io/github/release-date/zer0kerbal/OnDemandFuelCells?style=plastic) ![License](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/OnDemandFuelCells/master/json/license.json) [![Pages][SHD:pgs]](https://zer0kerbal.github.io/OnDemandFuelCells/)
-
-<small><i>[top](#table-of-contents)</i></small>
-
-### [Precise Maneuver (PM)](https://curseforge.com/kerbal/ksp-mods/PreciseManeuver)
-
-[![Current Version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/PreciseManeuver/master/json/mod.json)](https://www.curseforge.com/kerbal/ksp-mods/PreciseManeuver) ![release](https://img.shields.io/github/release-date/zer0kerbal/PreciseManeuver?style=plastic) ![License](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/PreciseManeuver/master/json/license.json) [![Pages][SHD:pgs]](https://zer0kerbal.github.io/PreciseManeuver/)
-
-<details>
-  <summary> Click arrow to see Hero Image</summary>
-  <p><img src="https://raw.githubusercontent.com/zer0Kerbal/PreciseManeuver/master/img/HeroLogo_1920x1920.png" alt="PreciseManeuver Hero" width="45%" height="45%"></p>
-</details>
-
-<small><i>[top](#table-of-contents)</i></small>
-
-### [Pteron (MSRV)](https://curseforge.com/kerbal/Pteron)
-
-[![Current Version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/Pteron/master/json/mod.json)](https://www.curseforge.com/kerbal/ksp-mods/Pteron) ![release](https://img.shields.io/github/release-date/zer0kerbal/Pteron?style=plastic) ![License](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/Pteron/master/json/license.json) [![Pages][SHD:pgs]](https://zer0kerbal.github.io/Pteron/)
-
-<details>
-  <summary> Click arrow to see Hero Image</summary>
-  <p><img src="https://raw.githubusercontent.com/zer0Kerbal/Pteron/master/img/HeroLogo_1920x1920.png" alt="Pteron Hero" width="45%" height="45%"></p>
-</details>
-
-<small><i>[top](#table-of-contents)</i></small>
-
-### [ScrapYard (SCRAP)](https://curseforge.com/kerbal/ksp-mods/ScrapYard)
-
-[![Current Version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/ScrapYard/master/json/mod.json)](https://www.curseforge.com/kerbal/ksp-mods/ScrapYard) ![release](https://img.shields.io/github/release-date/zer0kerbal/ScrapYard?style=plastic) ![License](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/ScrapYard/master/json/license.json) [![Pages][SHD:pgs]](https://zer0kerbal.github.io/ScrapYard/)
-
-<details>
-  <summary> Click arrow to see Hero Image</summary>
-  <p><img src="https://raw.githubusercontent.com/zer0Kerbal/ScrapYard/master/img/HeroLogo_1920x1920.png" alt="ScrapYard Hero" width="45%" height="45%"></p>
-</details>
-
-<small><i>[top](#table-of-contents)</i></small>
-
-### [SimpleConstruction! (SCON)](https://curseforge.com/kerbal/ksp-mods/SimpleConstruction)
-
-[![Current Version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/SimpleConstruction/master/json/mod.json)](https://www.curseforge.com/kerbal/ksp-mods/SimpleConstruction) ![release](https://img.shields.io/github/release-date/zer0kerbal/SimpleConstruction?style=plastic) ![License](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/SimpleConstruction/master/json/license.json) [![Pages][SHD:pgs]](https://zer0kerbal.github.io/SimpleConstruction/)
-
-<details>
-  <summary> Click arrow to see Hero Image</summary>
-  <p><img src="https://raw.githubusercontent.com/zer0Kerbal/SimpleConstruction/master/img/HeroLogo_1920x1920.png" alt="SimpleConstruction Hero" width="45%" height="45%"></p>
-</details>
-
-
-<small><i>[top](#table-of-contents)</i></small>
-
-#### [Keridian Dynamics Vessel Assembly (KDVA)](https://curseforge.com/kerbal/ksp-mods/KeridianDynamics) <i><small>lots of stockalike parts</i></small>
-
-[![Current Version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/KeridianDynamics/master/json/mod.json)](https://www.curseforge.com/kerbal/ksp-mods/KeridianDynamics) ![release](https://img.shields.io/github/release-date/zer0kerbal/KeridianDynamics?style=plastic) ![License](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/KeridianDynamics/master/json/license.json) [![Pages][SHD:pgs]](https://zer0kerbal.github.io/KeridianDynamics/)
-
-<details>
-  <summary> Click arrow to see Hero Image</summary>
-  <p><img src="https://raw.githubusercontent.com/zer0Kerbal/KeridianDynamics/master/img/HeroLogo_1920x1920.png" alt="KeridianDynamics Hero" width="45%" height="45%"></p>
-</details>
-
-<small><i>[top](#table-of-contents)</i></small>
-
-#### [Not So SimpleConstructon! (NSSC)](https://curseforge.com/kerbal/ksp-mods/NotSoSimpleConstructon) <i><small>adds recyling and surveying</i></small>
-
-[![Current Version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/NotSoSimpleConstruction/master/json/mod.json)](https://www.curseforge.com/kerbal/ksp-mods/NotSoSimpleConstruction) ![release](https://img.shields.io/github/release-date/zer0kerbal/NotSoSimpleConstruction?style=plastic) ![License](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/NotSoSimpleConstruction/master/json/license.json) [![Pages][SHD:pgs]](https://zer0kerbal.github.io/NotSoSimpleConstruction/)
-
-<details>
-  <summary> Click arrow to see Hero Image</summary>
-  <p><img src="https://raw.githubusercontent.com/zer0Kerbal/NotSoSimpleConstruction/master/img/HeroLogo_1920x1920.png" alt="NotSoSimpleConstruction Hero" width="45%" height="45%"></p>
-</details>
-
-<small><i>[top](#table-of-contents)</i></small>
-
-### [SimpleLife! (LIFE)](https://curseforge.com/kerbal/ksp-mods/SimpleLife)
-
-[![Current Version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/SimpleLife/master/json/mod.json)](https://www.curseforge.com/kerbal/ksp-mods/SimpleLife) ![release](https://img.shields.io/github/release-date/zer0kerbal/SimpleLife?style=plastic) ![License](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/SimpleLife/master/json/license.json) [![Pages][SHD:pgs]](https://zer0kerbal.github.io/SimpleLife/)
-
-<details>
-  <summary> Click arrow to see Hero Image</summary>
-  <p><img src="https://raw.githubusercontent.com/zer0Kerbal/SimpleLife/master/img/HeroLogo_1920x1920.png" alt="SimpleLife Hero" width="45%" height="45%"></p>
-</details>
-
-<small><i>[top](#table-of-contents)</i></small>
-
-### [SimpleLogistics! (SLOG)](https://curseforge.com/kerbal/ksp-mods/SimpleLogistics)
-
-[![Current Version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/SimpleLogistics/master/json/mod.json)](https://www.curseforge.com/kerbal/ksp-mods/SimpleLogistics) ![release](https://img.shields.io/github/release-date/zer0kerbal/SimpleLogistics?style=plastic) ![License](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/SimpleLogistics/master/json/license.json) [![Pages][SHD:pgs]](https://zer0kerbal.github.io/SimpleLogistics/)
-
-<details>
-  <summary> Click arrow to see Hero Image</summary>
-  <p><img src="https://raw.githubusercontent.com/zer0Kerbal/SimpleLogistics/master/img/HeroLogo_1920x1920.png" alt="SimpleLogistics Hero" width="45%" height="45%"></p>
-</details>
-
-<small><i>[top](#table-of-contents)</i></small>
-
-### [SimpleNotes! (NOTE)](https://curseforge.com/kerbal/ksp-mods/Notes)
-
-[![Current Version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/Notes/master/json/mod.json)](https://www.curseforge.com/kerbal/ksp-mods/Notes) ![release](https://img.shields.io/github/release-date/zer0kerbal/Notes?style=plastic) ![License](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/Notes/master/json/license.json) [![Pages][SHD:pgs]](https://zer0kerbal.github.io/Notes/)
-
-<details>
-  <summary> Click arrow to see Hero Image</summary>
-  <p><img src="https://raw.githubusercontent.com/zer0Kerbal/Notes/master/img/HeroLogo_1920x1920.png" alt="Notes Hero" width="45%" height="45%"></p>
-
-<small><i>[top](#table-of-contents)</i></small>
-
-### [Stack Inline Lights (SIL)](https://curseforge.com/kerbal/ksp-mods/StackInlineLights)
-
-[![Current Version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/StackInlineLights/master/json/mod.json)](https://www.curseforge.com/kerbal/ksp-mods/StackInlineLights) ![release](https://img.shields.io/github/release-date/zer0kerbal/StackInlineLights?style=plastic) ![License](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/StackInlineLights/master/json/license.json) [![Pages][SHD:pgs]](https://zer0kerbal.github.io/StackInlineLights/)
-
-<details>
-  <summary> Click arrow to see Hero Image</summary>
-  <p><img src="https://raw.githubusercontent.com/zer0Kerbal/StackInlineLights/master/img/HeroLogo_1920x1920.png" alt="StackInlineLights Hero" width="45%" height="45%"></p>
-</details>
-
-<small><i>[top](#table-of-contents)</i></small>
-
-### [Foundations (FND)](https://curseforge.com/kerbal/ksp-mods/Foundations) <small><i>Helps prevent ground constructions from floating away</i></small>
-
-[![Current Version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/Foundations/master/json/mod.json)](https://www.curseforge.com/kerbal/ksp-mods/Foundations) ![release](https://img.shields.io/github/release-date/zer0kerbal/Foundations?style=plastic) ![License](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/Foundations/master/json/license.json) [![Pages][SHD:pgs]](https://zer0kerbal.github.io/Foundations/)
-
-<details>
-  <summary> Click arrow to see Hero Image</summary>
-  <p><img src="https://raw.githubusercontent.com/zer0Kerbal/Foundations/master/img/HeroLogo_1920x1920.png" alt="Foundations Hero" width="45%" height="45%"></p>
-</details>
-
-<small><i>[top](#table-of-contents)</i></small>
-
-</div>
-<div style="background-color: lightgrey; width:50%; height: 500px; float:left;">
 
 ## Science!
 
@@ -492,7 +172,7 @@ aka `zed'K™`
 
 <details>
   <summary> Click arrow to see Hero Image</summary>
-  <p><img src="https://raw.githubusercontent.com/zer0Kerbal/MiniSampleReturnCapsule/master/img/HeroLogo_1920x1920.png" alt="MiniSampleReturnCapsule Hero" width="45%" height="45%"></p>
+  <p><img src="https://raw.githubusercontent.com/zer0Kerbal/MiniSampleReturnCapsule/master/img/HeroLogo.png" alt="MiniSampleReturnCapsule Hero" width="45%" height="45%"></p>
 </details>
 
 <small><i>[top](#table-of-contents)</i></small>
@@ -1384,8 +1064,6 @@ A Custom Barn Kit config addon that increases Kerbal Space Center buildings to t
 
 * [![Current Version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/Kerturn/master/json/mod.json)](https://www.curseforge.com/kerbal/ksp-mods/Kerturn) ![release](https://img.shields.io/github/release-date/zer0kerbal/HotBeveragesIrradiated?style=plastic) ![License](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/Kerturn/master/json/license.json) [![Pages][SHD:pgs]](https://zer0kerbal.github.io/Kerturn/)  
 <small><i>[top](#table-of-contents)</i></small>
-
-</div>
 
 THIS FILE: CC BY-ND 4.0 by [zer0Kerbal][zedK]
   used with express permission from [zer0Kerbal][zedK]
