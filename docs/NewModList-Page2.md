@@ -179,51 +179,57 @@ aka `zed'K™`
 
 ### [Mkerb Science Instruments](https://curseforge.com/kerbal/ksp-mods/ScienceInstruments)
 
+[![Current Version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/ScienceInstruments/master/json/mod.json)](https://www.curseforge.com/kerbal/ksp-mods/ScienceInstruments) ![release](https://img.shields.io/github/release-date/zer0kerbal/ScienceInstruments?style=plastic) ![License](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/ScienceInstruments/master/json/license.json) [![Pages][SHD:pgs]](https://zer0kerbal.github.io/ScienceInstruments/)
+
 <details>
   <summary> Click arrow to see Hero Image</summary>
   <p><img src="https://raw.githubusercontent.com/zer0Kerbal/ScienceInstruments/master/img/HeroLogo_1920x1920.png" alt="ScienceInstruments Hero" width="45%" height="45%"></p>
 </details>
 
-[![Current Version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/ScienceInstruments/master/json/mod.json)](https://www.curseforge.com/kerbal/ksp-mods/ScienceInstruments) ![release](https://img.shields.io/github/release-date/zer0kerbal/ScienceInstruments?style=plastic) ![License](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/ScienceInstruments/master/json/license.json) [![Pages][SHD:pgs]](https://zer0kerbal.github.io/ScienceInstruments/)
-
 <small><i>[top](#table-of-contents)</i></small>
 
 ### [OScience Laboratories (OSL)](https://curseforge.com/kerbal/ksp-mods/OScienceLaboratories)
+
+[![Current Version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/OScienceLaboratories/master/json/mod.json)](https://www.curseforge.com/kerbal/ksp-mods/OScienceLaboratories) ![release](https://img.shields.io/github/release-date/zer0kerbal/OScienceLaboratories?style=plastic) ![License](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/OScienceLaboratories/master/json/license.json) [![Pages][SHD:pgs]](https://zer0kerbal.github.io/OScienceLaboratories/)
 
 <details>
   <summary> Click arrow to see Hero Image</summary>
   <p><img src="https://raw.githubusercontent.com/zer0Kerbal/OScienceLaboratories/master/img/HeroLogo_1920x1920.png" alt="OScienceLaboratories Hero" width="45%" height="45%"></p>
 </details>
 
-[![Current Version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/OScienceLaboratories/master/json/mod.json)](https://www.curseforge.com/kerbal/ksp-mods/OScienceLaboratories) ![release](https://img.shields.io/github/release-date/zer0kerbal/OScienceLaboratories?style=plastic) ![License](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/OScienceLaboratories/master/json/license.json) [![Pages][SHD:pgs]](https://zer0kerbal.github.io/OScienceLaboratories/)
-
 <small><i>[top](#table-of-contents)</i></small>
 
 ### [Papa Kerballini's Pizza (PIZZA)](https://curseforge.com/kerbal/ksp-mods/Pizza)
+
+[![Current Version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/PapaKerballinisPizza/master/json/mod.json)](https://www.curseforge.com/kerbal/ksp-mods/PapaKerballinisPizza) ![release](https://img.shields.io/github/release-date/zer0kerbal/PapaKerballinisPizza?style=plastic) ![License](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/PapaKerballinisPizza/master/json/license.json) [![Pages][SHD:pgs]](https://zer0kerbal.github.io/PapaKerballinisPizza/)
 
 <details>
   <summary> Click arrow to see Hero Image</summary>
   <p><img src="https://raw.githubusercontent.com/zer0Kerbal/PapaKerballinisPizza/master/img/HeroLogo_1920x1920.png" alt="PapaKerballinisPizza Hero" width="45%" height="45%"></p>
 </details>
 
-[![Current Version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/PapaKerballinisPizza/master/json/mod.json)](https://www.curseforge.com/kerbal/ksp-mods/PapaKerballinisPizza) ![release](https://img.shields.io/github/release-date/zer0kerbal/PapaKerballinisPizza?style=plastic) ![License](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/PapaKerballinisPizza/master/json/license.json) [![Pages][SHD:pgs]](https://zer0kerbal.github.io/PapaKerballinisPizza/)
-
 <small><i>[top](#table-of-contents)</i></small>
 
 #### [Solar Science (SOL)](https://curseforge.com/kerbal/ksp-mods/SolarScience)
+
+[![Current Version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/SolarScience/master/json/mod.json)](https://www.curseforge.com/kerbal/ksp-mods/SolarScience) ![release](https://img.shields.io/github/release-date/zer0kerbal/SolarScience?style=plastic) ![License](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/SolarScience/master/json/license.json) [![Pages][SHD:pgs]](https://zer0kerbal.github.io/SolarScience/)
 
 <details>
   <summary> Click arrow to see Hero Image</summary>
   <p><img src="https://raw.githubusercontent.com/zer0Kerbal/SolarScience/master/img/HeroLogo_1920x1920.png" alt="SolarScience Hero" width="45%" height="45%"></p>
 </details>
 
-[![Current Version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/SolarScience/master/json/mod.json)](https://www.curseforge.com/kerbal/ksp-mods/SolarScience) ![release](https://img.shields.io/github/release-date/zer0kerbal/SolarScience?style=plastic) ![License](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/SolarScience/master/json/license.json) [![Pages][SHD:pgs]](https://zer0kerbal.github.io/SolarScience/)
-
 <small><i>[top](#table-of-contents)</i></small>
 
 ---
 
 ## by [Axial Aerospace](https://curseforge.com/kerbal/ksp-mods/AxialAerospaceLtd)
+
+[![Current Version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/AxialAerospaceLtd/master/json/mod.json)](https://www.curseforge.com/kerbal/ksp-mods/AxialAerospaceLtd) ![release](https://img.shields.io/github/release-date/zer0kerbal/AxialAerospaceLtd?style=plastic) ![License](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/AxialAerospaceLtd/master/json/license.json) [![Pages][SHD:pgs]](https://zer0kerbal.github.io/AxialAerospaceLtd/)
+
+<details>
+  <summary> Click arrow to see Hero Image</summary>
+  <p><img src="https://raw.githubusercontent.com/zer0Kerbal/AxialAerospaceLtd/master/img/HeroLogo_1920x1920.png" alt="AxialAerospaceLtd Hero" width="45%" height="45%"></p>
 
 <small><i>[top](#table-of-contents)</i></small>
 
