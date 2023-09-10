@@ -225,23 +225,33 @@ aka `zed'K™`
 
 ## by [Axial Aerospace](https://curseforge.com/kerbal/ksp-mods/AxialAerospaceLtd)
 
-[![Current Version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/AxialAerospaceLtd/master/json/mod.json)](https://www.curseforge.com/kerbal/ksp-mods/AxialAerospaceLtd) ![release](https://img.shields.io/github/release-date/zer0kerbal/AxialAerospaceLtd?style=plastic) ![License](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/AxialAerospaceLtd/master/json/license.json) [![Pages][SHD:pgs]](https://zer0kerbal.github.io/AxialAerospaceLtd/)
-
 <details>
   <summary> Click arrow to see Hero Image</summary>
   <p><img src="https://raw.githubusercontent.com/zer0Kerbal/AxialAerospaceLtd/master/img/HeroLogo_1920x1920.png" alt="AxialAerospaceLtd Hero" width="45%" height="45%"></p>
+</details>
+
+[![Current Version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/AxialAerospaceLtd/master/json/mod.json)](https://www.curseforge.com/kerbal/ksp-mods/AxialAerospaceLtd) ![release](https://img.shields.io/github/release-date/zer0kerbal/AxialAerospaceLtd?style=plastic) ![License](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/AxialAerospaceLtd/master/json/license.json) [![Pages][SHD:pgs]](https://zer0kerbal.github.io/AxialAerospaceLtd/)
 
 <small><i>[top](#table-of-contents)</i></small>
 
-### [Dreamer (DREAM)](https://curseforge.com/kerbal/ksp-mods/SimpleCargoSolutions)
+### [Dreamer (DREAM)](https://curseforge.com/kerbal/ksp-mods/Dreamer)
+
+Vertical launch spaceplane
+
+<details>
+  <summary> Click arrow to see Hero Image</summary>
+  <p><img src="https://raw.githubusercontent.com/zer0Kerbal/Dreamer/master/img/HeroLogo_1920x1920.png" alt="Dreamer Hero" width="45%" height="45%"></p>
+</details>
+
+[![Current Version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/Dreamer/master/json/mod.json)](https://www.curseforge.com/kerbal/ksp-mods/Dreamer) ![release](https://img.shields.io/github/release-date/zer0kerbal/Dreamer?style=plastic) ![License](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/Dreamer/master/json/license.json) [![Pages][SHD:pgs]](https://zer0kerbal.github.io/Dreamer/)
 
 <small><i>[top](#table-of-contents)</i></small>
 
-### [LanderTek (LTK)](https://curseforge.com/kerbal/ksp-mods/Dreamer)
+### [LanderTek (LTK)](https://curseforge.com/kerbal/ksp-mods/LanderTek)
 
 <small><i>[top](#table-of-contents)</i></small>
 
-### [Simple Cargo Solutions (CARGO)](https://curseforge.com/kerbal/ksp-mods/LanderTek)
+### [Simple Cargo Solutions (CARGO)](https://curseforge.com/kerbal/ksp-mods/SimpleCargoSolutions)
 
 <small><i>[top](#table-of-contents)</i></small>
 
