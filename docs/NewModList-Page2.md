@@ -318,11 +318,11 @@ lander parts, large chutes/legs/ladders/etc
 
 Agent, flags, and common files for SpaceY Corporation products
 
+
 [![Current Version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/SpaceYCorp/master/json/mod.json)](https://www.curseforge.com/kerbal/ksp-mods/SpaceYCorp) ![release](https://img.shields.io/github/release-date/zer0kerbal/SpaceYCorp?style=plastic) ![License](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/SpaceYCorp/master/json/license.json) [![Pages][SHD:pgs]](https://zer0kerbal.github.io/SpaceYCorp/)
 
 <details>
   <summary> Click arrow to see Hero Image</summary>
-  <p><img src="https://raw.githubusercontent.com/zer0Kerbal/SpaceYCorp/master/img/HeroLogo.png" alt="SpaceYCorp Hero" width="45%" height="45%"></p>
   <p><img src="https://raw.githubusercontent.com/zer0Kerbal/SpaceYCorp/master/img/HeroLogo.png" alt="SpaceYCorp Hero" width="45%" height="45%"></p>
 </details>
 
@@ -330,13 +330,16 @@ Agent, flags, and common files for SpaceY Corporation products
 
 ---
 
-#### [SpaceY Lifters (SYL)](https://curseforge.com/kerbal/ksp-mods/SpaceYLifters) 
+#### [SpaceY Lifters (SYL)](https://curseforge.com/kerbal/ksp-mods/SpaceYLifters)
 
 stock-balanced large rocket parts, 5m parts, large SRBs
 
 [![Current Version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/SpaceYLifters/master/json/mod.json)](https://www.curseforge.com/kerbal/ksp-mods/SpaceYLifters) ![release](https://img.shields.io/github/release-date/zer0kerbal/SpaceYLifters?style=plastic) ![License](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/SpaceYLifters/master/json/license.json) [![Pages][SHD:pgs]](https://zer0kerbal.github.io/SpaceYLifters/)
 
-<img src="https://raw.githubusercontent.com/zer0Kerbal/SpaceYLifters/master/img/HeroLogo.png" alt="SpaceYLifters Hero" width="45%" height="45%">
+<details>
+  <summary> Click arrow to see Hero Image</summary>
+  <p><img src="https://raw.githubusercontent.com/zer0Kerbal/SpaceYLifters/master/img/HeroLogo.png" alt="SpaceYLifters Hero" width="45%" height="45%"></p>
+</details>
 
 <small><i>[top](#table-of-contents)</i></small>
 
