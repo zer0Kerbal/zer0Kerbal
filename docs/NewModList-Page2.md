@@ -347,9 +347,14 @@ stock-balanced large rocket parts, 5m parts, large SRBs
 
 #### [SpaceY Expanded (SYX)](https://curseforge.com/kerbal/ksp-mods/SpaceYExpanded)
 
+An expansion pack for the SpaceY Lifters (SYL) parts addon which adds 7.5m parts, plus additional engines, accessories, and other parts that go beyond the original stated purpose of SpaceY Heavy Lifters. **Requires both SpaceY Corp (SYC) and SpaceY Lifters (SYL).
+
 [![Current Version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/SpaceYExpanded/master/json/mod.json)](https://www.curseforge.com/kerbal/ksp-mods/SpaceYExpanded) ![release](https://img.shields.io/github/release-date/zer0kerbal/SpaceYExpanded?style=plastic) ![License](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/SpaceYExpanded/master/json/license.json) [![Pages][SHD:pgs]](https://zer0kerbal.github.io/SpaceYExpanded/)
 
-<img src="https://raw.githubusercontent.com/zer0Kerbal/SpaceYExpanded/master/img/HeroLogo.png" alt="SpaceYExpanded Hero" width="45%" height="45%">
+<details>
+  <summary> Click arrow to see Hero Image</summary>
+  <p><img src="https://raw.githubusercontent.com/zer0Kerbal/SpaceYExpanded/master/img/HeroLogo_1920x1920.png" alt="SpaceYExpanded Hero" width="45%" height="45%"></p>
+</details>
 
 <small><i>[top](#table-of-contents)</i></small>
 
