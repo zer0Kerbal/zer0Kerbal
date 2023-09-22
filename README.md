@@ -61,7 +61,7 @@
 2. 🗣 Commented on [#103](https://github.com/zer0Kerbal/MiniSampleReturnCapsule/issues/103#issuecomment-1678343789) in [zer0Kerbal/MiniSampleReturnCapsule](https://github.com/zer0Kerbal/MiniSampleReturnCapsule)
 3. 🗣 Commented on [#31](https://github.com/zer0Kerbal/PiratesoftheKeribbean/issues/31#issuecomment-1676628989) in [zer0Kerbal/PiratesoftheKeribbean](https://github.com/zer0Kerbal/PiratesoftheKeribbean)
 4. 🗣 Commented on [#31](https://github.com/zer0Kerbal/PiratesoftheKeribbean/issues/31#issuecomment-1676627112) in [zer0Kerbal/PiratesoftheKeribbean](https://github.com/zer0Kerbal/PiratesoftheKeribbean)
-5. 🔒 Reopened issue [#45](https://github.com/zer0Kerbal/CargoBays/issues/45) in [zer0Kerbal/CargoBays](https://github.com/zer0Kerbal/CargoBays)
+5. 🔓 Reopened issue [#45](https://github.com/zer0Kerbal/CargoBays/issues/45) in [zer0Kerbal/CargoBays](https://github.com/zer0Kerbal/CargoBays)
 6. 🗣 Commented on [#25](https://github.com/zer0Kerbal/Antennas/issues/25#issuecomment-1668835709) in [zer0Kerbal/Antennas](https://github.com/zer0Kerbal/Antennas)
 7. 🎉 Merged PR [#35](https://github.com/zer0Kerbal/Antennas/pull/35) in [zer0Kerbal/Antennas](https://github.com/zer0Kerbal/Antennas)
 8. 🗣 Commented on [#13](https://github.com/zer0Kerbal/Antennas/issues/13#issuecomment-1668498899) in [zer0Kerbal/Antennas](https://github.com/zer0Kerbal/Antennas)
