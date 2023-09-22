@@ -401,12 +401,12 @@ color-selectable fuel lines
 ---
 
 ### [Modular Rocket Systems (MRS)](https://curseforge.com/kerbal/ksp-mods/ModularRocketSystems)
-
-stock-alike parts pack, NASA-like alternatives, and filling the gaps
-
 [![Current Version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/ModularRocketSystems/master/json/mod.json)](https://www.curseforge.com/kerbal/ksp-mods/ModularRocketSystems) ![release](https://img.shields.io/github/release-date/zer0kerbal/ModularRocketSystems?style=plastic) ![License](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/ModularRocketSystems/master/json/license.json) [![Pages][SHD:pgs]](https://zer0kerbal.github.io/ModularRocketSystems/)
 
-<img src="https://raw.githubusercontent.com/zer0Kerbal/ModularRocketSystems/master/img/HeroLogo.png" alt="ModularRocketSystems Hero" width="45%" height="45%">
+<details>
+  <summary> Click arrow to see Hero Image</summary>
+  <p><img src="https://raw.githubusercontent.com/zer0Kerbal/ModularRocketSystems/master/img/HeroLogo.png" alt="ModularRocketSystems Hero" width="45%" height="45%"></p>
+</details>
 
 <small><i>[top](#table-of-contents)</i></small>
 
