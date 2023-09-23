@@ -42,7 +42,7 @@ aka `zed'K™`
    4. [ColorFuel Lines (CFL)](#colorfuel-lines-cfl)
    5. [Joolian Discovery (JOOL)](#joolian-discovery-jool)
    6. [Modular Rocket Systems (MRS)](#modular-rocket-systems-mrs)
-   7. [Modular Rocket Systems LITE (MRSL)](#modular-rocket-systems-lite-mrsl)
+   7. [Modular Rocket Systems LITE (MRSL)   ](#modular-rocket-systems-lite-mrsl---)
    8. [SeaDragon (SEA)](#seadragon-sea)
    9. [The Burger Mod (BURG)](#the-burger-mod-burg)
    10. [The Elephant Engine (ELEP)](#the-elephant-engine-elep)
@@ -412,11 +412,12 @@ color-selectable fuel lines
 
 ---
 
-### [Modular Rocket Systems LITE (MRSL)](https://curseforge.com/kerbal/ksp-mods/ModularRocketSystemsLite)
+### [Modular Rocket Systems LITE (MRSL)](https://curseforge.com/kerbal/ksp-mods/ModularRocketSystemsLite)[![Current Version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/ModularRocketSystemsLite/master/json/mod.json)](https://www.curseforge.com/kerbal/ksp-mods/ModularRocketSystemsLite) ![release](https://img.shields.io/github/release-date/zer0kerbal/ModularRocketSystemsLite?style=plastic) ![License](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/ModularRocketSystemsLite/master/json/license.json) [![Pages][SHD:pgs]](https://zer0kerbal.github.io/ModularRocketSystemsLite/)
 
-[![Current Version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/ModularRocketSystemsLite/master/json/mod.json)](https://www.curseforge.com/kerbal/ksp-mods/ModularRocketSystemsLite) ![release](https://img.shields.io/github/release-date/zer0kerbal/ModularRocketSystemsLite?style=plastic) ![License](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/ModularRocketSystemsLite/master/json/license.json) [![Pages][SHD:pgs]](https://zer0kerbal.github.io/ModularRocketSystemsLite/)
-
-<img src="https://raw.githubusercontent.com/zer0Kerbal/ModularRocketSystemsLite/master/img/HeroLogo.png" alt="ModularRocketSystemsLite Hero" width="45%" height="45%">
+<details>
+  <summary> Click arrow to see Hero Image</summary>
+  <p><img src="https://raw.githubusercontent.com/zer0Kerbal/ModularRocketSystemsLite/master/img/HeroLogo.png" alt="ModularRocketSystemsLite Hero" width="45%" height="45%"></p>
+</details>
 
 <small><i>[top](#table-of-contents)</i></small>
 
