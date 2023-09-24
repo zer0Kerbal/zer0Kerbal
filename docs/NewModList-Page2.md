@@ -43,7 +43,7 @@ aka `zed'K™`
    5. [Joolian Discovery (JOOL)](#joolian-discovery-jool)
    6. [Modular Rocket Systems (MRS)](#modular-rocket-systems-mrs)
    7. [Modular Rocket Systems LITE (MRSL)   ](#modular-rocket-systems-lite-mrsl---)
-   8. [SeaDragon (SEA)](#seadragon-sea)
+   8. [SeaDragon (SEA)   ](#seadragon-sea---)
    9. [The Burger Mod (BURG)](#the-burger-mod-burg)
    10. [The Elephant Engine (ELEP)](#the-elephant-engine-elep)
    11. [Fuel Tanks Plus Ltd (FTPL)](#fuel-tanks-plus-ltd-ftpl)
@@ -423,11 +423,11 @@ color-selectable fuel lines
 
 ---
 
-### [SeaDragon (SEA)](https://curseforge.com/kerbal/ksp-mods/SeaDragon)
+### [SeaDragon (SEA)](https://curseforge.com/kerbal/ksp-mods/SeaDragon)[![Current Version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/SeaDragon/master/json/mod.json)](https://www.curseforge.com/kerbal/ksp-mods/SeaDragon) ![release](https://img.shields.io/github/release-date/zer0kerbal/SeaDragon?style=plastic) ![License](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/SeaDragon/master/json/license.json) [![Pages][SHD:pgs]](https://zer0kerbal.github.io/SeaDragon/)
 
-[![Current Version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/SeaDragon/master/json/mod.json)](https://www.curseforge.com/kerbal/ksp-mods/SeaDragon) ![release](https://img.shields.io/github/release-date/zer0kerbal/SeaDragon?style=plastic) ![License](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/SeaDragon/master/json/license.json) [![Pages][SHD:pgs]](https://zer0kerbal.github.io/SeaDragon/)
-
-<img src="https://raw.githubusercontent.com/zer0Kerbal/SeaDragon/master/img/HeroLogo.png" alt="SeaDragon Hero" width="45%" height="45%">
+<details>
+  <summary> Click arrow to see Hero Image</summary>
+  <p><img src="https://raw.githubusercontent.com/zer0Kerbal/SeaDragon/master/img/HeroLogo.png" alt="SeaDragon Hero" width="45%" height="45%"></p>
 
 <small><i>[top](#table-of-contents)</i></small>
 
