@@ -44,7 +44,7 @@ aka `zed'K™`
    6. [Modular Rocket Systems (MRS)](#modular-rocket-systems-mrs)
    7. [Modular Rocket Systems LITE (MRSL)   ](#modular-rocket-systems-lite-mrsl---)
    8. [SeaDragon (SEA)   ](#seadragon-sea---)
-   9. [The Burger Mod (BURG)](#the-burger-mod-burg)
+   9. [The Burger Mod (BURG)   ](#the-burger-mod-burg---)
    10. [The Elephant Engine (ELEP)](#the-elephant-engine-elep)
    11. [Fuel Tanks Plus Ltd (FTPL)](#fuel-tanks-plus-ltd-ftpl)
        1. [Fuel Tanks Plus (FTP)](#fuel-tanks-plus-ftp)
@@ -433,11 +433,12 @@ color-selectable fuel lines
 
 ---
 
-### [The Burger Mod (BURG)](https://curseforge.com/kerbal/ksp-mods/BurgerMod)
+### [The Burger Mod (BURG)](https://curseforge.com/kerbal/ksp-mods/BurgerMod)[![Current Version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/BurgerMod/master/json/mod.json)](https://www.curseforge.com/kerbal/ksp-mods/BurgerMod) ![release](https://img.shields.io/github/release-date/zer0kerbal/BurgerMod?style=plastic) ![License](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/BurgerMod/master/json/license.json) [![Pages][SHD:pgs]](https://zer0kerbal.github.io/BurgerMod/)
 
-[![Current Version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/BurgerMod/master/json/mod.json)](https://www.curseforge.com/kerbal/ksp-mods/BurgerMod) ![release](https://img.shields.io/github/release-date/zer0kerbal/BurgerMod?style=plastic) ![License](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/BurgerMod/master/json/license.json) [![Pages][SHD:pgs]](https://zer0kerbal.github.io/BurgerMod/)
-
-<img src="https://raw.githubusercontent.com/zer0Kerbal/BurgerMod/master/img/HeroLogo.png" alt="BurgerMod Hero" width="45%" height="45%">
+<details>
+  <summary> Click arrow to see Hero Image</summary>
+  <p><img src="https://raw.githubusercontent.com/zer0Kerbal/BurgerMod/master/img/HeroLogo.png" alt="BurgerMod Hero" width="45%" height="45%"></p>
+</details>
 
 <small><i>[top](#table-of-contents)</i></small>
 
