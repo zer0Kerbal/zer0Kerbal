@@ -46,7 +46,7 @@ aka `zed'K™`
    8. [SeaDragon (SEA)   ](#seadragon-sea---)
    9. [The Burger Mod (BURG)   ](#the-burger-mod-burg---)
    10. [The Elephant Engine (ELEP)   ](#the-elephant-engine-elep---)
-   11. [Fuel Tanks Plus Ltd (FTPL)](#fuel-tanks-plus-ltd-ftpl)
+   11. [Fuel Tanks Plus Ltd (FTPL)   ](#fuel-tanks-plus-ltd-ftpl---)
        1. [Fuel Tanks Plus (FTP)](#fuel-tanks-plus-ftp)
        2. [Fuel Tanks Plus Xtra Kerbal (FTPXK)](#fuel-tanks-plus-xtra-kerbal-ftpxk)
        3. [Fuel Tanks Plus IS (FTPIS)](#fuel-tanks-plus-is-ftpis)
@@ -454,15 +454,12 @@ color-selectable fuel lines
 
 ---
 
-### [Fuel Tanks Plus Ltd (FTPL)](https://curseforge.com/kerbal/ksp-mods/FTPLtd)
+### [Fuel Tanks Plus Ltd (FTPL)](https://curseforge.com/kerbal/ksp-mods/FTPLtd)[![Current Version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/FTPLtd/master/json/mod.json)](https://www.curseforge.com/kerbal/ksp-mods/FTPLtd) ![release](https://img.shields.io/github/release-date/zer0kerbal/FTPLtd?style=plastic) ![License](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/FTPLtd/master/json/license.json) [![Pages][SHD:pgs]](https://zer0kerbal.github.io/FTPLtd/)
 
-The collection of large stock-like tanks with Color Coded Canister style.
-
-Agent, flags and common files for Fuel Tanks Plus Ltd
-
-[![Current Version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/FTPLtd/master/json/mod.json)](https://www.curseforge.com/kerbal/ksp-mods/FTPLtd) ![release](https://img.shields.io/github/release-date/zer0kerbal/FTPLtd?style=plastic) ![License](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/FTPLtd/master/json/license.json) [![Pages][SHD:pgs]](https://zer0kerbal.github.io/FTPLtd/)
-
-<img src="https://raw.githubusercontent.com/zer0Kerbal/FTPLtd/master/img/HeroLogo.png" alt="FTPLtd Hero" width="45%" height="45%">
+<details>
+  <summary> Click arrow to see Hero Image</summary>
+  <p><img src="https://raw.githubusercontent.com/zer0Kerbal/FTPLtd/master/img/HeroLogo.png" alt="FTPLtd Hero" width="45%" height="45%"></p>
+</details>
 
 <small><i>[top](#table-of-contents)</i></small>
 
