@@ -47,7 +47,7 @@ aka `zed'K™`
    9. [The Burger Mod (BURG)   ](#the-burger-mod-burg---)
    10. [The Elephant Engine (ELEP)   ](#the-elephant-engine-elep---)
    11. [Fuel Tanks Plus Ltd (FTPL)   ](#fuel-tanks-plus-ltd-ftpl---)
-       1. [Fuel Tanks Plus (FTP)](#fuel-tanks-plus-ftp)
+       1. [Fuel Tanks Plus (FTP)   ](#fuel-tanks-plus-ftp---)
        2. [Fuel Tanks Plus Xtra Kerbal (FTPXK)](#fuel-tanks-plus-xtra-kerbal-ftpxk)
        3. [Fuel Tanks Plus IS (FTPIS)](#fuel-tanks-plus-is-ftpis)
 6. [Moho HVAC (HVAC)](#moho-hvac-hvac)
@@ -463,11 +463,12 @@ color-selectable fuel lines
 
 <small><i>[top](#table-of-contents)</i></small>
 
-#### [Fuel Tanks Plus (FTP)](https://curseforge.com/kerbal/ksp-mods/FuelTanksPlus)
+#### [Fuel Tanks Plus (FTP)](https://curseforge.com/kerbal/ksp-mods/FuelTanksPlus)[![Current Version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/FuelTanksPlus/master/json/mod.json)](https://www.curseforge.com/kerbal/ksp-mods/FuelTanksPlus) ![release](https://img.shields.io/github/release-date/zer0kerbal/FuelTanksPlus?style=plastic) ![License](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/FuelTanksPlus/master/json/license.json) [![Pages][SHD:pgs]](https://zer0kerbal.github.io/FuelTanksPlus/)
 
-[![Current Version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/FuelTanksPlus/master/json/mod.json)](https://www.curseforge.com/kerbal/ksp-mods/FuelTanksPlus) ![release](https://img.shields.io/github/release-date/zer0kerbal/FuelTanksPlus?style=plastic) ![License](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/FuelTanksPlus/master/json/license.json) [![Pages][SHD:pgs]](https://zer0kerbal.github.io/FuelTanksPlus/)
-
-<img src="https://raw.githubusercontent.com/zer0Kerbal/FuelTanksPlus/master/img/HeroLogo.png" alt="FuelTanksPlus Hero" width="45%" height="45%">
+<details>
+  <summary> Click arrow to see Hero Image</summary>
+  <p><img src="https://raw.githubusercontent.com/zer0Kerbal/FuelTanksPlus/master/img/HeroLogo.png" alt="FuelTanksPlus Hero" width="45%" height="45%"></p>
+</details>
 
 <small><i>[top](#table-of-contents)</i></small>
 
