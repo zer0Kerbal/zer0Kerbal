@@ -546,6 +546,13 @@ color-selectable fuel lines
 
 by [Enceos](https://forum.kerbalspaceprogram.com/index.php?/profile/110725-*/)
 
+[![Current Version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/kerbalhacksltd/master/json/mod.json)](https://www.curseforge.com/kerbal/ksp-mods/kerbalhacksltd) ![release](https://img.shields.io/github/release-date/zer0kerbal/kerbalhacksltd?style=plastic) ![License](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/kerbalhacksltd/master/json/license.json) [![Pages][SHD:pgs]](https://zer0kerbal.github.io/kerbalhacksltd/)
+
+<details>
+  <summary> Click arrow to see Hero Image</summary>
+  <p><img src="https://raw.githubusercontent.com/zer0Kerbal/kerbalhacksltd/master/img/HeroLogo.png" alt="kerbalhacksltd Hero" width="45%" height="45%"></p>
+</details>
+
 <small><i>[top](#table-of-contents)</i></small>
 
 ### [Animated Station Screens (ASS)](https://forum.kerbalspaceprogram.com/index.php?/topic/134889-*/)
