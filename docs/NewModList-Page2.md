@@ -578,7 +578,10 @@ by [Enceos](https://forum.kerbalspaceprogram.com/index.php?/profile/110725-*/)
 
 [![Current Version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/DropTanksIII/master/json/mod.json)](https://www.curseforge.com/kerbal/ksp-mods/DropTanksIII) ![release](https://img.shields.io/github/release-date/zer0kerbal/DropTanksIII?style=plastic) ![License](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/DropTanksIII/master/json/license.json) [![Pages][SHD:pgs]](https://zer0kerbal.github.io/DropTanksIII/)
 
-<img src="https://raw.githubusercontent.com/zer0Kerbal/DropTanksIII/master/img/HeroLogo.png" alt="DropTanksIII Hero" width="45%" height="45%">
+<details>
+  <summary> Click arrow to see Hero Image</summary>
+  <p><img src="https://raw.githubusercontent.com/zer0Kerbal/DropTanksIII/master/img/HeroLogo.png" alt="DropTanksIII Hero" width="45%" height="45%"></p>
+</details>
 
 <small><i>[top](#table-of-contents)</i></small>
 
