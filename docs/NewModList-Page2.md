@@ -677,7 +677,10 @@ Agent, flags and common files
 
 [![Current Version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/WhimChaser/master/json/mod.json)](https://www.curseforge.com/kerbal/ksp-mods/WhimChaser) ![release](https://img.shields.io/github/release-date/zer0kerbal/WhimChaser?style=plastic) ![License](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/WhimChaser/master/json/license.json) [![Pages][SHD:pgs]](https://zer0kerbal.github.io/WhimChaser/)
 
-<img src="https://raw.githubusercontent.com/zer0Kerbal/WhimChaser/master/img/HeroLogo.png" alt="WhimChaser Hero" width="45%" height="45%">
+<details>
+  <summary> Click arrow to see Hero Image</summary>
+  <p><img src="https://raw.githubusercontent.com/zer0Kerbal/WhimChaser/master/img/HeroLogo.png" alt="WhimChaser Hero" width="45%" height="45%"></p>
+</details>
 
 <small><i>[top](#table-of-contents)</i></small>
 
