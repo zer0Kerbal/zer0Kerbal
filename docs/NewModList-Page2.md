@@ -692,6 +692,13 @@ Agent, flags and common files
 
 ### [NohArk's Pick'n'Pull (PNP)](https://curseforge.com/kerbal/ksp-mods/PicknPull)
 
+[![Current Version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/PicknPull/master/json/mod.json)](https://www.curseforge.com/kerbal/ksp-mods/PicknPull) ![release](https://img.shields.io/github/release-date/zer0kerbal/PicknPull?style=plastic) ![License](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/PicknPull/master/json/license.json) [![Pages][SHD:pgs]](https://zer0kerbal.github.io/PicknPull/)
+
+<details>
+  <summary> Click arrow to see Hero Image</summary>
+  <p><img src="https://raw.githubusercontent.com/zer0Kerbal/PicknPull/master/img/HeroLogo.png" alt="PicknPull Hero" width="45%" height="45%"></p>
+</details>
+
 ### [Cluster O'Lanterns (COL)](https://curseforge.com/kerbal/ksp-mods/ClusterOLantern)
   <!-- #### [Dr. Kermanassus Part Emporium (DKPE)](https://curseforge.com/kerbal/ksp-mods/DrKermanassusPartEmporium) -->
   <!-- #### [Orbital Utility Vehicle (OUV)](https://curseforge.com/kerbal/ksp-mods/OrbitalUtilityVehicle) -->
