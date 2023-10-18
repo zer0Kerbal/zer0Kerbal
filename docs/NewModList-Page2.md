@@ -699,7 +699,19 @@ Agent, flags and common files
   <p><img src="https://raw.githubusercontent.com/zer0Kerbal/PicknPull/master/img/HeroLogo.png" alt="PicknPull Hero" width="45%" height="45%"></p>
 </details>
 
+<small><i>[top](#table-of-contents)</i></small>
+
 ### [Cluster O'Lanterns (COL)](https://curseforge.com/kerbal/ksp-mods/ClusterOLantern)
+
+[![Current Version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/ClusterOLantern/master/json/mod.json)](https://www.curseforge.com/kerbal/ksp-mods/ClusterOLantern) ![release](https://img.shields.io/github/release-date/zer0kerbal/ClusterOLantern?style=plastic) ![License](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/ClusterOLantern/master/json/license.json) [![Pages][SHD:pgs]](https://zer0kerbal.github.io/ClusterOLantern/)
+
+<details>
+  <summary> Click arrow to see Hero Image</summary>
+  <p><img src="https://raw.githubusercontent.com/zer0Kerbal/ClusterOLantern/master/img/HeroLogo.png" alt="ClusterOLantern Hero" width="45%" height="45%"></p>
+</details>
+
+<small><i>[top](#table-of-contents)</i></small>
+
   <!-- #### [Dr. Kermanassus Part Emporium (DKPE)](https://curseforge.com/kerbal/ksp-mods/DrKermanassusPartEmporium) -->
   <!-- #### [Orbital Utility Vehicle (OUV)](https://curseforge.com/kerbal/ksp-mods/OrbitalUtilityVehicle) -->
 
