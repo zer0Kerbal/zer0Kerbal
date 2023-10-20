@@ -728,7 +728,14 @@ Agent, flags and common files
 
 ### [Transparent Command Pods (TCP)](https://curseforge.com/kerbal/ksp-mods/TransparentCommandPods)
 
----
+[![Current Version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/TransparentCommandPods/master/json/mod.json)](https://www.curseforge.com/kerbal/ksp-mods/TransparentCommandPods) ![release](https://img.shields.io/github/release-date/zer0kerbal/TransparentCommandPods?style=plastic) ![License](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/TransparentCommandPods/master/json/license.json) [![Pages][SHD:pgs]](https://zer0kerbal.github.io/TransparentCommandPods/)
+
+<details>
+  <summary> Click arrow to see Hero Image</summary>
+  <p><img src="https://raw.githubusercontent.com/zer0Kerbal/TransparentCommandPods/master/img/HeroLogo_1920x1920.png" alt="TransparentCommandPods Hero" width="45%" height="45%"></p>
+</details>
+
+<small><i>[top](#table-of-contents)</i></small>
 
 ## by [LazTek Dev (LTD)](https://curseforge.com/kerbal/ksp-mods/LazTekDev)
 
