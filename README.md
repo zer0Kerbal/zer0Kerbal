@@ -57,16 +57,16 @@
 #### :octocat: GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#55](https://github.com/zer0Kerbal/Proton/pull/55) in [zer0Kerbal/Proton](https://github.com/zer0Kerbal/Proton)
-2. 🗣 Commented on [#20](https://github.com/zer0Kerbal/Proton/issues/20#issuecomment-1773950819) in [zer0Kerbal/Proton](https://github.com/zer0Kerbal/Proton)
-3. 🗣 Commented on [#31](https://github.com/zer0Kerbal/PiratesoftheKeribbean/issues/31#issuecomment-1676628989) in [zer0Kerbal/PiratesoftheKeribbean](https://github.com/zer0Kerbal/PiratesoftheKeribbean)
-4. 🗣 Commented on [#31](https://github.com/zer0Kerbal/PiratesoftheKeribbean/issues/31#issuecomment-1676627112) in [zer0Kerbal/PiratesoftheKeribbean](https://github.com/zer0Kerbal/PiratesoftheKeribbean)
-5. 🔓 Reopened issue [#45](https://github.com/zer0Kerbal/CargoBays/issues/45) in [zer0Kerbal/CargoBays](https://github.com/zer0Kerbal/CargoBays)
-6. 🗣 Commented on [#25](https://github.com/zer0Kerbal/Antennas/issues/25#issuecomment-1668835709) in [zer0Kerbal/Antennas](https://github.com/zer0Kerbal/Antennas)
-7. 🎉 Merged PR [#35](https://github.com/zer0Kerbal/Antennas/pull/35) in [zer0Kerbal/Antennas](https://github.com/zer0Kerbal/Antennas)
-8. 🗣 Commented on [#13](https://github.com/zer0Kerbal/Antennas/issues/13#issuecomment-1668498899) in [zer0Kerbal/Antennas](https://github.com/zer0Kerbal/Antennas)
-9. ❗ Opened issue [#36](https://github.com/zer0Kerbal/Antennas/issues/36) in [zer0Kerbal/Antennas](https://github.com/zer0Kerbal/Antennas)
-10. ❗ Opened issue [#64](https://github.com/zer0Kerbal/ScienceInstruments/issues/64) in [zer0Kerbal/ScienceInstruments](https://github.com/zer0Kerbal/ScienceInstruments)
+1. ❗ Opened issue [#58](https://github.com/zer0Kerbal/Proton/issues/58) in [zer0Kerbal/Proton](https://github.com/zer0Kerbal/Proton)
+2. ❗ Opened issue [#57](https://github.com/zer0Kerbal/Proton/issues/57) in [zer0Kerbal/Proton](https://github.com/zer0Kerbal/Proton)
+3. 🚀 Published release [Version 3.9.99.3-prerelease - `<Merci vijay-varadarajan>` edition](https://github.com/zer0Kerbal/Proton/releases/tag/3.9.99.3-prerelease) in [zer0Kerbal/Proton](https://github.com/zer0Kerbal/Proton)
+4. 🔒 Closed issue [#51](https://github.com/zer0Kerbal/Proton/issues/51) in [zer0Kerbal/Proton](https://github.com/zer0Kerbal/Proton)
+5. 🔒 Closed issue [#52](https://github.com/zer0Kerbal/Proton/issues/52) in [zer0Kerbal/Proton](https://github.com/zer0Kerbal/Proton)
+6. 🔒 Closed issue [#20](https://github.com/zer0Kerbal/Proton/issues/20) in [zer0Kerbal/Proton](https://github.com/zer0Kerbal/Proton)
+7. 🎉 Merged PR [#56](https://github.com/zer0Kerbal/Proton/pull/56) in [zer0Kerbal/Proton](https://github.com/zer0Kerbal/Proton)
+8. 💪 Opened PR [#56](https://github.com/zer0Kerbal/Proton/pull/56) in [zer0Kerbal/Proton](https://github.com/zer0Kerbal/Proton)
+9. 🎉 Merged PR [#55](https://github.com/zer0Kerbal/Proton/pull/55) in [zer0Kerbal/Proton](https://github.com/zer0Kerbal/Proton)
+10. 🗣 Commented on [#20](https://github.com/zer0Kerbal/Proton/issues/20#issuecomment-1773950819) in [zer0Kerbal/Proton](https://github.com/zer0Kerbal/Proton)
 <!--END_SECTION:activity-->
 
 #### 📺 Latest YouTube Videos
