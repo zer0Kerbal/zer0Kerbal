@@ -57,8 +57,8 @@
 #### :octocat: GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#45](https://github.com/zer0Kerbal/CargoBays/issues/45#issuecomment-1678350108) in [zer0Kerbal/CargoBays](https://github.com/zer0Kerbal/CargoBays)
-2. 🗣 Commented on [#103](https://github.com/zer0Kerbal/MiniSampleReturnCapsule/issues/103#issuecomment-1678343789) in [zer0Kerbal/MiniSampleReturnCapsule](https://github.com/zer0Kerbal/MiniSampleReturnCapsule)
+1. 🎉 Merged PR [#55](https://github.com/zer0Kerbal/Proton/pull/55) in [zer0Kerbal/Proton](https://github.com/zer0Kerbal/Proton)
+2. 🗣 Commented on [#20](https://github.com/zer0Kerbal/Proton/issues/20#issuecomment-1773950819) in [zer0Kerbal/Proton](https://github.com/zer0Kerbal/Proton)
 3. 🗣 Commented on [#31](https://github.com/zer0Kerbal/PiratesoftheKeribbean/issues/31#issuecomment-1676628989) in [zer0Kerbal/PiratesoftheKeribbean](https://github.com/zer0Kerbal/PiratesoftheKeribbean)
 4. 🗣 Commented on [#31](https://github.com/zer0Kerbal/PiratesoftheKeribbean/issues/31#issuecomment-1676627112) in [zer0Kerbal/PiratesoftheKeribbean](https://github.com/zer0Kerbal/PiratesoftheKeribbean)
 5. 🔓 Reopened issue [#45](https://github.com/zer0Kerbal/CargoBays/issues/45) in [zer0Kerbal/CargoBays](https://github.com/zer0Kerbal/CargoBays)
