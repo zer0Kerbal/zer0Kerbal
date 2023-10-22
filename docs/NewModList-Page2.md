@@ -750,8 +750,14 @@ by [Exodus Solis](https://forum.kerbalspaceprogram.com/index.php?/profile/61673-
 
 <small><i>[top](#table-of-contents)</i></small>
 
-
 ### [Colonial Transporter (LCT)](https://curseforge.com/kerbal/ksp-mods/ColonialTransporter)
+
+[![Current Version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/ColonialTransporter/master/json/mod.json)](https://www.curseforge.com/kerbal/ksp-mods/ColonialTransporter) ![release](https://img.shields.io/github/release-date/zer0kerbal/ColonialTransporter?style=plastic) ![License](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/ColonialTransporter/master/json/license.json) [![Pages][SHD:pgs]](https://zer0kerbal.github.io/ColonialTransporter/)
+
+<details>
+  <summary> Click arrow to see Hero Image</summary>
+  <p><img src="https://raw.githubusercontent.com/zer0Kerbal/ColonialTransporter/master/img/HeroLogo.png" alt="ColonialTransporter Hero" width="45%" height="45%"></p>
+</details>
 
 ### [Exploration Expansion (LEE)](https://curseforge.com/kerbal/ksp-mods/ExplorationExpansion)
 
