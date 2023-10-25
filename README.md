@@ -57,16 +57,16 @@
 #### :octocat: GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Version 1.5.0.0-release `<Спасибо TheKyrlukCat>` edition](https://github.com/zer0Kerbal/Antennas/releases/tag/1.5.0.0-release) in [zer0Kerbal/Antennas](https://github.com/zer0Kerbal/Antennas)
-2. 🔒 Closed issue [#30](https://github.com/zer0Kerbal/Antennas/issues/30) in [zer0Kerbal/Antennas](https://github.com/zer0Kerbal/Antennas)
-3. 🔒 Closed issue [#32](https://github.com/zer0Kerbal/Antennas/issues/32) in [zer0Kerbal/Antennas](https://github.com/zer0Kerbal/Antennas)
-4. 🔒 Closed issue [#31](https://github.com/zer0Kerbal/Antennas/issues/31) in [zer0Kerbal/Antennas](https://github.com/zer0Kerbal/Antennas)
-5. 🔒 Closed issue [#29](https://github.com/zer0Kerbal/Antennas/issues/29) in [zer0Kerbal/Antennas](https://github.com/zer0Kerbal/Antennas)
-6. 🔒 Closed issue [#13](https://github.com/zer0Kerbal/Antennas/issues/13) in [zer0Kerbal/Antennas](https://github.com/zer0Kerbal/Antennas)
-7. 🎉 Merged PR [#37](https://github.com/zer0Kerbal/Antennas/pull/37) in [zer0Kerbal/Antennas](https://github.com/zer0Kerbal/Antennas)
-8. 💪 Opened PR [#37](https://github.com/zer0Kerbal/Antennas/pull/37) in [zer0Kerbal/Antennas](https://github.com/zer0Kerbal/Antennas)
-9. 🗣 Commented on [#31](https://github.com/zer0Kerbal/PiratesoftheKeribbean/issues/31#issuecomment-1776466457) in [zer0Kerbal/PiratesoftheKeribbean](https://github.com/zer0Kerbal/PiratesoftheKeribbean)
-10. ❗ Opened issue [#46](https://github.com/zer0Kerbal/PiratesoftheKeribbean/issues/46) in [zer0Kerbal/PiratesoftheKeribbean](https://github.com/zer0Kerbal/PiratesoftheKeribbean)
+1. ❗ Opened issue [#40](https://github.com/zer0Kerbal/Antennas/issues/40) in [zer0Kerbal/Antennas](https://github.com/zer0Kerbal/Antennas)
+2. ❗ Opened issue [#39](https://github.com/zer0Kerbal/Antennas/issues/39) in [zer0Kerbal/Antennas](https://github.com/zer0Kerbal/Antennas)
+3. 🚀 Published release [Version 1.5.0.0-release `<Спасибо TheKyrlukCat>` edition](https://github.com/zer0Kerbal/Antennas/releases/tag/1.5.0.0-release) in [zer0Kerbal/Antennas](https://github.com/zer0Kerbal/Antennas)
+4. 🔒 Closed issue [#30](https://github.com/zer0Kerbal/Antennas/issues/30) in [zer0Kerbal/Antennas](https://github.com/zer0Kerbal/Antennas)
+5. 🔒 Closed issue [#32](https://github.com/zer0Kerbal/Antennas/issues/32) in [zer0Kerbal/Antennas](https://github.com/zer0Kerbal/Antennas)
+6. 🔒 Closed issue [#31](https://github.com/zer0Kerbal/Antennas/issues/31) in [zer0Kerbal/Antennas](https://github.com/zer0Kerbal/Antennas)
+7. 🔒 Closed issue [#29](https://github.com/zer0Kerbal/Antennas/issues/29) in [zer0Kerbal/Antennas](https://github.com/zer0Kerbal/Antennas)
+8. 🔒 Closed issue [#13](https://github.com/zer0Kerbal/Antennas/issues/13) in [zer0Kerbal/Antennas](https://github.com/zer0Kerbal/Antennas)
+9. 🎉 Merged PR [#37](https://github.com/zer0Kerbal/Antennas/pull/37) in [zer0Kerbal/Antennas](https://github.com/zer0Kerbal/Antennas)
+10. 💪 Opened PR [#37](https://github.com/zer0Kerbal/Antennas/pull/37) in [zer0Kerbal/Antennas](https://github.com/zer0Kerbal/Antennas)
 <!--END_SECTION:activity-->
 
 #### 📺 Latest YouTube Videos
