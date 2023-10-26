@@ -141,18 +141,19 @@ aka `zed'K™`
 28. [by Matheo G](#by-matheo-g)
 29. [Rusty Star](#rusty-star)
 30. [Parts](#parts)
-31. [Mini Sample Return Capsule (MSRC)](#mini-sample-return-capsule-msrc-1)
-32. [Addons](#addons)
-33. [On Demand Fuel Cells (ODFC)](#on-demand-fuel-cells-odfc)
-34. [Patches](#patches)
-35. [Komplexity™ (KPLX)](#komplexity-kplx)
-36. [KerbSimpleCo](#kerbsimpleco)
-37. [SimpleConstruction! (SCON!)](#simpleconstruction-scon)
-38. [SimpleLogistics! (SLOG)](#simplelogistics-slog)
-39. [SimpleNotes!](#simplenotes)
-40. [SimpleLife!](#simplelife)
-41. [SimpleSurvival!](#simplesurvival)
-42. [Hot Beverages! Inc! (HOT) Agency](#hot-beverages-inc-hot-agency)
+    1. [Mini Sample Return Capsule (MSRC)](#mini-sample-return-capsule-msrc-1)
+    2. [Antennas (ANTS) "Antennas (ANTS)"](#antennas-ants-antennas-ants)
+31. [Addons](#addons)
+    1. [On Demand Fuel Cells (ODFC)](#on-demand-fuel-cells-odfc)
+32. [Patches](#patches)
+    1. [Komplexity™ (KPLX)](#komplexity-kplx)
+33. [KerbSimpleCo](#kerbsimpleco)
+    1. [SimpleConstruction! (SCON!)](#simpleconstruction-scon)
+    2. [SimpleLogistics! (SLOG)](#simplelogistics-slog)
+    3. [SimpleNotes!](#simplenotes)
+    4. [SimpleLife!](#simplelife)
+    5. [SimpleSurvival!](#simplesurvival)
+34. [Hot Beverages! Inc! (HOT) Agency](#hot-beverages-inc-hot-agency)
     1. [Fuel Cells (FUEL)](#fuel-cells-fuel)
     2. [Sensor Modules (SENS)](#sensor-modules-sens)
     3. [Service Modules (SERV)](#service-modules-serv)
@@ -1133,7 +1134,7 @@ Just when you need that extra oxidizer on your spaceplane...
 
 ## Parts
 
-## [Mini Sample Return Capsule (MSRC)](https://github.com/zer0Kerbal/MiniSampleReturnCapsule "Mini Sample Return Capsule (MSRC")  
+### [Mini Sample Return Capsule (MSRC)](https://github.com/zer0Kerbal/MiniSampleReturnCapsule "Mini Sample Return Capsule (MSRC")  
 
 Two size zero (0.625m) parts that make up an autonomous return capsule to stuff your experiments in for Kerbal Space Program.
 
@@ -1143,9 +1144,25 @@ Two size zero (0.625m) parts that make up an autonomous return capsule to stuff 
 
 <small><i>[top](#table-of-contents)</i></small>
 
+
+### [Antennas (ANTS)](https://github.com/zer0Kerbal/Antennas) "Antennas (ANTS)"
+
+Adds six new antennas that are compatible with both Antenna Range, Remote Tech and Telemachus to Kerbal Space Program.
+
+[![Current Version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/Antennas/master/json/mod.json)](https://www.curseforge.com/kerbal/ksp-mods/Antennas) ![release](https://img.shields.io/github/release-date/zer0kerbal/Antennas?style=plastic) ![License](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/Antennas/master/json/license.json) [![Pages][SHD:pgs]](https://zer0kerbal.github.io/Antennas/)
+
+<details>
+  <summary> Click arrow to see Hero Image</summary>
+  <p><img src="https://raw.githubusercontent.com/zer0Kerbal/Antennas/master/img/HeroLogo_1920x1920.png" alt="Antennas Hero" width="45%" height="45%"></p>
+</details>
+
+<small><i>[top](#table-of-contents)</i></small>
+
+---
+
 ## Addons
 
-## [On Demand Fuel Cells (ODFC)](https://github.com/zer0Kerbal/ODFCr "On Demand Fuel Cells")
+### [On Demand Fuel Cells (ODFC)](https://github.com/zer0Kerbal/ODFCr "On Demand Fuel Cells")
 
 [![Current Version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/OnDemandFuelCells/master/json/mod.json)](https://www.curseforge.com/kerbal/ksp-mods/OnDemandFuelCells) ![release](https://img.shields.io/github/release-date/zer0kerbal/OnDemandFuelCells?style=plastic) ![License](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/OnDemandFuelCells/master/json/license.json) [![Pages][SHD:pgs]](https://zer0kerbal.github.io/OnDemandFuelCells/)
 
@@ -1155,7 +1172,7 @@ Two size zero (0.625m) parts that make up an autonomous return capsule to stuff 
 
 ## Patches
 
-## [Komplexity™ (KPLX)](https://github.com/zer0Kerbal/Komplexity "Komplexity™ (KPLX)")
+### [Komplexity™ (KPLX)](https://github.com/zer0Kerbal/Komplexity "Komplexity™ (KPLX)")
 
 A Custom Barn Kit config addon that increases Kerbal Space Center buildings to ten levels instead of the stock game's four. For Kerbal Space Program. Doesn't add more building models.
 
@@ -1166,7 +1183,7 @@ A Custom Barn Kit config addon that increases Kerbal Space Center buildings to t
 
 ## KerbSimpleCo
 
-## [SimpleConstruction! (SCON!)](https://github.com/zer0Kerbal/SimpleConstruction "SimpleConstruction!™ (SC!)")  
+### [SimpleConstruction! (SCON!)](https://github.com/zer0Kerbal/SimpleConstruction "SimpleConstruction!™ (SC!)")  
 ![](https://img.shields.io/github/v/release/zer0Kerbal/SimpleConstruction?include_prereleases?style=plastic)
 ![](https://github.com/zer0Kerbal/SimpleConstruction/workflows/Validate%20AVC%20.version%20files/badge.svg "AVC-Valid")
 ![](https://img.shields.io/github/repo-size/zer0Kerbal/SimpleConstruction?style=plastic)
@@ -1177,7 +1194,7 @@ A Custom Barn Kit config addon that increases Kerbal Space Center buildings to t
 ![prerelease](https://img.shields.io/github/release-date-pre/zer0kerbal/SimpleConstruction?style=plastic)
 <small><i>[top](#table-of-contents)</i></small>
 
-## [SimpleLogistics! (SLOG)](https://github.com/zer0Kerbal/SimpleLogistics "SimpleLogicists!™ (SL!)")  
+### [SimpleLogistics! (SLOG)](https://github.com/zer0Kerbal/SimpleLogistics "SimpleLogicists!™ (SL!)")  
 ![](https://img.shields.io/github/v/release/zer0Kerbal/SimpleLogistics?include_prereleases?style=plastic)
 ![](https://github.com/zer0Kerbal/SimpleLogistics/workflows/Validate%20AVC%20.version%20files/badge.svg "AVC-Valid")
 ![](https://img.shields.io/github/repo-size/zer0Kerbal/SimpleLogistics?style=plastic)
@@ -1188,15 +1205,15 @@ A Custom Barn Kit config addon that increases Kerbal Space Center buildings to t
 ![prerelease](https://img.shields.io/github/release-date-pre/zer0kerbal/SimpleLogistics?style=plastic)  
 <small><i>[top](#table-of-contents)</i></small>
 
-## SimpleNotes!
+### SimpleNotes!
 
 <small><i>[top](#table-of-contents)</i></small>
 
-## SimpleLife!
+### SimpleLife!
 
 <small><i>[top](#table-of-contents)</i></small>
 
-## SimpleSurvival!
+### SimpleSurvival!
 
 <small><i>[top](#table-of-contents)</i></small>
 
