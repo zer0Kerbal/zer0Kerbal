@@ -1184,14 +1184,14 @@ A Custom Barn Kit config addon that increases Kerbal Space Center buildings to t
 ## KerbSimpleCo
 
 ### [SimpleConstruction! (SCON!)](https://github.com/zer0Kerbal/SimpleConstruction "SimpleConstruction!™ (SC!)")  
-![](https://img.shields.io/github/v/release/zer0Kerbal/SimpleConstruction?include_prereleases?style=plastic)
-![](https://github.com/zer0Kerbal/SimpleConstruction/workflows/Validate%20AVC%20.version%20files/badge.svg "AVC-Valid")
-![](https://img.shields.io/github/repo-size/zer0Kerbal/SimpleConstruction?style=plastic)
-![](https://img.shields.io/github/downloads/zer0Kerbal/SimpleConstruction/total?style=plastic)
-![](http://img.shields.io/github/labels/zer0Kerbal/SimpleConstruction/help-wanted?style=plastic)
-![](https://img.shields.io/github/contributors/SimpleConstruction/Komplexity?style=plastic)  
-![release](https://img.shields.io/github/release-date/zer0kerbal/SimpleConstruction?style=plastic)
-![prerelease](https://img.shields.io/github/release-date-pre/zer0kerbal/SimpleConstruction?style=plastic)
+
+[![Current Version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/SimpleConstruction/master/json/mod.json)](https://www.curseforge.com/kerbal/ksp-mods/SimpleConstruction) ![release](https://img.shields.io/github/release-date/zer0kerbal/SimpleConstruction?style=plastic) ![License](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/SimpleConstruction/master/json/license.json) [![Pages][SHD:pgs]](https://zer0kerbal.github.io/SimpleConstruction/)
+
+<details>
+  <summary> Click arrow to see Hero Image</summary>
+  <p><img src="https://raw.githubusercontent.com/zer0Kerbal/SimpleConstruction/master/img/HeroLogo.png" alt="SimpleConstruction Hero" width="45%" height="45%"></p>
+</details>
+
 <small><i>[top](#table-of-contents)</i></small>
 
 ### [SimpleLogistics! (SLOG)](https://github.com/zer0Kerbal/SimpleLogistics "SimpleLogicists!™ (SL!)")  
