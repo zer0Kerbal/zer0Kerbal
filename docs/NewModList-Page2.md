@@ -1194,15 +1194,15 @@ A Custom Barn Kit config addon that increases Kerbal Space Center buildings to t
 
 <small><i>[top](#table-of-contents)</i></small>
 
-### [SimpleLogistics! (SLOG)](https://github.com/zer0Kerbal/SimpleLogistics "SimpleLogicists!™ (SL!)")  
-![](https://img.shields.io/github/v/release/zer0Kerbal/SimpleLogistics?include_prereleases?style=plastic)
-![](https://github.com/zer0Kerbal/SimpleLogistics/workflows/Validate%20AVC%20.version%20files/badge.svg "AVC-Valid")
-![](https://img.shields.io/github/repo-size/zer0Kerbal/SimpleLogistics?style=plastic)
-![](https://img.shields.io/github/downloads/zer0Kerbal/SimpleLogistics/total?style=plastic)
-![](http://img.shields.io/github/labels/zer0Kerbal/SimpleLogistics/help-wanted?style=plastic)
-![](https://img.shields.io/github/contributors/SimpleLogistics/Komplexity?style=plastic)  
-![release](https://img.shields.io/github/release-date/zer0kerbal/SimpleLogistics?style=plastic)
-![prerelease](https://img.shields.io/github/release-date-pre/zer0kerbal/SimpleLogistics?style=plastic)  
+### [SimpleLogistics! (SLOG)](https://github.com/zer0Kerbal/SimpleLogistics "SimpleLogicists!™ (SL!)")
+
+[![Current Version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/SimpleLogistics/master/json/mod.json)](https://www.curseforge.com/kerbal/ksp-mods/SimpleLogistics) ![release](https://img.shields.io/github/release-date/zer0kerbal/SimpleLogistics?style=plastic) ![License](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/SimpleLogistics/master/json/license.json) [![Pages][SHD:pgs]](https://zer0kerbal.github.io/SimpleLogistics/)
+
+<details>
+  <summary> Click arrow to see Hero Image</summary>
+  <p><img src="https://raw.githubusercontent.com/zer0Kerbal/SimpleLogistics/master/img/HeroLogo_1920x1920.png" alt="SimpleLogistics Hero" width="45%" height="45%"></p>
+</details>
+
 <small><i>[top](#table-of-contents)</i></small>
 
 ### SimpleNotes!
