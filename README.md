@@ -57,16 +57,16 @@
 #### :octocat: GitHub Activity
   
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#40](https://github.com/zer0Kerbal/Antennas/issues/40) in [zer0Kerbal/Antennas](https://github.com/zer0Kerbal/Antennas)
-2. ❗ Opened issue [#39](https://github.com/zer0Kerbal/Antennas/issues/39) in [zer0Kerbal/Antennas](https://github.com/zer0Kerbal/Antennas)
-3. 🚀 Published release [Version 1.5.0.0-release `<Спасибо TheKyrlukCat>` edition](https://github.com/zer0Kerbal/Antennas/releases/tag/1.5.0.0-release) in [zer0Kerbal/Antennas](https://github.com/zer0Kerbal/Antennas)
-4. 🔒 Closed issue [#30](https://github.com/zer0Kerbal/Antennas/issues/30) in [zer0Kerbal/Antennas](https://github.com/zer0Kerbal/Antennas)
-5. 🔒 Closed issue [#32](https://github.com/zer0Kerbal/Antennas/issues/32) in [zer0Kerbal/Antennas](https://github.com/zer0Kerbal/Antennas)
-6. 🔒 Closed issue [#31](https://github.com/zer0Kerbal/Antennas/issues/31) in [zer0Kerbal/Antennas](https://github.com/zer0Kerbal/Antennas)
-7. 🔒 Closed issue [#29](https://github.com/zer0Kerbal/Antennas/issues/29) in [zer0Kerbal/Antennas](https://github.com/zer0Kerbal/Antennas)
-8. 🔒 Closed issue [#13](https://github.com/zer0Kerbal/Antennas/issues/13) in [zer0Kerbal/Antennas](https://github.com/zer0Kerbal/Antennas)
-9. 🎉 Merged PR [#37](https://github.com/zer0Kerbal/Antennas/pull/37) in [zer0Kerbal/Antennas](https://github.com/zer0Kerbal/Antennas)
-10. 💪 Opened PR [#37](https://github.com/zer0Kerbal/Antennas/pull/37) in [zer0Kerbal/Antennas](https://github.com/zer0Kerbal/Antennas)
+1. ❗ Opened issue [#195](https://github.com/zer0Kerbal/SimpleConstruction/issues/195) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
+2. ❗ Opened issue [#194](https://github.com/zer0Kerbal/SimpleConstruction/issues/194) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
+3. 🚀 Published release [Version 4.0.99.35-prerelease `<Xt007: Realistic Progression One>` edition](https://github.com/zer0Kerbal/SimpleConstruction/releases/tag/4.0.99.35-prerelease) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
+4. 🔒 Closed issue [#191](https://github.com/zer0Kerbal/SimpleConstruction/issues/191) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
+5. 🔒 Closed issue [#190](https://github.com/zer0Kerbal/SimpleConstruction/issues/190) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
+6. 🎉 Merged PR [#192](https://github.com/zer0Kerbal/SimpleConstruction/pull/192) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
+7. 💪 Opened PR [#192](https://github.com/zer0Kerbal/SimpleConstruction/pull/192) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
+8. 🗣 Commented on [#24](https://github.com/zer0Kerbal/SimpleConstruction/issues/24#issuecomment-1782212395) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
+9. ❗ Opened issue [#40](https://github.com/zer0Kerbal/Antennas/issues/40) in [zer0Kerbal/Antennas](https://github.com/zer0Kerbal/Antennas)
+10. ❗ Opened issue [#39](https://github.com/zer0Kerbal/Antennas/issues/39) in [zer0Kerbal/Antennas](https://github.com/zer0Kerbal/Antennas)
 <!--END_SECTION:activity-->
 
 #### 📺 Latest YouTube Videos
@@ -85,7 +85,9 @@
 
 #### 📕 Latest Blog Posts
 
-<!-- REDDIT:START --><table><tr><td><a href="https://www.reddit.com/r/u_zer0Kerbal/comments/16xj6gg/hacktoberfest_2023/"><img width="33px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/reddit.png" alt="reddit" height="33px"></a></td>
+<!-- REDDIT:START --><table><tr><td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/17hej07/this_weeks_releases/"><img width="33px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/reddit.png" alt="reddit" height="33px"></a></td>
+<td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/17hej07/this_weeks_releases/">This weeks releases</a><br/>Oct 27, 2023</td></tr></table>
+<table><tr><td><a href="https://www.reddit.com/r/u_zer0Kerbal/comments/16xj6gg/hacktoberfest_2023/"><img width="33px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/reddit.png" alt="reddit" height="33px"></a></td>
 <td><a href="https://www.reddit.com/r/u_zer0Kerbal/comments/16xj6gg/hacktoberfest_2023/">Hacktoberfest 2023</a><br/>Oct 2, 2023</td></tr></table>
 <table><tr><td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/163zeku/what_do_you_think_went_wrong_with_ksp2_to_get_us/jysktmz/"><img width="33px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/reddit.png" alt="reddit" height="33px"></a></td>
 <td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/163zeku/what_do_you_think_went_wrong_with_ksp2_to_get_us/jysktmz/">/u/zer0Kerbal on What do you think went wrong with KSP2 to get us to where we are right now?</a><br/>Sep 2, 2023</td></tr></table>
@@ -93,8 +95,6 @@
 <td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/163zeku/what_do_you_think_went_wrong_with_ksp2_to_get_us/jyskppy/">/u/zer0Kerbal on What do you think went wrong with KSP2 to get us to where we are right now?</a><br/>Sep 2, 2023</td></tr></table>
 <table><tr><td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1622wt8/what_would_be_the_current_price_of_ksp1_source/jxvci5n/"><img width="33px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/reddit.png" alt="reddit" height="33px"></a></td>
 <td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1622wt8/what_would_be_the_current_price_of_ksp1_source/jxvci5n/">/u/zer0Kerbal on What would be the current price of KSP1 source code you think ???</a><br/>Aug 26, 2023</td></tr></table>
-<table><tr><td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/15ic1sh/beep_beep_beep_science_instruments_msi/jutc4qo/"><img width="33px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/reddit.png" alt="reddit" height="33px"></a></td>
-<td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/15ic1sh/beep_beep_beep_science_instruments_msi/jutc4qo/">/u/zer0Kerbal on Beep! Beep! Beep! Science Instruments &lpar;MSI&rpar; 1.2.0.0-release `&lt;Спасибо evanisrael&gt;`</a><br/>Aug 4, 2023</td></tr></table>
 <!-- REDDIT:END -->
 
 <!-- BLOG-POST-LIST:START -->
