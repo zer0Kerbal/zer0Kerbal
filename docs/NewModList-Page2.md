@@ -1207,6 +1207,13 @@ A Custom Barn Kit config addon that increases Kerbal Space Center buildings to t
 
 ### SimpleNotes!
 
+[![Current Version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/SimpleNotes/master/json/mod.json)](https://www.curseforge.com/kerbal/ksp-mods/SimpleNotes) ![release](https://img.shields.io/github/release-date/zer0kerbal/SimpleNotes?style=plastic) ![License](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/SimpleNotes/master/json/license.json) [![Pages][SHD:pgs]](https://zer0kerbal.github.io/SimpleNotes/)
+
+<details>
+  <summary> Click arrow to see Hero Image</summary>
+  <p><img src="https://raw.githubusercontent.com/zer0Kerbal/SimpleNotes/master/img/HeroLogo.png" alt="SimpleNotes Hero" width="45%" height="45%"></p>
+</details>
+
 <small><i>[top](#table-of-contents)</i></small>
 
 ### SimpleLife!
