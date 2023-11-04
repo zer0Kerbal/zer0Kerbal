@@ -1218,6 +1218,13 @@ A Custom Barn Kit config addon that increases Kerbal Space Center buildings to t
 
 ### SimpleLife!
 
+[![Current Version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/SimpleLife/master/json/mod.json)](https://www.curseforge.com/kerbal/ksp-mods/SimpleLife) ![release](https://img.shields.io/github/release-date/zer0kerbal/SimpleLife?style=plastic) ![License](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/SimpleLife/master/json/license.json) [![Pages][SHD:pgs]](https://zer0kerbal.github.io/SimpleLife/)
+
+<details>
+  <summary> Click arrow to see Hero Image</summary>
+  <p><img src="https://raw.githubusercontent.com/zer0Kerbal/SimpleLife/master/img/HeroLogo.png" alt="SimpleLife Hero" width="45%" height="45%"></p>
+</details>
+
 <small><i>[top](#table-of-contents)</i></small>
 
 ### SimpleSurvival!
