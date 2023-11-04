@@ -85,16 +85,16 @@
 
 #### 📕 Latest Blog Posts
 
-<!-- REDDIT:START --><table><tr><td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/17hej07/this_weeks_releases/"><img width="33px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/reddit.png" alt="reddit" height="33px"></a></td>
+<!-- REDDIT:START --><table><tr><td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/17kx85n/updated_for_halloween/"><img width="33px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/reddit.png" alt="reddit" height="33px"></a></td>
+<td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/17kx85n/updated_for_halloween/">Updated for Hallowe&#39;en</a><br/>Oct 31, 2023</td></tr></table>
+<table><tr><td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/14fm5po/could_someone_please_explain_the_ckan_hate/k74hxm4/"><img width="33px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/reddit.png" alt="reddit" height="33px"></a></td>
+<td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/14fm5po/could_someone_please_explain_the_ckan_hate/k74hxm4/">/u/zer0Kerbal on Could someone please explain the CKAN hate?</a><br/>Oct 30, 2023</td></tr></table>
+<table><tr><td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/17hej07/this_weeks_releases/"><img width="33px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/reddit.png" alt="reddit" height="33px"></a></td>
 <td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/17hej07/this_weeks_releases/">This weeks releases</a><br/>Oct 27, 2023</td></tr></table>
 <table><tr><td><a href="https://www.reddit.com/r/u_zer0Kerbal/comments/16xj6gg/hacktoberfest_2023/"><img width="33px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/reddit.png" alt="reddit" height="33px"></a></td>
 <td><a href="https://www.reddit.com/r/u_zer0Kerbal/comments/16xj6gg/hacktoberfest_2023/">Hacktoberfest 2023</a><br/>Oct 2, 2023</td></tr></table>
 <table><tr><td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/163zeku/what_do_you_think_went_wrong_with_ksp2_to_get_us/jysktmz/"><img width="33px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/reddit.png" alt="reddit" height="33px"></a></td>
 <td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/163zeku/what_do_you_think_went_wrong_with_ksp2_to_get_us/jysktmz/">/u/zer0Kerbal on What do you think went wrong with KSP2 to get us to where we are right now?</a><br/>Sep 2, 2023</td></tr></table>
-<table><tr><td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/163zeku/what_do_you_think_went_wrong_with_ksp2_to_get_us/jyskppy/"><img width="33px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/reddit.png" alt="reddit" height="33px"></a></td>
-<td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/163zeku/what_do_you_think_went_wrong_with_ksp2_to_get_us/jyskppy/">/u/zer0Kerbal on What do you think went wrong with KSP2 to get us to where we are right now?</a><br/>Sep 2, 2023</td></tr></table>
-<table><tr><td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1622wt8/what_would_be_the_current_price_of_ksp1_source/jxvci5n/"><img width="33px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/reddit.png" alt="reddit" height="33px"></a></td>
-<td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1622wt8/what_would_be_the_current_price_of_ksp1_source/jxvci5n/">/u/zer0Kerbal on What would be the current price of KSP1 source code you think ???</a><br/>Aug 26, 2023</td></tr></table>
 <!-- REDDIT:END -->
 
 <!-- BLOG-POST-LIST:START -->
