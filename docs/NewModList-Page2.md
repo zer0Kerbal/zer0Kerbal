@@ -808,12 +808,21 @@ by [Exodus Solis](https://forum.kerbalspaceprogram.com/index.php?/profile/61673-
 
 <details>
   <summary> Click arrow to see Hero Image</summary>
-  <p><img src="https://raw.githubusercontent.com/zer0Kerbal/AeroRadial/master/img/HeroLogo_1920x1920.png" alt="AeroRadial Hero" width="45%" height="45%"></p>
+  <p><img src="https://raw.githubusercontent.com/zer0Kerbal/AeroRadial/master/img/HeroLogo.png" alt="AeroRadial Hero" width="45%" height="45%"></p>
 </details>
 
 <small><i>[top](#table-of-contents)</i></small>
 
 ### [DaMichel's CargoBays (DCB)](https://curseforge.com/kerbal/ksp-mods/CargoBays)
+
+[![Current Version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/CargoBays/master/json/mod.json)](https://www.curseforge.com/kerbal/ksp-mods/CargoBays) ![release](https://img.shields.io/github/release-date/zer0kerbal/CargoBays?style=plastic) ![License](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/CargoBays/master/json/license.json) [![Pages][SHD:pgs]](https://zer0kerbal.github.io/CargoBays/)
+
+<details>
+  <summary> Click arrow to see Hero Image</summary>
+  <p><img src="https://raw.githubusercontent.com/zer0Kerbal/CargoBays/master/img/HeroLogo.png" alt="CargoBays Hero" width="45%" height="45%"></p>
+</details>
+
+<small><i>[top](#table-of-contents)</i></small>
 
 ### [DaMichel's Fuselage (DMF)](https://curseforge.com/kerbal/ksp-mods/Fuselage)
 
