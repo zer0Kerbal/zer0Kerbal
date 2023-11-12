@@ -826,6 +826,15 @@ by [Exodus Solis](https://forum.kerbalspaceprogram.com/index.php?/profile/61673-
 
 ### [DaMichel's Fuselage (DMF)](https://curseforge.com/kerbal/ksp-mods/Fuselage)
 
+[![Current Version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/Fuselage/master/json/mod.json)](https://www.curseforge.com/kerbal/ksp-mods/Fuselage) ![release](https://img.shields.io/github/release-date/zer0kerbal/Fuselage?style=plastic) ![License](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/Fuselage/master/json/license.json) [![Pages][SHD:pgs]](https://zer0kerbal.github.io/Fuselage/)
+
+<details>
+  <summary> Click arrow to see Hero Image</summary>
+  <p><img src="https://raw.githubusercontent.com/zer0Kerbal/Fuselage/master/img/HeroLogo_1920x1920.png" alt="Fuselage Hero" width="45%" height="45%"></p>
+</details>
+
+<small><i>[top](#table-of-contents)</i></small>
+
 ### [DaMichel's SphericalTanks(DST)](https://curseforge.com/kerbal/ksp-mods/SphericalTanks)
 
 ---
