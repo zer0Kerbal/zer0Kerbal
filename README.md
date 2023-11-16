@@ -85,16 +85,16 @@
 
 #### 📕 Latest Blog Posts
 
-<!-- REDDIT:START --><table><tr><td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/14swt73/launch_modular_rocket_systems_mrs/k9b4skf/"><img width="33px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/reddit.png" alt="reddit" height="33px"></a></td>
+<!-- REDDIT:START --><table><tr><td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/17w98p7/is_there_a_reason_some_people_are_against_ckan/k9hpbdg/"><img width="33px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/reddit.png" alt="reddit" height="33px"></a></td>
+<td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/17w98p7/is_there_a_reason_some_people_are_against_ckan/k9hpbdg/">/u/zer0Kerbal on Is there a reason some people are against CKAN?</a><br/>Nov 16, 2023</td></tr></table>
+<table><tr><td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/17w98p7/is_there_a_reason_some_people_are_against_ckan/k9hp3ha/"><img width="33px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/reddit.png" alt="reddit" height="33px"></a></td>
+<td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/17w98p7/is_there_a_reason_some_people_are_against_ckan/k9hp3ha/">/u/zer0Kerbal on Is there a reason some people are against CKAN?</a><br/>Nov 16, 2023</td></tr></table>
+<table><tr><td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/17w98p7/is_there_a_reason_some_people_are_against_ckan/k9hn8zi/"><img width="33px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/reddit.png" alt="reddit" height="33px"></a></td>
+<td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/17w98p7/is_there_a_reason_some_people_are_against_ckan/k9hn8zi/">/u/zer0Kerbal on Is there a reason some people are against CKAN?</a><br/>Nov 16, 2023</td></tr></table>
+<table><tr><td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/14swt73/launch_modular_rocket_systems_mrs/k9b4skf/"><img width="33px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/reddit.png" alt="reddit" height="33px"></a></td>
 <td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/14swt73/launch_modular_rocket_systems_mrs/k9b4skf/">/u/zer0Kerbal on Launch! Modular Rocket Systems &lpar;MRS&rpar; - v1.13.99.2-prerelease - `&lt;CСпасибо evanisrael+ngx-ree&gt;` edition</a><br/>Nov 15, 2023</td></tr></table>
 <table><tr><td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/17pqcw0/nasa_with_perseverance_if_they_had_balls/k8brhkt/"><img width="33px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/reddit.png" alt="reddit" height="33px"></a></td>
 <td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/17pqcw0/nasa_with_perseverance_if_they_had_balls/k8brhkt/">/u/zer0Kerbal on NASA with Perseverance if they had balls</a><br/>Nov 8, 2023</td></tr></table>
-<table><tr><td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/17kx85n/updated_for_halloween/"><img width="33px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/reddit.png" alt="reddit" height="33px"></a></td>
-<td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/17kx85n/updated_for_halloween/">Updated for Hallowe&#39;en</a><br/>Oct 31, 2023</td></tr></table>
-<table><tr><td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/14fm5po/could_someone_please_explain_the_ckan_hate/k74hxm4/"><img width="33px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/reddit.png" alt="reddit" height="33px"></a></td>
-<td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/14fm5po/could_someone_please_explain_the_ckan_hate/k74hxm4/">/u/zer0Kerbal on Could someone please explain the CKAN hate?</a><br/>Oct 30, 2023</td></tr></table>
-<table><tr><td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/17hej07/this_weeks_releases/"><img width="33px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/reddit.png" alt="reddit" height="33px"></a></td>
-<td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/17hej07/this_weeks_releases/">This weeks releases</a><br/>Oct 27, 2023</td></tr></table>
 <!-- REDDIT:END -->
 
 <!-- BLOG-POST-LIST:START -->
