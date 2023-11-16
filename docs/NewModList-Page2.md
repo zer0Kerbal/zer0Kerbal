@@ -830,14 +830,21 @@ by [Exodus Solis](https://forum.kerbalspaceprogram.com/index.php?/profile/61673-
 
 <details>
   <summary> Click arrow to see Hero Image</summary>
-  <p><img src="https://raw.githubusercontent.com/zer0Kerbal/Fuselage/master/img/HeroLogo_1920x1920.png" alt="Fuselage Hero" width="45%" height="45%"></p>
+  <p><img src="https://raw.githubusercontent.com/zer0Kerbal/Fuselage/master/img/HeroLogo.png" alt="Fuselage Hero" width="45%" height="45%"></p>
 </details>
 
 <small><i>[top](#table-of-contents)</i></small>
 
 ### [DaMichel's SphericalTanks(DST)](https://curseforge.com/kerbal/ksp-mods/SphericalTanks)
 
----
+[![Current Version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/SphericalTanks/master/json/mod.json)](https://www.curseforge.com/kerbal/ksp-mods/SphericalTanks) ![release](https://img.shields.io/github/release-date/zer0kerbal/SphericalTanks?style=plastic) ![License](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/SphericalTanks/master/json/license.json) [![Pages][SHD:pgs]](https://zer0kerbal.github.io/SphericalTanks/)
+
+<details>
+  <summary> Click arrow to see Hero Image</summary>
+  <p><img src="https://raw.githubusercontent.com/zer0Kerbal/SphericalTanks/master/img/HeroLogo.png" alt="SphericalTanks Hero" width="45%" height="45%"></p>
+</details>
+
+<small><i>[top](#table-of-contents)</i></small>
 
 ## By [Nuke's Unlimited](https://curseforge.com/kerbal/ksp-mods/NukesUnlimited)
 
