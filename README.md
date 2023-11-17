@@ -57,16 +57,16 @@
 #### :octocat: GitHub Activity
   
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#60](https://github.com/zer0Kerbal/Halloween/issues/60) in [zer0Kerbal/Halloween](https://github.com/zer0Kerbal/Halloween)
-2. ❗ Opened issue [#59](https://github.com/zer0Kerbal/Halloween/issues/59) in [zer0Kerbal/Halloween](https://github.com/zer0Kerbal/Halloween)
-3. 🚀 Published release [Version 1.0.1.0-release `<In The Deep Dark Twilight>` edition](https://github.com/zer0Kerbal/Halloween/releases/tag/1.0.1.0-release) in [zer0Kerbal/Halloween](https://github.com/zer0Kerbal/Halloween)
-4. 🔒 Closed issue [#44](https://github.com/zer0Kerbal/Halloween/issues/44) in [zer0Kerbal/Halloween](https://github.com/zer0Kerbal/Halloween)
-5. 🔒 Closed issue [#43](https://github.com/zer0Kerbal/Halloween/issues/43) in [zer0Kerbal/Halloween](https://github.com/zer0Kerbal/Halloween)
-6. 🔒 Closed issue [#42](https://github.com/zer0Kerbal/Halloween/issues/42) in [zer0Kerbal/Halloween](https://github.com/zer0Kerbal/Halloween)
-7. 🔒 Closed issue [#41](https://github.com/zer0Kerbal/Halloween/issues/41) in [zer0Kerbal/Halloween](https://github.com/zer0Kerbal/Halloween)
-8. 🎉 Merged PR [#57](https://github.com/zer0Kerbal/Halloween/pull/57) in [zer0Kerbal/Halloween](https://github.com/zer0Kerbal/Halloween)
-9. 💪 Opened PR [#57](https://github.com/zer0Kerbal/Halloween/pull/57) in [zer0Kerbal/Halloween](https://github.com/zer0Kerbal/Halloween)
-10. 🎉 Merged PR [#54](https://github.com/zer0Kerbal/Halloween/pull/54) in [zer0Kerbal/Halloween](https://github.com/zer0Kerbal/Halloween)
+1. 🗣 Commented on [#29](https://github.com/zer0Kerbal/PiratesoftheKeribbean/issues/29#issuecomment-1807618463) in [zer0Kerbal/PiratesoftheKeribbean](https://github.com/zer0Kerbal/PiratesoftheKeribbean)
+2. ❗ Opened issue [#51](https://github.com/zer0Kerbal/PiratesoftheKeribbean/issues/51) in [zer0Kerbal/PiratesoftheKeribbean](https://github.com/zer0Kerbal/PiratesoftheKeribbean)
+3. ❗ Opened issue [#50](https://github.com/zer0Kerbal/PiratesoftheKeribbean/issues/50) in [zer0Kerbal/PiratesoftheKeribbean](https://github.com/zer0Kerbal/PiratesoftheKeribbean)
+4. 🚀 Published release [Version 0.9.99.2-adoption - `<Bedankt Sjorza>` edition](https://github.com/zer0Kerbal/PiratesoftheKeribbean/releases/tag/0.9.99.2-adoption) in [zer0Kerbal/PiratesoftheKeribbean](https://github.com/zer0Kerbal/PiratesoftheKeribbean)
+5. 🔒 Closed issue [#46](https://github.com/zer0Kerbal/PiratesoftheKeribbean/issues/46) in [zer0Kerbal/PiratesoftheKeribbean](https://github.com/zer0Kerbal/PiratesoftheKeribbean)
+6. 🔒 Closed issue [#45](https://github.com/zer0Kerbal/PiratesoftheKeribbean/issues/45) in [zer0Kerbal/PiratesoftheKeribbean](https://github.com/zer0Kerbal/PiratesoftheKeribbean)
+7. 🔒 Closed issue [#29](https://github.com/zer0Kerbal/PiratesoftheKeribbean/issues/29) in [zer0Kerbal/PiratesoftheKeribbean](https://github.com/zer0Kerbal/PiratesoftheKeribbean)
+8. 🎉 Merged PR [#48](https://github.com/zer0Kerbal/PiratesoftheKeribbean/pull/48) in [zer0Kerbal/PiratesoftheKeribbean](https://github.com/zer0Kerbal/PiratesoftheKeribbean)
+9. 💪 Opened PR [#48](https://github.com/zer0Kerbal/PiratesoftheKeribbean/pull/48) in [zer0Kerbal/PiratesoftheKeribbean](https://github.com/zer0Kerbal/PiratesoftheKeribbean)
+10. 🗣 Commented on [#29](https://github.com/zer0Kerbal/PiratesoftheKeribbean/issues/29#issuecomment-1807287379) in [zer0Kerbal/PiratesoftheKeribbean](https://github.com/zer0Kerbal/PiratesoftheKeribbean)
 <!--END_SECTION:activity-->
 
 #### 📺 Latest YouTube Videos
@@ -85,16 +85,16 @@
 
 #### 📕 Latest Blog Posts
 
-<!-- REDDIT:START --><table><tr><td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/17kx85n/updated_for_halloween/"><img width="33px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/reddit.png" alt="reddit" height="33px"></a></td>
-<td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/17kx85n/updated_for_halloween/">Updated for Hallowe&#39;en</a><br/>Oct 31, 2023</td></tr></table>
-<table><tr><td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/14fm5po/could_someone_please_explain_the_ckan_hate/k74hxm4/"><img width="33px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/reddit.png" alt="reddit" height="33px"></a></td>
-<td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/14fm5po/could_someone_please_explain_the_ckan_hate/k74hxm4/">/u/zer0Kerbal on Could someone please explain the CKAN hate?</a><br/>Oct 30, 2023</td></tr></table>
-<table><tr><td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/17hej07/this_weeks_releases/"><img width="33px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/reddit.png" alt="reddit" height="33px"></a></td>
-<td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/17hej07/this_weeks_releases/">This weeks releases</a><br/>Oct 27, 2023</td></tr></table>
-<table><tr><td><a href="https://www.reddit.com/r/u_zer0Kerbal/comments/16xj6gg/hacktoberfest_2023/"><img width="33px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/reddit.png" alt="reddit" height="33px"></a></td>
-<td><a href="https://www.reddit.com/r/u_zer0Kerbal/comments/16xj6gg/hacktoberfest_2023/">Hacktoberfest 2023</a><br/>Oct 2, 2023</td></tr></table>
-<table><tr><td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/163zeku/what_do_you_think_went_wrong_with_ksp2_to_get_us/jysktmz/"><img width="33px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/reddit.png" alt="reddit" height="33px"></a></td>
-<td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/163zeku/what_do_you_think_went_wrong_with_ksp2_to_get_us/jysktmz/">/u/zer0Kerbal on What do you think went wrong with KSP2 to get us to where we are right now?</a><br/>Sep 2, 2023</td></tr></table>
+<!-- REDDIT:START --><table><tr><td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/17w98p7/is_there_a_reason_some_people_are_against_ckan/k9hup0k/"><img width="33px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/reddit.png" alt="reddit" height="33px"></a></td>
+<td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/17w98p7/is_there_a_reason_some_people_are_against_ckan/k9hup0k/">/u/zer0Kerbal on Is there a reason some people are against CKAN?</a><br/>Nov 16, 2023</td></tr></table>
+<table><tr><td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/17w98p7/is_there_a_reason_some_people_are_against_ckan/k9hs5x7/"><img width="33px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/reddit.png" alt="reddit" height="33px"></a></td>
+<td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/17w98p7/is_there_a_reason_some_people_are_against_ckan/k9hs5x7/">/u/zer0Kerbal on Is there a reason some people are against CKAN?</a><br/>Nov 16, 2023</td></tr></table>
+<table><tr><td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/17w98p7/is_there_a_reason_some_people_are_against_ckan/k9hrdnb/"><img width="33px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/reddit.png" alt="reddit" height="33px"></a></td>
+<td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/17w98p7/is_there_a_reason_some_people_are_against_ckan/k9hrdnb/">/u/zer0Kerbal on Is there a reason some people are against CKAN?</a><br/>Nov 16, 2023</td></tr></table>
+<table><tr><td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/17w98p7/is_there_a_reason_some_people_are_against_ckan/k9hpbdg/"><img width="33px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/reddit.png" alt="reddit" height="33px"></a></td>
+<td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/17w98p7/is_there_a_reason_some_people_are_against_ckan/k9hpbdg/">/u/zer0Kerbal on Is there a reason some people are against CKAN?</a><br/>Nov 16, 2023</td></tr></table>
+<table><tr><td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/17w98p7/is_there_a_reason_some_people_are_against_ckan/k9hp3ha/"><img width="33px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/reddit.png" alt="reddit" height="33px"></a></td>
+<td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/17w98p7/is_there_a_reason_some_people_are_against_ckan/k9hp3ha/">/u/zer0Kerbal on Is there a reason some people are against CKAN?</a><br/>Nov 16, 2023</td></tr></table>
 <!-- REDDIT:END -->
 
 <!-- BLOG-POST-LIST:START -->
