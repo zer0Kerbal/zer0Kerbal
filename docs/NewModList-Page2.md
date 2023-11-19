@@ -880,6 +880,13 @@ By [Nuke](https://curseforge.com/kerbal/ksp-mods/NukesUnlimited)
 
 ### [Nuke's Tiny Experimental (NX)](https://curseforge.com/kerbal/ksp-mods/NukesTinyExperimental)
 
+[![Current Version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/NukesTinyExperimental/master/json/mod.json)](https://www.curseforge.com/kerbal/ksp-mods/NukesTinyExperimental) ![release](https://img.shields.io/github/release-date/zer0kerbal/NukesTinyExperimental?style=plastic) ![License](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/NukesTinyExperimental/master/json/license.json) [![Pages][SHD:pgs]](https://zer0kerbal.github.io/NukesTinyExperimental/)
+
+<details>
+  <summary> Click arrow to see Hero Image</summary>
+  <p><img src="https://raw.githubusercontent.com/zer0Kerbal/NukesTinyExperimental/master/img/HeroLogo.png" alt="NukesTinyExperimental Hero" width="45%" height="45%"></p>
+</details>
+
 <small><i>[top](#table-of-contents)</i></small>
 
 ### [Nuke's Tiny Girders (NtG)](https://curseforge.com/kerbal/ksp-mods/NukesTinyGirders)
