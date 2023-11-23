@@ -972,9 +972,16 @@ Agent, flags, and common files for Coyote Space Industries Ltd products
 
 * by [Kerb Simple Co (KSC)](https://curseforge.com/kerbal/ksp-mods/KerbSimpleCo)
 
-### [More: Hitchhikers (MHH)](https://curseforge.com/kerbal/ksp-mods/morehitchhikers)
+### [More: Hitchhikers (MHH)](https://curseforge.com/kerbal/ksp-mods/MoreHitchhikers)
 
----
+[![Current Version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/MoreHitchhikers/master/json/mod.json)](https://www.curseforge.com/kerbal/ksp-mods/MoreHitchhikers) ![release](https://img.shields.io/github/release-date/zer0kerbal/MoreHitchhikers?style=plastic) ![License](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/MoreHitchhikers/master/json/license.json) [![Pages][SHD:pgs]](https://zer0kerbal.github.io/MoreHitchhikers/)
+
+<details>
+  <summary> Click arrow to see Hero Image</summary>
+  <p><img src="https://raw.githubusercontent.com/zer0Kerbal/MoreHitchhikers/master/img/HeroLogo_1920x1920.png" alt="MoreHitchhikers Hero" width="45%" height="45%"></p>
+</details>
+
+<small><i>[top](#table-of-contents)</i></small>
 
 ## by [V2 Industries (V2IL)](https://curseforge.com/kerbal/ksp-mods/V2Industries)
 
