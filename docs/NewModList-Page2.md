@@ -985,6 +985,13 @@ Agent, flags, and common files for Coyote Space Industries Ltd products
 
 ## by [V2 Industries (V2IL)](https://curseforge.com/kerbal/ksp-mods/V2Industries)
 
+[![Current Version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/V2Industries/master/json/mod.json)](https://www.curseforge.com/kerbal/ksp-mods/V2Industries) ![release](https://img.shields.io/github/release-date/zer0kerbal/V2Industries?style=plastic) ![License](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/V2Industries/master/json/license.json) [![Pages][SHD:pgs]](https://zer0kerbal.github.io/V2Industries/)
+
+<details>
+  <summary> Click arrow to see Hero Image</summary>
+  <p><img src="https://raw.githubusercontent.com/zer0Kerbal/V2Industries/master/img/HeroLogo.png" alt="V2Industries Hero" width="45%" height="45%"></p>
+</details>
+
 <small><i>[top](#table-of-contents)</i></small>
 
 * by [V2 Industries (V2IL)](https://curseforge.com/kerbal/ksp-mods/V2Industries)
