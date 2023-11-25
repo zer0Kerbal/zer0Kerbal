@@ -999,6 +999,15 @@ Agent, flags, and common files for Coyote Space Industries Ltd products
   * [HoneyBadger (HoneyBadger)](https://curseforge.com/kerbal/ksp-mods/HONEYBADGER)
   * [Near Future Rovers (NFR)](https://curseforge.com/kerbal/ksp-mods/NearFutureRovers)
 
+[![Current Version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/NearFutureRovers/master/json/mod.json)](https://www.curseforge.com/kerbal/ksp-mods/NearFutureRovers) ![release](https://img.shields.io/github/release-date/zer0kerbal/NearFutureRovers?style=plastic) ![License](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/NearFutureRovers/master/json/license.json) [![Pages][SHD:pgs]](https://zer0kerbal.github.io/NearFutureRovers/)
+
+<details>
+  <summary> Click arrow to see Hero Image</summary>
+  <p><img src="https://raw.githubusercontent.com/zer0Kerbal/NearFutureRovers/master/img/HeroLogo.png" alt="NearFutureRovers Hero" width="45%" height="45%"></p>
+</details>
+
+<small><i>[top](#table-of-contents)</i></small>
+
 ## By [QuickBASIC](https://forum.kerbalspaceprogram.com/index.php?/profile/148013-*/)
 
 <small><i>[top](#table-of-contents)</i></small>
