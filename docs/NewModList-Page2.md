@@ -1025,6 +1025,14 @@ Agent, flags, and common files for Coyote Space Industries Ltd products
 
 ## [Kerbal Inventory System No Fun (QBNF)](https://curseforge.com/kerbal/ksp-mods/kerbalinventorysystemnofun)
 
+[![Current Version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/kerbalinventorysystemnofun/master/json/mod.json)](https://www.curseforge.com/kerbal/ksp-mods/kerbalinventorysystemnofun) ![release](https://img.shields.io/github/release-date/zer0kerbal/kerbalinventorysystemnofun?style=plastic) ![License](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/kerbalinventorysystemnofun/master/json/license.json) [![Pages][SHD:pgs]](https://zer0kerbal.github.io/
+balinventorysystemnofun/)
+
+<details>
+  <summary> Click arrow to see Hero Image</summary>
+  <p><img src="https://raw.githubusercontent.com/zer0Kerbal/kerbalinventorysystemnofun/master/img/HeroLogo.png" alt="kerbalinventorysystemnofun Hero" width="45%" height="45%"></p>
+</details>
+
 <small><i>[top](#table-of-contents)</i></small>
 
 ## [Monero Flags (QBMF)](https://curseforge.com/kerbal/ksp-mods/moneroflags)
