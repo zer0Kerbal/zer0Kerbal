@@ -1037,6 +1037,13 @@ balinventorysystemnofun/)
 
 ## [Monero Flags (QBMF)](https://curseforge.com/kerbal/ksp-mods/moneroflags)
 
+[![Current Version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/moneroflags/master/json/mod.json)](https://www.curseforge.com/kerbal/ksp-mods/moneroflags) ![release](https://img.shields.io/github/release-date/zer0kerbal/moneroflags?style=plastic) ![License](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/moneroflags/master/json/license.json) [![Pages][SHD:pgs]](https://zer0kerbal.github.io/moneroflags/)
+
+<details>
+  <summary> Click arrow to see Hero Image</summary>
+  <p><img src="https://raw.githubusercontent.com/zer0Kerbal/moneroflags/master/img/HeroLogo.png" alt="moneroflags Hero" width="45%" height="45%"></p>
+</details>
+
 <small><i>[top](#table-of-contents)</i></small>
 
 ## [UniversalStorageStockResourceFuelCell (QBUS)](https://curseforge.com/kerbal/ksp-mods/universalstoragestockresourcefuelcell)
