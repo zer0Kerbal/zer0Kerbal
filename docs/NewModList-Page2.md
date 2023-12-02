@@ -1087,13 +1087,20 @@ balinventorysystemnofun/)
 
 <small><i>[top](#table-of-contents)</i></small>
 
----
-
 ## by [Lunatic Aeronautics (LAL)](https://curseforge.com/kerbal/ksp-mods/lunaticaeronauticsltd)
 
 <small><i>[top](#table-of-contents)</i></small>
 
 * by [Lunatic Aeronautics (LAL)](https://curseforge.com/kerbal/ksp-mods/lunaticaeronauticsltd)
+
+[![Current Version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/lunaticaeronauticsltd/master/json/mod.json)](https://www.curseforge.com/kerbal/ksp-mods/lunaticaeronauticsltd) ![release](https://img.shields.io/github/release-date/zer0kerbal/lunaticaeronauticsltd?style=plastic) ![License](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/lunaticaeronauticsltd/master/json/license.json) [![Pages][SHD:pgs]](https://zer0kerbal.github.io/lunaticaeronauticsltd/)
+
+<details>
+  <summary> Click arrow to see Hero Image</summary>
+  <p><img src="https://raw.githubusercontent.com/zer0Kerbal/lunaticaeronauticsltd/master/img/HeroLogo.png" alt="lunaticaeronauticsltd Hero" width="45%" height="45%"></p>
+</details>
+
+<small><i>[top](#table-of-contents)</i></small>
 
 ### [Anti Grav Room (LAAGR)](https://curseforge.com/kerbal/ksp-mods/antigravroom)
 
