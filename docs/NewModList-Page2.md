@@ -1104,6 +1104,13 @@ balinventorysystemnofun/)
 
 ### [Anti Grav Room (LAAGR)](https://curseforge.com/kerbal/ksp-mods/antigravroom)
 
+[![Current Version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/antigravroom/master/json/mod.json)](https://www.curseforge.com/kerbal/ksp-mods/antigravroom) ![release](https://img.shields.io/github/release-date/zer0kerbal/antigravroom?style=plastic) ![License](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/antigravroom/master/json/license.json) [![Pages][SHD:pgs]](https://zer0kerbal.github.io/antigravroom/)
+
+<details>
+  <summary> Click arrow to see Hero Image</summary>
+  <p><img src="https://raw.githubusercontent.com/zer0Kerbal/antigravroom/master/img/HeroLogo.png" alt="antigravroom Hero" width="45%" height="45%"></p>
+</details>
+
 <small><i>[top](#table-of-contents)</i></small>
 
 ### [Kerbal XMAS (XMAS)](https://curseforge.com/kerbal/ksp-mods/KerbalXMAS)
