@@ -1126,6 +1126,13 @@ balinventorysystemnofun/)
 
 ### [Rover Anti Gravity System (RAGS)](https://curseforge.com/kerbal/ksp-mods/roverantigravitysystem)
 
+[![Current Version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/roverantigravitysystem/master/json/mod.json)](https://www.curseforge.com/kerbal/ksp-mods/roverantigravitysystem) ![release](https://img.shields.io/github/release-date/zer0kerbal/roverantigravitysystem?style=plastic) ![License](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/roverantigravitysystem/master/json/license.json) [![Pages][SHD:pgs]](https://zer0kerbal.github.io/roverantigravitysystem/)
+
+<details>
+  <summary> Click arrow to see Hero Image</summary>
+  <p><img src="https://raw.githubusercontent.com/zer0Kerbal/roverantigravitysystem/master/img/HeroLogo.png" alt="roverantigravitysystem Hero" width="45%" height="45%"></p>
+</details>
+
 <small><i>[top](#table-of-contents)</i></small>
 
 ---
