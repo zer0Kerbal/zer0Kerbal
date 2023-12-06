@@ -1135,8 +1135,6 @@ balinventorysystemnofun/)
 
 <small><i>[top](#table-of-contents)</i></small>
 
----
-
 ## by [Yarbrough Aerospace R&D (YARD)](https://curseforge.com/kerbal/ksp-mods/YARD)
 
 Agent, flags, and common file for all Yarbrough Aerospace R&D (YARD) products.
@@ -1187,8 +1185,6 @@ Heat shields with RCS
 
 <small><i>[top](#table-of-contents)</i></small>
 
----
-
 ## by [Mkerb Inc (MKERB)](https://curseforge.com/kerbal/ksp-mods/MkerbInc)
 
 [![Current Version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/MkerbInc/master/json/mod.json)](https://www.curseforge.com/kerbal/ksp-mods/MkerbInc) ![release](https://img.shields.io/github/release-date/zer0kerbal/MkerbInc?style=plastic) ![License](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/MkerbInc/master/json/license.json) [![Pages][SHD:pgs]](https://zer0kerbal.github.io/MkerbInc/)
@@ -1217,8 +1213,6 @@ Just when you need that extra oxidizer on your spaceplane...
 
 <small><i>[top](#table-of-contents)</i></small>
 
----
-
 ## The collection of [BobCat Industries (BOB)](https://curseforge.com/kerbal/ksp-mods/BobCatInd)
 
 <small><i>[top](#table-of-contents)</i></small>
@@ -1228,6 +1222,13 @@ Just when you need that extra oxidizer on your spaceplane...
 ### Soviet Pack
 
 #### [Buran](https://github.com/zer0Kerbal/Buran)
+
+[![Current Version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/Buran/master/json/mod.json)](https://www.curseforge.com/kerbal/ksp-mods/Buran) ![release](https://img.shields.io/github/release-date/zer0kerbal/Buran?style=plastic) ![License](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/Buran/master/json/license.json) [![Pages][SHD:pgs]](https://zer0kerbal.github.io/Buran/)
+
+<details>
+  <summary> Click arrow to see Hero Image</summary>
+  <p><img src="https://raw.githubusercontent.com/zer0Kerbal/Buran/master/img/HeroLogo.png" alt="Buran Hero" width="45%" height="45%"></p>
+</details>
 
 #### [Kliper](https://github.com/zer0Kerbal/Kliper)
 
