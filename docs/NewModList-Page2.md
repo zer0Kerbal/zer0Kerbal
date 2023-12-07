@@ -1230,7 +1230,18 @@ Just when you need that extra oxidizer on your spaceplane...
   <p><img src="https://raw.githubusercontent.com/zer0Kerbal/Buran/master/img/HeroLogo.png" alt="Buran Hero" width="45%" height="45%"></p>
 </details>
 
+<small><i>[top](#table-of-contents)</i></small>
+
 #### [Kliper](https://github.com/zer0Kerbal/Kliper)
+
+[![Current Version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/Kliper/master/json/mod.json)](https://www.curseforge.com/kerbal/ksp-mods/Kliper) ![release](https://img.shields.io/github/release-date/zer0kerbal/Kliper?style=plastic) ![License](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/Kliper/master/json/license.json) [![Pages][SHD:pgs]](https://zer0kerbal.github.io/Kliper/)
+
+<details>
+  <summary> Click arrow to see Hero Image</summary>
+  <p><img src="https://raw.githubusercontent.com/zer0Kerbal/Kliper/master/img/HeroLogo.png" alt="Kliper Hero" width="45%" height="45%"></p>
+</details>
+
+<small><i>[top](#table-of-contents)</i></small>
 
 #### [Lunokchod1](https://github.com/zer0Kerbal/Lunokchod1)
 
