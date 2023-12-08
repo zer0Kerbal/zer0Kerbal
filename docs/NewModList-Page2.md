@@ -1245,6 +1245,15 @@ Just when you need that extra oxidizer on your spaceplane...
 
 #### [Lunokchod1](https://github.com/zer0Kerbal/Lunokchod1)
 
+[![Current Version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/Lunokchod1/master/json/mod.json)](https://www.curseforge.com/kerbal/ksp-mods/Lunokchod1) ![release](https://img.shields.io/github/release-date/zer0kerbal/Lunokchod1?style=plastic) ![License](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/Lunokchod1/master/json/license.json) [![Pages][SHD:pgs]](https://zer0kerbal.github.io/Lunokchod1/)
+
+<details>
+  <summary> Click arrow to see Hero Image</summary>
+  <p><img src="https://raw.githubusercontent.com/zer0Kerbal/Lunokchod1/master/img/HeroLogo.png" alt="Lunokchod1 Hero" width="45%" height="45%"></p>
+</details>
+
+<small><i>[top](#table-of-contents)</i></small>
+
 #### [Мир (MIR)](https://curseforge.com/kerbal/ksp-mods/MIR)
 
 [![Current Version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/MIR/master/json/mod.json)](https://www.curseforge.com/kerbal/ksp-mods/MIR) ![release](https://img.shields.io/github/release-date/zer0kerbal/MIR?style=plastic) ![License](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/MIR/master/json/license.json) [![Pages][SHD:pgs]](https://zer0kerbal.github.io/MIR/)
