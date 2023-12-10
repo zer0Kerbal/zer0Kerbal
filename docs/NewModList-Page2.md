@@ -1265,6 +1265,15 @@ Just when you need that extra oxidizer on your spaceplane...
 ---
 #### [N1L3](https://github.com/zer0Kerbal/N1L3)
 
+[![Current Version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/N1L3/master/json/mod.json)](https://www.curseforge.com/kerbal/ksp-mods/N1L3) ![release](https://img.shields.io/github/release-date/zer0kerbal/N1L3?style=plastic) ![License](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/N1L3/master/json/license.json) [![Pages][SHD:pgs]](https://zer0kerbal.github.io/N1L3/)
+
+<details>
+  <summary> Click arrow to see Hero Image</summary>
+  <p><img src="https://raw.githubusercontent.com/zer0Kerbal/N1L3/master/img/HeroLogo.png" alt="N1L3 Hero" width="45%" height="45%"></p>
+</details>
+
+<small><i>[top](#table-of-contents)</i></small>
+
 #### [Progress](https://github.com/zer0Kerbal/Progress)
 
 #### [Протон (Proton)](https://curseforge.com/kerbal/ksp-mods/Proton)
