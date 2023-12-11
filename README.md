@@ -57,16 +57,16 @@
 #### :octocat: GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#78](https://github.com/zer0Kerbal/TheGoldStandard/issues/78#issuecomment-1847968144) in [zer0Kerbal/TheGoldStandard](https://github.com/zer0Kerbal/TheGoldStandard)
-2. 🗣 Commented on [#29](https://github.com/zer0Kerbal/PiratesoftheKeribbean/issues/29#issuecomment-1807618463) in [zer0Kerbal/PiratesoftheKeribbean](https://github.com/zer0Kerbal/PiratesoftheKeribbean)
-3. ❗ Opened issue [#51](https://github.com/zer0Kerbal/PiratesoftheKeribbean/issues/51) in [zer0Kerbal/PiratesoftheKeribbean](https://github.com/zer0Kerbal/PiratesoftheKeribbean)
-4. ❗ Opened issue [#50](https://github.com/zer0Kerbal/PiratesoftheKeribbean/issues/50) in [zer0Kerbal/PiratesoftheKeribbean](https://github.com/zer0Kerbal/PiratesoftheKeribbean)
-5. 🚀 Published release [Version 0.9.99.2-adoption - `<Bedankt Sjorza>` edition](https://github.com/zer0Kerbal/PiratesoftheKeribbean/releases/tag/0.9.99.2-adoption) in [zer0Kerbal/PiratesoftheKeribbean](https://github.com/zer0Kerbal/PiratesoftheKeribbean)
-6. 🔒 Closed issue [#46](https://github.com/zer0Kerbal/PiratesoftheKeribbean/issues/46) in [zer0Kerbal/PiratesoftheKeribbean](https://github.com/zer0Kerbal/PiratesoftheKeribbean)
-7. 🔒 Closed issue [#45](https://github.com/zer0Kerbal/PiratesoftheKeribbean/issues/45) in [zer0Kerbal/PiratesoftheKeribbean](https://github.com/zer0Kerbal/PiratesoftheKeribbean)
-8. 🔒 Closed issue [#29](https://github.com/zer0Kerbal/PiratesoftheKeribbean/issues/29) in [zer0Kerbal/PiratesoftheKeribbean](https://github.com/zer0Kerbal/PiratesoftheKeribbean)
-9. 🎉 Merged PR [#48](https://github.com/zer0Kerbal/PiratesoftheKeribbean/pull/48) in [zer0Kerbal/PiratesoftheKeribbean](https://github.com/zer0Kerbal/PiratesoftheKeribbean)
-10. 💪 Opened PR [#48](https://github.com/zer0Kerbal/PiratesoftheKeribbean/pull/48) in [zer0Kerbal/PiratesoftheKeribbean](https://github.com/zer0Kerbal/PiratesoftheKeribbean)
+1. 🗣 Commented on [#78](https://github.com/zer0Kerbal/TheGoldStandard/issues/78#issuecomment-1849300200) in [zer0Kerbal/TheGoldStandard](https://github.com/zer0Kerbal/TheGoldStandard)
+2. 🗣 Commented on [#78](https://github.com/zer0Kerbal/TheGoldStandard/issues/78#issuecomment-1847968144) in [zer0Kerbal/TheGoldStandard](https://github.com/zer0Kerbal/TheGoldStandard)
+3. 🗣 Commented on [#29](https://github.com/zer0Kerbal/PiratesoftheKeribbean/issues/29#issuecomment-1807618463) in [zer0Kerbal/PiratesoftheKeribbean](https://github.com/zer0Kerbal/PiratesoftheKeribbean)
+4. ❗ Opened issue [#51](https://github.com/zer0Kerbal/PiratesoftheKeribbean/issues/51) in [zer0Kerbal/PiratesoftheKeribbean](https://github.com/zer0Kerbal/PiratesoftheKeribbean)
+5. ❗ Opened issue [#50](https://github.com/zer0Kerbal/PiratesoftheKeribbean/issues/50) in [zer0Kerbal/PiratesoftheKeribbean](https://github.com/zer0Kerbal/PiratesoftheKeribbean)
+6. 🚀 Published release [Version 0.9.99.2-adoption - `<Bedankt Sjorza>` edition](https://github.com/zer0Kerbal/PiratesoftheKeribbean/releases/tag/0.9.99.2-adoption) in [zer0Kerbal/PiratesoftheKeribbean](https://github.com/zer0Kerbal/PiratesoftheKeribbean)
+7. 🔒 Closed issue [#46](https://github.com/zer0Kerbal/PiratesoftheKeribbean/issues/46) in [zer0Kerbal/PiratesoftheKeribbean](https://github.com/zer0Kerbal/PiratesoftheKeribbean)
+8. 🔒 Closed issue [#45](https://github.com/zer0Kerbal/PiratesoftheKeribbean/issues/45) in [zer0Kerbal/PiratesoftheKeribbean](https://github.com/zer0Kerbal/PiratesoftheKeribbean)
+9. 🔒 Closed issue [#29](https://github.com/zer0Kerbal/PiratesoftheKeribbean/issues/29) in [zer0Kerbal/PiratesoftheKeribbean](https://github.com/zer0Kerbal/PiratesoftheKeribbean)
+10. 🎉 Merged PR [#48](https://github.com/zer0Kerbal/PiratesoftheKeribbean/pull/48) in [zer0Kerbal/PiratesoftheKeribbean](https://github.com/zer0Kerbal/PiratesoftheKeribbean)
 <!--END_SECTION:activity-->
 
 #### 📺 Latest YouTube Videos
