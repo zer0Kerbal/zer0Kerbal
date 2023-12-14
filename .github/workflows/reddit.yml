@@ -7,7 +7,7 @@ on:
 
 jobs:
   update-readme-with-youtube:
-    name: Update this repo's README with latest psots from reddit
+    name: Update this repo's README with latest posts from reddit
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
