@@ -133,6 +133,9 @@ aka `zed'K™`
        7. [Протон (Proton)](#протон-proton)
        8. [Soyuz](#soyuz)
        9. [SoyuzU](#soyuzu)
+       10. [JoolV](#joolv)
+       11. [Nautilus](#nautilus)
+       12. [HOME](#home)
 26. [by godarklight](#by-godarklight)
     1. [Exception Detector (EXCD)](#exception-detector-excd)
     2. [NyanCat (NYAN)](#nyancat-nyan)
@@ -1315,9 +1318,9 @@ Just when you need that extra oxidizer on your spaceplane...
 
 <small><i>[top](#table-of-contents)</i></small>
 
-  * [JoolV](https://github.com/zer0Kerbal/JoolV)
-  * [Nautilus](https://github.com/zer0Kerbal/Nautilus)
-  * [HOME](https://github.com/zer0Kerbal/HOME)
+#### [JoolV](https://github.com/zer0Kerbal/JoolV)
+#### [Nautilus](https://github.com/zer0Kerbal/Nautilus)
+#### [HOME](https://github.com/zer0Kerbal/HOME)
     * Rovers
     * [DEMV](https://github.com/zer0Kerbal/DEMV)
 
