@@ -1341,6 +1341,15 @@ Just when you need that extra oxidizer on your spaceplane...
 <small><i>[top](#table-of-contents)</i></small>
 
 #### [HOME](https://github.com/zer0Kerbal/HOME)
+
+[![Current Version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/HOME/master/json/mod.json)](https://www.curseforge.com/kerbal/ksp-mods/HOME) ![release](https://img.shields.io/github/release-date/zer0kerbal/HOME?style=plastic) ![License](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/HOME/master/json/license.json) [![Pages][SHD:pgs]](https://zer0kerbal.github.io/HOME/)
+
+<details>
+  <summary> Click arrow to see Hero Image</summary>
+  <p><img src="https://raw.githubusercontent.com/zer0Kerbal/HOME/master/img/HeroLogo.png" alt="HOME Hero" width="45%" height="45%"></p>
+</details>
+
+<small><i>[top](#table-of-contents)</i></small>
     * Rovers
     * [DEMV](https://github.com/zer0Kerbal/DEMV)
 
