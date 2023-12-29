@@ -136,7 +136,8 @@ aka `zed'K™`
        10. [JoolV](#joolv)
        11. [Nautilus](#nautilus)
        12. [HOME](#home)
-       13. [DEMV](#demv)
+       13. [Rovers](#rovers)
+           1. [DEMV](#demv)
 26. [by godarklight](#by-godarklight)
     1. [Exception Detector (EXCD)](#exception-detector-excd)
     2. [NyanCat (NYAN)](#nyancat-nyan)
@@ -1351,9 +1352,10 @@ Just when you need that extra oxidizer on your spaceplane...
 </details>
 
 <small><i>[top](#table-of-contents)</i></small>
-    * Rovers
 
-#### [DEMV](https://github.com/zer0Kerbal/DEMV)
+#### Rovers
+
+##### [DEMV](https://github.com/zer0Kerbal/DEMV)
 
 [![Current Version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/DEMV/master/json/mod.json)](https://www.curseforge.com/kerbal/ksp-mods/DEMV) ![release](https://img.shields.io/github/release-date/zer0kerbal/DEMV?style=plastic) ![License](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/DEMV/master/json/license.json) [![Pages][SHD:pgs]](https://zer0kerbal.github.io/DEMV/)
 
