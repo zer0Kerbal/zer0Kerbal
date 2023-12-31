@@ -142,7 +142,8 @@ aka `zed'K™`
     1. [Exception Detector (EXCD)](#exception-detector-excd)
     2. [NyanCat (NYAN)](#nyancat-nyan)
     3. [SafetyWall (WALL)](#safetywall-wall)
-27. [Klockheed Martian Ltd (KML)](#klockheed-martian-ltd-kml)
+27. [Klockheed Martian Ltd (KML) by dtobi](#klockheed-martian-ltd-kml-by-dtobi)
+    1. [Asteroid Cities (AC)  ](#asteroid-cities-ac--)
 28. [by Matheo G](#by-matheo-g)
 29. [Rusty Star](#rusty-star)
 30. [Parts](#parts)
@@ -1393,12 +1394,18 @@ Just when you need that extra oxidizer on your spaceplane...
 <img src="https://raw.githubusercontent.com/zer0Kerbal/SafetyWall/master/img/HeroLogo_1920x1920.png" alt="SafetyWall Hero" width="45%" height="45%">
 </detail>
 
-## [Klockheed Martian Ltd (KML)](https://curseforge.com/kerbal/ksp-mods/KlockheedMartianLtd)
+## [Klockheed Martian Ltd (KML)](https://curseforge.com/kerbal/ksp-mods/KlockheedMartianLtd) by [dtobi](https://forum.kerbalspaceprogram.com/index.php?/profile/90882-*/)
+
+[![Current Version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/KlockheedMartianLtd/master/json/mod.json)](https://www.curseforge.com/kerbal/ksp-mods/KlockheedMartianLtd) ![release](https://img.shields.io/github/release-date/zer0kerbal/KlockheedMartianLtd?style=plastic) ![License](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/KlockheedMartianLtd/master/json/license.json) [![Pages][SHD:pgs]](https://zer0kerbal.github.io/KlockheedMartianLtd/)
+
+<details>
+  <summary> Click arrow to see Hero Image</summary>
+  <p><img src="https://raw.githubusercontent.com/zer0Kerbal/KlockheedMartianLtd/master/img/HeroLogo_1920x1920.png" alt="KlockheedMartianLtd Hero" width="45%" height="45%"></p>
+</details>
 
 <small><i>[top](#table-of-contents)</i></small>
 
-* [Klockheed Martian Ltd (KML)](https://curseforge.com/kerbal/ksp-mods/KlockheedMartianLtd) by [dtobi](https://forum.kerbalspaceprogram.com/index.php?/profile/90882-*/) ![](https://img.shields.io/github/v/release/zer0Kerbal/KlockheedMartianLtd?include_prereleases) ![release](https://img.shields.io/github/release-date/zer0kerbal/KlockheedMartianLtd)
-  * [Asteroid Cities (AC)](https://curseforge.com/kerbal/ksp-mods/AsteroidCities) ![](https://img.shields.io/github/v/release/zer0Kerbal/AsteroidCities?include_prereleases) ![release](https://img.shields.io/github/release-date/zer0kerbal/AsteroidCities)
+### [Asteroid Cities (AC)](https://curseforge.com/kerbal/ksp-mods/AsteroidCities) ![](https://img.shields.io/github/v/release/zer0Kerbal/AsteroidCities?include_prereleases) ![release](https://img.shields.io/github/release-date/zer0kerbal/AsteroidCities)
   * [Space Shuttle Engines (SSE)](https://curseforge.com/kerbal/ksp-mods/SpaceShuttleEngines) ![](https://img.shields.io/github/v/release/zer0Kerbal/SpaceShuttleEngines?include_prereleases) ![release](https://img.shields.io/github/release-date/zer0kerbal/SpaceShuttleEngines)
   * [Special Parts Division (SPD)](https://curseforge.com/kerbal/ksp-mods/SpecialPartsDivision) ![](https://img.shields.io/github/v/release/zer0Kerbal/SpecialPartsDivision?include_prereleases) ![release](https://img.shields.io/github/release-date/zer0kerbal/SpecialPartsDivision)
 
