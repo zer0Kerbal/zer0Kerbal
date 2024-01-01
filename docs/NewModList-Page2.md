@@ -1457,8 +1457,6 @@ Adds six new antennas that are compatible with both Antenna Range, Remote Tech a
 
 <small><i>[top](#table-of-contents)</i></small>
 
----
-
 ## Addons
 
 ### [On Demand Fuel Cells (ODFC)](https://github.com/zer0Kerbal/ODFCr "On Demand Fuel Cells")
