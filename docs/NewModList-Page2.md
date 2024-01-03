@@ -285,8 +285,6 @@ Vertical launch spaceplane
 
 <small><i>[top](#table-of-contents)</i></small>
 
----
-
 ## [Olympic's ARP Icons (ARPI)](https://curseforge.com/kerbal/ksp-mods/arpicons)
 
 [![Current Version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/arpicons/master/json/mod.json)](https://www.curseforge.com/kerbal/ksp-mods/arpicons) ![release](https://img.shields.io/github/release-date/zer0kerbal/arpicons?style=plastic) ![License](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/arpicons/master/json/license.json) [![Pages][SHD:pgs]](https://zer0kerbal.github.io/arpicons/)
