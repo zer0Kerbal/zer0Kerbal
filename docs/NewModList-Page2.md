@@ -294,8 +294,6 @@ Vertical launch spaceplane
   <p><img src="https://raw.githubusercontent.com/zer0Kerbal/arpicons/master/img/HeroLogo.png" alt="arpicons Hero" width="45%" height="45%"></p>
 </details>
 
----
-
 ## by [NecroBones](https://forum.kerbalspaceprogram.com/index.php?/profile/105424-*/)
 
 <i>suite of mods that play nicely together</i>
