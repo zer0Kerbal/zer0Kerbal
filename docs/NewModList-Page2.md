@@ -313,8 +313,6 @@ lander parts, large chutes/legs/ladders/etc
 
 <small><i>[top](#table-of-contents)</i></small>
 
----
-
 ### [SpaceY Corporation (SYC)](https://curseforge.com/kerbal/ksp-mods/SpaceYCorp)
 
 Agent, flags, and common files for SpaceY Corporation products
