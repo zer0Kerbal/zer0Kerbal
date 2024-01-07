@@ -339,8 +339,6 @@ stock-balanced large rocket parts, 5m parts, large SRBs
 
 <small><i>[top](#table-of-contents)</i></small>
 
----
-
 #### [SpaceY Expanded (SYX)](https://curseforge.com/kerbal/ksp-mods/SpaceYExpanded)
 
 An expansion pack for the SpaceY Lifters (SYL) parts addon which adds 7.5m parts, plus additional engines, accessories, and other parts that go beyond the original stated purpose of SpaceY Heavy Lifters. **Requires both SpaceY Corp (SYC) and SpaceY Lifters (SYL).
