@@ -352,8 +352,6 @@ An expansion pack for the SpaceY Lifters (SYL) parts addon which adds 7.5m parts
 
 <small><i>[top](#table-of-contents)</i></small>
 
----
-
 ### [Color Coded Canisters (CCC)](https://curseforge.com/kerbal/ksp-mods/ColorCodedCanisters)
 
 beautification replacement models/textures for stock tanks, with color-coded end caps, and auto-closing shrouds
