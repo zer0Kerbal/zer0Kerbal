@@ -362,8 +362,6 @@ beautification replacement models/textures for stock tanks, with color-coded end
 
 <small><i>[top](#table-of-contents)</i></small>
 
----
-
 ### [ColorFuel Lines (CFL)](https://curseforge.com/kerbal/ksp-mods/ColorfulFuelLines)
 
 color-selectable fuel lines
