@@ -405,8 +405,6 @@ color-selectable fuel lines
 
 <small><i>[top](#table-of-contents)</i></small>
 
----
-
 ### [SeaDragon (SEA)](https://curseforge.com/kerbal/ksp-mods/SeaDragon)[![Current Version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/SeaDragon/master/json/mod.json)](https://www.curseforge.com/kerbal/ksp-mods/SeaDragon) ![release](https://img.shields.io/github/release-date/zer0kerbal/SeaDragon?style=plastic) ![License](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/SeaDragon/master/json/license.json) [![Pages][SHD:pgs]](https://zer0kerbal.github.io/SeaDragon/)
 
 <details>
