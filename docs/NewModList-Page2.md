@@ -429,8 +429,6 @@ color-selectable fuel lines
 
 <small><i>[top](#table-of-contents)</i></small>
 
----
-
 ### [Fuel Tanks Plus Ltd (FTPL)](https://curseforge.com/kerbal/ksp-mods/FTPLtd)[![Current Version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/FTPLtd/master/json/mod.json)](https://www.curseforge.com/kerbal/ksp-mods/FTPLtd) ![release](https://img.shields.io/github/release-date/zer0kerbal/FTPLtd?style=plastic) ![License](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/FTPLtd/master/json/license.json) [![Pages][SHD:pgs]](https://zer0kerbal.github.io/FTPLtd/)
 
 <details>
