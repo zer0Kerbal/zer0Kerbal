@@ -928,9 +928,7 @@ Agent, flags, and common files for Coyote Space Industries Ltd products
 
 <img src="https://raw.githubusercontent.com/zer0Kerbal/CSITools/master/img/HeroLogo.png" alt="CSITools Hero" width="45%" height="45%">
 
-<small><i>[top](#table-of-contents)</i></small>
-
----
+<small><i>[top](#table-of-contents)</i></small>---
 
 ## by [Kerb Simple Co (KSC)](https://curseforge.com/kerbal/ksp-mods/KerbSimpleCo)
 
