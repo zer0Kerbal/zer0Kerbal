@@ -1224,7 +1224,6 @@ Just when you need that extra oxidizer on your spaceplane...
 
 <small><i>[top](#table-of-contents)</i></small>
 
----
 #### [N1L3](https://github.com/zer0Kerbal/N1L3)
 
 [![Current Version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/N1L3/master/json/mod.json)](https://www.curseforge.com/kerbal/ksp-mods/N1L3) ![release](https://img.shields.io/github/release-date/zer0kerbal/N1L3?style=plastic) ![License](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/N1L3/master/json/license.json) [![Pages][SHD:pgs]](https://zer0kerbal.github.io/N1L3/)
