@@ -1518,5 +1518,7 @@ A Custom Barn Kit config addon that increases Kerbal Space Center buildings to t
 * [![Current Version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/Kerturn/master/json/mod.json)](https://www.curseforge.com/kerbal/ksp-mods/Kerturn) ![release](https://img.shields.io/github/release-date/zer0kerbal/HotBeveragesIrradiated?style=plastic) ![License](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/Kerturn/master/json/license.json) [![Pages][SHD:pgs]](https://zer0kerbal.github.io/Kerturn/)  
 <small><i>[top](#table-of-contents)</i></small>
 
+---
+
 THIS FILE: CC BY-ND 4.0 by [zer0Kerbal][zedK]
   used with express permission from [zer0Kerbal][zedK]
