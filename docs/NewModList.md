@@ -536,8 +536,6 @@ aka `zed'K™`
 
 <small><i>[top](#table-of-contents)</i></small>
 
----
-
 ## by [Axial Aerospace](https://curseforge.com/kerbal/ksp-mods/AxialAerospaceLtd)
 
 <small><i>[top](#table-of-contents)</i></small>
