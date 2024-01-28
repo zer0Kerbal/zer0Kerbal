@@ -556,8 +556,6 @@ aka `zed'K™`
 
 <small><i>[top](#table-of-contents)</i></small>
 
----
-
 ## [Olympic's ARP Icons (ARPI)](https://curseforge.com/kerbal/ksp-mods/arpicons)
 
 ---
