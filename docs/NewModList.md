@@ -584,8 +584,6 @@ Agent, flags, and common files for SpaceY Corporation products
 
 <small><i>[top](#table-of-contents)</i></small>
 
----
-
 #### [SpaceY Lifters (SYL)](https://curseforge.com/kerbal/ksp-mods/SpaceYLifters) 
 
 stock-balanced large rocket parts, 5m parts, large SRBs
