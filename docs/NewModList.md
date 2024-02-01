@@ -594,8 +594,6 @@ stock-balanced large rocket parts, 5m parts, large SRBs
 
 <small><i>[top](#table-of-contents)</i></small>
 
----
-
 #### [SpaceY Expanded (SYX)](https://curseforge.com/kerbal/ksp-mods/SpaceYExpanded)
 
 [![Current Version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/SpaceYExpanded/master/json/mod.json)](https://www.curseforge.com/kerbal/ksp-mods/SpaceYExpanded) ![release](https://img.shields.io/github/release-date/zer0kerbal/SpaceYExpanded?style=plastic) ![License](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/SpaceYExpanded/master/json/license.json) [![Pages][SHD:pgs]](https://zer0kerbal.github.io/SpaceYExpanded/)
