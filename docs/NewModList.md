@@ -630,8 +630,6 @@ color-selectable fuel lines
 
 <small><i>[top](#table-of-contents)</i></small>
 
----
-
 ### [Modular Rocket Systems (MRS)](https://curseforge.com/kerbal/ksp-mods/ModularRocketSystems)
 
 stock-alike parts pack, NASA-like alternatives, and filling the gaps
