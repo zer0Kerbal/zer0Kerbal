@@ -656,8 +656,6 @@ stock-alike parts pack, NASA-like alternatives, and filling the gaps
 
 <small><i>[top](#table-of-contents)</i></small>
 
----
-
 ### [The Burger Mod (BURG)](https://curseforge.com/kerbal/ksp-mods/BurgerMod)
 
 [![Current Version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/BurgerMod/master/json/mod.json)](https://www.curseforge.com/kerbal/ksp-mods/BurgerMod) ![release](https://img.shields.io/github/release-date/zer0kerbal/BurgerMod?style=plastic) ![License](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/BurgerMod/master/json/license.json) [![Pages][SHD:pgs]](https://zer0kerbal.github.io/BurgerMod/)
