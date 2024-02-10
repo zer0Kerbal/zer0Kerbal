@@ -672,8 +672,6 @@ stock-alike parts pack, NASA-like alternatives, and filling the gaps
 
 <small><i>[top](#table-of-contents)</i></small>
 
----
-
 ### [Fuel Tanks Plus Ltd (FTPL)](https://curseforge.com/kerbal/ksp-mods/FTPLtd)
 
 The collection of large stock-like tanks with Color Coded Canister style.
