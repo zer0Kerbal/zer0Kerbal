@@ -110,6 +110,10 @@
 <!--- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zer0Kerbal)](https://github.com/anuraghazra/github-readme-stats) -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zer0Kerbal&show_icons=true) <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zer0kerbal&layout=compact&hide_border=true&bg_color=bada55&langs_count=4">  
   
+### Copyrights and Trademarks
+
+- zer0Kerbal, zed'K, zedK, zer0Kerman, and zer0Kermin (along with varients and misspellings) are All Rights Reserved
+
 ### WHY - Mission Statement
 
 - fun
