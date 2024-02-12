@@ -692,8 +692,6 @@ Agent, flags and common files for Fuel Tanks Plus Ltd
 
 <small><i>[top](#table-of-contents)</i></small>
 
----
-
 #### [Fuel Tanks Plus Xtra Kerbal (FTPXK)](https://curseforge.com/kerbal/ksp-mods/FTPXK)
 
 <i>coming soon</i>
