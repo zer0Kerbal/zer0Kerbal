@@ -57,11 +57,11 @@
 #### :octocat: GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#78](https://github.com/zer0Kerbal/TheGoldStandard/issues/78#issuecomment-1882284163) in [zer0Kerbal/TheGoldStandard](https://github.com/zer0Kerbal/TheGoldStandard)
-2. 🗣 Commented on [#82](https://github.com/zer0Kerbal/SimpleHyperdrive/issues/82#issuecomment-1875928845) in [zer0Kerbal/SimpleHyperdrive](https://github.com/zer0Kerbal/SimpleHyperdrive)
-3. 🗣 Commented on [#78](https://github.com/zer0Kerbal/TheGoldStandard/issues/78#issuecomment-1849300200) in [zer0Kerbal/TheGoldStandard](https://github.com/zer0Kerbal/TheGoldStandard)
-4. 🗣 Commented on [#78](https://github.com/zer0Kerbal/TheGoldStandard/issues/78#issuecomment-1847968144) in [zer0Kerbal/TheGoldStandard](https://github.com/zer0Kerbal/TheGoldStandard)
-5. 🗣 Commented on [#29](https://github.com/zer0Kerbal/PiratesoftheKeribbean/issues/29#issuecomment-1807618463) in [zer0Kerbal/PiratesoftheKeribbean](https://github.com/zer0Kerbal/PiratesoftheKeribbean)
+1. 🗣 Commented on [#63](https://github.com/zer0Kerbal/SimpleLogistics/issues/63#issuecomment-1937989729) in [zer0Kerbal/SimpleLogistics](https://github.com/zer0Kerbal/SimpleLogistics)
+2. 🗣 Commented on [#78](https://github.com/zer0Kerbal/TheGoldStandard/issues/78#issuecomment-1882284163) in [zer0Kerbal/TheGoldStandard](https://github.com/zer0Kerbal/TheGoldStandard)
+3. 🗣 Commented on [#82](https://github.com/zer0Kerbal/SimpleHyperdrive/issues/82#issuecomment-1875928845) in [zer0Kerbal/SimpleHyperdrive](https://github.com/zer0Kerbal/SimpleHyperdrive)
+4. 🗣 Commented on [#78](https://github.com/zer0Kerbal/TheGoldStandard/issues/78#issuecomment-1849300200) in [zer0Kerbal/TheGoldStandard](https://github.com/zer0Kerbal/TheGoldStandard)
+5. 🗣 Commented on [#78](https://github.com/zer0Kerbal/TheGoldStandard/issues/78#issuecomment-1847968144) in [zer0Kerbal/TheGoldStandard](https://github.com/zer0Kerbal/TheGoldStandard)
 6. ❗ Opened issue [#51](https://github.com/zer0Kerbal/PiratesoftheKeribbean/issues/51) in [zer0Kerbal/PiratesoftheKeribbean](https://github.com/zer0Kerbal/PiratesoftheKeribbean)
 7. ❗ Opened issue [#50](https://github.com/zer0Kerbal/PiratesoftheKeribbean/issues/50) in [zer0Kerbal/PiratesoftheKeribbean](https://github.com/zer0Kerbal/PiratesoftheKeribbean)
 8. 🚀 Published release [Version 0.9.99.2-adoption - `<Bedankt Sjorza>` edition](https://github.com/zer0Kerbal/PiratesoftheKeribbean/releases/tag/0.9.99.2-adoption) in [zer0Kerbal/PiratesoftheKeribbean](https://github.com/zer0Kerbal/PiratesoftheKeribbean)
