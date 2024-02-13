@@ -736,8 +736,6 @@ Agent, flags and common files for Fuel Tanks Plus Ltd
 
 <small><i>[top](#table-of-contents)</i></small>
 
----
-
 ## By [Kerbal Hacks Ltd (KHL)](https://curseforge.com/kerbal/ksp-mods/kerbalhacksltd)
 
 by [Enceos](https://forum.kerbalspaceprogram.com/index.php?/profile/110725-*/)
