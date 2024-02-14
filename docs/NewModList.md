@@ -800,8 +800,6 @@ by [Enceos](https://forum.kerbalspaceprogram.com/index.php?/profile/110725-*/)
 
 ### [Ven's Style Textures (VST)](https://forum.kerbalspaceprogram.com/index.php?/topic/134889-*/)
 
----
-
 ## [Axial Aerospace](https://curseforge.com/kerbal/ksp-mods/AxialAerospaceLtd)
 
 Agent, flags and common files
