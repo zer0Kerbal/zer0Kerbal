@@ -842,8 +842,6 @@ Agent, flags and common files
 
 <small><i>[top](#table-of-contents)</i></small>
 
----
-
 ## [nli2work a.k.a NohArk](https://forum.kerbalspaceprogram.com/index.php?/profile/106805-*/)
 
 <small><i>[top](#table-of-contents)</i></small>
