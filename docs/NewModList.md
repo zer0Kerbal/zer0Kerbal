@@ -856,8 +856,6 @@ Agent, flags and common files
 
 ### [Transparent Command Pods (TCP)](https://curseforge.com/kerbal/ksp-mods/TransparentCommandPods)
 
----
-
 ## by [LazTek Dev (LTD)](https://curseforge.com/kerbal/ksp-mods/LazTekDev)
 
 by [Exodus Solis](https://forum.kerbalspaceprogram.com/index.php?/profile/61673-*/)
