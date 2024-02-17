@@ -870,8 +870,6 @@ by [Exodus Solis](https://forum.kerbalspaceprogram.com/index.php?/profile/61673-
 
 ### [Launch Pack (LLP)](https://curseforge.com/kerbal/ksp-mods/LaunchPack)
 
----
-
 ## by [DaMichel's Ltd](https://curseforge.com/kerbal/ksp-mods/damichelltd)
 
 <small><i>[top](#table-of-contents)</i></small>
