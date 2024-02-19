@@ -882,8 +882,6 @@ by [Exodus Solis](https://forum.kerbalspaceprogram.com/index.php?/profile/61673-
 
 ### [DaMichel's SphericalTanks(DST)](https://curseforge.com/kerbal/ksp-mods/SphericalTanks)
 
----
-
 ## By [Nuke's Unlimited](https://curseforge.com/kerbal/ksp-mods/NukesUnlimited)
 
 By [Nuke](https://curseforge.com/kerbal/ksp-mods/NukesUnlimited)
