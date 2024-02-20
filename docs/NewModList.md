@@ -936,8 +936,6 @@ By [Nuke](https://curseforge.com/kerbal/ksp-mods/NukesUnlimited)
 
 <small><i>[top](#table-of-contents)</i></small>
 
----
-
 ## by [Coyote Space Industries Ltd (CSIL)](https://curseforge.com/kerbal/ksp-mods/CoyoteSpaceIndustriesLtd)
 
 Agent, flags, and common files for Coyote Space Industries Ltd products
