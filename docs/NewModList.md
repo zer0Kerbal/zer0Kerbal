@@ -962,8 +962,6 @@ Agent, flags, and common files for Coyote Space Industries Ltd products
 
 <small><i>[top](#table-of-contents)</i></small>
 
----
-
 ## by [Kerb Simple Co (KSC)](https://curseforge.com/kerbal/ksp-mods/KerbSimpleCo)
 
 <small><i>[top](#table-of-contents)</i></small>
