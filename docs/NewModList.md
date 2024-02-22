@@ -970,8 +970,6 @@ Agent, flags, and common files for Coyote Space Industries Ltd products
 
 ### [More: Hitchhikers (MHH)](https://curseforge.com/kerbal/ksp-mods/morehitchhikers)
 
----
-
 ## by [V2 Industries (V2IL)](https://curseforge.com/kerbal/ksp-mods/V2Industries)
 
 <small><i>[top](#table-of-contents)</i></small>
