@@ -998,9 +998,6 @@ Agent, flags, and common files for Coyote Space Industries Ltd products
 ## [UniversalStorageStockResourceFuelCell (QBUS)](https://curseforge.com/kerbal/ksp-mods/universalstoragestockresourcefuelcell)
 
 <small><i>[top](#table-of-contents)</i></small>
-
----
-
 ## By [Exodus_Solis](https://forum.kerbalspaceprogram.com/index.php?/profile/189895-*/)
 
 <small><i>[top](#table-of-contents)</i></small>
