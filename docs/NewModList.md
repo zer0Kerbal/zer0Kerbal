@@ -1012,8 +1012,6 @@ Agent, flags, and common files for Coyote Space Industries Ltd products
 
 <small><i>[top](#table-of-contents)</i></small>
 
----
-
 ## by [Lunatic Aeronautics (LAL)](https://curseforge.com/kerbal/ksp-mods/lunaticaeronauticsltd)
 
 <small><i>[top](#table-of-contents)</i></small>
