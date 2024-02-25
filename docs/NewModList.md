@@ -1030,8 +1030,6 @@ Agent, flags, and common files for Coyote Space Industries Ltd products
 
 <small><i>[top](#table-of-contents)</i></small>
 
----
-
 ## by [Yarbrough Aerospace R&D (YARD)](https://curseforge.com/kerbal/ksp-mods/YARD)
 
 Agent, flags, and common file for all Yarbrough Aerospace R&D (YARD) products.
