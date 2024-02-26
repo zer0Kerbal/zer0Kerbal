@@ -85,7 +85,9 @@
 
 #### 📕 Latest Blog Posts
 
-<!-- REDDIT:START --><table><tr><td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/17w98p7/is_there_a_reason_some_people_are_against_ckan/koipt5t/"><img width="33px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/reddit.png" alt="reddit" height="33px"></a></td>
+<!-- REDDIT:START --><table><tr><td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/14fm5po/could_someone_please_explain_the_ckan_hate/ks3au5o/"><img width="33px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/reddit.png" alt="reddit" height="33px"></a></td>
+<td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/14fm5po/could_someone_please_explain_the_ckan_hate/ks3au5o/">/u/zer0Kerbal on Could someone please explain the CKAN hate?</a><br/>Feb 25, 2024</td></tr></table>
+<table><tr><td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/17w98p7/is_there_a_reason_some_people_are_against_ckan/koipt5t/"><img width="33px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/reddit.png" alt="reddit" height="33px"></a></td>
 <td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/17w98p7/is_there_a_reason_some_people_are_against_ckan/koipt5t/">/u/zer0Kerbal on Is there a reason some people are against CKAN?</a><br/>Feb 2, 2024</td></tr></table>
 <table><tr><td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/17w98p7/is_there_a_reason_some_people_are_against_ckan/koi22ma/"><img width="33px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/reddit.png" alt="reddit" height="33px"></a></td>
 <td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/17w98p7/is_there_a_reason_some_people_are_against_ckan/koi22ma/">/u/zer0Kerbal on Is there a reason some people are against CKAN?</a><br/>Feb 1, 2024</td></tr></table>
@@ -93,8 +95,6 @@
 <td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/17w98p7/is_there_a_reason_some_people_are_against_ckan/k9ygytk/">/u/zer0Kerbal on Is there a reason some people are against CKAN?</a><br/>Nov 20, 2023</td></tr></table>
 <table><tr><td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/17w98p7/is_there_a_reason_some_people_are_against_ckan/k9lbmts/"><img width="33px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/reddit.png" alt="reddit" height="33px"></a></td>
 <td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/17w98p7/is_there_a_reason_some_people_are_against_ckan/k9lbmts/">/u/zer0Kerbal on Is there a reason some people are against CKAN?</a><br/>Nov 17, 2023</td></tr></table>
-<table><tr><td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/17w98p7/is_there_a_reason_some_people_are_against_ckan/k9hup0k/"><img width="33px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/reddit.png" alt="reddit" height="33px"></a></td>
-<td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/17w98p7/is_there_a_reason_some_people_are_against_ckan/k9hup0k/">/u/zer0Kerbal on Is there a reason some people are against CKAN?</a><br/>Nov 16, 2023</td></tr></table>
 <!-- REDDIT:END -->
 
 <!-- BLOG-POST-LIST:START -->
