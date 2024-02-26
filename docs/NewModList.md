@@ -1080,8 +1080,6 @@ Heat shields with RCS
 
 <small><i>[top](#table-of-contents)</i></small>
 
----
-
 ## by [Mkerb Inc (MKERB)](https://curseforge.com/kerbal/ksp-mods/MkerbInc)
 
 [![Current Version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/MkerbInc/master/json/mod.json)](https://www.curseforge.com/kerbal/ksp-mods/MkerbInc) ![release](https://img.shields.io/github/release-date/zer0kerbal/MkerbInc?style=plastic) ![License](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/MkerbInc/master/json/license.json) [![Pages][SHD:pgs]](https://zer0kerbal.github.io/MkerbInc/)
