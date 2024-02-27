@@ -1108,8 +1108,6 @@ Just when you need that extra oxidizer on your spaceplane...
 
 <small><i>[top](#table-of-contents)</i></small>
 
----
-
 ## The collection of [BobCat Industries (BOB)](https://curseforge.com/kerbal/ksp-mods/BobCatInd)
 
 <small><i>[top](#table-of-contents)</i></small>
