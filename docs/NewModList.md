@@ -1142,8 +1142,6 @@ Just when you need that extra oxidizer on your spaceplane...
 
 <small><i>[top](#table-of-contents)</i></small>
 
----
-
 #### [Soyuz](https://github.com/zer0Kerbal/Soyuz)
 
 #### [SoyuzU](https://github.com/zer0Kerbal/SoyuzU)
