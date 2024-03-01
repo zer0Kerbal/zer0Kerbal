@@ -1179,8 +1179,6 @@ Just when you need that extra oxidizer on your spaceplane...
 <img src="https://raw.githubusercontent.com/zer0Kerbal/SafetyWall/master/img/HeroLogo_1920x1920.png" alt="SafetyWall Hero" width="45%" height="45%">
 </detail>
 
----
-
 ## [Klockheed Martian Ltd (KML)](https://curseforge.com/kerbal/ksp-mods/KlockheedMartianLtd)
 
 <small><i>[top](#table-of-contents)</i></small>
