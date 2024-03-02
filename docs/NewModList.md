@@ -170,16 +170,16 @@ aka `zed'K™`
 31. [Parts](#parts)
 32. [Mini Sample Return Capsule (MSRC)](#mini-sample-return-capsule-msrc-1)
 33. [Addons](#addons)
-34. [On Demand Fuel Cells (ODFC)](#on-demand-fuel-cells-odfc-1)
-35. [Patches](#patches)
-36. [Komplexity™ (KPLX)](#komplexity-kplx)
-37. [KerbSimpleCo](#kerbsimpleco)
-38. [SimpleConstruction! (SCON!)](#simpleconstruction-scon-1)
-39. [SimpleLogistics! (SLOG)](#simplelogistics-slog-1)
-40. [SimpleNotes!](#simplenotes)
-41. [SimpleLife!](#simplelife)
-42. [SimpleSurvival!](#simplesurvival)
-43. [Hot Beverages! Inc! (HOT) Agency](#hot-beverages-inc-hot-agency)
+    1. [On Demand Fuel Cells (ODFC)](#on-demand-fuel-cells-odfc-1)
+34. [Patches](#patches)
+    1. [Komplexity™ (KPLX)](#komplexity-kplx)
+35. [KerbSimpleCo](#kerbsimpleco)
+36. [SimpleConstruction! (SCON!)](#simpleconstruction-scon-1)
+37. [SimpleLogistics! (SLOG)](#simplelogistics-slog-1)
+38. [SimpleNotes!](#simplenotes)
+39. [SimpleLife!](#simplelife)
+40. [SimpleSurvival!](#simplesurvival)
+41. [Hot Beverages! Inc! (HOT) Agency](#hot-beverages-inc-hot-agency)
     1. [Fuel Cells (FUEL)](#fuel-cells-fuel)
     2. [Sensor Modules (SENS)](#sensor-modules-sens)
     3. [Service Modules (SERV)](#service-modules-serv)
@@ -1224,7 +1224,7 @@ Two size zero (0.625m) parts that make up an autonomous return capsule to stuff 
 
 ## Addons
 
-## [On Demand Fuel Cells (ODFC)](https://github.com/zer0Kerbal/ODFCr "On Demand Fuel Cells")
+### [On Demand Fuel Cells (ODFC)](https://github.com/zer0Kerbal/ODFCr "On Demand Fuel Cells")
 
 [![Current Version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/OnDemandFuelCells/master/json/mod.json)](https://www.curseforge.com/kerbal/ksp-mods/OnDemandFuelCells) ![release](https://img.shields.io/github/release-date/zer0kerbal/OnDemandFuelCells?style=plastic) ![License](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/OnDemandFuelCells/master/json/license.json) [![Pages][SHD:pgs]](https://zer0kerbal.github.io/OnDemandFuelCells/)
 
@@ -1234,7 +1234,7 @@ Two size zero (0.625m) parts that make up an autonomous return capsule to stuff 
 
 ## Patches
 
-## [Komplexity™ (KPLX)](https://github.com/zer0Kerbal/Komplexity "Komplexity™ (KPLX)")
+### [Komplexity™ (KPLX)](https://github.com/zer0Kerbal/Komplexity "Komplexity™ (KPLX)")
 
 A Custom Barn Kit config addon that increases Kerbal Space Center buildings to ten levels instead of the stock game's four. For Kerbal Space Program. Doesn't add more building models.
 
