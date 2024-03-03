@@ -25,7 +25,9 @@ updated:
 ![](https://img.shields.io/github/contributors/zer0kerbal/MiniSampleReturnCapsule?style=plastic)  
 ![release](https://img.shields.io/github/release-date/zer0kerbal/MiniSampleReturnCapsule?style=plastic)
 ![prerelease](https://img.shields.io/github/release-date-pre/zer0kerbal/MiniSampleReturnCapsule?style=plastic)
+
 ### Addons
+
 * [On Demand Fuel Cells (ODFC)](https://github.com/zer0Kerbal/ODFCr "On Demand Fuel Cells")  
 ![](https://img.shields.io/github/v/release/zer0Kerbal/ODFCr?include_prereleases?style=plastic) 
 ![](https://github.com/zer0Kerbal/ODFCr/workflows/Validate%20AVC%20.version%20files/badge.svg "AVC-Valid") 
