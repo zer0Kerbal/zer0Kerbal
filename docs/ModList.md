@@ -48,7 +48,9 @@ updated:
 ![](https://img.shields.io/github/contributors/zer0kerbal/Komplexity?style=plastic)  
 ![release](https://img.shields.io/github/release-date/zer0kerbal/Komplexity?style=plastic)
 ![prerelease](https://img.shields.io/github/release-date-pre/zer0kerbal/Komplexity?style=plastic)
+
 ### Simple
+
 * [SimpleConstruction! (SC!)](https://github.com/zer0Kerbal/SimpleConstruction "SimpleConstruction!™ (SC!)")  
 ![](https://img.shields.io/github/v/release/zer0Kerbal/SimpleConstruction?include_prereleases?style=plastic)
 ![](https://github.com/zer0Kerbal/SimpleConstruction/workflows/Validate%20AVC%20.version%20files/badge.svg "AVC-Valid")
