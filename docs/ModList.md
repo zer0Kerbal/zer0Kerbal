@@ -69,7 +69,9 @@ updated:
 ![](https://img.shields.io/github/contributors/SimpleLogistics/Komplexity?style=plastic)  
 ![release](https://img.shields.io/github/release-date/zer0kerbal/SimpleLogistics?style=plastic)
 ![prerelease](https://img.shields.io/github/release-date-pre/zer0kerbal/SimpleLogistics?style=plastic)
+
 ### In the Queue
+
 * [HotBeveragesIrradiated! (HOT)](https://github.com/zer0Kerbal/SimpleConstruction "HotBeveragesIrradiated!™ (HOT)")  
 ![](https://img.shields.io/github/v/release/zer0Kerbal/HotBeveragesIrradiated?include_prereleases?style=plastic)
 ![](https://github.com/zer0Kerbal/HotBeveragesIrradiated/workflows/Validate%20AVC%20.version%20files/badge.svg "AVC-Valid")
