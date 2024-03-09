@@ -83,5 +83,5 @@ updated:
 ![prerelease](https://img.shields.io/github/release-date-pre/zer0kerbal/HotBeveragesIrradiated?style=plastic)
 
 <!--
-this file: CC BY-SA 3.0+ARR
+THIS FILE: CC BY-SA 3.0+ARR
 zer0Kerbal-->
