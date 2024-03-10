@@ -4,14 +4,17 @@ created: 08 Aug 2021
 updated: 
  -->
 
-[🏠](Home)  
+[🏠](Home)
+
 # 👨‍🚀 `zer0Kerbal™`
+
 ## aka `zed'K™`
 
 ### Mods by zer0Kerbal
-- [zer0kerbal Mod Tracker](https://drive.google.com/file/d/1Thno9SvD45x5JnFsH-JFHCuwSqET72Ar)
+
+* [zer0kerbal Mod Tracker](https://drive.google.com/file/d/1Thno9SvD45x5JnFsH-JFHCuwSqET72Ar)
 - <details>
-           <summary> Mods by zer0Kerbal QR code</summary>
+  <summary> Mods by zer0Kerbal QR code</summary>
            <p> <a href="https://postimages.org/" target="_blank"><img src="https://i.postimg.cc/tTyHWcxk/zer0-KMod-Tracker-URL.png" alt="zer0-KMod-Tracker-URL"/></a></p>
          </details>  
          
