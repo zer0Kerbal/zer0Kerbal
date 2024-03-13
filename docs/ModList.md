@@ -16,7 +16,7 @@ updated:
 - <details>
   <summary> Mods by zer0Kerbal QR code</summary>
     <p> <a href="https://postimages.org/" target="_blank"><img src="https://i.postimg.cc/tTyHWcxk/zer0-KMod-Tracker-URL.png" alt="zer0-KMod-Tracker-URL"/></a></p>
-         </details>  
+</details>  
 
 ### Parts
 
