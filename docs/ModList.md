@@ -13,7 +13,8 @@ updated:
 ### Mods by zer0Kerbal
 
 * [zer0kerbal Mod Tracker](https://drive.google.com/file/d/1Thno9SvD45x5JnFsH-JFHCuwSqET72Ar)
-- <details>
+
+<details>
   <summary> Mods by zer0Kerbal QR code</summary>
     <p> <a href="https://postimages.org/" target="_blank"><img src="https://i.postimg.cc/tTyHWcxk/zer0-KMod-Tracker-URL.png" alt="zer0-KMod-Tracker-URL"/></a></p>
 </details>  
