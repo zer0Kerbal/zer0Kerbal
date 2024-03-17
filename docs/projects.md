@@ -114,7 +114,7 @@ sections expand (details)
 
 ### [Adept (AALT)](https://github.com/zer0Kerbal/Adept)
 
-  ![Adept[(https://github.com/zer0Kerbal/Adept/actions/workflows/greetings.yml/badge.svg) ![Adept[(https://github.com/zer0Kerbal/Adept/actions/workflows/AVC-VersionFileValidator.yml/badge.svg?branch=master)
+  ![Adept](https://github.com/zer0Kerbal/Adept/actions/workflows/greetings.yml/badge.svg) ![Adept](https://github.com/zer0Kerbal/Adept/actions/workflows/AVC-VersionFileValidator.yml/badge.svg?branch=master)
   ![Adept[(https://img.shields.io/github/downloads/zer0Kerbal/Adept/total?style=plastic) ![Adept[(https://img.shields.io/github/repo-size/zer0Kerbal/Adept?style=plastic) ![Adept[(https://img.shields.io/github/contributors/zer0kerbal/Adept?style=plastic) ![Adept[(https://img.shields.io/github/release-date/zer0kerbal/Adept?style=plastic) ![Adept[(https://img.shields.io/github/release-date-pre/zer0kerbal/Adept?style=plastic)
 
 </details>
