@@ -200,7 +200,6 @@ sections expand (details)
 
 </details>
 
-
 ## Hot Beverage Inc (HBI)
 
 [TOC/top](#toc)
