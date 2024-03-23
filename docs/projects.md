@@ -236,6 +236,7 @@ sections expand (details)
 
   ![Radioisotope Thermoelectric Generators (RTG)](https://github.com/zer0Kerbal/RTG/actions/workflows/greetings.yml/badge.svg) ![Radioisotope Thermoelectric Generators (RTG)](https://github.com/zer0Kerbal/RTG/actions/workflows/AVC-VersionFileValidator.yml/badge.svg?branch=master)
   ![Radioisotope Thermoelectric Generators (RTG)](https://img.shields.io/github/downloads/zer0Kerbal/RTG/total?style=plastic) ![Radioisotope Thermoelectric Generators (RTG)](https://img.shields.io/github/repo-size/zer0Kerbal/RTG?style=plastic) ![Radioisotope Thermoelectric Generators (RTG)](https://img.shields.io/github/contributors/zer0kerbal/RTG?style=plastic) ![Radioisotope Thermoelectric Generators (RTG)](https://img.shields.io/github/release-date/zer0kerbal/RTG?style=plastic) ![Radioisotope Thermoelectric Generators (RTG)](https://img.shields.io/github/release-date-pre/zer0kerbal/RTG?style=plastic)
+
 ### [Sensor Modules (SENS)](https://github.com/zer0Kerbal/SensorModules)
 
   ![SensorModules](https://github.com/zer0Kerbal/SensorModules/actions/workflows/greetings.yml/badge.svg) ![SensorModules](https://github.com/zer0Kerbal/SensorModules/actions/workflows/AVC-VersionFileValidator.yml/badge.svg?branch=master)
