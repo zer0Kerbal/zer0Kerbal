@@ -112,7 +112,7 @@
   
 ### Copyrights and Trademarks
 
-- zer0Kerbal, zed'K, zedK, zer0Kerman, and zer0Kermin (along with varients and misspellings) are All Rights Reserved
+- zer0Kerbal, zed'K, zedK, 0K, zer0Kerman, and zer0Kermin (along with variants and misspellings) are All Rights Reserved
 
 ### WHY - Mission Statement
 
