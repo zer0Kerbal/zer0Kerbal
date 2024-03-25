@@ -29,9 +29,6 @@
 [<img align="left" alt="zer0Kerbal | Reddit" width="32px" src="https://cdn.icon-icons.com/icons2/1945/PNG/512/iconfinder-reddit-4661631_122483.png" />][reddit]
 [<img align="left" alt="zer0Kerbal | Patreon" width="32px" src="https://cdn.icon-icons.com/icons2/2429/PNG/512/patreon_logo_icon_147253.png" />][patreon]
 [<img align="left" alt="zer0Kerbal | YouTube" width="32px" src="https://cdn.icon-icons.com/icons2/836/PNG/512/Youtube_icon-icons.com_66802.png" />][youtube]
-[<img align="left" alt="zer0Kerbal | Twitch" width="32px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/twitch_logo_icon_170383.png" />][twitch]
-[<img align="left" alt="zer0Kerbal | PayPal" width="32px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/paypal_logo_icon_168055.png" />][paypal]
-[<img align="left" alt="zer0Kerbal | Buy Me a Coffee" width="32px" src="https://www.buymeacoffee.com/assets/img/bmc-meta-new/new/favicon.ico" />][buymeacoffee]
 <!-- [<img align="left" alt="zer0Kerbal | buy me a coffee" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/buymeacoffee.svg" />][buymeacoffee] -->
 [<img align="left" alt="x@zer0Kerbal | Twitter" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/x.png" width="32px" height="32px" />][twitter]
 <!-- [<img align="left" alt="zer0Kerbal | Twitter" width="32px" src="https://cdn.icon-icons.com/icons2/836/PNG/32/Twitter_icon-icons.com_66803.png" />][twitter] -->
