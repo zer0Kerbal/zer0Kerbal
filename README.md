@@ -15,9 +15,7 @@
   <img src="https://profile-counter.glitch.me/zer0Kerbal/count.svg" />
 </p>
 
-![](https://github.com/insolitum/insolitum/raw/main/contributions.svg)
-
-From [insolitum](https://github.com/insolitum) [Expat-MIT]
+![](https://github.com/insolitum/insolitum/raw/main/contributions.svg) From [insolitum](https://github.com/insolitum) [Expat-MIT]
 
 ### Connect with me 📣
 
