@@ -37,7 +37,7 @@
 ## Patrons
 
 <ul>
-  <li><a href="https://www.patreon.com/user?u=5423383"><img border="1" alt="Errol" src="https://c10.patreonusercontent.com/4/patreon-media/p/user/5423383/78d0e20f55a74531ab97ed8ea5178ca5/eyJ3IjoyMDB9/1.jpg?token-time=2145916800&token-hash=A8vGTKj69f0n4980rDrnczo-s40YwADf7EJ1UaJNR7w%3D" width="50px" height="50ox" > Errol</a> for going above and beyond. o7</li>
+  <li><a href="https://www.patreon.com/user?u=5423383"><img border="1" alt="Errol" src="https://c10.patreonusercontent.com/4/patreon-media/p/user/5423383/78d0e20f55a74531ab97ed8ea5178ca5/eyJ3IjoyMDB9/1.jpg?token-time=2145916800&token-hash=A8vGTKj69f0n4980rDrnczo-s40YwADf7EJ1UaJNR7w%3D" width="50px" height="50ox" >Errol</a> Welcome Aboard as a 1st class passenger. o7</li>
   <li><a href="https://www.reddit.com/user/eengie/"><img border="1" alt="eengie" src="https://i.redd.it/snoovatar/avatars/96418e79-2cd4-4759-91c2-057701985e65.png" width="50px" height="50ox" > eengie</a> for going above and beyond. o7</li>
   <li><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/133828-*/"><img border="0" alt="eightiesboi" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/monthly_2018_01/happy_velociraptor_dinosaur_greeting_cards-r918b99ab65894a198682f360e419773a_xvuak_8byvr_512.thumb.jpg.00c28897eef8a91ee74f6cb59a9bbb5f.jpg" width="50px" height="50px" > eightiesboi</a> for KSP2 and so much more. o7</li>
 </ul>
