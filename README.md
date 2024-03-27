@@ -26,7 +26,9 @@
 [<img align="left" alt="zer0Kerbal | Patreon" width="32px" src="https://cdn.icon-icons.com/icons2/2429/PNG/512/patreon_logo_icon_147253.png" />][patreon]
 [<img align="left" alt="zer0Kerbal | YouTube" width="32px" src="https://cdn.icon-icons.com/icons2/836/PNG/512/Youtube_icon-icons.com_66802.png" />][youtube]
 [<img align="left" alt="x@zer0Kerbal | Twitter" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/x.png" width="32px" height="32px" />][twitter]
-  
+
+---
+
 ## [Projects](https://zer0kerbal.github.io/zer0Kerbal/projects.html)
 
 ## Listing of zer0Kerbal addons (wip)
