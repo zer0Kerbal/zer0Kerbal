@@ -17,11 +17,9 @@
 
 ![](https://github.com/insolitum/insolitum/raw/main/contributions.svg)
 
- From
-- [insolitum](https://github.com/insolitum)
-- Expat-MIT
+From [insolitum](https://github.com/insolitum) [Expat-MIT]
 
-### Connect with me:
+### Connect with me 📣
 
 <!--[<img align="left" alt="kerbalspaceprogram.com" width="32px" src="https://kerbalspaceprogram.com//favicon.ico" />][website]-->
 [<img align="left" alt="kerbalspaceprogram.com" width="32px" src="https://cdn.icon-icons.com/icons2/1381/PNG/32/kerbalspaceprogram_93898.png" />][website]
@@ -30,7 +28,6 @@
 [<img align="left" alt="zer0Kerbal | Patreon" width="32px" src="https://cdn.icon-icons.com/icons2/2429/PNG/512/patreon_logo_icon_147253.png" />][patreon]
 [<img align="left" alt="zer0Kerbal | YouTube" width="32px" src="https://cdn.icon-icons.com/icons2/836/PNG/512/Youtube_icon-icons.com_66802.png" />][youtube]
 [<img align="left" alt="x@zer0Kerbal | Twitter" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/x.png" width="32px" height="32px" />][twitter]
-<br />
 
 ## [Projects](https://zer0kerbal.github.io/zer0Kerbal/projects.html)
 
@@ -42,6 +39,7 @@
 ## Patrons
 
 <ul>
+  <li><a href="https://www.patreon.com/user?u=5423383"><img border="1" alt="Errol" src="https://c10.patreonusercontent.com/4/patreon-media/p/user/5423383/78d0e20f55a74531ab97ed8ea5178ca5/eyJ3IjoyMDB9/1.jpg?token-time=2145916800&token-hash=A8vGTKj69f0n4980rDrnczo-s40YwADf7EJ1UaJNR7w%3D" width="50px" height="50ox" > Errol</a> for going above and beyond. o7</li>
   <li><a href="https://www.reddit.com/user/eengie/"><img border="1" alt="eengie" src="https://i.redd.it/snoovatar/avatars/96418e79-2cd4-4759-91c2-057701985e65.png" width="50px" height="50ox" > eengie</a> for going above and beyond. o7</li>
   <li><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/133828-*/"><img border="0" alt="eightiesboi" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/monthly_2018_01/happy_velociraptor_dinosaur_greeting_cards-r918b99ab65894a198682f360e419773a_xvuak_8byvr_512.thumb.jpg.00c28897eef8a91ee74f6cb59a9bbb5f.jpg" width="50px" height="50px" > eightiesboi</a> for KSP2 and so much more. o7</li>
 </ul>
