@@ -8,7 +8,7 @@ tags: addon-list,mod-list,ksp-mod,page,kerbal,ksp,zer0Kerbal,zedK
 <!-- NewModList.md v1.0.1.0
 zer0Kerbal (zed'K)
 created: 08 Aug 2021
-updated: 07 Jul 2023 -->
+updated: 01 Apr 2024 -->
 <link rel="stylesheet" type="text/css" href="https://legoman8304.github.io/style.css">
 # 👨‍🚀 Addons by [zer0Kerbal™][zedK]  <!-- omit from toc -->
 
