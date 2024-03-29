@@ -14,7 +14,7 @@ updated: 01 Apr 2024 -->
 
 aka `zed'K™`
 
-[zedK]: https://github.com/zer0Kerbal "zer0Kerbal (zed'K)"
+[zedK]: https://github.com/zer0Kerbal "zer0Kerbal (zed'K) (0K)"
 [SHD:pgs]: https://img.shields.io/badge/GitHub-Pages-white?style=plastic&labelColor=9cf&logoColor=181717&logo=github "GitHub IO"
 
 [🏠](Home)  
