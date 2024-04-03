@@ -8,7 +8,7 @@
   * A.B.C.D or A.B.C (aka #.#.#.# or #.#.#) is an example.
   * standardize what each number means (major.minor.patch.build or major.minor.patch)
   * write this down - I do here
-    * for me: 
+    * for me:
       * build (least significant digit): inconsequential hanges like typos, and other minor things - changes to documentation, url, etc.
       * patch: slight changes that don't (normally) affect saves but more than just a minor
       * minor:  standard version updates (like the one you posted about)
