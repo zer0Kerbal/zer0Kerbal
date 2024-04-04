@@ -9,7 +9,7 @@
   * standardize what each number means (major.minor.patch.build or major.minor.patch)
   * write this down - I do here
     * for me:
-      * build (least significant digit): inconsequential hanges like typos, and other minor things - changes to documentation, url, etc.
+      * build (least significant digit): inconsequential changes like typos, and other minor things - changes to documentation, url, etc.
       * patch: slight changes that don't (normally) affect saves but more than just a minor
       * minor:  standard version updates (like the one you posted about)
       * major: (most significant digit): game changing changes - like a new owner
