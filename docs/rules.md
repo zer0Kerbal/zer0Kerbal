@@ -1,4 +1,4 @@
-# Rules
+# Rules and Recommendations
 
 * Ask questions and  learn from others (as you are doing here); learn, adapt, improvise, improve * (Kerbal _Kaizen_ approach) and develop your individual style
 * Approach documentation as a player - what do I want to see?  Think journalism and the W?W?W?W?W?H? (W5H?)
