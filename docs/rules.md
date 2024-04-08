@@ -17,3 +17,4 @@
         * x.9.9.9 or x.x.9.99 are pre-releases or adoptions
         * x.9.9.x or x.x.9.x are for betas
   * Include -release_type
+  * 
