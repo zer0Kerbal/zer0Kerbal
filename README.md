@@ -119,6 +119,24 @@
   - Kerbal Space Program players often aren't native English speakers; world focused - make sure every mod is translated to as many languages as possible.
   - Help to motivate STEAM and the future of science and innovation by facilitating players KSP play.
   - include non-standard localizations such as Dutch, ?
+  - * Supported by Kerbal Space Program as of 1.12.x
+  * ![English][EN] English <en-us.cfg>
+  * ![Brasil][BR] Brazilian <pt-br.cfg>
+  * ![中文][CN] Simplified Chinese (中文) <zh-cn.cfg>
+  * ![Deutsch][DE] German (Deutsch) <de.cfg>
+  * ![Español][ES] Spanish (Español) <es-es.cfg>
+  * ![Français][FR] French (Français)<fr-fr.cfg>
+  * ![Italiano][IT] Italian (Italiano) <it-it.cfg>
+  * ![日本語][JA] Japanese (日本語) <ja.cfg>
+* Included as well
+  * ![한국어][KO] Korean (한국어) <ko.cfg>
+  * ![Español Mexicano][MX] Mexican Spanish (Español Mexicano) <es-mx.cfg>
+  * ![Dutch][NL] Dutch <nl-nl.cfg>
+  * ![Norsk][NO] Norwegian (Norsk) <no-no.cfg>
+  * ![Polski][PO] Polish (Polski) <pl.cfg>
+  * ![Русский][RU] Russian (Русский) <ru.cfg>
+  * ![Svenska][SW] Swedish (Svenska) <sw-sw.cfg>
+  * ![国语][TW] Taiwanese (国语) <zh-tw.cfg>
 - non-profit: yes some profit; however the *financial* RIO (return on investment) will be negative due to number of hours per day invested (6-10).
 
 ## WHAT - clear vision
