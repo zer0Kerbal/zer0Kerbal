@@ -121,7 +121,7 @@
   - include non-standard localizations such as Dutch, ?
   - Supported by Kerbal Space Program as of 1.12.x
     - ![English][EN] English <en-us.cfg>
-  * ![Brasil][BR] Brazilian <pt-br.cfg>
+    - ![Brasil][BR] Brazilian <pt-br.cfg>
   * ![中文][CN] Simplified Chinese (中文) <zh-cn.cfg>
   * ![Deutsch][DE] German (Deutsch) <de.cfg>
   * ![Español][ES] Spanish (Español) <es-es.cfg>
