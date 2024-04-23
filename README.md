@@ -123,7 +123,7 @@
     - ![English][EN] English <en-us.cfg>
     - ![Brasil][BR] Brazilian <pt-br.cfg>
     - ![中文][CN] Simplified Chinese (中文) <zh-cn.cfg>
-  * ![Deutsch][DE] German (Deutsch) <de.cfg>
+    - ![Deutsch][DE] German (Deutsch) <de.cfg>
   * ![Español][ES] Spanish (Español) <es-es.cfg>
   * ![Français][FR] French (Français)<fr-fr.cfg>
   * ![Italiano][IT] Italian (Italiano) <it-it.cfg>
