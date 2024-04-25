@@ -125,7 +125,7 @@
     - ![中文][CN] Simplified Chinese (中文) <zh-cn.cfg>
     - ![Deutsch][DE] German (Deutsch) <de.cfg>
     - ![Español][ES] Spanish (Español) <es-es.cfg>
-  * ![Français][FR] French (Français)<fr-fr.cfg>
+    - ![Français][FR] French (Français)<fr-fr.cfg>
   * ![Italiano][IT] Italian (Italiano) <it-it.cfg>
   * ![日本語][JA] Japanese (日本語) <ja.cfg>
 * Included as well
