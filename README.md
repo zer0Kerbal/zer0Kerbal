@@ -129,7 +129,7 @@
     - ![Italiano][IT] Italian (Italiano) <it-it.cfg>
     - ![日本語][JA] Japanese (日本語) <ja.cfg>
   - Included as well
-  * ![한국어][KO] Korean (한국어) <ko.cfg>
+    - ![한국어][KO] Korean (한국어) <ko.cfg>
   * ![Español Mexicano][MX] Mexican Spanish (Español Mexicano) <es-mx.cfg>
   * ![Dutch][NL] Dutch <nl-nl.cfg>
   * ![Norsk][NO] Norwegian (Norsk) <no-no.cfg>
