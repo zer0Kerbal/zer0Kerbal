@@ -132,7 +132,7 @@
     - ![한국어][KO] Korean (한국어) <ko.cfg>
     - ![Español Mexicano][MX] Mexican Spanish (Español Mexicano) <es-mx.cfg>
     - ![Dutch][NL] Dutch <nl-nl.cfg>
-  * ![Norsk][NO] Norwegian (Norsk) <no-no.cfg>
+    - ![Norsk][NO] Norwegian (Norsk) <no-no.cfg>
   * ![Polski][PO] Polish (Polski) <pl.cfg>
   * ![Русский][RU] Russian (Русский) <ru.cfg>
   * ![Svenska][SW] Swedish (Svenska) <sw-sw.cfg>
