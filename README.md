@@ -133,7 +133,7 @@
     - ![Español Mexicano][MX] Mexican Spanish (Español Mexicano) <es-mx.cfg>
     - ![Dutch][NL] Dutch <nl-nl.cfg>
     - ![Norsk][NO] Norwegian (Norsk) <no-no.cfg>
-  * ![Polski][PO] Polish (Polski) <pl.cfg>
+    - ![Polski][PO] Polish (Polski) <pl.cfg>
   * ![Русский][RU] Russian (Русский) <ru.cfg>
   * ![Svenska][SW] Swedish (Svenska) <sw-sw.cfg>
   * ![国语][TW] Taiwanese (国语) <zh-tw.cfg>
