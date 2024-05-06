@@ -137,7 +137,8 @@
     - ![Русский][RU] Russian (Русский) <ru.cfg>
     - ![Svenska][SW] Swedish (Svenska) <sw-sw.cfg>
     - ![国语][TW] Taiwanese (国语) <zh-tw.cfg>
-- non-profit: yes some profit; however the *financial* RIO (return on investment) will be negative due to number of hours per day invested (6-10).
+- non-profit: yes some profit; however the *financial* RIO (return on
+  investment) will be negative due to number of hours per day invested (6-10).
 
 ## WHAT - clear vision
 
