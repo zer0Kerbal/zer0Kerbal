@@ -118,7 +118,6 @@
 - Localizations:
   - Kerbal Space Program players often aren't native English speakers; world focused - make sure every mod is translated to as many languages as possible.
   - Help to motivate STEAM and the future of science and innovation by facilitating players KSP play.
-  - include non-standard localizations such as Dutch, ?
   - Supported by Kerbal Space Program as of 1.12.x
     - ![English][EN] English <en-us.cfg>
     - ![Brasil][BR] Brazilian <pt-br.cfg>
@@ -128,7 +127,7 @@
     - ![Français][FR] French (Français)<fr-fr.cfg>
     - ![Italiano][IT] Italian (Italiano) <it-it.cfg>
     - ![日本語][JA] Japanese (日本語) <ja.cfg>
-  - Included as well
+  - include non-standard localizations such as:
     - ![한국어][KO] Korean (한국어) <ko.cfg>
     - ![Español Mexicano][MX] Mexican Spanish (Español Mexicano) <es-mx.cfg>
     - ![Dutch][NL] Dutch <nl-nl.cfg>
