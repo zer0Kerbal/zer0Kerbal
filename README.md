@@ -160,7 +160,6 @@
 [youtube]: https://www.youtube.com/@zer0Kerbal
 [twitter]: https://twitter.com/zer0Kerbal
 [curseforge]: https://www.curseforge.com/members/zer0kerbal/projects
-[twitch]: https://www.twitch.tv/zer0kerbal
 
 [reddit]: https://www.reddit.com/user/zer0Kerbal
 [patreon]: https://www.patreon.com/zer0Kerbal
