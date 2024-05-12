@@ -152,10 +152,6 @@
     > The concept of kaizen encompasses a wide range of ideas. It involves making the work environment more efficient and effective by creating a team atmosphere, <u>improving everyday procedures</u>, ensuring <u>player engagement</u>, and making things <u>more fulfilling, less tiring, and safer</u>.
 - the best dependency is no dependency.
 
-<!--
-**zer0Kerbal/zer0Kerbal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<img src="https://wakatime.com/share/@926db0f4-33a1-4545-8aa6-88d1f7186f67/18dd85d3-f64d-4bcc-a3c3-65302497efc0.svg" width=600 height=600> -->
-
 [website]: https://forum.kerbalspaceprogram.com/index.php?/profile/190933-zer0kerbal/
 [youtube]: https://www.youtube.com/@zer0Kerbal
 [twitter]: https://twitter.com/zer0Kerbal
