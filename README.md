@@ -163,7 +163,6 @@
 
 [reddit]: https://www.reddit.com/user/zer0Kerbal
 [patreon]: https://www.patreon.com/zer0Kerbal
-[paypal]: https://www.paypal.com/donate?hosted_button_id=DC22YHMEJREKL
 
 [EN]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/EN.png "English"  
 [BR]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/BR.png "Português Brasil"
