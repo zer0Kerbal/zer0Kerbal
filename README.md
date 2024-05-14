@@ -119,7 +119,7 @@
   - Kerbal Space Program players often aren't native English speakers; world focused - make sure every mod is translated to as many languages as possible.
   - Help to motivate STEAM and the future of science and innovation by facilitating players KSP play.
   - Supported by Kerbal Space Program as of 1.12.x
-    - ![English][EN] English <en-us.cfg>
+    - ![English](https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/EN.png) English <en-us.cfg>
     - ![Brasil][BR] Brazilian <pt-br.cfg>
     - ![中文][CN] Simplified Chinese (中文) <zh-cn.cfg>
     - ![Deutsch][DE] German (Deutsch) <de.cfg>
