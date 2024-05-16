@@ -134,7 +134,7 @@
     - ![Norsk][NO] Norwegian (Norsk) <no-no.cfg>
     - ![Polski][PO] Polish (Polski) <pl.cfg>
     - ![Русский][RU] Russian (Русский) <ru.cfg>
-    - ![Svenska][SW] Swedish (Svenska) <sw-sw.cfg>
+    - ![Svenska](https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/SW.png) Swedish (Svenska) <sw-sw.cfg>
     - ![国语](https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/TW.png) Taiwanese (国语) <zh-tw.cfg>
 - non-profit: yes some profit; however the *financial* RIO (return on
   investment) will be negative due to number of hours per day invested (6-10).
