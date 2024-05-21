@@ -132,7 +132,7 @@
     - ![Español Mexicano][MX] Mexican Spanish (Español Mexicano) <es-mx.cfg>
     - ![Dutch][NL] Dutch <nl-nl.cfg>
     - ![Norsk][NO] Norwegian (Norsk) <no-no.cfg>
-    - ![Polski][PO] Polish (Polski) <pl.cfg>
+    - ![Polski](https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/PO.png) Polish (Polski) <pl.cfg>
     - ![Русский](https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/RU.png) Russian (Русский) <ru.cfg>
     - ![Svenska](https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/SW.png) Swedish (Svenska) <sw-sw.cfg>
     - ![国语](https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/TW.png) Taiwanese (国语) <zh-tw.cfg>
@@ -172,7 +172,7 @@
 [MX]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/MX.png "Mexicano Español"  
 [NL]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/NL.png "Dutch"  
 [NO]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/NO.png "Norsk"
-[PO]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/PO.png "Polski"
+[PO]:  "Polski"
 
 THIS FILE: CC BY-ND 4.0 by [zer0Kerbal](https://github.com/zer0Kerbal)
   used with express permission from zer0Kerbal
