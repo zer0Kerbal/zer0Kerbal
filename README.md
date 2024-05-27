@@ -130,7 +130,7 @@
   - include non-standard localizations such as:
     - ![한국어][KO] Korean (한국어) <ko.cfg>
     - ![Español Mexicano][MX] Mexican Spanish (Español Mexicano) <es-mx.cfg>
-    - ![Dutch][NL] Dutch <nl-nl.cfg>
+    - ![Dutch](https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/NL.png) Dutch <nl-nl.cfg>
     - ![Norsk](https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/NO.png) Norwegian (Norsk) <no-no.cfg>
     - ![Polski](https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/PO.png) Polish (Polski) <pl.cfg>
     - ![Русский](https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/RU.png) Russian (Русский) <ru.cfg>
@@ -148,7 +148,7 @@
 [JA]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/JA.png "日本語"  
 [KO]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/KO.png "한국어"  
 [MX]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/MX.png "Mexicano Español"  
-[NL]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/NL.png "Dutch"
+[NL]:  "Dutch"
 
 ## WHAT - clear vision
 
