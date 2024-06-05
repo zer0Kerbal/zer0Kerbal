@@ -120,7 +120,7 @@
   - Help to motivate STEAM and the future of science and innovation by facilitating players KSP play.
   - Supported by Kerbal Space Program as of 1.12.x
     - ![English](https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/EN.png) English <en-us.cfg>
-    - ![Brasil][BR] Brazilian <pt-br.cfg>
+    - ![Brasil](https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/BR.png) Brazilian <pt-br.cfg>
     - ![中文][CN] Simplified Chinese (中文) <zh-cn.cfg>
     - ![Deutsch][DE] German (Deutsch) <de.cfg>
     - ![Español][ES] Spanish (Español) <es-es.cfg>
@@ -139,7 +139,7 @@
 - non-profit: yes some profit; however the *financial* RIO (return on
   investment) will be negative due to number of hours per day invested (6-10).
 [EN]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/EN.png "English"  
-[BR]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/BR.png "Português Brasil"
+[BR]:  "Português Brasil"
 [CN]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/CH.png "中文"  
 [DE]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/DE.png "Deutsch"  
 [ES]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/ES.png "Español"  
