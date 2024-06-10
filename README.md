@@ -124,7 +124,7 @@
     - ![中文][CN] Simplified Chinese (中文) <zh-cn.cfg>
     - ![Deutsch][DE] German (Deutsch) <de.cfg>
     - ![Español][ES] Spanish (Español) <es-es.cfg>
-    - ![Français][FR] French (Français)<fr-fr.cfg>
+    - ![Français](https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/FR.png) French (Français)<fr-fr.cfg>
     - ![Italiano](https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/IT.png) Italian (Italiano) <it-it.cfg>
     - ![日本語](https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/JA.png) Japanese (日本語) <ja.cfg>
   - include non-standard localizations such as:
@@ -143,7 +143,7 @@
 [CN]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/CH.png "中文"  
 [DE]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/DE.png "Deutsch"  
 [ES]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/ES.png "Español"  
-[FR]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/FR.png
+[FR]: 
 
 ## WHAT - clear vision
 
