@@ -123,7 +123,7 @@
     - ![Brasil](https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/BR.png) Brazilian <pt-br.cfg>
     - ![中文][CN] Simplified Chinese (中文) <zh-cn.cfg>
     - ![Deutsch][DE] German (Deutsch) <de.cfg>
-    - ![Español][ES] Spanish (Español) <es-es.cfg>
+    - ![Español](https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/ES.png) Spanish (Español) <es-es.cfg>
     - ![Français](https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/FR.png) French (Français)<fr-fr.cfg>
     - ![Italiano](https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/IT.png) Italian (Italiano) <it-it.cfg>
     - ![日本語](https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/JA.png) Japanese (日本語) <ja.cfg>
@@ -142,7 +142,7 @@
 [BR]:  "Português Brasil"
 [CN]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/CH.png "中文"  
 [DE]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/DE.png "Deutsch"  
-[ES]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/ES.png
+[ES]: 
 
 ## WHAT - clear vision
 
