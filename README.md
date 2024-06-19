@@ -121,7 +121,7 @@
   - Supported by Kerbal Space Program as of 1.12.x
     - ![English](https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/EN.png) English <en-us.cfg>
     - ![Brasil](https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/BR.png) Brazilian <pt-br.cfg>
-    - ![中文][CN] Simplified Chinese (中文) <zh-cn.cfg>
+    - ![中文](https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/CH.png) Simplified Chinese (中文) <zh-cn.cfg>
     - ![Deutsch](https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/DE.png) German (Deutsch) <de.cfg>
     - ![Español](https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/ES.png) Spanish (Español) <es-es.cfg>
     - ![Français](https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/FR.png) French (Français)<fr-fr.cfg>
@@ -140,7 +140,7 @@
   investment) will be negative due to number of hours per day invested (6-10).
 [EN]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/EN.png "English"  
 [BR]:  "Português Brasil"
-[CN]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/CH.png
+[CN]: 
 
 ## WHAT - clear vision
 
