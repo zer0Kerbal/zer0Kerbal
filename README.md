@@ -142,7 +142,7 @@
 
 ## WHAT - clear vision
 
-- Kerbal Space Program exterior enhancements and adjustments
+- Kerbal Space Program exterior enhancements and adjustments.
 
 ## How - Strategy
 
