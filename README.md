@@ -151,6 +151,7 @@
   - > ‘`Kaizen`, the Sino-Japanese word for ‘change for the better‘ or ‘rapid improvement’, is a concept referring to business activities that continuously improve all functions and involve all employees from the CEO to the assembly line workers. Kaizen also applies to processes, such as purchasing and logistics, that cross organizational boundaries into the supply chain’
     > The concept of kaizen encompasses a wide range of ideas. It involves making the work environment more efficient and effective by creating a team atmosphere, <u>improving everyday procedures</u>, ensuring <u>player engagement</u>, and making things <u>more fulfilling, less tiring, and safer</u>.
 - the best dependency is no dependency.
+- 
 
 [website]: https://forum.kerbalspaceprogram.com/index.php?/profile/190933-zer0kerbal/
 [youtube]: https://www.youtube.com/@zer0Kerbal
