@@ -316,4 +316,5 @@ _dakine!_
 _dakine!_
 _dakine!_
 _dakine!_
+_thank you Patreon!_
 _dakine!_
