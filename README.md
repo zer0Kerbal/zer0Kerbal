@@ -75,7 +75,9 @@
 
 #### 📕 Latest Blog Posts
 
-<!-- REDDIT:START --><table><tr><td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1fwboyz/i_installed_mechjeb_2_from_ckan_but_the_number_of/lr0q60c/"><img width="33px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/reddit.png" alt="reddit" height="33px"></a></td>
+<!-- REDDIT:START --><table><tr><td><a href="https://www.reddit.com/r/kerbalspaceprogram_2/comments/1hdx4bl/future_mod_support_vs_current_mod_support_on_ksp_1/m24jdwf/"><img width="33px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/reddit.png" alt="reddit" height="33px"></a></td>
+<td><a href="https://www.reddit.com/r/kerbalspaceprogram_2/comments/1hdx4bl/future_mod_support_vs_current_mod_support_on_ksp_1/m24jdwf/">/u/zer0Kerbal on Future mod support vs current mod support on KSP 1?</a><br/>Dec 15, 2024</td></tr></table>
+<table><tr><td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1fwboyz/i_installed_mechjeb_2_from_ckan_but_the_number_of/lr0q60c/"><img width="33px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/reddit.png" alt="reddit" height="33px"></a></td>
 <td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1fwboyz/i_installed_mechjeb_2_from_ckan_but_the_number_of/lr0q60c/">/u/zer0Kerbal on I installed MechJeb 2 from CKAN, but the number of downloads seems to be too low. Is this an untrustworthy source to download this add-on from?</a><br/>Oct 8, 2024</td></tr></table>
 <table><tr><td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1fwboyz/i_installed_mechjeb_2_from_ckan_but_the_number_of/lr0oa2c/"><img width="33px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/reddit.png" alt="reddit" height="33px"></a></td>
 <td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1fwboyz/i_installed_mechjeb_2_from_ckan_but_the_number_of/lr0oa2c/">/u/zer0Kerbal on I installed MechJeb 2 from CKAN, but the number of downloads seems to be too low. Is this an untrustworthy source to download this add-on from?</a><br/>Oct 8, 2024</td></tr></table>
@@ -83,8 +85,6 @@
 <td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1fwboyz/i_installed_mechjeb_2_from_ckan_but_the_number_of/lqoixoa/">/u/zer0Kerbal on I installed MechJeb 2 from CKAN, but the number of downloads seems to be too low. Is this an untrustworthy source to download this add-on from?</a><br/>Oct 6, 2024</td></tr></table>
 <table><tr><td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1d185u5/why_did_some_modders_oppose_ckan_for_ksp1/l5tm9jd/"><img width="33px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/reddit.png" alt="reddit" height="33px"></a></td>
 <td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1d185u5/why_did_some_modders_oppose_ckan_for_ksp1/l5tm9jd/">/u/zer0Kerbal on Why did some modders oppose CKAN for KSP1, refusing to support it?</a><br/>May 27, 2024</td></tr></table>
-<table><tr><td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1d185u5/why_did_some_modders_oppose_ckan_for_ksp1/l5tm3zz/"><img width="33px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/reddit.png" alt="reddit" height="33px"></a></td>
-<td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1d185u5/why_did_some_modders_oppose_ckan_for_ksp1/l5tm3zz/">/u/zer0Kerbal on Why did some modders oppose CKAN for KSP1, refusing to support it?</a><br/>May 27, 2024</td></tr></table>
 <!-- REDDIT:END -->
 
 <!-- BLOG-POST-LIST:START -->
