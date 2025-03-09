@@ -75,7 +75,9 @@
 
 #### 📕 Latest Blog Posts
 
-<!-- REDDIT:START --><table><tr><td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1inzdih/anyone_know_how_to_fix_this/mcnucm8/"><img width="33px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/reddit.png" alt="reddit" height="33px"></a></td>
+<!-- REDDIT:START --><table><tr><td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1j313aq/upgrading/mg8vzwe/"><img width="33px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/reddit.png" alt="reddit" height="33px"></a></td>
+<td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1j313aq/upgrading/mg8vzwe/">/u/zer0Kerbal on Upgrading</a><br/>Mar 6, 2025</td></tr></table>
+<table><tr><td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1inzdih/anyone_know_how_to_fix_this/mcnucm8/"><img width="33px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/reddit.png" alt="reddit" height="33px"></a></td>
 <td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1inzdih/anyone_know_how_to_fix_this/mcnucm8/">/u/zer0Kerbal on Anyone know how to fix this?</a><br/>Feb 14, 2025</td></tr></table>
 <table><tr><td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1g4j9rn/anyone_else_having_problems_with_the_ksp_forum/m914qjg/"><img width="33px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/reddit.png" alt="reddit" height="33px"></a></td>
 <td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1g4j9rn/anyone_else_having_problems_with_the_ksp_forum/m914qjg/">/u/zer0Kerbal on Anyone else having problems with the KSP forum?</a><br/>Jan 25, 2025</td></tr></table>
@@ -83,8 +85,6 @@
 <td><a href="https://www.reddit.com/r/kerbalspaceprogram_2/comments/1hdx4bl/future_mod_support_vs_current_mod_support_on_ksp_1/m24jdwf/">/u/zer0Kerbal on Future mod support vs current mod support on KSP 1?</a><br/>Dec 15, 2024</td></tr></table>
 <table><tr><td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1fwboyz/i_installed_mechjeb_2_from_ckan_but_the_number_of/lr0q60c/"><img width="33px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/reddit.png" alt="reddit" height="33px"></a></td>
 <td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1fwboyz/i_installed_mechjeb_2_from_ckan_but_the_number_of/lr0q60c/">/u/zer0Kerbal on I installed MechJeb 2 from CKAN, but the number of downloads seems to be too low. Is this an untrustworthy source to download this add-on from?</a><br/>Oct 8, 2024</td></tr></table>
-<table><tr><td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1fwboyz/i_installed_mechjeb_2_from_ckan_but_the_number_of/lr0oa2c/"><img width="33px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/reddit.png" alt="reddit" height="33px"></a></td>
-<td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1fwboyz/i_installed_mechjeb_2_from_ckan_but_the_number_of/lr0oa2c/">/u/zer0Kerbal on I installed MechJeb 2 from CKAN, but the number of downloads seems to be too low. Is this an untrustworthy source to download this add-on from?</a><br/>Oct 8, 2024</td></tr></table>
 <!-- REDDIT:END -->
 
 <!-- BLOG-POST-LIST:START -->
