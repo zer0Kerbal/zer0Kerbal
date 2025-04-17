@@ -75,7 +75,9 @@
 
 #### 📕 Latest Blog Posts
 
-<!-- REDDIT:START --><table><tr><td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1jwxtam/oldest_mods/mmtwc4n/"><img width="33px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/reddit.png" alt="reddit" height="33px"></a></td>
+<!-- REDDIT:START --><table><tr><td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1k10x2h/must_have_mods/mnieuvq/"><img width="33px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/reddit.png" alt="reddit" height="33px"></a></td>
+<td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1k10x2h/must_have_mods/mnieuvq/">/u/zer0Kerbal on Must have mods?</a><br/>Apr 17, 2025</td></tr></table>
+<table><tr><td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1jwxtam/oldest_mods/mmtwc4n/"><img width="33px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/reddit.png" alt="reddit" height="33px"></a></td>
 <td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1jwxtam/oldest_mods/mmtwc4n/">/u/zer0Kerbal on Oldest mods?</a><br/>Apr 13, 2025</td></tr></table>
 <table><tr><td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/11bcmlp/gone_to_plaid_simple_hyperdrive_hype_version/mj8kf9d/"><img width="33px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/reddit.png" alt="reddit" height="33px"></a></td>
 <td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/11bcmlp/gone_to_plaid_simple_hyperdrive_hype_version/mj8kf9d/">/u/zer0Kerbal on Gone to Plaid! Simple Hyperdrive! &lpar;HYPE&rpar; Version 2.6.0.0-release-CF `HotFix`</a><br/>Mar 23, 2025</td></tr></table>
@@ -83,8 +85,6 @@
 <td><a href="https://www.reddit.com/r/kerbalspaceprogram_2/comments/1jek4oy/how_i_expected_this_game_to_look/mix2qb6/">/u/zer0Kerbal on How i expected this game to look</a><br/>Mar 21, 2025</td></tr></table>
 <table><tr><td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1j313aq/upgrading/mg8vzwe/"><img width="33px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/reddit.png" alt="reddit" height="33px"></a></td>
 <td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1j313aq/upgrading/mg8vzwe/">/u/zer0Kerbal on Upgrading</a><br/>Mar 6, 2025</td></tr></table>
-<table><tr><td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1inzdih/anyone_know_how_to_fix_this/mcnucm8/"><img width="33px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/reddit.png" alt="reddit" height="33px"></a></td>
-<td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1inzdih/anyone_know_how_to_fix_this/mcnucm8/">/u/zer0Kerbal on Anyone know how to fix this?</a><br/>Feb 14, 2025</td></tr></table>
 <!-- REDDIT:END -->
 
 <!-- BLOG-POST-LIST:START -->
