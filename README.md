@@ -75,9 +75,7 @@
 
 #### 📕 Latest Blog Posts
 
-<!-- REDDIT:START --><table><tr><td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1l0qvse/does_anyone_know_this_mod/mvjih9l/"><img width="33px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/reddit.png" alt="reddit" height="33px"></a></td>
-<td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1l0qvse/does_anyone_know_this_mod/mvjih9l/">/u/zer0Kerbal on Does anyone know this mod?</a><br/>Jun 2, 2025</td></tr></table>
-<table><tr><td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1k7sas8/you_went_to_far_bill/mp8pyl9/"><img width="33px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/reddit.png" alt="reddit" height="33px"></a></td>
+<!-- REDDIT:START --><table><tr><td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1k7sas8/you_went_to_far_bill/mp8pyl9/"><img width="33px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/reddit.png" alt="reddit" height="33px"></a></td>
 <td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1k7sas8/you_went_to_far_bill/mp8pyl9/">/u/zer0Kerbal on You went to far, bill</a><br/>Apr 27, 2025</td></tr></table>
 <table><tr><td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1k24jga/what_why_how/mo0vaj3/"><img width="33px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/reddit.png" alt="reddit" height="33px"></a></td>
 <td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1k24jga/what_why_how/mo0vaj3/">/u/zer0Kerbal on What? Why? How? ????</a><br/>Apr 20, 2025</td></tr></table>
@@ -85,6 +83,8 @@
 <td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1k10x2h/must_have_mods/mnieuvq/">/u/zer0Kerbal on Must have mods?</a><br/>Apr 17, 2025</td></tr></table>
 <table><tr><td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1jwxtam/oldest_mods/mmtwc4n/"><img width="33px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/reddit.png" alt="reddit" height="33px"></a></td>
 <td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1jwxtam/oldest_mods/mmtwc4n/">/u/zer0Kerbal on Oldest mods?</a><br/>Apr 13, 2025</td></tr></table>
+<table><tr><td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/11bcmlp/gone_to_plaid_simple_hyperdrive_hype_version/mj8kf9d/"><img width="33px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/reddit.png" alt="reddit" height="33px"></a></td>
+<td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/11bcmlp/gone_to_plaid_simple_hyperdrive_hype_version/mj8kf9d/">/u/zer0Kerbal on Gone to Plaid! Simple Hyperdrive! &lpar;HYPE&rpar; Version 2.6.0.0-release-CF `HotFix`</a><br/>Mar 23, 2025</td></tr></table>
 <!-- REDDIT:END -->
 
 <!-- BLOG-POST-LIST:START -->
@@ -488,6 +488,7 @@ _dakine!_
 _dakine!_
 _dakine!_
 _🚀_
+_dakine!_
 _dakine!_
 _dakine!_
 _dakine!_
