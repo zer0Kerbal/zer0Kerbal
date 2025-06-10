@@ -170,21 +170,7 @@ _oh no, not again!_
 _oh no, not again!_
 _dakine!_
 _dakine!_
-_RUD Day!_
-_RUD Day!_
-_RUD Day!_
-_RUD Day!_
-_RUD Day!_
-_RUD Day!_
-_RUD Day!_
-_RUD Day!_
-_RUD Day!_
-_RUD Day!_
-_RUD Day!_
-_RUD Day!_
-_RUD Day!_
-_RUD Day!_
-_RUD Day!_
+_RUD Day!
 _dakine!_
 _dakine!_
 _dakine!_
