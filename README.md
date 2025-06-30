@@ -75,16 +75,16 @@
 
 #### 📕 Latest Blog Posts
 
-<!-- REDDIT:START --><table><tr><td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/17kx85n/updated_for_halloween/"><img width="33px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/reddit.png" alt="reddit" height="33px"></a></td>
-<td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/17kx85n/updated_for_halloween/">Updated for Hallowe&#39;en</a><br/>Oct 31, 2023</td></tr></table>
-<table><tr><td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/17hej07/this_weeks_releases/"><img width="33px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/reddit.png" alt="reddit" height="33px"></a></td>
-<td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/17hej07/this_weeks_releases/">This weeks releases</a><br/>Oct 27, 2023</td></tr></table>
-<table><tr><td><a href="https://www.reddit.com/r/u_zer0Kerbal/comments/16xj6gg/hacktoberfest_2023/"><img width="33px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/reddit.png" alt="reddit" height="33px"></a></td>
-<td><a href="https://www.reddit.com/r/u_zer0Kerbal/comments/16xj6gg/hacktoberfest_2023/">Hacktoberfest 2023</a><br/>Oct 2, 2023</td></tr></table>
-<table><tr><td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/15ic1sh/beep_beep_beep_science_instruments_msi/"><img width="33px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/reddit.png" alt="reddit" height="33px"></a></td>
-<td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/15ic1sh/beep_beep_beep_science_instruments_msi/">Beep! Beep! Beep! Science Instruments &lpar;MSI&rpar; 1.2.0.0-release `&lt;Спасибо evanisrael&gt;`</a><br/>Aug 4, 2023</td></tr></table>
-<table><tr><td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/15539kg/hoist_the_colors_pirates_of_the_keribbean_potk/"><img width="33px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/reddit.png" alt="reddit" height="33px"></a></td>
-<td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/15539kg/hoist_the_colors_pirates_of_the_keribbean_potk/">Hoist the Colors! Pirates of the Keribbean &lpar;PotK&rpar; - v0.9.99.0-adoption - `&lt;Thank you GagaX&gt;` edition</a><br/>Jul 20, 2023</td></tr></table>
+<!-- REDDIT:START --><table><tr><td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1lkvsz2/i_made_a_big_mistake/n069593/"><img width="33px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/reddit.png" alt="reddit" height="33px"></a></td>
+<td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1lkvsz2/i_made_a_big_mistake/n069593/">/u/zer0Kerbal on I made a big mistake...</a><br/>Jun 28, 2025</td></tr></table>
+<table><tr><td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1l6gyn9/anyone_know_what_this_is/mx4ec60/"><img width="33px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/reddit.png" alt="reddit" height="33px"></a></td>
+<td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1l6gyn9/anyone_know_what_this_is/mx4ec60/">/u/zer0Kerbal on anyone know what this is?</a><br/>Jun 11, 2025</td></tr></table>
+<table><tr><td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1l0qvse/does_anyone_know_this_mod/mvjih9l/"><img width="33px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/reddit.png" alt="reddit" height="33px"></a></td>
+<td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1l0qvse/does_anyone_know_this_mod/mvjih9l/">/u/zer0Kerbal on Does anyone know this mod?</a><br/>Jun 2, 2025</td></tr></table>
+<table><tr><td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1k7sas8/you_went_to_far_bill/mp8pyl9/"><img width="33px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/reddit.png" alt="reddit" height="33px"></a></td>
+<td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1k7sas8/you_went_to_far_bill/mp8pyl9/">/u/zer0Kerbal on You went to far, bill</a><br/>Apr 27, 2025</td></tr></table>
+<table><tr><td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1k24jga/what_why_how/mo0vaj3/"><img width="33px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/reddit.png" alt="reddit" height="33px"></a></td>
+<td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1k24jga/what_why_how/mo0vaj3/">/u/zer0Kerbal on What? Why? How? ????</a><br/>Apr 20, 2025</td></tr></table>
 <!-- REDDIT:END -->
 
 <!-- BLOG-POST-LIST:START -->
