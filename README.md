@@ -75,16 +75,16 @@
 
 #### 📕 Latest Blog Posts
 
-<!-- REDDIT:START --><table><tr><td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1ls11bp/im_so_excited_lol_with_the_mun/n1qhwqd/"><img width="33px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/reddit.png" alt="reddit" height="33px"></a></td>
-<td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1ls11bp/im_so_excited_lol_with_the_mun/n1qhwqd/">/u/zer0Kerbal on I’m so excited lol with the mun</a><br/>Jul 7, 2025</td></tr></table>
-<table><tr><td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1lq0s54/literally_jool/n1kamab/"><img width="33px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/reddit.png" alt="reddit" height="33px"></a></td>
-<td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1lq0s54/literally_jool/n1kamab/">/u/zer0Kerbal on Literally Jool</a><br/>Jul 6, 2025</td></tr></table>
-<table><tr><td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1lq0s54/literally_jool/n1e5ns8/"><img width="33px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/reddit.png" alt="reddit" height="33px"></a></td>
-<td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1lq0s54/literally_jool/n1e5ns8/">/u/zer0Kerbal on Literally Jool</a><br/>Jul 5, 2025</td></tr></table>
-<table><tr><td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1lpcv0v/congratulations_to_me/n18hnym/"><img width="33px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/reddit.png" alt="reddit" height="33px"></a></td>
-<td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1lpcv0v/congratulations_to_me/n18hnym/">/u/zer0Kerbal on Congratulations to me!</a><br/>Jul 4, 2025</td></tr></table>
-<table><tr><td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1lonko5/dear_god/n0ux1mi/"><img width="33px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/reddit.png" alt="reddit" height="33px"></a></td>
-<td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1lonko5/dear_god/n0ux1mi/">/u/zer0Kerbal on Dear God.</a><br/>Jul 2, 2025</td></tr></table>
+<!-- REDDIT:START --><table><tr><td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1lu0c0l/is_is_actually_enjoyable/n1wr21a/"><img width="33px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/reddit.png" alt="reddit" height="33px"></a></td>
+<td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1lu0c0l/is_is_actually_enjoyable/n1wr21a/">/u/zer0Kerbal on Is is ACTUALLY enjoyable?</a><br/>Jul 8, 2025</td></tr></table>
+<table><tr><td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1ltaepd/is_it_morally_okay_to_use_the_mun/n1wqdbr/"><img width="33px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/reddit.png" alt="reddit" height="33px"></a></td>
+<td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1ltaepd/is_it_morally_okay_to_use_the_mun/n1wqdbr/">/u/zer0Kerbal on Is it morally okay to use the mun?</a><br/>Jul 8, 2025</td></tr></table>
+<table><tr><td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1ltaepd/is_it_morally_okay_to_use_the_mun/n1wq8kw/"><img width="33px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/reddit.png" alt="reddit" height="33px"></a></td>
+<td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1ltaepd/is_it_morally_okay_to_use_the_mun/n1wq8kw/">/u/zer0Kerbal on Is it morally okay to use the mun?</a><br/>Jul 8, 2025</td></tr></table>
+<table><tr><td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1lubdt1/am_i_getting_science_wrong/n1wpwjx/"><img width="33px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/reddit.png" alt="reddit" height="33px"></a></td>
+<td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1lubdt1/am_i_getting_science_wrong/n1wpwjx/">/u/zer0Kerbal on Am I getting science wrong?</a><br/>Jul 8, 2025</td></tr></table>
+<table><tr><td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1lu0c0l/is_is_actually_enjoyable/n1wpk23/"><img width="33px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/reddit.png" alt="reddit" height="33px"></a></td>
+<td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1lu0c0l/is_is_actually_enjoyable/n1wpk23/">/u/zer0Kerbal on Is is ACTUALLY enjoyable?</a><br/>Jul 8, 2025</td></tr></table>
 <!-- REDDIT:END -->
 
 <!-- BLOG-POST-LIST:START -->
