@@ -75,16 +75,16 @@
 
 #### 📕 Latest Blog Posts
 
-<!-- REDDIT:START --><table><tr><td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1lu0c0l/is_is_actually_enjoyable/n235nnm/"><img width="33px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/reddit.png" alt="reddit" height="33px"></a></td>
+<!-- REDDIT:START --><table><tr><td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1lvvgpv/after_studying_comet_valsymigemoneframan1/n29w11f/"><img width="33px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/reddit.png" alt="reddit" height="33px"></a></td>
+<td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1lvvgpv/after_studying_comet_valsymigemoneframan1/n29w11f/">/u/zer0Kerbal on After studying comet Valsy-Migemone-Framan-1, Kerbalnaut Melzor Kerbin arrived at Pol station on vapours &lpar;12 ms&rpar; for refueling.</a><br/>Jul 10, 2025</td></tr></table>
+<table><tr><td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1luhlss/oh_my_god/n29v0bl/"><img width="33px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/reddit.png" alt="reddit" height="33px"></a></td>
+<td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1luhlss/oh_my_god/n29v0bl/">/u/zer0Kerbal on oh my god</a><br/>Jul 9, 2025</td></tr></table>
+<table><tr><td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1lu0c0l/is_is_actually_enjoyable/n235nnm/"><img width="33px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/reddit.png" alt="reddit" height="33px"></a></td>
 <td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1lu0c0l/is_is_actually_enjoyable/n235nnm/">/u/zer0Kerbal on Is is ACTUALLY enjoyable?</a><br/>Jul 9, 2025</td></tr></table>
 <table><tr><td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1lu0c0l/is_is_actually_enjoyable/n235c8r/"><img width="33px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/reddit.png" alt="reddit" height="33px"></a></td>
 <td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1lu0c0l/is_is_actually_enjoyable/n235c8r/">/u/zer0Kerbal on Is is ACTUALLY enjoyable?</a><br/>Jul 9, 2025</td></tr></table>
 <table><tr><td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1lu0c0l/is_is_actually_enjoyable/n234dbt/"><img width="33px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/reddit.png" alt="reddit" height="33px"></a></td>
 <td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1lu0c0l/is_is_actually_enjoyable/n234dbt/">/u/zer0Kerbal on Is is ACTUALLY enjoyable?</a><br/>Jul 9, 2025</td></tr></table>
-<table><tr><td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1lu0c0l/is_is_actually_enjoyable/n1wr21a/"><img width="33px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/reddit.png" alt="reddit" height="33px"></a></td>
-<td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1lu0c0l/is_is_actually_enjoyable/n1wr21a/">/u/zer0Kerbal on Is is ACTUALLY enjoyable?</a><br/>Jul 8, 2025</td></tr></table>
-<table><tr><td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1ltaepd/is_it_morally_okay_to_use_the_mun/n1wqdbr/"><img width="33px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/reddit.png" alt="reddit" height="33px"></a></td>
-<td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1ltaepd/is_it_morally_okay_to_use_the_mun/n1wqdbr/">/u/zer0Kerbal on Is it morally okay to use the mun?</a><br/>Jul 8, 2025</td></tr></table>
 <!-- REDDIT:END -->
 
 <!-- BLOG-POST-LIST:START -->
