@@ -75,16 +75,16 @@
 
 #### 📕 Latest Blog Posts
 
-<!-- REDDIT:START --><table><tr><td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1lwm0ec/something_like_nexus_collections/n2h9bnd/"><img width="33px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/reddit.png" alt="reddit" height="33px"></a></td>
-<td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1lwm0ec/something_like_nexus_collections/n2h9bnd/">/u/zer0Kerbal on Something like nexus collections</a><br/>Jul 11, 2025</td></tr></table>
-<table><tr><td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1lvvgpv/after_studying_comet_valsymigemoneframan1/n2h3i5u/"><img width="33px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/reddit.png" alt="reddit" height="33px"></a></td>
-<td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1lvvgpv/after_studying_comet_valsymigemoneframan1/n2h3i5u/">/u/zer0Kerbal on After studying comet Valsy-Migemone-Framan-1, Kerbalnaut Melzor Kerbin arrived at Pol station on vapours &lpar;12 ms&rpar; for refueling.</a><br/>Jul 11, 2025</td></tr></table>
-<table><tr><td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1lwm0ec/something_like_nexus_collections/n2h2mv1/"><img width="33px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/reddit.png" alt="reddit" height="33px"></a></td>
-<td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1lwm0ec/something_like_nexus_collections/n2h2mv1/">/u/zer0Kerbal on Something like nexus collections</a><br/>Jul 11, 2025</td></tr></table>
-<table><tr><td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1lwowjx/game_crashes_on_startup_when_i_install/n2h25b3/"><img width="33px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/reddit.png" alt="reddit" height="33px"></a></td>
-<td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1lwowjx/game_crashes_on_startup_when_i_install/n2h25b3/">/u/zer0Kerbal on Game crashes on startup when i install interstellar parts mod</a><br/>Jul 11, 2025</td></tr></table>
-<table><tr><td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1lwpj6w/surfing_the_event_horizon_featuring_isvls_helios/n2h1m41/"><img width="33px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/reddit.png" alt="reddit" height="33px"></a></td>
-<td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1lwpj6w/surfing_the_event_horizon_featuring_isvls_helios/n2h1m41/">/u/zer0Kerbal on Surfing the event horizon, featuring ISV-LS Helios.</a><br/>Jul 11, 2025</td></tr></table>
+<!-- REDDIT:START --><table><tr><td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1lwm0ec/something_like_nexus_collections/n2nnutl/"><img width="33px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/reddit.png" alt="reddit" height="33px"></a></td>
+<td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1lwm0ec/something_like_nexus_collections/n2nnutl/">/u/zer0Kerbal on Something like nexus collections</a><br/>Jul 12, 2025</td></tr></table>
+<table><tr><td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1lwm0ec/something_like_nexus_collections/n2nnf1u/"><img width="33px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/reddit.png" alt="reddit" height="33px"></a></td>
+<td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1lwm0ec/something_like_nexus_collections/n2nnf1u/">/u/zer0Kerbal on Something like nexus collections</a><br/>Jul 12, 2025</td></tr></table>
+<table><tr><td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1lxnnse/its_just_a_shot_away/n2nmkid/"><img width="33px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/reddit.png" alt="reddit" height="33px"></a></td>
+<td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1lxnnse/its_just_a_shot_away/n2nmkid/">/u/zer0Kerbal on its just a shot away</a><br/>Jul 12, 2025</td></tr></table>
+<table><tr><td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1lwsv3j/any_help_identifying_the_mod_responsible_for_this/n2nm6jf/"><img width="33px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/reddit.png" alt="reddit" height="33px"></a></td>
+<td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1lwsv3j/any_help_identifying_the_mod_responsible_for_this/n2nm6jf/">/u/zer0Kerbal on Any help identifying the mod responsible for this part?</a><br/>Jul 12, 2025</td></tr></table>
+<table><tr><td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1lwsv3j/any_help_identifying_the_mod_responsible_for_this/n2nlyhn/"><img width="33px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/reddit.png" alt="reddit" height="33px"></a></td>
+<td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1lwsv3j/any_help_identifying_the_mod_responsible_for_this/n2nlyhn/">/u/zer0Kerbal on Any help identifying the mod responsible for this part?</a><br/>Jul 12, 2025</td></tr></table>
 <!-- REDDIT:END -->
 
 <!-- BLOG-POST-LIST:START -->
