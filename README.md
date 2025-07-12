@@ -75,16 +75,16 @@
 
 #### 📕 Latest Blog Posts
 
-<!-- REDDIT:START --><table><tr><td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1lvvgpv/after_studying_comet_valsymigemoneframan1/n29w11f/"><img width="33px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/reddit.png" alt="reddit" height="33px"></a></td>
-<td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1lvvgpv/after_studying_comet_valsymigemoneframan1/n29w11f/">/u/zer0Kerbal on After studying comet Valsy-Migemone-Framan-1, Kerbalnaut Melzor Kerbin arrived at Pol station on vapours &lpar;12 ms&rpar; for refueling.</a><br/>Jul 10, 2025</td></tr></table>
-<table><tr><td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1luhlss/oh_my_god/n29v0bl/"><img width="33px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/reddit.png" alt="reddit" height="33px"></a></td>
-<td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1luhlss/oh_my_god/n29v0bl/">/u/zer0Kerbal on oh my god</a><br/>Jul 9, 2025</td></tr></table>
-<table><tr><td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1lu0c0l/is_is_actually_enjoyable/n235nnm/"><img width="33px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/reddit.png" alt="reddit" height="33px"></a></td>
-<td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1lu0c0l/is_is_actually_enjoyable/n235nnm/">/u/zer0Kerbal on Is is ACTUALLY enjoyable?</a><br/>Jul 9, 2025</td></tr></table>
-<table><tr><td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1lu0c0l/is_is_actually_enjoyable/n235c8r/"><img width="33px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/reddit.png" alt="reddit" height="33px"></a></td>
-<td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1lu0c0l/is_is_actually_enjoyable/n235c8r/">/u/zer0Kerbal on Is is ACTUALLY enjoyable?</a><br/>Jul 9, 2025</td></tr></table>
-<table><tr><td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1lu0c0l/is_is_actually_enjoyable/n234dbt/"><img width="33px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/reddit.png" alt="reddit" height="33px"></a></td>
-<td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1lu0c0l/is_is_actually_enjoyable/n234dbt/">/u/zer0Kerbal on Is is ACTUALLY enjoyable?</a><br/>Jul 9, 2025</td></tr></table>
+<!-- REDDIT:START --><table><tr><td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1lwm0ec/something_like_nexus_collections/n2h9bnd/"><img width="33px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/reddit.png" alt="reddit" height="33px"></a></td>
+<td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1lwm0ec/something_like_nexus_collections/n2h9bnd/">/u/zer0Kerbal on Something like nexus collections</a><br/>Jul 11, 2025</td></tr></table>
+<table><tr><td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1lvvgpv/after_studying_comet_valsymigemoneframan1/n2h3i5u/"><img width="33px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/reddit.png" alt="reddit" height="33px"></a></td>
+<td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1lvvgpv/after_studying_comet_valsymigemoneframan1/n2h3i5u/">/u/zer0Kerbal on After studying comet Valsy-Migemone-Framan-1, Kerbalnaut Melzor Kerbin arrived at Pol station on vapours &lpar;12 ms&rpar; for refueling.</a><br/>Jul 11, 2025</td></tr></table>
+<table><tr><td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1lwm0ec/something_like_nexus_collections/n2h2mv1/"><img width="33px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/reddit.png" alt="reddit" height="33px"></a></td>
+<td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1lwm0ec/something_like_nexus_collections/n2h2mv1/">/u/zer0Kerbal on Something like nexus collections</a><br/>Jul 11, 2025</td></tr></table>
+<table><tr><td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1lwowjx/game_crashes_on_startup_when_i_install/n2h25b3/"><img width="33px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/reddit.png" alt="reddit" height="33px"></a></td>
+<td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1lwowjx/game_crashes_on_startup_when_i_install/n2h25b3/">/u/zer0Kerbal on Game crashes on startup when i install interstellar parts mod</a><br/>Jul 11, 2025</td></tr></table>
+<table><tr><td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1lwpj6w/surfing_the_event_horizon_featuring_isvls_helios/n2h1m41/"><img width="33px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/reddit.png" alt="reddit" height="33px"></a></td>
+<td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1lwpj6w/surfing_the_event_horizon_featuring_isvls_helios/n2h1m41/">/u/zer0Kerbal on Surfing the event horizon, featuring ISV-LS Helios.</a><br/>Jul 11, 2025</td></tr></table>
 <!-- REDDIT:END -->
 
 <!-- BLOG-POST-LIST:START -->
