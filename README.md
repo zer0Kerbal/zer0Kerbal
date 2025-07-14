@@ -75,7 +75,9 @@
 
 #### 📕 Latest Blog Posts
 
-<!-- REDDIT:START --><table><tr><td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1lwm0ec/something_like_nexus_collections/n2tm638/"><img width="33px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/reddit.png" alt="reddit" height="33px"></a></td>
+<!-- REDDIT:START --><table><tr><td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1ly925x/uh_guys/n2zxd9f/"><img width="33px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/reddit.png" alt="reddit" height="33px"></a></td>
+<td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1ly925x/uh_guys/n2zxd9f/">/u/zer0Kerbal on Uh guys...</a><br/>Jul 14, 2025</td></tr></table>
+<table><tr><td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1lwm0ec/something_like_nexus_collections/n2tm638/"><img width="33px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/reddit.png" alt="reddit" height="33px"></a></td>
 <td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1lwm0ec/something_like_nexus_collections/n2tm638/">/u/zer0Kerbal on Something like nexus collections</a><br/>Jul 13, 2025</td></tr></table>
 <table><tr><td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1lx91ho/i_think_i_found_the_protomolecule/n2tjtab/"><img width="33px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/reddit.png" alt="reddit" height="33px"></a></td>
 <td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1lx91ho/i_think_i_found_the_protomolecule/n2tjtab/">/u/zer0Kerbal on i think i found the protomolecule</a><br/>Jul 13, 2025</td></tr></table>
@@ -83,8 +85,6 @@
 <td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1lwm0ec/something_like_nexus_collections/n2nnutl/">/u/zer0Kerbal on Something like nexus collections</a><br/>Jul 12, 2025</td></tr></table>
 <table><tr><td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1lwm0ec/something_like_nexus_collections/n2nnf1u/"><img width="33px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/reddit.png" alt="reddit" height="33px"></a></td>
 <td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1lwm0ec/something_like_nexus_collections/n2nnf1u/">/u/zer0Kerbal on Something like nexus collections</a><br/>Jul 12, 2025</td></tr></table>
-<table><tr><td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1lxnnse/its_just_a_shot_away/n2nmkid/"><img width="33px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/reddit.png" alt="reddit" height="33px"></a></td>
-<td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1lxnnse/its_just_a_shot_away/n2nmkid/">/u/zer0Kerbal on its just a shot away</a><br/>Jul 12, 2025</td></tr></table>
 <!-- REDDIT:END -->
 
 <!-- BLOG-POST-LIST:START -->
