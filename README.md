@@ -75,7 +75,9 @@
 
 #### 📕 Latest Blog Posts
 
-<!-- REDDIT:START --><table><tr><td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1lzmu0t/the_smallest_object_ive_landed_on/n3jyot8/"><img width="33px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/reddit.png" alt="reddit" height="33px"></a></td>
+<!-- REDDIT:START --><table><tr><td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1m5jwoj/i_fd_up/n4mylr8/"><img width="33px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/reddit.png" alt="reddit" height="33px"></a></td>
+<td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1m5jwoj/i_fd_up/n4mylr8/">/u/zer0Kerbal on I f&#39;d up...</a><br/>Jul 23, 2025</td></tr></table>
+<table><tr><td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1lzmu0t/the_smallest_object_ive_landed_on/n3jyot8/"><img width="33px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/reddit.png" alt="reddit" height="33px"></a></td>
 <td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1lzmu0t/the_smallest_object_ive_landed_on/n3jyot8/">/u/zer0Kerbal on the smallest object I&#39;ve landed on</a><br/>Jul 17, 2025</td></tr></table>
 <table><tr><td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1lwm0ec/something_like_nexus_collections/n3dgvtv/"><img width="33px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/reddit.png" alt="reddit" height="33px"></a></td>
 <td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1lwm0ec/something_like_nexus_collections/n3dgvtv/">/u/zer0Kerbal on Something like nexus collections</a><br/>Jul 16, 2025</td></tr></table>
@@ -83,8 +85,6 @@
 <td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1lz4vzc/am_i_screwed/n36fmil/">/u/zer0Kerbal on Am I screwed?</a><br/>Jul 15, 2025</td></tr></table>
 <table><tr><td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1lz4vzc/am_i_screwed/n36fgof/"><img width="33px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/reddit.png" alt="reddit" height="33px"></a></td>
 <td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1lz4vzc/am_i_screwed/n36fgof/">/u/zer0Kerbal on Am I screwed?</a><br/>Jul 15, 2025</td></tr></table>
-<table><tr><td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1ly925x/uh_guys/n2zxd9f/"><img width="33px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/reddit.png" alt="reddit" height="33px"></a></td>
-<td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1ly925x/uh_guys/n2zxd9f/">/u/zer0Kerbal on Uh guys...</a><br/>Jul 14, 2025</td></tr></table>
 <!-- REDDIT:END -->
 
 <!-- BLOG-POST-LIST:START -->
