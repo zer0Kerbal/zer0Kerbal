@@ -75,16 +75,16 @@
 
 #### 📕 Latest Blog Posts
 
-<!-- REDDIT:START --><table><tr><td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1me9g7e/uh_oh/n6g1arg/"><img width="33px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/reddit.png" alt="reddit" height="33px"></a></td>
+<!-- REDDIT:START --><table><tr><td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1mh5egg/i_accidentally_put_too_little_dv_on_my_duna_lander/n75ehd5/"><img width="33px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/reddit.png" alt="reddit" height="33px"></a></td>
+<td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1mh5egg/i_accidentally_put_too_little_dv_on_my_duna_lander/n75ehd5/">/u/zer0Kerbal on I accidentally put too little dV on my Duna lander</a><br/>Aug 6, 2025</td></tr></table>
+<table><tr><td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1mh5egg/i_accidentally_put_too_little_dv_on_my_duna_lander/n75eeaj/"><img width="33px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/reddit.png" alt="reddit" height="33px"></a></td>
+<td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1mh5egg/i_accidentally_put_too_little_dv_on_my_duna_lander/n75eeaj/">/u/zer0Kerbal on I accidentally put too little dV on my Duna lander</a><br/>Aug 6, 2025</td></tr></table>
+<table><tr><td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1me9g7e/uh_oh/n6g1arg/"><img width="33px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/reddit.png" alt="reddit" height="33px"></a></td>
 <td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1me9g7e/uh_oh/n6g1arg/">/u/zer0Kerbal on Uh oh!</a><br/>Aug 2, 2025</td></tr></table>
 <table><tr><td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1me9g7e/uh_oh/n6g0z8x/"><img width="33px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/reddit.png" alt="reddit" height="33px"></a></td>
 <td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1me9g7e/uh_oh/n6g0z8x/">/u/zer0Kerbal on Uh oh!</a><br/>Aug 2, 2025</td></tr></table>
 <table><tr><td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1mafu7t/is_this_mission_recoverable/n5pjcdz/"><img width="33px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/reddit.png" alt="reddit" height="33px"></a></td>
 <td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1mafu7t/is_this_mission_recoverable/n5pjcdz/">/u/zer0Kerbal on is this mission recoverable?</a><br/>Jul 29, 2025</td></tr></table>
-<table><tr><td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1m7z9xe/how_do_i_stop_this_from_happening/n56mevm/"><img width="33px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/reddit.png" alt="reddit" height="33px"></a></td>
-<td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1m7z9xe/how_do_i_stop_this_from_happening/n56mevm/">/u/zer0Kerbal on How do i stop this from happening?</a><br/>Jul 26, 2025</td></tr></table>
-<table><tr><td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1m5jwoj/i_fd_up/n4mylr8/"><img width="33px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/reddit.png" alt="reddit" height="33px"></a></td>
-<td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1m5jwoj/i_fd_up/n4mylr8/">/u/zer0Kerbal on I f&#39;d up...</a><br/>Jul 23, 2025</td></tr></table>
 <!-- REDDIT:END -->
 
 <!-- BLOG-POST-LIST:START -->
