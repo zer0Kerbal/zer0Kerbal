@@ -75,7 +75,9 @@
 
 #### 📕 Latest Blog Posts
 
-<!-- REDDIT:START --><table><tr><td><a href="https://www.reddit.com/r/u_zer0Kerbal/comments/1mm5xfo/hilarious/"><img width="33px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/reddit.png" alt="reddit" height="33px"></a></td>
+<!-- REDDIT:START --><table><tr><td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1mngvit/is_this_a_lot_of_weight/n8e1an5/"><img width="33px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/reddit.png" alt="reddit" height="33px"></a></td>
+<td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1mngvit/is_this_a_lot_of_weight/n8e1an5/">/u/zer0Kerbal on is this a lot of weight?</a><br/>Aug 13, 2025</td></tr></table>
+<table><tr><td><a href="https://www.reddit.com/r/u_zer0Kerbal/comments/1mm5xfo/hilarious/"><img width="33px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/reddit.png" alt="reddit" height="33px"></a></td>
 <td><a href="https://www.reddit.com/r/u_zer0Kerbal/comments/1mm5xfo/hilarious/">Hilarious!</a><br/>Aug 10, 2025</td></tr></table>
 <table><tr><td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1ml18f9/i_finally_did_it_d/n7vc7f4/"><img width="33px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/reddit.png" alt="reddit" height="33px"></a></td>
 <td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1ml18f9/i_finally_did_it_d/n7vc7f4/">/u/zer0Kerbal on I finally Did it :D</a><br/>Aug 10, 2025</td></tr></table>
@@ -83,8 +85,6 @@
 <td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1mh5egg/i_accidentally_put_too_little_dv_on_my_duna_lander/n76e7vx/">/u/zer0Kerbal on I accidentally put too little dV on my Duna lander</a><br/>Aug 6, 2025</td></tr></table>
 <table><tr><td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1mh5egg/i_accidentally_put_too_little_dv_on_my_duna_lander/n75ehd5/"><img width="33px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/reddit.png" alt="reddit" height="33px"></a></td>
 <td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1mh5egg/i_accidentally_put_too_little_dv_on_my_duna_lander/n75ehd5/">/u/zer0Kerbal on I accidentally put too little dV on my Duna lander</a><br/>Aug 6, 2025</td></tr></table>
-<table><tr><td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1mh5egg/i_accidentally_put_too_little_dv_on_my_duna_lander/n75eeaj/"><img width="33px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/reddit.png" alt="reddit" height="33px"></a></td>
-<td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1mh5egg/i_accidentally_put_too_little_dv_on_my_duna_lander/n75eeaj/">/u/zer0Kerbal on I accidentally put too little dV on my Duna lander</a><br/>Aug 6, 2025</td></tr></table>
 <!-- REDDIT:END -->
 
 <!-- BLOG-POST-LIST:START -->
