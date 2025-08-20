@@ -75,7 +75,9 @@
 
 #### 📕 Latest Blog Posts
 
-<!-- REDDIT:START --><table><tr><td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1msbgpk/some_ksrss_screenshots_ive_taken/n9ggyjn/"><img width="33px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/reddit.png" alt="reddit" height="33px"></a></td>
+<!-- REDDIT:START --><table><tr><td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1msbgpk/some_ksrss_screenshots_ive_taken/n9mrcf0/"><img width="33px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/reddit.png" alt="reddit" height="33px"></a></td>
+<td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1msbgpk/some_ksrss_screenshots_ive_taken/n9mrcf0/">/u/zer0Kerbal on Some KSRSS Screenshots I’ve taken</a><br/>Aug 20, 2025</td></tr></table>
+<table><tr><td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1msbgpk/some_ksrss_screenshots_ive_taken/n9ggyjn/"><img width="33px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/reddit.png" alt="reddit" height="33px"></a></td>
 <td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1msbgpk/some_ksrss_screenshots_ive_taken/n9ggyjn/">/u/zer0Kerbal on Some KSRSS Screenshots I’ve taken</a><br/>Aug 19, 2025</td></tr></table>
 <table><tr><td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1mrnft6/here_it_comes_the_cash_grab/n999bub/"><img width="33px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/reddit.png" alt="reddit" height="33px"></a></td>
 <td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1mrnft6/here_it_comes_the_cash_grab/n999bub/">/u/zer0Kerbal on Here it comes &lpar; the cash grab &rpar;</a><br/>Aug 17, 2025</td></tr></table>
@@ -83,8 +85,6 @@
 <td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1mqy9n0/aaaand_im_stuck/n93px4s/">/u/zer0Kerbal on Aaaand Im stuck</a><br/>Aug 17, 2025</td></tr></table>
 <table><tr><td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1mngvit/is_this_a_lot_of_weight/n8e1an5/"><img width="33px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/reddit.png" alt="reddit" height="33px"></a></td>
 <td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1mngvit/is_this_a_lot_of_weight/n8e1an5/">/u/zer0Kerbal on is this a lot of weight?</a><br/>Aug 13, 2025</td></tr></table>
-<table><tr><td><a href="https://www.reddit.com/r/u_zer0Kerbal/comments/1mm5xfo/hilarious/"><img width="33px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/reddit.png" alt="reddit" height="33px"></a></td>
-<td><a href="https://www.reddit.com/r/u_zer0Kerbal/comments/1mm5xfo/hilarious/">Hilarious!</a><br/>Aug 10, 2025</td></tr></table>
 <!-- REDDIT:END -->
 
 <!-- BLOG-POST-LIST:START -->
