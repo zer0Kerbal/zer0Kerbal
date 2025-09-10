@@ -75,7 +75,9 @@
 
 #### 📕 Latest Blog Posts
 
-<!-- REDDIT:START --><table><tr><td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1n7og59/a_cool_mothership_idk/nctqdql/"><img width="33px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/reddit.png" alt="reddit" height="33px"></a></td>
+<!-- REDDIT:START --><table><tr><td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1nbfwdq/idk_if_anyone_will_care_but_i_finally_landed_on/nddd5sw/"><img width="33px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/reddit.png" alt="reddit" height="33px"></a></td>
+<td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1nbfwdq/idk_if_anyone_will_care_but_i_finally_landed_on/nddd5sw/">/u/zer0Kerbal on Idk if anyone will care, but I finally landed on another planet in this game! &lpar;no cheats, mods, calculations, or maneuvers&rpar;</a><br/>Sep 10, 2025</td></tr></table>
+<table><tr><td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1n7og59/a_cool_mothership_idk/nctqdql/"><img width="33px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/reddit.png" alt="reddit" height="33px"></a></td>
 <td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1n7og59/a_cool_mothership_idk/nctqdql/">/u/zer0Kerbal on a cool mothership idk</a><br/>Sep 7, 2025</td></tr></table>
 <table><tr><td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1n7og59/a_cool_mothership_idk/ncnxn2p/"><img width="33px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/reddit.png" alt="reddit" height="33px"></a></td>
 <td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1n7og59/a_cool_mothership_idk/ncnxn2p/">/u/zer0Kerbal on a cool mothership idk</a><br/>Sep 6, 2025</td></tr></table>
@@ -83,8 +85,6 @@
 <td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1n7og59/a_cool_mothership_idk/ncnxffi/">/u/zer0Kerbal on a cool mothership idk</a><br/>Sep 6, 2025</td></tr></table>
 <table><tr><td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1n2wnpi/uh_oh/nbewyd2/"><img width="33px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/reddit.png" alt="reddit" height="33px"></a></td>
 <td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1n2wnpi/uh_oh/nbewyd2/">/u/zer0Kerbal on Uh oh...</a><br/>Aug 30, 2025</td></tr></table>
-<table><tr><td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1n1ycrg/do_you_know_what_is_this/nb8npek/"><img width="33px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/reddit.png" alt="reddit" height="33px"></a></td>
-<td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1n1ycrg/do_you_know_what_is_this/nb8npek/">/u/zer0Kerbal on do you know what is this ?</a><br/>Aug 29, 2025</td></tr></table>
 <!-- REDDIT:END -->
 
 <!-- BLOG-POST-LIST:START -->
