@@ -75,16 +75,16 @@
 
 #### 📕 Latest Blog Posts
 
-<!-- REDDIT:START --><table><tr><td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1ndz16f/is_there_a_mod_for_very_powerful_engines_the_near/ndl4cbh/"><img width="33px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/reddit.png" alt="reddit" height="33px"></a></td>
-<td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1ndz16f/is_there_a_mod_for_very_powerful_engines_the_near/ndl4cbh/">/u/zer0Kerbal on Is there a mod for very powerful engines? The near future launch vehicles add a max engine of 4500 kN, Is there a mod for engine pf 8000 kN+?</a><br/>Sep 11, 2025</td></tr></table>
-<table><tr><td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1nd1c2k/help/ndecumd/"><img width="33px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/reddit.png" alt="reddit" height="33px"></a></td>
-<td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1nd1c2k/help/ndecumd/">/u/zer0Kerbal on help</a><br/>Sep 10, 2025</td></tr></table>
-<table><tr><td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1nbfwdq/idk_if_anyone_will_care_but_i_finally_landed_on/nddd5sw/"><img width="33px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/reddit.png" alt="reddit" height="33px"></a></td>
-<td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1nbfwdq/idk_if_anyone_will_care_but_i_finally_landed_on/nddd5sw/">/u/zer0Kerbal on Idk if anyone will care, but I finally landed on another planet in this game! &lpar;no cheats, mods, calculations, or maneuvers&rpar;</a><br/>Sep 10, 2025</td></tr></table>
-<table><tr><td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1n7og59/a_cool_mothership_idk/nctqdql/"><img width="33px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/reddit.png" alt="reddit" height="33px"></a></td>
-<td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1n7og59/a_cool_mothership_idk/nctqdql/">/u/zer0Kerbal on a cool mothership idk</a><br/>Sep 7, 2025</td></tr></table>
-<table><tr><td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1n7og59/a_cool_mothership_idk/ncnxn2p/"><img width="33px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/reddit.png" alt="reddit" height="33px"></a></td>
-<td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1n7og59/a_cool_mothership_idk/ncnxn2p/">/u/zer0Kerbal on a cool mothership idk</a><br/>Sep 6, 2025</td></tr></table>
+<!-- REDDIT:START --><table><tr><td><a href="https://www.reddit.com/r/u_zer0Kerbal/comments/1mm5xfo/hilarious/"><img width="33px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/reddit.png" alt="reddit" height="33px"></a></td>
+<td><a href="https://www.reddit.com/r/u_zer0Kerbal/comments/1mm5xfo/hilarious/">Hilarious!</a><br/>Aug 10, 2025</td></tr></table>
+<table><tr><td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/17kx85n/updated_for_halloween/"><img width="33px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/reddit.png" alt="reddit" height="33px"></a></td>
+<td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/17kx85n/updated_for_halloween/">Updated for Hallowe&#39;en</a><br/>Oct 31, 2023</td></tr></table>
+<table><tr><td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/17hej07/this_weeks_releases/"><img width="33px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/reddit.png" alt="reddit" height="33px"></a></td>
+<td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/17hej07/this_weeks_releases/">This weeks releases</a><br/>Oct 27, 2023</td></tr></table>
+<table><tr><td><a href="https://www.reddit.com/r/u_zer0Kerbal/comments/16xj6gg/hacktoberfest_2023/"><img width="33px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/reddit.png" alt="reddit" height="33px"></a></td>
+<td><a href="https://www.reddit.com/r/u_zer0Kerbal/comments/16xj6gg/hacktoberfest_2023/">Hacktoberfest 2023</a><br/>Oct 2, 2023</td></tr></table>
+<table><tr><td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/15ic1sh/beep_beep_beep_science_instruments_msi/"><img width="33px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/reddit.png" alt="reddit" height="33px"></a></td>
+<td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/15ic1sh/beep_beep_beep_science_instruments_msi/">Beep! Beep! Beep! Science Instruments &lpar;MSI&rpar; 1.2.0.0-release `&lt;Спасибо evanisrael&gt;`</a><br/>Aug 4, 2023</td></tr></table>
 <!-- REDDIT:END -->
 
 <!-- BLOG-POST-LIST:START -->
