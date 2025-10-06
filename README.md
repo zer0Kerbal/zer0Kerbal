@@ -75,7 +75,9 @@
 
 #### 📕 Latest Blog Posts
 
-<!-- REDDIT:START --><table><tr><td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1nthr9h/i_uhm_thought_it_would_be_bigger/nh4oxwe/"><img width="33px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/reddit.png" alt="reddit" height="33px"></a></td>
+<!-- REDDIT:START --><table><tr><td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1nydmh3/part_mods_based_on_real_spacecraft/nhucg65/"><img width="33px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/reddit.png" alt="reddit" height="33px"></a></td>
+<td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1nydmh3/part_mods_based_on_real_spacecraft/nhucg65/">/u/zer0Kerbal on Part mods based on real spacecraft?</a><br/>Oct 5, 2025</td></tr></table>
+<table><tr><td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1nthr9h/i_uhm_thought_it_would_be_bigger/nh4oxwe/"><img width="33px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/reddit.png" alt="reddit" height="33px"></a></td>
 <td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1nthr9h/i_uhm_thought_it_would_be_bigger/nh4oxwe/">/u/zer0Kerbal on I, uhm, thought it would be bigger...</a><br/>Oct 1, 2025</td></tr></table>
 <table><tr><td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1nthr9h/i_uhm_thought_it_would_be_bigger/nh4osnp/"><img width="33px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/reddit.png" alt="reddit" height="33px"></a></td>
 <td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1nthr9h/i_uhm_thought_it_would_be_bigger/nh4osnp/">/u/zer0Kerbal on I, uhm, thought it would be bigger...</a><br/>Oct 1, 2025</td></tr></table>
@@ -83,8 +85,6 @@
 <td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1nssnvg/uhhhh/ngyjhyi/">/u/zer0Kerbal on Uhhhh...</a><br/>Sep 30, 2025</td></tr></table>
 <table><tr><td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1np3ehx/mod_for_time_warp_so_i_dont_have_to_read_a_book/nfwlfzg/"><img width="33px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/reddit.png" alt="reddit" height="33px"></a></td>
 <td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1np3ehx/mod_for_time_warp_so_i_dont_have_to_read_a_book/nfwlfzg/">/u/zer0Kerbal on mod for time warp so I don&#39;t have to read a book for a transfer to jool?</a><br/>Sep 24, 2025</td></tr></table>
-<table><tr><td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1np1xfa/is_there_a_mod_for_realistic_atmospheric_orbit/nfwf74q/"><img width="33px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/reddit.png" alt="reddit" height="33px"></a></td>
-<td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1np1xfa/is_there_a_mod_for_realistic_atmospheric_orbit/nfwf74q/">/u/zer0Kerbal on Is there a mod for realistic atmospheric orbit?</a><br/>Sep 24, 2025</td></tr></table>
 <!-- REDDIT:END -->
 
 <!-- BLOG-POST-LIST:START -->
