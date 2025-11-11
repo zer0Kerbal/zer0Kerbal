@@ -75,7 +75,9 @@
 
 #### 📕 Latest Blog Posts
 
-<!-- REDDIT:START --><table><tr><td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1orgqev/ksp_site_purchased_havent_played_in_years_need/nnq4tfa/"><img width="33px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/reddit.png" alt="reddit" height="33px"></a></td>
+<!-- REDDIT:START --><table><tr><td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1otyqib/modpacks/no8q3s2/"><img width="33px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/reddit.png" alt="reddit" height="33px"></a></td>
+<td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1otyqib/modpacks/no8q3s2/">/u/zer0Kerbal on Modpacks?</a><br/>Nov 11, 2025</td></tr></table>
+<table><tr><td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1orgqev/ksp_site_purchased_havent_played_in_years_need/nnq4tfa/"><img width="33px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/reddit.png" alt="reddit" height="33px"></a></td>
 <td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1orgqev/ksp_site_purchased_havent_played_in_years_need/nnq4tfa/">/u/zer0Kerbal on KSP site purchased... haven&#39;t played in years... need reducation.</a><br/>Nov 8, 2025</td></tr></table>
 <table><tr><td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1om3fgc/tweaked_parts_not_showing_up_in_vab_noob_question/nmsrzxj/"><img width="33px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/reddit.png" alt="reddit" height="33px"></a></td>
 <td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1om3fgc/tweaked_parts_not_showing_up_in_vab_noob_question/nmsrzxj/">/u/zer0Kerbal on &quot;Tweaked&quot; Parts not showing up in VAB? Noob question.</a><br/>Nov 3, 2025</td></tr></table>
@@ -83,8 +85,6 @@
 <td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1om3fgc/tweaked_parts_not_showing_up_in_vab_noob_question/nmo4ot9/">/u/zer0Kerbal on &quot;Tweaked&quot; Parts not showing up in VAB? Noob question.</a><br/>Nov 2, 2025</td></tr></table>
 <table><tr><td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1om3fgc/tweaked_parts_not_showing_up_in_vab_noob_question/nmnow0c/"><img width="33px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/reddit.png" alt="reddit" height="33px"></a></td>
 <td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1om3fgc/tweaked_parts_not_showing_up_in_vab_noob_question/nmnow0c/">/u/zer0Kerbal on &quot;Tweaked&quot; Parts not showing up in VAB? Noob question.</a><br/>Nov 2, 2025</td></tr></table>
-<table><tr><td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1olczye/mods_that_change_how_career_mode_works/nmhmcfj/"><img width="33px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/reddit.png" alt="reddit" height="33px"></a></td>
-<td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1olczye/mods_that_change_how_career_mode_works/nmhmcfj/">/u/zer0Kerbal on Mods that change how career mode works</a><br/>Nov 1, 2025</td></tr></table>
 <!-- REDDIT:END -->
 
 <!-- BLOG-POST-LIST:START -->
