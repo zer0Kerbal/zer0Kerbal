@@ -75,7 +75,9 @@
 
 #### 📕 Latest Blog Posts
 
-<!-- REDDIT:START --><table><tr><td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1ovp33r/does_anyone_know_how_to_get_rid_of_this_text_its/nolas8b/"><img width="33px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/reddit.png" alt="reddit" height="33px"></a></td>
+<!-- REDDIT:START --><table><tr><td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1p1owav/does_anyone_know_what_kod_this_part_is_from/npt3thc/"><img width="33px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/reddit.png" alt="reddit" height="33px"></a></td>
+<td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1p1owav/does_anyone_know_what_kod_this_part_is_from/npt3thc/">/u/zer0Kerbal on Does anyone know what kod this part is from?</a><br/>Nov 20, 2025</td></tr></table>
+<table><tr><td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1ovp33r/does_anyone_know_how_to_get_rid_of_this_text_its/nolas8b/"><img width="33px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/reddit.png" alt="reddit" height="33px"></a></td>
 <td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1ovp33r/does_anyone_know_how_to_get_rid_of_this_text_its/nolas8b/">/u/zer0Kerbal on Does anyone know how to get rid of this text? It&#39;s from the Distant Object Enhancement mod.</a><br/>Nov 13, 2025</td></tr></table>
 <table><tr><td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1otyqib/modpacks/no8q3s2/"><img width="33px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/reddit.png" alt="reddit" height="33px"></a></td>
 <td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1otyqib/modpacks/no8q3s2/">/u/zer0Kerbal on Modpacks?</a><br/>Nov 11, 2025</td></tr></table>
@@ -83,8 +85,6 @@
 <td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1orgqev/ksp_site_purchased_havent_played_in_years_need/nnq4tfa/">/u/zer0Kerbal on KSP site purchased... haven&#39;t played in years... need reducation.</a><br/>Nov 8, 2025</td></tr></table>
 <table><tr><td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1om3fgc/tweaked_parts_not_showing_up_in_vab_noob_question/nmsrzxj/"><img width="33px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/reddit.png" alt="reddit" height="33px"></a></td>
 <td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1om3fgc/tweaked_parts_not_showing_up_in_vab_noob_question/nmsrzxj/">/u/zer0Kerbal on &quot;Tweaked&quot; Parts not showing up in VAB? Noob question.</a><br/>Nov 3, 2025</td></tr></table>
-<table><tr><td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1om3fgc/tweaked_parts_not_showing_up_in_vab_noob_question/nmo4ot9/"><img width="33px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/reddit.png" alt="reddit" height="33px"></a></td>
-<td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1om3fgc/tweaked_parts_not_showing_up_in_vab_noob_question/nmo4ot9/">/u/zer0Kerbal on &quot;Tweaked&quot; Parts not showing up in VAB? Noob question.</a><br/>Nov 2, 2025</td></tr></table>
 <!-- REDDIT:END -->
 
 <!-- BLOG-POST-LIST:START -->
