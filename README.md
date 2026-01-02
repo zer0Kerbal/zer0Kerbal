@@ -75,16 +75,16 @@
 
 #### 📕 Latest Blog Posts
 
-<!-- REDDIT:START --><table><tr><td><a href="https://www.reddit.com/r/u_zer0Kerbal/comments/1mm5xfo/hilarious/"><img width="33px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/reddit.png" alt="reddit" height="33px"></a></td>
-<td><a href="https://www.reddit.com/r/u_zer0Kerbal/comments/1mm5xfo/hilarious/">Hilarious!</a><br/>Aug 10, 2025</td></tr></table>
-<table><tr><td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/17kx85n/updated_for_halloween/"><img width="33px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/reddit.png" alt="reddit" height="33px"></a></td>
-<td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/17kx85n/updated_for_halloween/">Updated for Hallowe&#39;en</a><br/>Oct 31, 2023</td></tr></table>
-<table><tr><td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/17hej07/this_weeks_releases/"><img width="33px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/reddit.png" alt="reddit" height="33px"></a></td>
-<td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/17hej07/this_weeks_releases/">This weeks releases</a><br/>Oct 27, 2023</td></tr></table>
-<table><tr><td><a href="https://www.reddit.com/r/u_zer0Kerbal/comments/16xj6gg/hacktoberfest_2023/"><img width="33px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/reddit.png" alt="reddit" height="33px"></a></td>
-<td><a href="https://www.reddit.com/r/u_zer0Kerbal/comments/16xj6gg/hacktoberfest_2023/">Hacktoberfest 2023</a><br/>Oct 2, 2023</td></tr></table>
-<table><tr><td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/15ic1sh/beep_beep_beep_science_instruments_msi/"><img width="33px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/reddit.png" alt="reddit" height="33px"></a></td>
-<td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/15ic1sh/beep_beep_beep_science_instruments_msi/">Beep! Beep! Beep! Science Instruments &lpar;MSI&rpar; 1.2.0.0-release `&lt;Спасибо evanisrael&gt;`</a><br/>Aug 4, 2023</td></tr></table>
+<!-- REDDIT:START --><table><tr><td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1pvwuzv/looking_for_some_good_mods/nvzgdsb/"><img width="33px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/reddit.png" alt="reddit" height="33px"></a></td>
+<td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1pvwuzv/looking_for_some_good_mods/nvzgdsb/">/u/zer0Kerbal on looking for some good mods!</a><br/>Dec 26, 2025</td></tr></table>
+<table><tr><td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1psp9hc/uhhhh/nvbwcrq/"><img width="33px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/reddit.png" alt="reddit" height="33px"></a></td>
+<td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1psp9hc/uhhhh/nvbwcrq/">/u/zer0Kerbal on Uhhhh...</a><br/>Dec 22, 2025</td></tr></table>
+<table><tr><td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1pjm5j9/completely_broken_tech_tree/ntfcb2w/"><img width="33px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/reddit.png" alt="reddit" height="33px"></a></td>
+<td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1pjm5j9/completely_broken_tech_tree/ntfcb2w/">/u/zer0Kerbal on Completely broken tech tree</a><br/>Dec 11, 2025</td></tr></table>
+<table><tr><td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1pcxzmw/mod_recommendations/ns15j37/"><img width="33px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/reddit.png" alt="reddit" height="33px"></a></td>
+<td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1pcxzmw/mod_recommendations/ns15j37/">/u/zer0Kerbal on Mod recommendations</a><br/>Dec 3, 2025</td></tr></table>
+<table><tr><td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1pc0812/thinking_about_getting_this_game/nrulrb1/"><img width="33px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/reddit.png" alt="reddit" height="33px"></a></td>
+<td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1pc0812/thinking_about_getting_this_game/nrulrb1/">/u/zer0Kerbal on Thinking about getting this game</a><br/>Dec 2, 2025</td></tr></table>
 <!-- REDDIT:END -->
 
 <!-- BLOG-POST-LIST:START -->
