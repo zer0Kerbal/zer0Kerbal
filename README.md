@@ -75,16 +75,16 @@
 
 #### 📕 Latest Blog Posts
 
-<!-- REDDIT:START --><table><tr><td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1pvwuzv/looking_for_some_good_mods/nvzgdsb/"><img width="33px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/reddit.png" alt="reddit" height="33px"></a></td>
-<td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1pvwuzv/looking_for_some_good_mods/nvzgdsb/">/u/zer0Kerbal on looking for some good mods!</a><br/>Dec 26, 2025</td></tr></table>
-<table><tr><td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1psp9hc/uhhhh/nvbwcrq/"><img width="33px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/reddit.png" alt="reddit" height="33px"></a></td>
-<td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1psp9hc/uhhhh/nvbwcrq/">/u/zer0Kerbal on Uhhhh...</a><br/>Dec 22, 2025</td></tr></table>
-<table><tr><td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1pjm5j9/completely_broken_tech_tree/ntfcb2w/"><img width="33px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/reddit.png" alt="reddit" height="33px"></a></td>
-<td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1pjm5j9/completely_broken_tech_tree/ntfcb2w/">/u/zer0Kerbal on Completely broken tech tree</a><br/>Dec 11, 2025</td></tr></table>
-<table><tr><td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1pcxzmw/mod_recommendations/ns15j37/"><img width="33px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/reddit.png" alt="reddit" height="33px"></a></td>
-<td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1pcxzmw/mod_recommendations/ns15j37/">/u/zer0Kerbal on Mod recommendations</a><br/>Dec 3, 2025</td></tr></table>
-<table><tr><td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1pc0812/thinking_about_getting_this_game/nrulrb1/"><img width="33px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/reddit.png" alt="reddit" height="33px"></a></td>
-<td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1pc0812/thinking_about_getting_this_game/nrulrb1/">/u/zer0Kerbal on Thinking about getting this game</a><br/>Dec 2, 2025</td></tr></table>
+<!-- REDDIT:START --><table><tr><td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/11bcmlp/gone_to_plaid_simple_hyperdrive_hype_version/"><img width="33px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/reddit.png" alt="reddit" height="33px"></a></td>
+<td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/11bcmlp/gone_to_plaid_simple_hyperdrive_hype_version/">Gone to Plaid! Simple Hyperdrive! &lpar;HYPE&rpar; Version 2.6.0.0-release-CF `HotFix`</a><br/>Feb 25, 2023</td></tr></table>
+<table><tr><td><a href="https://www.reddit.com/r/u_zer0Kerbal/comments/11b3b29/addon_testing_ksp2/"><img width="33px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/reddit.png" alt="reddit" height="33px"></a></td>
+<td><a href="https://www.reddit.com/r/u_zer0Kerbal/comments/11b3b29/addon_testing_ksp2/">addon testing: KSP2</a><br/>Feb 24, 2023</td></tr></table>
+<table><tr><td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/116z4go/just_orbited_space_shuttle_engines_sse/"><img width="33px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/reddit.png" alt="reddit" height="33px"></a></td>
+<td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/116z4go/just_orbited_space_shuttle_engines_sse/">Just Orbited! Space Shuttle Engines &lpar;SSE&rpar; v2.3.99.3-prerelease - `&lt;Thank you dtobi and sarbian&gt;` edition</a><br/>Feb 20, 2023</td></tr></table>
+<table><tr><td><a href="https://www.reddit.com/r/u_zer0Kerbal/comments/116yl1h/check_out_addon_testing_space_shuttle_engines_sse/"><img width="33px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/reddit.png" alt="reddit" height="33px"></a></td>
+<td><a href="https://www.reddit.com/r/u_zer0Kerbal/comments/116yl1h/check_out_addon_testing_space_shuttle_engines_sse/">Check out addon testing: Space Shuttle Engines &lpar;SSE&rpar; v2.3.99.3-prerelease from zer0Kerbal on www.twitch.tv</a><br/>Feb 20, 2023</td></tr></table>
+<table><tr><td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/11650az/freshly_launched_sea_dragon_sea_v03991prerelease/"><img width="33px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/reddit.png" alt="reddit" height="33px"></a></td>
+<td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/11650az/freshly_launched_sea_dragon_sea_v03991prerelease/">Freshly Launched! Sea Dragon &lpar;SEA&rpar; v0.3.99.1-prerelease - `&lt;Thank you NecroBones&gt;` edition</a><br/>Feb 19, 2023</td></tr></table>
 <!-- REDDIT:END -->
 
 <!-- BLOG-POST-LIST:START -->
