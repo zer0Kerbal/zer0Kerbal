@@ -47,16 +47,16 @@
 #### :octocat: GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#198](https://github.com/zer0Kerbal/SimpleConstruction/issues/198#issuecomment-2490058896) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
-2. 🗣 Commented on [#199](https://github.com/zer0Kerbal/SimpleConstruction/issues/199#issuecomment-2490050957) in [zer0Kerbal/SimpleConstruction](https://github.com/zer0Kerbal/SimpleConstruction)
-3. 🗣 Commented on [#63](https://github.com/zer0Kerbal/SimpleLogistics/issues/63#issuecomment-1937989729) in [zer0Kerbal/SimpleLogistics](https://github.com/zer0Kerbal/SimpleLogistics)
-4. 🗣 Commented on [#78](https://github.com/zer0Kerbal/TheGoldStandard/issues/78#issuecomment-1882284163) in [zer0Kerbal/TheGoldStandard](https://github.com/zer0Kerbal/TheGoldStandard)
-5. 🗣 Commented on [#82](https://github.com/zer0Kerbal/SimpleHyperdrive/issues/82#issuecomment-1875928845) in [zer0Kerbal/SimpleHyperdrive](https://github.com/zer0Kerbal/SimpleHyperdrive)
-6. ❗ Opened issue [#51](https://github.com/zer0Kerbal/PiratesoftheKeribbean/issues/51) in [zer0Kerbal/PiratesoftheKeribbean](https://github.com/zer0Kerbal/PiratesoftheKeribbean)
-7. ❗ Opened issue [#50](https://github.com/zer0Kerbal/PiratesoftheKeribbean/issues/50) in [zer0Kerbal/PiratesoftheKeribbean](https://github.com/zer0Kerbal/PiratesoftheKeribbean)
-8. 🚀 Published release [Version 0.9.99.2-adoption - `<Bedankt Sjorza>` edition](https://github.com/zer0Kerbal/PiratesoftheKeribbean/releases/tag/0.9.99.2-adoption) in [zer0Kerbal/PiratesoftheKeribbean](https://github.com/zer0Kerbal/PiratesoftheKeribbean)
-9. 🔒 Closed issue [#46](https://github.com/zer0Kerbal/PiratesoftheKeribbean/issues/46) in [zer0Kerbal/PiratesoftheKeribbean](https://github.com/zer0Kerbal/PiratesoftheKeribbean)
-10. 🔒 Closed issue [#45](https://github.com/zer0Kerbal/PiratesoftheKeribbean/issues/45) in [zer0Kerbal/PiratesoftheKeribbean](https://github.com/zer0Kerbal/PiratesoftheKeribbean)
+1. 🔒 Closed issue [#25](https://github.com/zer0Kerbal/B9StockPatches/issues/25) in [zer0Kerbal/B9StockPatches](https://github.com/zer0Kerbal/B9StockPatches)
+2. 🔒 Closed issue [#22](https://github.com/zer0Kerbal/B9StockPatches/issues/22) in [zer0Kerbal/B9StockPatches](https://github.com/zer0Kerbal/B9StockPatches)
+3. 🔒 Closed issue [#24](https://github.com/zer0Kerbal/B9StockPatches/issues/24) in [zer0Kerbal/B9StockPatches](https://github.com/zer0Kerbal/B9StockPatches)
+4. 🔒 Closed issue [#23](https://github.com/zer0Kerbal/B9StockPatches/issues/23) in [zer0Kerbal/B9StockPatches](https://github.com/zer0Kerbal/B9StockPatches)
+5. 🔒 Closed issue [#21](https://github.com/zer0Kerbal/B9StockPatches/issues/21) in [zer0Kerbal/B9StockPatches](https://github.com/zer0Kerbal/B9StockPatches)
+6. 🔒 Closed issue [#26](https://github.com/zer0Kerbal/B9StockPatches/issues/26) in [zer0Kerbal/B9StockPatches](https://github.com/zer0Kerbal/B9StockPatches)
+7. 🔒 Closed issue [#18](https://github.com/zer0Kerbal/B9StockPatches/issues/18) in [zer0Kerbal/B9StockPatches](https://github.com/zer0Kerbal/B9StockPatches)
+8. 🔒 Closed issue [#17](https://github.com/zer0Kerbal/B9StockPatches/issues/17) in [zer0Kerbal/B9StockPatches](https://github.com/zer0Kerbal/B9StockPatches)
+9. 🔒 Closed issue [#16](https://github.com/zer0Kerbal/B9StockPatches/issues/16) in [zer0Kerbal/B9StockPatches](https://github.com/zer0Kerbal/B9StockPatches)
+10. 🔒 Closed issue [#20](https://github.com/zer0Kerbal/B9StockPatches/issues/20) in [zer0Kerbal/B9StockPatches](https://github.com/zer0Kerbal/B9StockPatches)
 <!--END_SECTION:activity-->
 
 #### 📺 Latest YouTube Videos
