@@ -59,40 +59,6 @@
 10. 🔒 Closed issue [#20](https://github.com/zer0Kerbal/B9StockPatches/issues/20) in [zer0Kerbal/B9StockPatches](https://github.com/zer0Kerbal/B9StockPatches)
 <!--END_SECTION:activity-->
 
-#### 📺 Latest YouTube Videos
-
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=jKgDeIypCIc"><img width="140px" src="http://img.youtube.com/vi/jKgDeIypCIc/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=jKgDeIypCIc">addon testing:  Stack Inline Lights &lpar;SIL&rpar; v0.9.0.0-release - `Thank you Alexustas`</a><br/>Feb 28, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=pemj6xb-cc0"><img width="140px" src="http://img.youtube.com/vi/pemj6xb-cc0/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=pemj6xb-cc0">addon testing:  KSP2</a><br/>Feb 24, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=N7zOzyISIgM"><img width="140px" src="http://img.youtube.com/vi/N7zOzyISIgM/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=N7zOzyISIgM">addon testing:  Space Shuttle Engines &lpar;SSE&rpar; v2.3.99.3-prerelease</a><br/>Feb 20, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=4pDXn6Ir_Cw"><img width="140px" src="http://img.youtube.com/vi/4pDXn6Ir_Cw/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=4pDXn6Ir_Cw">addon testing:  Space Shuttle Engines &lpar;SSE&rpar; v2.3.99.3-prerelease</a><br/>Feb 20, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=iHA_0eM0RnA"><img width="140px" src="http://img.youtube.com/vi/iHA_0eM0RnA/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=iHA_0eM0RnA">addon testing:  Wernher&#39;s Old Stuff &lpar;WOS&rpar; V1.9.99.4-prerelease `Fifth First Steps`</a><br/>Feb 19, 2023</td></tr></table>
-<!-- YOUTUBE:END -->
-
-#### 📕 Latest Blog Posts
-
-<!-- REDDIT:START --><table><tr><td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1pvwuzv/looking_for_some_good_mods/nvzgdsb/"><img width="33px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/reddit.png" alt="reddit" height="33px"></a></td>
-<td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1pvwuzv/looking_for_some_good_mods/nvzgdsb/">/u/zer0Kerbal on looking for some good mods!</a><br/>Dec 26, 2025</td></tr></table>
-<table><tr><td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1psp9hc/uhhhh/nvbwcrq/"><img width="33px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/reddit.png" alt="reddit" height="33px"></a></td>
-<td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1psp9hc/uhhhh/nvbwcrq/">/u/zer0Kerbal on Uhhhh...</a><br/>Dec 22, 2025</td></tr></table>
-<table><tr><td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1pjm5j9/completely_broken_tech_tree/ntfcb2w/"><img width="33px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/reddit.png" alt="reddit" height="33px"></a></td>
-<td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1pjm5j9/completely_broken_tech_tree/ntfcb2w/">/u/zer0Kerbal on Completely broken tech tree</a><br/>Dec 11, 2025</td></tr></table>
-<table><tr><td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1pcxzmw/mod_recommendations/ns15j37/"><img width="33px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/reddit.png" alt="reddit" height="33px"></a></td>
-<td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1pcxzmw/mod_recommendations/ns15j37/">/u/zer0Kerbal on Mod recommendations</a><br/>Dec 3, 2025</td></tr></table>
-<table><tr><td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1pc0812/thinking_about_getting_this_game/nrulrb1/"><img width="33px" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/reddit.png" alt="reddit" height="33px"></a></td>
-<td><a href="https://www.reddit.com/r/KerbalSpaceProgram/comments/1pc0812/thinking_about_getting_this_game/nrulrb1/">/u/zer0Kerbal on Thinking about getting this game</a><br/>Dec 2, 2025</td></tr></table>
-<!-- REDDIT:END -->
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<!-- X:START -->
-<!-- X:END -->
-
 [![@zer0kerbal's Holopin board](https://holopin.io/api/user/board?user=zer0kerbal)](https://www.holopin.io/@zer0kerbal)
 
 [![Nitin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=zer0Kerbal&theme=github-compact)](https://github.com/zer0Kerbal/github-readme-activity-graph)
@@ -250,4 +216,5 @@ _dakine!_
 🌚🗽🥂🎆🎇
 _dakine!_
 🦡
+_dakine!_
 _dakine!_
