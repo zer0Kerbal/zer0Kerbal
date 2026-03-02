@@ -1,6 +1,6 @@
 # zer0Kerbal
 
-### Hi there 👋 ![GitHub Sponsors](https://img.shields.io/github/sponsors/zer0Kerbal?color=purple&label=Github%20Sponsors&style=social)  
+### Hi there 👋  
 - 🔭 I’m currently working on updating my [existing mod collection](https://tinyurl.com/zer0KModTracker): ...
 - 🌱 I’m currently learning C#, python, 3D modeling in Blendr, Animation in Unity, rocket engineering in Kerbal Space Program, how to livestream, and how to be human.
 - 👯 I’m looking to collaborate on: any of my Mod Ideas listed in the above link.
@@ -220,7 +220,6 @@ _dakine!_
 💝
 _dakine!_
 🏮🏮🏮🧧🏮🏮🏮🧨
-_dakine!_
 _dakine!_
 _dakine!_
 _dakine!_
