@@ -47,16 +47,16 @@
 #### :octocat: GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#22](https://github.com/zer0Kerbal/Foundations/issues/22) in [zer0Kerbal/Foundations](https://github.com/zer0Kerbal/Foundations)
-2. 🔒 Closed issue [#20](https://github.com/zer0Kerbal/Foundations/issues/20) in [zer0Kerbal/Foundations](https://github.com/zer0Kerbal/Foundations)
-3. 🔒 Closed issue [#19](https://github.com/zer0Kerbal/Foundations/issues/19) in [zer0Kerbal/Foundations](https://github.com/zer0Kerbal/Foundations)
-4. 🔒 Closed issue [#15](https://github.com/zer0Kerbal/Foundations/issues/15) in [zer0Kerbal/Foundations](https://github.com/zer0Kerbal/Foundations)
-5. 🔒 Closed issue [#45](https://github.com/zer0Kerbal/Foundations/issues/45) in [zer0Kerbal/Foundations](https://github.com/zer0Kerbal/Foundations)
-6. 🔒 Closed issue [#39](https://github.com/zer0Kerbal/Foundations/issues/39) in [zer0Kerbal/Foundations](https://github.com/zer0Kerbal/Foundations)
-7. 🔒 Closed issue [#34](https://github.com/zer0Kerbal/Foundations/issues/34) in [zer0Kerbal/Foundations](https://github.com/zer0Kerbal/Foundations)
-8. 🔒 Closed issue [#38](https://github.com/zer0Kerbal/Foundations/issues/38) in [zer0Kerbal/Foundations](https://github.com/zer0Kerbal/Foundations)
-9. 🔒 Closed issue [#69](https://github.com/zer0Kerbal/ProbiTronics/issues/69) in [zer0Kerbal/ProbiTronics](https://github.com/zer0Kerbal/ProbiTronics)
-10. 🔒 Closed issue [#67](https://github.com/zer0Kerbal/ProbiTronics/issues/67) in [zer0Kerbal/ProbiTronics](https://github.com/zer0Kerbal/ProbiTronics)
+1. 🔒 Closed issue [#41](https://github.com/zer0Kerbal/Foundations/issues/41) in [zer0Kerbal/Foundations](https://github.com/zer0Kerbal/Foundations)
+2. 🔒 Closed issue [#24](https://github.com/zer0Kerbal/Foundations/issues/24) in [zer0Kerbal/Foundations](https://github.com/zer0Kerbal/Foundations)
+3. 🔒 Closed issue [#42](https://github.com/zer0Kerbal/Foundations/issues/42) in [zer0Kerbal/Foundations](https://github.com/zer0Kerbal/Foundations)
+4. 🔒 Closed issue [#44](https://github.com/zer0Kerbal/Foundations/issues/44) in [zer0Kerbal/Foundations](https://github.com/zer0Kerbal/Foundations)
+5. 🔒 Closed issue [#40](https://github.com/zer0Kerbal/Foundations/issues/40) in [zer0Kerbal/Foundations](https://github.com/zer0Kerbal/Foundations)
+6. 🔒 Closed issue [#22](https://github.com/zer0Kerbal/Foundations/issues/22) in [zer0Kerbal/Foundations](https://github.com/zer0Kerbal/Foundations)
+7. 🔒 Closed issue [#20](https://github.com/zer0Kerbal/Foundations/issues/20) in [zer0Kerbal/Foundations](https://github.com/zer0Kerbal/Foundations)
+8. 🔒 Closed issue [#19](https://github.com/zer0Kerbal/Foundations/issues/19) in [zer0Kerbal/Foundations](https://github.com/zer0Kerbal/Foundations)
+9. 🔒 Closed issue [#15](https://github.com/zer0Kerbal/Foundations/issues/15) in [zer0Kerbal/Foundations](https://github.com/zer0Kerbal/Foundations)
+10. 🔒 Closed issue [#45](https://github.com/zer0Kerbal/Foundations/issues/45) in [zer0Kerbal/Foundations](https://github.com/zer0Kerbal/Foundations)
 <!--END_SECTION:activity-->
 
 [![@zer0kerbal's Holopin board](https://holopin.io/api/user/board?user=zer0kerbal)](https://www.holopin.io/@zer0kerbal)
