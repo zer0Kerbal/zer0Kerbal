@@ -131,34 +131,17 @@ THIS FILE: CC BY-ND 4.0 by [zer0Kerbal](https://github.com/zer0Kerbal)
   used with express permission from zer0Kerbal
 
 _oh no, not again!_
-_dakine!_
-_dakine!_
 _RUD Day!
-_dakine!_
 52 🎴 - n0 🃏 (yet)
-_dakine!_
-_dakine!_
 2/?
-_dakine!_
-_dakine!_
 47
-_dakine!_
 what a catch!
-_dakine!_
 _Happy Kerbalween!_
-_dakine!_
 _DDAY_
-_dakine!_
-_dakine!_
 _pow_
-_dakine!_
 _EKG_
-_dakine!_
 _boom!_
-_dakine!_
-_dakine!_
 _Gobble! Gobble!_
-_dakine!_
 _thank you Patreon!_
 _dakine!_
 _Merry Christmas!_
@@ -253,6 +236,7 @@ _dakine!_
 🕊🕊🕊🕊
 _dakine!_
 🌞🌞🌞
+_dakine!_
 _dakine!_
 _dakine!_
 _dakine!_
