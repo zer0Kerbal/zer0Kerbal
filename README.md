@@ -47,16 +47,16 @@
 #### :octocat: GitHub Activity
   
 <!--START_SECTION:activity-->
-1. ℹ️ Assigned PR [#56](https://github.com/zer0Kerbal/CargoBays/pull/56) in [zer0Kerbal/CargoBays](https://github.com/zer0Kerbal/CargoBays)
-2. ℹ️ Assigned PR [#56](https://github.com/zer0Kerbal/CargoBays/pull/56) in [zer0Kerbal/CargoBays](https://github.com/zer0Kerbal/CargoBays)
-3. 🔒 Closed issue [#33](https://github.com/zer0Kerbal/CargoBays/issues/33) in [zer0Kerbal/CargoBays](https://github.com/zer0Kerbal/CargoBays)
-4. 🔒 Closed issue [#22](https://github.com/zer0Kerbal/CargoBays/issues/22) in [zer0Kerbal/CargoBays](https://github.com/zer0Kerbal/CargoBays)
-5. 🔒 Closed issue [#18](https://github.com/zer0Kerbal/CargoBays/issues/18) in [zer0Kerbal/CargoBays](https://github.com/zer0Kerbal/CargoBays)
-6. 🔒 Closed issue [#20](https://github.com/zer0Kerbal/CargoBays/issues/20) in [zer0Kerbal/CargoBays](https://github.com/zer0Kerbal/CargoBays)
-7. 🔒 Closed issue [#17](https://github.com/zer0Kerbal/CargoBays/issues/17) in [zer0Kerbal/CargoBays](https://github.com/zer0Kerbal/CargoBays)
-8. 🔒 Closed issue [#19](https://github.com/zer0Kerbal/CargoBays/issues/19) in [zer0Kerbal/CargoBays](https://github.com/zer0Kerbal/CargoBays)
-9. 🔒 Closed issue [#21](https://github.com/zer0Kerbal/CargoBays/issues/21) in [zer0Kerbal/CargoBays](https://github.com/zer0Kerbal/CargoBays)
-10. 🔒 Closed issue [#9](https://github.com/zer0Kerbal/CargoBays/issues/9) in [zer0Kerbal/CargoBays](https://github.com/zer0Kerbal/CargoBays)
+1. ℹ️ Labeled issue [#42](https://github.com/zer0Kerbal/SolarScience/issues/42) in [zer0Kerbal/SolarScience](https://github.com/zer0Kerbal/SolarScience)
+2. ℹ️ Labeled issue [#42](https://github.com/zer0Kerbal/SolarScience/issues/42) in [zer0Kerbal/SolarScience](https://github.com/zer0Kerbal/SolarScience)
+3. ℹ️ Labeled issue [#42](https://github.com/zer0Kerbal/SolarScience/issues/42) in [zer0Kerbal/SolarScience](https://github.com/zer0Kerbal/SolarScience)
+4. ❗ Opened issue [#42](https://github.com/zer0Kerbal/SolarScience/issues/42) in [zer0Kerbal/SolarScience](https://github.com/zer0Kerbal/SolarScience)
+5. ℹ️ Assigned issue [#42](https://github.com/zer0Kerbal/SolarScience/issues/42) in [zer0Kerbal/SolarScience](https://github.com/zer0Kerbal/SolarScience)
+6. ℹ️ Assigned issue [#42](https://github.com/zer0Kerbal/SolarScience/issues/42) in [zer0Kerbal/SolarScience](https://github.com/zer0Kerbal/SolarScience)
+7. ℹ️ Labeled PR [#41](https://github.com/zer0Kerbal/SolarScience/pull/41) in [zer0Kerbal/SolarScience](https://github.com/zer0Kerbal/SolarScience)
+8. ℹ️ Labeled PR [#41](https://github.com/zer0Kerbal/SolarScience/pull/41) in [zer0Kerbal/SolarScience](https://github.com/zer0Kerbal/SolarScience)
+9. ℹ️ Labeled PR [#41](https://github.com/zer0Kerbal/SolarScience/pull/41) in [zer0Kerbal/SolarScience](https://github.com/zer0Kerbal/SolarScience)
+10. ℹ️ Labeled PR [#41](https://github.com/zer0Kerbal/SolarScience/pull/41) in [zer0Kerbal/SolarScience](https://github.com/zer0Kerbal/SolarScience)
 <!--END_SECTION:activity-->
 
 [![@zer0kerbal's Holopin board](https://holopin.io/api/user/board?user=zer0kerbal)](https://www.holopin.io/@zer0kerbal)
