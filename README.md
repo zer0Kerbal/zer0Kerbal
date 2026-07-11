@@ -47,16 +47,16 @@
 #### :octocat: GitHub Activity
   
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#42](https://github.com/zer0Kerbal/SolarScience/issues/42) in [zer0Kerbal/SolarScience](https://github.com/zer0Kerbal/SolarScience)
-2. ℹ️ Labeled issue [#42](https://github.com/zer0Kerbal/SolarScience/issues/42) in [zer0Kerbal/SolarScience](https://github.com/zer0Kerbal/SolarScience)
-3. ℹ️ Labeled issue [#42](https://github.com/zer0Kerbal/SolarScience/issues/42) in [zer0Kerbal/SolarScience](https://github.com/zer0Kerbal/SolarScience)
-4. ❗ Opened issue [#42](https://github.com/zer0Kerbal/SolarScience/issues/42) in [zer0Kerbal/SolarScience](https://github.com/zer0Kerbal/SolarScience)
-5. ℹ️ Assigned issue [#42](https://github.com/zer0Kerbal/SolarScience/issues/42) in [zer0Kerbal/SolarScience](https://github.com/zer0Kerbal/SolarScience)
-6. ℹ️ Assigned issue [#42](https://github.com/zer0Kerbal/SolarScience/issues/42) in [zer0Kerbal/SolarScience](https://github.com/zer0Kerbal/SolarScience)
-7. ℹ️ Labeled PR [#41](https://github.com/zer0Kerbal/SolarScience/pull/41) in [zer0Kerbal/SolarScience](https://github.com/zer0Kerbal/SolarScience)
-8. ℹ️ Labeled PR [#41](https://github.com/zer0Kerbal/SolarScience/pull/41) in [zer0Kerbal/SolarScience](https://github.com/zer0Kerbal/SolarScience)
-9. ℹ️ Labeled PR [#41](https://github.com/zer0Kerbal/SolarScience/pull/41) in [zer0Kerbal/SolarScience](https://github.com/zer0Kerbal/SolarScience)
-10. ℹ️ Labeled PR [#41](https://github.com/zer0Kerbal/SolarScience/pull/41) in [zer0Kerbal/SolarScience](https://github.com/zer0Kerbal/SolarScience)
+1. ℹ️ Labeled PR [#89](https://github.com/zer0Kerbal/KeridianDynamics/pull/89) in [zer0Kerbal/KeridianDynamics](https://github.com/zer0Kerbal/KeridianDynamics)
+2. ℹ️ Labeled PR [#89](https://github.com/zer0Kerbal/KeridianDynamics/pull/89) in [zer0Kerbal/KeridianDynamics](https://github.com/zer0Kerbal/KeridianDynamics)
+3. ℹ️ Labeled PR [#89](https://github.com/zer0Kerbal/KeridianDynamics/pull/89) in [zer0Kerbal/KeridianDynamics](https://github.com/zer0Kerbal/KeridianDynamics)
+4. ℹ️ Labeled PR [#89](https://github.com/zer0Kerbal/KeridianDynamics/pull/89) in [zer0Kerbal/KeridianDynamics](https://github.com/zer0Kerbal/KeridianDynamics)
+5. ℹ️ Labeled PR [#89](https://github.com/zer0Kerbal/KeridianDynamics/pull/89) in [zer0Kerbal/KeridianDynamics](https://github.com/zer0Kerbal/KeridianDynamics)
+6. ℹ️ Labeled PR [#89](https://github.com/zer0Kerbal/KeridianDynamics/pull/89) in [zer0Kerbal/KeridianDynamics](https://github.com/zer0Kerbal/KeridianDynamics)
+7. ℹ️ Labeled PR [#89](https://github.com/zer0Kerbal/KeridianDynamics/pull/89) in [zer0Kerbal/KeridianDynamics](https://github.com/zer0Kerbal/KeridianDynamics)
+8. ℹ️ Labeled PR [#89](https://github.com/zer0Kerbal/KeridianDynamics/pull/89) in [zer0Kerbal/KeridianDynamics](https://github.com/zer0Kerbal/KeridianDynamics)
+9. ℹ️ Assigned PR [#89](https://github.com/zer0Kerbal/KeridianDynamics/pull/89) in [zer0Kerbal/KeridianDynamics](https://github.com/zer0Kerbal/KeridianDynamics)
+10. ℹ️ Assigned PR [#89](https://github.com/zer0Kerbal/KeridianDynamics/pull/89) in [zer0Kerbal/KeridianDynamics](https://github.com/zer0Kerbal/KeridianDynamics)
 <!--END_SECTION:activity-->
 
 [![@zer0kerbal's Holopin board](https://holopin.io/api/user/board?user=zer0kerbal)](https://www.holopin.io/@zer0kerbal)
