@@ -256,15 +256,4 @@ _dakine!_
 _dakine!_
 🚀XVI
 _dakine!_
-_dakine!_
-_dakine!_
-_dakine!_
-_dakine!_
-_dakine!_
-_dakine!_
-_dakine!_
-_dakine!_
-_dakine!_
-_dakine!_
-_dakine!_
-_dakine!_
+🔱⚓🌎
