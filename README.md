@@ -273,13 +273,5 @@ _dakine!_
 🃏🐱‍👤+🚀XV
 🧤
 _dakine!_
-_dakine!_
-_dakine!_
-_dakine!_
-_dakine!_
-_dakine!_
-_dakine!_
-_dakine!_
-_dakine!_
-_dakine!_
-_dakine!_
+🦃
+🎩💰
